@@ -29,4 +29,5 @@ which is used in a number of courses at Memorial University.
 
 The main application is a web application implemented in [Node.js](http://nodejs.org/), which is being
 used in the Software Methodologies and Team Project courses.  The appliation should focus on interactions
-through a calendar interface and update dynamically.
+through a calendar interface and update dynamically. The [Express](http://expressjs.com/) framework is 
+used for handling the generic requirements of a web application, such as routing and templating.
