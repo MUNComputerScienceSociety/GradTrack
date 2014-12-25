@@ -96,6 +96,14 @@ departments = {
 }
 
 
+def first(ls, p):
+    'Returns the first item in a list for which a given predicate holds'
+    for elem in ls:
+        if p(elem):
+            return elem
+    return None  # No elements pass the predicate
+
+
 def initialize_database(dbfile):
     'Initialize a new sqlite database file to store course information in'
     db = sqlite.connect(dbfile)
@@ -138,8 +146,11 @@ def main():
         db = sqlite.connect(dbfile)
     soup = soupify(source)
     courses = soup.findAll('div', attrs={'class': 'course'})
-    store_course_information(db, courses)
-
+    for course in courses:
+        store_course_information(db, course)
+    db.commit()
+    db.close()
+    print('Finished.')
 
 if __name__ == '__main__':
     main()
