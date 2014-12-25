@@ -19,32 +19,38 @@ attendance_not_required = 'not required'
 queries = {
     # Department information
     'initialize departments table': '''create table if not exists departments(
+id integer primary key,
 name varchar(32),
 campus varchar(32)
 )''',
     # Course information
     'initialize courses table': '''create table if not exists courses(
+id integer primary key,
 title varchar(64),
 number integer,
 description text
 )''',
     # Relates courses to their prerequisite courses
     'initialize prerequisites table': '''create table if not exists prerequisites(
+id integer primary key,
 foreign key(course_id) references courses(id),
 foreign key(prerequisite_id) references courses(id)
 )''',
     # Relates courses to their corequisite courses
     'initialize corequisites table': '''create table if not exists corequisites(
+id integer primary key,
 foreign key(course_id) references courses(id),
 foreign key(corequisite_id) references courses(id)
 )''',
     # Relates courses to other courses that cannot also provide credit
     'initialize concurrent table': '''create table if not exists concurrent(
+id integer primary key,
 foreign key(course_id) references courses(id),
 foreign key(concurrent_id) references courses(id)
 )''',
     # Extra information about courses
     'initialize courseattributes table': '''create table if not exists courseattributes(
+id integer primary key,
 foreign key(course_id) references courses(id),
 attendance varchar(16),
 lecture_hours integer,
@@ -62,8 +68,10 @@ notes text
     # Add concurrent course restriction information
     'add concurrent': 'insert into concurrent(course_id, concurrent_id) values(?,?)',
     # Set attributes of a course
-    'add course attributes': 'insert into courseattributes(' +
-    'course_id, attendance, lecture_hours, lab_hours, notes) values(?,?,?,?,?)'
+    'set course attributes': 'insert into courseattributes(' +
+    'course_id, attendance, lecture_hours, lab_hours, notes) values(?,?,?,?,?)',
+    # Find a course by title and number
+    'find course': 'select * from courses where title=? and number=?'
 }
 
 
