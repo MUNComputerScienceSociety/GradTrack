@@ -96,14 +96,6 @@ departments = {
 }
 
 
-def first(ls, p):
-    'Returns the first item in a list for which a given predicate holds'
-    for elem in ls:
-        if p(elem):
-            return elem
-    return None  # No elements pass the predicate
-
-
 def initialize_database(dbfile):
     'Initialize a new sqlite database file to store course information in'
     db = sqlite.connect(dbfile)
@@ -119,11 +111,21 @@ def initialize_database(dbfile):
     db.commit()
     return db
 
-
 def store_course_information(db, soup):
     'Store information parsed about courses'
-    pass
-
+    courseNumber = int(soup.find('p', attrs={'class': 'courseNumber'}).contents[0].strip())
+    courseTitle = soup.find('p', attrs={'class': 'courseTitle'}).contents[0].strip()
+    courseDesc = soup.find('p', attrs={'class': 'courseDesc'}).contents[0].strip()
+    attrs = [s.contents[0].strip() for s in soup.findAll('p', attrs={'class': 'courseAttrs'})]
+    res = db.execute(queries['find course'], (courseTitle, courseNumber))
+    course = res.fetchone()
+    # Create the course if it doesn't already exist
+    if course is None or len(course) == 0:
+        db.execute(queries['create course'], (courseTitle, courseNumber, courseDesc))
+        # Get the ID of the newly created course
+        res = db.execute(queries['find course'], (courseTitle, courseNumber))
+        course_id = res.fetchone()[0]
+    
 
 def main():
     if len(sys.argv) != 5:
