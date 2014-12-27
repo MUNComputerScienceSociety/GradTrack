@@ -1,0 +1,1134 @@
+{
+    "BIOL": {
+        "SCI-0777": {
+            "courseDescription": "examines the origins and consequences of the environmental crisis of the 20th century. Topics include the population explosion, energy, material cycles, air and water and land pollution, global food supplies, the fisheries, wildlands, renewable and non-renewable resources, environmental ethics.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Biology and Human Society II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Biology", 
+            "courseNumber": "2041", 
+            "OR": "seminars"
+        }, 
+        "SCI-0774": {
+            "PR": "BIOL 1001 and 1002 ; Chemistry 1010 or 1050 (or the former Chemistry 1000)", 
+            "courseDescription": "is a study of the structure, function and reproductive biology of plants, with emphasis on the vascular plants, and on their relationship to environment and human activities.", 
+            "concurrent": [], 
+            "courseTitle": "Biology of Plants", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-0908", 
+                "SCI-0910"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "SCI-0775": {
+            "courseDescription": "examines various aspects of the human body, and the implications of modern biological research for human beings. Topics include cancer; diet and nutrition and associated diseases; circulatory disease, immunity, human genetics, biorhythms, new diseases, genetic engineering and reproductive engineering.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Biology and Human Society I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Biology", 
+            "courseNumber": "2040", 
+            "OR": "seminars"
+        }, 
+        "SCI-0772": {
+            "courseDescription": "is an introduction to the science of Biology, including a discussion of the unity, diversity and evolution of living organisms.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Biology", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "credit may be obtained for only 6 1000-level credit hours in Biology", 
+            "courseNumber": "1001"
+        }, 
+        "SCI-2740": {
+            "PR": "BIOL 2060 and 2250", 
+            "courseDescription": "(same as the former BIOL 4900) will include DNA extraction, DNA amplification by the Polymerase Chain Reaction (PCR), DNA cloning, DNA sequence analysis and Bioinformatics. Additional modules in gene expression and re-sequencing chip technologies may be included. Theory and methods will be introduced in a research framework.", 
+            "concurrent": [], 
+            "courseTitle": "Research Methods in Genetic Biotechnology", 
+            "LH": "Three hours of lecture and three hours of laboratory per week or a three week on-campus course that embodies equivalent instructor time", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0791"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 4900", 
+            "courseNumber": "3950"
+        }, 
+        "SCI-3677": {
+            "PR": "BIOL 2060 , 2600 and 2900 ; Statistics 2550 or equivalent. It is recommended that students complete BIOL 3295 .", 
+            "courseDescription": "is a study of the design and analysis of statistical and mathematical models for exploring the biology of cells, genes, species, populations, communities and ecosystems. Qualitative, quantitative and graphical techniques are used to analyze models and to compare theoretical predictions with empirical data. Classic models of systems biology, population growth, species competition, predator-prey interactions, ecosystem nutrient cycling, immunology, evolutionary invasion analysis, and species distribution will be covered.", 
+            "concurrent": [], 
+            "courseTitle": "Models in Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0793", 
+                "SCI-0795", 
+                "SCI-1452", 
+                "SCI-0807"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4607"
+        }, 
+        "SCI-0851": {
+            "PR": "BIOL 2250 and BIOL 3050", 
+            "courseDescription": "is a study of the structure and growth of microorganisms. Themes covered in this course include the structure, function and regulation of the microbial cellular machinery, the hierarchical regulation of cellular activities, and communication between cells. Quantitative experimental methodology relating to microbial physiology is studied in the laboratory.", 
+            "concurrent": [], 
+            "courseTitle": "Microbial Physiology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0791", 
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4404"
+        }, 
+        "SCI-3243": {
+            "PR": "BIOL 2060 or Biochemistry 2101 , and one Computer Science course at the 1000-level or above excluding Computer Science 1600 and Computer Science 2000 ; or Computer Science 2500 or Computer Science 2710 , and one Biology course at the 1000-level or above excluding BIOL 2040 and BIOL 2041 ; or permission of the course instructor", 
+            "courseDescription": "(same as Computer Science", 
+            "concurrent": [
+                "SCI-3245"
+            ], 
+            "courseTitle": "Introduction to Bioinformatics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0692", 
+                "SCI-1967", 
+                "SCI-2990", 
+                "SCI-2079", 
+                "SCI-1037", 
+                "SCI-0775", 
+                "SCI-0777"
+            ], 
+            "corequisites": [], 
+            "CR": "Computer Science 3550", 
+            "courseNumber": "3951"
+        }, 
+        "SCI-0832": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Bacterial Systematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "SCI-0779": {
+            "PR": "BIOL 1001 , 1002 and 2250 ; Chemistry 2440 or 2400", 
+            "courseDescription": "is a modern view of the biology of eukaryotic cells, organelles and molecules and their interactions in the functioning of living organisms.", 
+            "CO": "Physics 1021 or 1051 ; Biochemistry 2101", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Cell Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-0791", 
+                "SCI-0925", 
+                "SCI-0921"
+            ], 
+            "corequisites": [
+                "SCI-1577", 
+                "SCI-1815", 
+                "SCI-0692"
+            ], 
+            "CR": "the former BIOL 3060", 
+            "courseNumber": "2060"
+        }, 
+        "SCI-0795": {
+            "PR": "Statistics 2550 (or equivalent)", 
+            "courseDescription": "is an introduction to the processes and patterns of evolution, and the principles of classification. Natural selection and other microevolutionary processes, variation and adaptation, species and speciation, phylogenetic systematics, reconstruction of phylogeny, macro-evolutionary patterns in the fossil record and their interpretation.", 
+            "CO": "Statistics 2550 (or equivalent)", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Evolution and Systematics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1452"
+            ], 
+            "corequisites": [
+                "SCI-1452"
+            ], 
+            "CR": "the former BIOL 3900", 
+            "courseNumber": "2900"
+        }, 
+        "SCI-0797": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Boreal Flora", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3041"
+        }, 
+        "SCI-0791": {
+            "PR": "Chemistry 2440 or 2400", 
+            "courseDescription": "is an introduction to Mendelian and molecular genetics. Phenotype and genotype, behaviour of alleles in genetic crosses, chromosome theory of inheritance, genetic linkage, molecular biology of DNA, RNA and protein, molecular basis of mutation, recombinant DNA, applications of genetic biotechnology.", 
+            "CO": "Chemistry 2440 or 2400", 
+            "concurrent": [
+                "SCI-0691"
+            ], 
+            "courseTitle": "Principles of Genetics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0925", 
+                "SCI-0921"
+            ], 
+            "corequisites": [
+                "SCI-0925", 
+                "SCI-0921"
+            ], 
+            "CR": "Biochemistry 2100 the former BIOL 3250", 
+            "courseNumber": "2250"
+        }, 
+        "SCI-0793": {
+            "PR": "BIOL 1001 and 1002", 
+            "courseDescription": "is a conceptual course introducing the principles of ecology, including theoretical, functional and empirical approaches.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 3600", 
+            "courseNumber": "2600"
+        }, 
+        "SCI-3162": {
+            "PR": "BIOL 3050", 
+            "courseDescription": "examines the beneficial and harmful properties of microbes including topics on industrial microbiology and the discovery of new antimicrobial agents. The scope within the course ranges from the genetic manipulation of microbes for useful purposes to the isolation of bacteria for applications in various fields. Current issues concerning microbiology and society will also be discussed including the practical applications of microbes and bacterial diseases affecting society.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Topics in Microbiology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4050"
+        }, 
+        "SCI-0858": {
+            "PR": "Statistics 2550", 
+            "courseDescription": "(same as Statistics", 
+            "concurrent": [
+                "SCI-1476"
+            ], 
+            "courseTitle": "Quantitative Methods in Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Statistics 4581 and the former Statistics 4605", 
+            "courseNumber": "4605"
+        }, 
+        "SCI-0865": {
+            "PR": "Earth Sciences/BIOL 3811 , and one of Statistics 2550 , the former Statistics 2510 or Mathematics 2000", 
+            "courseDescription": "(same as Earth Sciences", 
+            "concurrent": [
+                "SCI-1219"
+            ], 
+            "courseTitle": "Advanced Palaeontology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1196", 
+                "SCI-1452", 
+                "SCI-1354"
+            ], 
+            "corequisites": [], 
+            "CR": "Earth Sciences 4800", 
+            "courseNumber": "4800"
+        }, 
+        "SCI-0799": {
+            "PR": "BIOL 1001 and 1002 ; Biochemistry 2101", 
+            "courseDescription": "is a course in which the basic principles underlying microbial life are studied. Aspects include structure, function, bioenergetics and growth with an emphasis on prokaryotes. Also studied are viruses, microbial diseases, introductory principles of immunology and the control of microorganisms. The laboratory sessions provide training in culture and determinative techniques using microorganisms.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Microbiology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3050"
+        }, 
+        "SCI-3568": {
+            "PR": "BIOL 2600 or equivalent", 
+            "courseDescription": "is a field course examination of seaweed biology and ecology with special study of living specimens in estuarine, fiordic and exposed coastal sites, demonstrating their physiological and ecological adaptations to cold-water habitats.", 
+            "concurrent": [], 
+            "courseTitle": "Biology and Ecology of Boreal and Arctic Seaweeds", 
+            "prerequisites": [
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 4014", 
+            "courseNumber": "3014", 
+            "OR": "this course is offered at the Bonne Bay Marine Station during the Summer semester with two weeks of instruction followed by a week to complete course requirements"
+        }, 
+        "SCI-0844": {
+            "PR": "BIOL 2060 and Biochemistry 2101", 
+            "courseDescription": "is an examination of the physical properties involved in defining diffusion, membrane properties, electrochemical potentials and the processes of bioenergetics within cells and organelles. Selected topics in biomechanics and the functioning of whole organisms with respect to size, shape, support, orientation, transport and motility.", 
+            "concurrent": [], 
+            "courseTitle": "Biophysics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4245"
+        }, 
+        "SCI-3656": {
+            "PR": "Admission to the Biology Major and successful completion of semester 4", 
+            "courseDescription": "follows the successful completion of Semester 4. Students are expected to learn, develop and practice the high standards of behaviour and performance normally expected in the work environment. (A detailed description of each job is normally posted during the job competition.)", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "199W"
+        }, 
+        "SCI-0845": {
+            "PR": "BIOL 2250 and 2900", 
+            "courseDescription": "has advanced topics in the study of micro and macro-evolutionary phenomena. Genetic variation in natural populations; theory of genetic drift, mutation, migration, inbreeding, and natural selection; neutral theory of molecular evolution, patterns of nucleotide substitution, heritability and quantitative genetics.", 
+            "concurrent": [], 
+            "courseTitle": "Evolutionary Genetics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0791", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4250"
+        }, 
+        "SCI-2443": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Insect Systematics and Ecology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "SCI-0871": {
+            "PR": "admission to the Honours Program", 
+            "courseDescription": "is available only to students in the Honours Program. Requirements for the Dissertation are outlined under", 
+            "concurrent": [], 
+            "courseTitle": "Honours Dissertation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499A and 499B"
+        }, 
+        "SCI-0855": {
+            "PR": "BIOL 3401 ; Biochemistry 3106", 
+            "courseDescription": "comprises an introduction to basic concepts concerned with how chemical messages are transmitted and received between cells to coordinate body functions. Hormonal control of adaptation, reproduction, metabolism, growth, digestion, and electrolyte homeostasis will be discussed. Although the endocrinology of invertebrates and lower vertebrates will be mentioned as appropriate, the main emphasis will be on mammalian and human endocrinology at the level of the whole organism.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Endocrinology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0809", 
+                "SCI-0704"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4550"
+        }, 
+        "SCI-3040": {
+            "PR": "BIOL 2600 and 2900", 
+            "courseDescription": "(same as the former BIOL 4600) examines the evolutionary history and ecology of the world&rsquo;s fishes, with particular emphasis on those of ecological, economical and cultural importance to Eastern Canada. Topics will include taxonomy, life histories, behaviour, zoogeography, evolutionary ecology, population biology, contemporary evolution, and conservation biology.", 
+            "concurrent": [], 
+            "courseTitle": "Ecology and Evolution of Fishes", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 4600", 
+            "courseNumber": "3715"
+        }, 
+        "SCI-0857": {
+            "PR": "BIOL 2060 , 2210 , and 3401", 
+            "courseDescription": "(same as Ocean Sciences", 
+            "concurrent": [
+                "SCI-3701"
+            ], 
+            "courseTitle": "Functional Biology of Fish", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0789", 
+                "SCI-0809"
+            ], 
+            "corequisites": [], 
+            "CR": "Ocean Sciences 4601", 
+            "courseNumber": "4601"
+        }, 
+        "SCI-0830": {
+            "PR": "either Earth Sciences 1002 and BIOL 2120 (or BIOL 1001 and 1002 ); or BIOL 2122 and 2210", 
+            "courseDescription": "(same as Earth Sciences", 
+            "concurrent": [
+                "SCI-1196"
+            ], 
+            "courseTitle": "Paleontology", 
+            "prerequisites": [
+                "SCI-1150", 
+                "SCI-0781", 
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-0787", 
+                "SCI-0789"
+            ], 
+            "corequisites": [], 
+            "CR": "Earth Sciences 3811 , the former BIOL 3800, and the former Earth Sciences 3801", 
+            "courseNumber": "3811"
+        }, 
+        "SCI-0833": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Phycology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4012"
+        }, 
+        "SCI-0818": {
+            "PR": "BIOL 2600 and 3050 ; Statistics 2550 or equivalent", 
+            "courseDescription": "(same as Ocean Sciences", 
+            "concurrent": [
+                "SCI-3699"
+            ], 
+            "courseTitle": "Aquatic Microbial Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0799", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Ocean Sciences 3620 and the former BIOL 3603", 
+            "courseNumber": "3620"
+        }, 
+        "SCI-0835": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Mycology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4040"
+        }, 
+        "SCI-2260": {
+            "PR": "BIOL 2600 and 18 credit hours in Biology, Statistics 2550 or equivalent, or permission from the course instructor", 
+            "courseDescription": "is an introduction to the theory and principles of landscape pattern and processes, including issues related to scale, networks, landform and vegetation patterns, species distributions, and natural and human-caused aspects of landscape change.", 
+            "CO": "Statistics 2550 or equivalent", 
+            "concurrent": [], 
+            "courseTitle": "Landscape Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-1452"
+            ], 
+            "corequisites": [
+                "SCI-1452"
+            ], 
+            "courseNumber": "4405"
+        }, 
+        "SCI-0837": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Nematology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4141"
+        }, 
+        "SCI-0850": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Electron Microscopy in Life Sciences", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4402"
+        }, 
+        "SCI-0813": {
+            "PR": "BIOL 2060 and 2210", 
+            "courseDescription": "is a study of microstructure and ultrastructure of tissues and organ systems in vertebrates, particularly mammals, with emphasis on correlating structure and function.", 
+            "concurrent": [], 
+            "courseTitle": "Histology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0789"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "SCI-0859": {
+            "PR": "BIOL 2210 and 2600", 
+            "courseDescription": "examines structure, classification, evolution, ecology and behaviour of birds, with particular reference to those of economic importance. Identification of the birds of Eastern Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Ornithology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0789", 
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4620"
+        }, 
+        "SCI-0811": {
+            "PR": "Biochemistry 3106", 
+            "courseDescription": "is a consideration of the principles of plant physiology, including water relations, nutrition, metabolism, growth and development.", 
+            "CO": "Biochemistry 3106", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Plant Physiology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0704"
+            ], 
+            "corequisites": [
+                "SCI-0704"
+            ], 
+            "CR": "the former BIOL 4403", 
+            "courseNumber": "3402"
+        }, 
+        "SCI-0816": {
+            "PR": "BIOL 2010 , 2250 , 2600 and 2900 ; Statistics 2550 or equivalent", 
+            "courseDescription": "is a study of the principal features of terrestrial ecosystems, with emphasis on the boreal region. This course may be offered in a usual 13 week semester or as a two-week field course.", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two week field course that embodies equivalent instructional time", 
+            "concurrent": [
+                "SWGC-0823"
+            ], 
+            "courseTitle": "Boreal Ecology", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two week field course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0774", 
+                "SCI-0791", 
+                "SCI-0793", 
+                "SCI-0795", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Environmental Science 3131", 
+            "courseNumber": "3610"
+        }, 
+        "SCI-0815": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Histotechnique", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3540"
+        }, 
+        "SCI-0814": {
+            "PR": "BIOL 2060 and BIOL 2250 or Biochemistry 2100", 
+            "courseDescription": "is a study of developmental model systems with a focus on the underlying principles and molecular mechanisms involved in embryogenesis, organogenesis, morphogenesis, cellular differentiation, growth and regeneration in animals (vertebrates and invertebrates) and plants. Current cellular and molecular biology techniques and the implications of developmental biology in modern biological and health research will be emphasized.", 
+            "concurrent": [], 
+            "courseTitle": "Molecular and Developmental Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0791", 
+                "SCI-0691"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3530"
+        }, 
+        "SCI-0842": {
+            "PR": "BIOL 2060 and BIOL 3050", 
+            "courseDescription": "is an introduction to the cells and organs of the innate and adaptive immune systems. The molecular and cellular basis of allergy, autoimmunity, vaccination and cancer immunology will also be discussed.", 
+            "concurrent": [
+                "SCI-0720", 
+                "PHAR-0277"
+            ], 
+            "courseTitle": "Immunology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "CR": "Biochemistry 4105 , Pharmacy 3006 , and the former Pharmacy 4105", 
+            "courseNumber": "4200"
+        }, 
+        "SCI-0867": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Field Course in Terrestrial Biology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4820"
+        }, 
+        "SCI-3039": {
+            "PR": "BIOL 2600 , BIOL 2900 or permission of the instructor", 
+            "courseDescription": "examines the evolution of biosphere, global role of photosynthesis in oxygen and carbon dioxide balance, glacial-interglacial oscillations, carbon sources and sinks in modern biosphere, greenhouse gases emissions, population dynamics, origin and global impact of agriculture, global changes in Holocene and Anthropocene.", 
+            "concurrent": [], 
+            "courseTitle": "Global Change Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4307"
+        }, 
+        "SCI-0864": {
+            "PR": "BIOL 2600", 
+            "courseDescription": "is the application of ecological principles to the problem of managing exploited fish populations. Laboratory exercises will be based on a simulation approach to fisheries problems using computer and animal models.", 
+            "concurrent": [], 
+            "courseTitle": "Fisheries Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4750"
+        }, 
+        "SCI-2567": {
+            "PR": "BIOL 1001", 
+            "courseDescription": "is an introduction to the science of Biology, including a discussion of the unity, diversity and evolution of living organisms.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Biology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772"
+            ], 
+            "corequisites": [], 
+            "UL": "credit may be obtained for only 6 1000-level credit hours in Biology", 
+            "courseNumber": "1002"
+        }, 
+        "SCI-0849": {
+            "PR": "BIOL 2250 , 2600 and 2900 and one of BIOL 2010 , 2122 or 2210 ; Statistics 2550 or equivalent", 
+            "courseDescription": "is a study of the basic principles, patterns and processes of ecological communities and ecosystems.", 
+            "concurrent": [], 
+            "courseTitle": "Community and Ecosystem Ecology", 
+            "prerequisites": [
+                "SCI-0791", 
+                "SCI-0793", 
+                "SCI-0795", 
+                "SCI-0774", 
+                "SCI-0787", 
+                "SCI-0789", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4360", 
+            "OR": "a seminar/discussion group each week"
+        }, 
+        "SCI-2748": {
+            "PR": "BIOL 2900 , 3295 and 4650", 
+            "courseDescription": "examines issues relevant to global conservation science. Topics will be covered through a series of modules, including conservation genetics, costs and consequences of small populations, effects of anthropogenic activity on biodiversity, spatial dynamics, and the interface between science and society.", 
+            "concurrent": [], 
+            "courseTitle": "Conservation Biology II: Conservation in Practice", 
+            "prerequisites": [
+                "SCI-0795", 
+                "SCI-0807", 
+                "SCI-0861"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4651"
+        }, 
+        "SCI-2248": {
+            "PR": "BIOL 2600 . It is recommended that students have completed BIOL 2900 .", 
+            "courseDescription": "is a study of the classification and ecology of insects within an evolutionary framework. Topics will include molecular biological and classical morphological issues surrounding insect taxonomy, evolutionary based higher systematics, and the ecological roles of insects in a variety of ecosystems.", 
+            "concurrent": [
+                "SCI-2443"
+            ], 
+            "courseTitle": "Introductory Entomology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "CR": "BIOL 4150 and the former BIOL 4140", 
+            "courseNumber": "3300"
+        }, 
+        "SCI-3660": {
+            "PR": "admission to the Biology Major and successful completion of semester 6", 
+            "courseDescription": "follows the successful completion of Semester 6. Students are expected to further develop and expand their knowledge and work-related skills and should be able to accept increased responsibility and challenge. In addition, students are expected to demonstrate an ability to deal with increasingly complex work-related concepts and problems. The work report, as a minimum requirement should", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "299W"
+        }, 
+        "SCI-0861": {
+            "PR": "30 credit hours in either Biology or Geography", 
+            "courseDescription": "(same as Geography", 
+            "concurrent": [
+                "SWGC-0826", 
+                "ARTS-6202"
+            ], 
+            "courseTitle": "Conservation Biology I: Conservation in Biology and Geography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Environmental Science 4133 , Geography 4650", 
+            "courseNumber": "4650", 
+            "OR": "3 hours of seminar/discussion group each week"
+        }, 
+        "SCI-3665": {
+            "PR": "admission to the Biology Major and successful completion of semester 7 or Work Term II", 
+            "courseDescription": "follows the successful completion of semester 7 or Work Term II. Students should have sufficient academic grounding and work experience to contribute in a positive manner to the problem-solving and management processes needed and practiced in the work environment. Students should become better acquainted with their discipline of study, should observe and appreciate the attitudes, responsibilities, and ethics normally expected of professionals and should exercise greater independence and responsibility in their assigned work functions.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }, 
+        "SCI-0781": {
+            "PR": "Earth Science major; Earth Sciences 1001 or 1002 or permission of the Head of Department.", 
+            "courseDescription": "is an introduction of the principles of Biology for students in Earth Sciences. Topics will include principles of classification, levels of biological organization, fundamental characteristics of living organisms and basic concepts in ecology.", 
+            "concurrent": [
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "courseTitle": "Biology for Students of Earth Sciences", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1149", 
+                "SCI-1150"
+            ], 
+            "corequisites": [], 
+            "CR": "BIOL 1001 or 1002", 
+            "UL": "may not be used for credit by Biology Majors or Minors", 
+            "courseNumber": "2120"
+        }, 
+        "SCI-0827": {
+            "PR": "BIOL 2600", 
+            "courseDescription": "examines community structure, function and distribution of northern coastal fishes in fjords and estuarine environments. Emphasis on sampling, field techniques, taxonomy, quantitative characterization, adaptations and habitat relationships. A comparative approach will contrast fish communities from other areas. To be held as a two week field course.", 
+            "concurrent": [], 
+            "courseTitle": "Estuarine Fish Ecology Field Course", 
+            "prerequisites": [
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3714"
+        }, 
+        "SCI-2267": {
+            "PR": "BIOL 2060 , 2250", 
+            "courseDescription": "will have lecture, seminar, and laboratory components. Topics covered will include Technical Foundations of Genomics, Global Gene Expression Profiling, Bioinformatics, Comparative Genomics, Microbial Genomics, Genomics and Medicine, Genomics and Agriculture, Environmental Genomics, and Ethical Issues of Genomics. Each topic will involve a lecture component, in which theory and methods will be taught using the textbook and journal articles. Some lecture and lab times will be devoted to seminars on methods and papers related to lecture or laboratory components of the course. In the lab component, students will have the opportunity to use state-of-the-art genomic techniques to address a research question.", 
+            "concurrent": [], 
+            "courseTitle": "Genomics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0791"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4251", 
+            "OR": "seminar"
+        }, 
+        "SCI-3051": {
+            "PR": "BIOL 2900 and 3050", 
+            "courseDescription": "will examine topics about viruses infecting all forms of life including humans and other animals, plants and bacteria. The scope within the course ranges from the molecular biology of virus replication to virus evolution and ecology. Current issues concerning viruses and society are incorporated into the course including the practical applications of viruses, vaccines, and emerging viruses.", 
+            "concurrent": [], 
+            "courseTitle": "Virology", 
+            "LH": "Three hours of laboratory/seminar/discussion per week", 
+            "prerequisites": [
+                "SCI-0795", 
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "SCI-0870": {
+            "courseDescription": "will be given for senior undergraduates and will be in a two-week format which will involve equivalent instruction time as a course on campus. These courses will cover a range of topics in specialized fields in Biology and may be offered at the Bonne Bay Field Station, at the Harlow campus or elsewhere as appropriate. They may be taught by visiting specialists when available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Biology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4910-4920"
+        }, 
+        "SCI-0841": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Fisheries and Wildlife Parasitology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4182"
+        }, 
+        "SCI-0789": {
+            "PR": "BIOL 1001 and 1002", 
+            "courseDescription": "is a study of the vertebrates, with emphasis on structure and function, adaptations and life histories.", 
+            "concurrent": [], 
+            "courseTitle": "Biology of Vertebrates", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 3210", 
+            "courseNumber": "2210"
+        }, 
+        "SCI-3547": {
+            "PR": "BIOL 3951 or Computer Science 3550 , and Statistics 2550 (or equivalent), or permission of the course instructor", 
+            "courseDescription": "(same as Computer Science", 
+            "concurrent": [
+                "SCI-3548"
+            ], 
+            "courseTitle": "Bioinformatics: Biological Data Analysis", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-3243", 
+                "SCI-3245", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Computer Science 4550", 
+            "courseNumber": "4606"
+        }, 
+        "SCI-0787": {
+            "PR": "BIOL 1001 and 1002", 
+            "courseDescription": "is a study of the invertebrates with emphasis on structure and function, adaptations and life histories. The laboratories will present a broad survey of the major invertebrate groups.", 
+            "concurrent": [], 
+            "courseTitle": "Biology of Invertebrates", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 3122", 
+            "courseNumber": "2122"
+        }, 
+        "SCI-0868": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Internship in Biology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4822"
+        }, 
+        "SCI-0821": {
+            "PR": "BIOL 2122 and 2600", 
+            "courseDescription": "is an introductory course in biotic and abiotic factors controlling marine biomass and primary production, emphasizing plankton and fishes. It introduces students to major groups of marine phytoplankton, zooplankton, and fishes, emphasizing how the physical, chemical, and geological environments interact with biology to define processes and pattern in marine organisms.", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "concurrent": [], 
+            "courseTitle": "Biological Oceanography", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3710"
+        }, 
+        "SCI-0862": {
+            "PR": "BIOL 3750 or Psychology 3750", 
+            "courseDescription": "(same as Psychology", 
+            "concurrent": [
+                "SCI-1792"
+            ], 
+            "courseTitle": "Animal Behaviour II", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0828", 
+                "SCI-1771"
+            ], 
+            "corequisites": [], 
+            "CR": "Psychology 4701", 
+            "courseNumber": "4701"
+        }, 
+        "SCI-0863": {
+            "PR": "BIOL 2600", 
+            "courseDescription": "is a two-week field course examines the ecology of cold ocean environments, focussing on energy flux through marine pelagic and benthic flora and fauna of Newfoundland waters, and how the dynamics of this environment influence linkages among organisms in different habitats. The course will be field intensive with some lecture component and a strong hands-on field component. Students will identify local organisms and study how and why they vary in time and space. This course will be offered during two weeks of the Spring semester.", 
+            "concurrent": [], 
+            "courseTitle": "Experimental Marine Ecology of Newfoundland Waters", 
+            "prerequisites": [
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4710"
+        }, 
+        "SCI-0860": {
+            "PR": "BIOL 2210 and 2600", 
+            "courseDescription": "examines evolution, systematics, life histories and distribution of mammals, with particular emphasis on eastern North American forms.", 
+            "concurrent": [], 
+            "courseTitle": "Mammalogy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0789", 
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4630"
+        }, 
+        "SCI-0825": {
+            "PR": "Biology 2122 , 2600 and 3710", 
+            "courseDescription": "examines the biology of the aquatic benthos (bottom-dwelling organisms); their origins, adaptations, life histories and ecological roles. This course may be offered in a usual 13 week semester or as a two-week field course.", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "concurrent": [], 
+            "courseTitle": "Benthic Biology", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0793", 
+                "SCI-0821"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Biology 3630", 
+            "courseNumber": "3712"
+        }, 
+        "SCI-0866": {
+            "PR": "BIOL 3710 and any two of BIOL 2010 , 2122 or 2210 and permission of the Head of the Department. It is strongly recommended that students take BIOL 3709 before 4810.", 
+            "courseDescription": "will consist of an intensive two-week field school designed to acquaint students with marine field research, experimental design, methodology and data analysis. Emphasis will be placed on individual projects. Projects must be designed and approved prior to the commencement of the course and will involve a written report. At the discretion of the Head of Department, another recognized field course may be substituted for BIOL 4810.", 
+            "concurrent": [], 
+            "courseTitle": "Research Field Course in Marine Biology", 
+            "prerequisites": [
+                "SCI-0821", 
+                "SCI-0774", 
+                "SCI-0787", 
+                "SCI-0789", 
+                "SCI-0820"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4810"
+        }, 
+        "SCI-0852": {
+            "PR": "BIOL 2250 , 2600 , 2900 and one of BIOL 2010 , 2122 or 2210", 
+            "courseDescription": "is a study of the geographical distributions of plants and animals with particular reference to temporal and spatial variability and to theories advanced to explain historical and recent distribution patterns.", 
+            "concurrent": [], 
+            "courseTitle": "Systematics and Biogeography", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0791", 
+                "SCI-0793", 
+                "SCI-0795", 
+                "SCI-0774", 
+                "SCI-0787", 
+                "SCI-0789"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Geography 4170", 
+            "courseNumber": "4505"
+        }, 
+        "SCI-2739": {
+            "PR": "BIOL 2060 , 2250 ; Biochemistry 3106", 
+            "courseDescription": "is the study of the proteome, the complete set of proteins produced by a species, using the technologies of large-scale protein separation and identification. Proteomics describes how proteins are modified, when and where they are expressed, how they are involved in metabolic pathways and how they interact with one another. Topics covered will include Technical Foundations of Proteomics, Global Functional Protein Expression Profiling, Experimental Bioinformatics, Comparative Proteomics, Posttranslational Modification-Specific Proteomics, Proteomics in Medicine, Agriculture, Environmental Proteomics and Proteomics for Quality and Safety of Food.", 
+            "concurrent": [], 
+            "courseTitle": "Proteomics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0791", 
+                "SCI-0704"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4255"
+        }, 
+        "SCI-0823": {
+            "PR": "BIOL 2122 , BIOL 2600", 
+            "courseDescription": "is an introductory course in biology of the oceans. Introduces students to marine habitats and the organisms that inhabit them, emphasizing functional morphology, physiology, biodiversity, phylogeny, and ecology. Also includes introduction to marine biogeography, conservation, fisheries and pollution.", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Marine Biology", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two-week field course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3711"
+        }, 
+        "SCI-3048": {
+            "PR": "BIOL 2060 and 2210 ; Biochemistry 3106", 
+            "courseDescription": "covers physiological adaptations of animals facilitating their survival in natural environments with emphasis on physiological and biochemical responses of animals to extreme environments. Starting with the fundamental basis of physiological mechanisms, the course explores various aspects and the integration of major physiological processes (metabolism, respiration, osmoregulation) and how these relate to ecological niche.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Physiology of Animals", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0789", 
+                "SCI-0704"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 3403 or the former BIOL 4455", 
+            "UL": "may not be used to fulfill the physiology course requirement for a Biology major, honours or joint honours program.", 
+            "courseNumber": "3640"
+        }, 
+        "SCI-0809": {
+            "PR": "Biochemistry 3106", 
+            "courseDescription": "is a comparative study of the basic physiological processes, with special attention paid to those strategies invoked by animals which enable them to adapt to environmental changes.", 
+            "CO": "Biochemistry 3106", 
+            "concurrent": [], 
+            "courseTitle": "Comparative Animal Physiology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0704"
+            ], 
+            "corequisites": [
+                "SCI-0704"
+            ], 
+            "CR": "the former BIOL 4401", 
+            "courseNumber": "3401"
+        }, 
+        "SCI-0846": {
+            "PR": "a minimum of 90 credit hours including a minimum of 9 credit hours from any of BIOL 2010 , 2122 , 2210 , 2600 and including a minimum of 6 credit hours in Biology at the 3000 level or above, plus the permission of the Instructor", 
+            "courseDescription": "is a consideration of the development of biological concepts as interactions between observations, philosophical systems and cultural environment. This course will normally require students to make verbal presentations to the class, participate in discussions and submit written papers.", 
+            "concurrent": [], 
+            "courseTitle": "History of Biology", 
+            "prerequisites": [
+                "SCI-0774", 
+                "SCI-0787", 
+                "SCI-0789", 
+                "SCI-0793"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4270", 
+            "OR": "3 hour seminar per week"
+        }, 
+        "SCI-0847": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Biology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4306"
+        }, 
+        "SCI-0840": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "General Parasitology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4180"
+        }, 
+        "SCI-1975": {
+            "PR": "BIOL 2122 , 2600 and 2900", 
+            "courseDescription": "(same as Ocean Sciences", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two-week intensive course that embodies equivalent instructional time", 
+            "concurrent": [
+                "SCI-3700"
+            ], 
+            "courseTitle": "Advanced Studies in Marine Animal Diversity", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two-week intensive course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0793", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "CR": "Ocean Sciences 4122", 
+            "courseNumber": "4122"
+        }, 
+        "SCI-0828": {
+            "PR": "BIOL 1001 and 1002 ; Statistics 2550 or equivalent", 
+            "courseDescription": "(same as Psychology", 
+            "concurrent": [
+                "SCI-1771"
+            ], 
+            "courseTitle": "Animal Behaviour I", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Psychology 3750", 
+            "courseNumber": "3750"
+        }, 
+        "SCI-0843": {
+            "PR": "BIOL 2250 and Biochemistry 2101", 
+            "courseDescription": "has advanced topics in modern genetic analysis, including regulation of gene expression, developmental genetics, molecular basis of inherited disease, genomics, immuni-genetics, behavioural genetics, and molecular evolution.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Genetics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0791", 
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4241"
+        }, 
+        "SCI-0800": {
+            "PR": "BIOL 3050", 
+            "courseDescription": "(same as Biochemistry", 
+            "LC": "three hours per week", 
+            "concurrent": [
+                "SCI-0700"
+            ], 
+            "courseTitle": "Food Microbiology", 
+            "LH": "three hours per week", 
+            "prerequisites": [
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "CR": "Biochemistry 3052 and the former Biochemistry 3054, Biochemistry 3401", 
+            "courseNumber": "3052"
+        }, 
+        "SCI-0801": {
+            "PR": "students admitted to the Bachelor of Nursing (Collaborative) program", 
+            "courseDescription": "examines the fundamentals of microbiology with an emphasis on medical microbiology. The course will include topics such as: host responses to infections, human diseases caused by microorganisms, and the control and exploitation of microorganisms.", 
+            "concurrent": [], 
+            "courseTitle": "Microbiology for Nurses", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Biology, nor is it acceptable for any of the joint programs between Biology and other disciplines", 
+            "courseNumber": "3053"
+        }, 
+        "SCI-0803": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Insect Morphology and Physiology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3160"
+        }, 
+        "SCI-0854": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Distribution Patterns in the Sea", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4510"
+        }, 
+        "SCI-0805": {
+            "PR": "BIOL 1001 and 1002", 
+            "courseDescription": "examines the phylogenetic development and comparative anatomy of the vertebrates.", 
+            "concurrent": [], 
+            "courseTitle": "Comparative Vertebrate Anatomy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 3200 or the former BIOL 3201", 
+            "courseNumber": "3202"
+        }, 
+        "SCI-0820": {
+            "PR": "BIOL 2600 ; Statistics 2550 or equivalent and permission of the Head of Department", 
+            "courseDescription": "begins with a two-week field school immediately prior to the beginning of the Fall Semester. In the Fall Semester there are follow-up lectures, readings and submission of reports. The course is designed to introduce the principal marine environments, organisms and techniques. It is strongly recommended that this course be taken before either BIOL", 
+            "concurrent": [], 
+            "courseTitle": "Field Course in Marine Principles and Techniques", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3709"
+        }, 
+        "SCI-0807": {
+            "PR": "BIOL 2600 ; at least one of BIOL 2010 , 2122 or 2210", 
+            "courseDescription": "is an introduction to the theory and principles of evolutionary ecology and population dynamics.", 
+            "concurrent": [], 
+            "courseTitle": "Population and Evolutionary Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0774", 
+                "SCI-0787", 
+                "SCI-0789"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOL 4290", 
+            "courseNumber": "3295"
+        }
+    }
+}

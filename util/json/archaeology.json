@@ -1,0 +1,716 @@
+{
+    "ARCH": {
+        "ARTS-5613": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "focuses on the history and archaeology of North American colonization and covers the period of European exploration and settlement from approximately 1500 to 1700. A diverse range of topics will be discussed including: contracts and interaction with native peoples; early colonies and seasonal outposts; established settlements; war, trade and economics; the material record; the built landscape; daily life in colonial society and maritime archaeology.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology of Colonial North America", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 3862, or the former Anthropology 3682", 
+            "courseNumber": "3651"
+        }, 
+        "ARTS-7504": {
+            "courseDescription": "will explore the sensationalized and &lsquo;unreal&rsquo; side of archaeology and delve deeper into popular misconceptions of the past. From unraveling the mysteries of Big Foot to evaluating the evidence for alien life on Earth, students will learn how scientific methodology is used to determine facts from myths in archaeology.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeological Frauds and Mysteries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ARCH 2491", 
+            "UL": "may not be used for credit toward a major or minor in Archaeology", 
+            "courseNumber": "2495"
+        }, 
+        "ARTS-5623": {
+            "PR": "one of ARCH 2430 , ARCH 2450 or ARCH 2480", 
+            "courseDescription": "is a rapidly developing, multidisciplinary subfield of archaeology concerned with unraveling aspects of human behaviour and adaptation from ancient biomolecules preserved in artifacts and biological remains. Through lectures, directed readings and seminars this course aims to review and critically assess the many facets of biomolecular archaeology, including how biological and (geo)chemical methods can be used to address questions of diet, migration and ancestry in the past.", 
+            "concurrent": [], 
+            "courseTitle": "Biomolecular Archaeology", 
+            "prerequisites": [
+                "ARTS-5581", 
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4043"
+        }, 
+        "ARTS-5633": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "explores the possibility of a more encompassing archaeology of embodied experience, starting from archaeological work on gender and recent reconceptualizations of the body in social, cultural and feminist theory. Topics to be discussed include the notion of bodily practice, biopolitics, sexuality, hybridity, violence, identity, sensory experience, disability and aging.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology of the Body", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 4191 or the former Anthropology 4191", 
+            "courseNumber": "4173"
+        }, 
+        "ARTS-5593": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "is a seminar and reading course on the culture history of Newfoundland and Labrador from about 9,000 years ago until the time of European settlement. Particular attention will be paid to the interactions among the several ethnic and cultural groups upon whose history this course focuses.", 
+            "concurrent": [], 
+            "courseTitle": "Newfoundland and Labrador Prehistory", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3290"
+        }, 
+        "ARTS-5592": {
+            "PR": "ARCH 2430", 
+            "courseDescription": "reflects genetic, environmental and cultural influence. This course, emphasizing identification of individual bones in the skeleton, techniques for obtaining size and shape differences in individual bones and the entire skeleton, estimation of group numbers and death rates, and diagnosis of disease and other abnormal conditions, provides a means of assessing all of these influences on past human populations.", 
+            "concurrent": [], 
+            "courseTitle": "The Human Skeleton", 
+            "prerequisites": [
+                "ARTS-5581"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3040"
+        }, 
+        "ARTS-5591": {
+            "PR": "ARCH 2430", 
+            "courseDescription": "discusses how humans have long considered themselves unique. Through readings, discussions and presentations this seminar will explore exactly how distinctive humans are in their biological, behavioural, and intellectual traits and whether there is, in fact, something which sets us apart from all other creatures.", 
+            "concurrent": [], 
+            "courseTitle": "What is Human?", 
+            "prerequisites": [
+                "ARTS-5581"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3020"
+        }, 
+        "ARTS-5590": {
+            "PR": "it is recommended but not obligatory, that students should have successfully completed one of the following courses: ARCH 2480 , the former ARCH 2582, Folklore 1000 or the former 2000, History 2320 , Medieval Studies 2001 , History 2330 /Medieval Studies 2002 , or Medieval Studies 2000 .", 
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6519", 
+                "ARTS-6328", 
+                "ARTS-6021"
+            ], 
+            "courseTitle": "Art, Architecture and Medieval Life", 
+            "prerequisites": [
+                "ARTS-5583", 
+                "ARTS-6011", 
+                "ARTS-6311", 
+                "ARTS-6516", 
+                "ARTS-6312", 
+                "ARTS-6517", 
+                "ARTS-6515"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 3589, Anthropology 3589, Medieval Studies 3001 , History 3020 , Folklore 3001", 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-5597": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "is a survey of cultural development in the Americas from the entry of humans until the time of European contact. Topics include: the earliest human migrations and the dispersal of human groups throughout the New World; the development of complex hunting-gathering societies; the origins of agriculture and sedentism.", 
+            "concurrent": [], 
+            "courseTitle": "Prehistory of the New World", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3510"
+        }, 
+        "ARTS-5596": {
+            "PR": "ARCH 3500", 
+            "courseDescription": "is a survey of the more recent stages of human cultural evolution in the Old World. Topics include: complex behaviour of modern-type hunter-gatherers of the last ice age; the domestication of plants and animals in early farming communities.", 
+            "concurrent": [], 
+            "courseTitle": "Prehistory of Africa, Asia and Europe II", 
+            "prerequisites": [
+                "ARTS-5595"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3505"
+        }, 
+        "ARTS-5595": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "examines the early stages of cultural evolution in the Old World. Topics include: earliest human origins in Africa; the dispersal of humans throughout the Old World: the appearance of modern-type humans during the last ice age.", 
+            "concurrent": [], 
+            "courseTitle": "Prehistory of Africa, Asia and Europe I", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-5594": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "explores cultural developments in the area which today includes the Maritime Provinces and northern Maine, from the entry of humans into the region until the time of European contact. Emphasis is placed on cultural adaptations to a changing regional environment and the evidence for intercultural contact.", 
+            "concurrent": [], 
+            "courseTitle": "Maritime Provinces Prehistory", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3291"
+        }, 
+        "ARTS-5610": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "explores the influence of the Vikings on the medieval world and the place of L'Anse aux Meadows within this cultural milieu. Students will be introduced to Viking-Age archaeological and literary texts to gain knowledge of specific questions and problems concerning multicultural contact within the Viking-Age world, specifically the North Atlantic region. They will also gain an appreciation of the challenges associated with using interdisciplinary evidence as well as migration and multicultural issues in the past and present.", 
+            "concurrent": [], 
+            "courseTitle": "Norse Archaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 3685", 
+            "courseNumber": "3592"
+        }, 
+        "ARTS-5611": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "examines emerging archaeological and bioarchaeological research on children and childhood. Topics include play, learning work, embodiment, identity, death, narrative approaches to children&rsquo;s lives, and the paleoanthropology of childhood.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology of Children", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 3684", 
+            "courseNumber": "3593"
+        }, 
+        "ARTS-5599": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal History to 1763", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3520"
+        }, 
+        "ARTS-5598": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "(same as the former History 3515) discusses the Spanish explorers arriving in Mesoamerica i.e. Mexico and Guatemala of today, and how they discovered rich and complex civilizations that had developed independently of European or Asian influence. This course traces the development of Mesoamerican civilizations from their known origins to the point at which growth was terminated by Spanish intervention.", 
+            "concurrent": [], 
+            "courseTitle": "Prehistory of Mesoamerica", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "the former History 3515", 
+            "courseNumber": "3515"
+        }, 
+        "ARTS-5614": {
+            "PR": "ARCH 2480 or equivalent", 
+            "courseDescription": "will include the consideration of current developments in methods, techniques and theory as applied to selected areas of the world.", 
+            "concurrent": [], 
+            "courseTitle": "Studies in Archaeology and Prehistory", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3680-3689"
+        }, 
+        "ARTS-5615": {
+            "PR": "ARCH 2480 or the former ARCH 2582", 
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6046"
+            ], 
+            "courseTitle": "Museums and Historic Sites", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "Folklore 3700", 
+            "courseNumber": "3710"
+        }, 
+        "ARTS-5616": {
+            "PR": "ARCH 2480 or the former ARCH 2582", 
+            "courseDescription": "is a broad overview of archaeological research conducted at sites associated with human conflict spanning from ancient Greece to World War II. Weekly lectures will provide students with a solid background on the various means by which archaeologists study and excavate sites relating to war, conflict and subjugation. A broad range of topics will be covered including remote sensing and field survey techniques, the changing technology and tactics of war, battlefield sites, POW camps, sunken naval vessels, aviation sites, fortifications and frontier outposts.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology of Warfare", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3750"
+        }, 
+        "ARTS-5617": {
+            "courseDescription": "- inactive.", 
+            "concurrent": [], 
+            "courseTitle": "Fieldwork in Vernacular Architecture: Drawings and Photography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-5632": {
+            "PR": "ARCH 2480 or the former ARCH 2582", 
+            "courseDescription": "critically explores the history and contemporary practice of archaeology in light of the political claims of (formerly) subjugated groups. Topics to be discussed include archaeological antecedents of a postcolonial perspective (postprocessualism, critical archaeology), political economy of archaeology, interests of indigenous and other descendant groups, repatriation, national and transnational archaeologies, and community archaeology.", 
+            "concurrent": [], 
+            "courseTitle": "Postcolonial Archaeology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 4192 or the former Anthropology 4192", 
+            "courseNumber": "4172"
+        }, 
+        "ARTS-5620": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6054"
+            ], 
+            "courseTitle": "Newfoundland Vernacular Furniture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 3900", 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-5622": {
+            "PR": "ARCH 2430 and ARCH 3040", 
+            "courseDescription": "looks at disease, diet, genetics, accidents and maternal health factors as contributors to variations in the human skeleton. In this lecture and laboratory course these factors are diagnosed from bones, and aspects of the culture, health, economy and environment of the skeletal individuals are examined.", 
+            "concurrent": [], 
+            "courseTitle": "Palaeopathology", 
+            "prerequisites": [
+                "ARTS-5581", 
+                "ARTS-5592"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4041"
+        }, 
+        "ARTS-5636": {
+            "PR": "ARCH 2480 and ARCH 4182", 
+            "courseDescription": "is a seminar course focusing on recent theoretical and methodological developments in archaeological research.", 
+            "concurrent": [], 
+            "courseTitle": "Theory and Method in Archaeology and Prehistory", 
+            "prerequisites": [
+                "ARTS-5583", 
+                "ARTS-5634"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4411"
+        }, 
+        "ARTS-5637": {
+            "PR": "ARCH 2480 , the former 2582, or permission of instructor", 
+            "courseDescription": "is a consideration of current developments in methods, techniques, and theory in Historical Archaeology.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topic in Historical Archaeology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "ARTS-5634": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "is an intensive study of the emergence and maturation of archaeology as a discipline within the social sciences, particularly in Western Europe and North America, during the 19th and 20th centuries.", 
+            "concurrent": [], 
+            "courseTitle": "History of Archaeology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4182"
+        }, 
+        "ARTS-5635": {
+            "PR": "one of ARCH 2450 , 2480 , or the former ARCH 2582", 
+            "courseDescription": "is a seminar course focusing on recent theoretical and methodological developments in archaeological research.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Archaeology and Prehistory", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4190-4199"
+        }, 
+        "ARTS-5625": {
+            "PR": "6 credit hours in Physical Geography or in Archaeology at the 3000-level, or permission of the instructor", 
+            "courseDescription": "(same as Earth Sciences", 
+            "concurrent": [
+                "SCI-3683", 
+                "ARTS-6189"
+            ], 
+            "courseTitle": "Environmental Change and Quaternary Geography", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Earth Sciences 4703 , Geography 4150", 
+            "courseNumber": "4150"
+        }, 
+        "ARTS-5638": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "is a directed reading course and is a prerequisite for the Honours Essay in Archaeology (ARCH", 
+            "concurrent": [], 
+            "courseTitle": "Past Material - Advanced Research and Writing", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4994"
+        }, 
+        "ARTS-5639": {
+            "PR": "ARCH 4994", 
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [
+                "ARTS-5638"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4995"
+        }, 
+        "ARTS-5624": {
+            "PR": "ARCH 2430 and ARCH 2450", 
+            "courseDescription": "includes directed reading, seminars and lab analysis of various skeletal collections. Topics to be covered may include primate behaviour, forensic anthropology, stable and radiogenic isotape analysis and various aspects of human evolution.", 
+            "concurrent": [], 
+            "courseTitle": "Special Projects in Bioarchaeology", 
+            "prerequisites": [
+                "ARTS-5581", 
+                "ARTS-5582"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4050-4059"
+        }, 
+        "ARTS-5618": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6051"
+            ], 
+            "courseTitle": "Material Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 3850", 
+            "courseNumber": "3850"
+        }, 
+        "ARTS-5621": {
+            "PR": "ARCH 2480 or the former ARCH 2582", 
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6060", 
+                "ARTS-6186"
+            ], 
+            "courseTitle": "Cultural Resource Management", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "Folklore 4015 and Geography 4015", 
+            "courseNumber": "4015"
+        }, 
+        "ARTS-7443": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "addresses organized recreation as a fundamental variety of past social activity. The evolution of athletic physiology, bioarchaeological traces on past bodies, sporting facilities and equipment, animal sports, experimental and ethnoarchaeological approaches, and the varying social, ritual and economic contexts of past athletic performance will be examined, with case studies of notably large scale and long-running sporting phenomena such as chariot racing and the Mesoamerican ballgame.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology of Sport", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 3681", 
+            "courseNumber": "3594"
+        }, 
+        "ARTS-5627": {
+            "PR": "ARCH 2450 or ARCH 2480", 
+            "courseDescription": "aims to introduce the student to the wide range of information that can be gleaned about past human groups from the animal remains they left behind after butchery, meals, toolmaking and other activities. Students will also gain practical experience in the identification and analysis of faunal remains.", 
+            "concurrent": [], 
+            "courseTitle": "Zooarchaeology", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 4195 or the former Anthropology 4195", 
+            "courseNumber": "4152"
+        }, 
+        "ARTS-5619": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6052", 
+                "ARTS-6385"
+            ], 
+            "courseTitle": "Vernacular Architecture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 3860 and History 3860", 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-7481": {
+            "PR": "Archaeology 1030", 
+            "courseDescription": "(same as the former ARCH 2582, the former History 2582, and History", 
+            "concurrent": [
+                "ARTS-7497"
+            ], 
+            "courseTitle": "Historical Archaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "History 3582 , the former Archaeology 2582, the former History 2582, the former History 3530", 
+            "courseNumber": "3582"
+        }, 
+        "ARTS-5626": {
+            "PR": "ARCH 2450 , ARCH 2480 , or the permission of the instructor", 
+            "courseDescription": "is a combined directed readings/laboratory course on palaeoethnobotany. Palaeoethnobotany concerns the recovery and analysis of archaeological plant remains as a basis for understanding human and plant interactions in the archaeological record. This course focuses on recent palaeobotanical research in northeastern North America.", 
+            "concurrent": [], 
+            "courseTitle": "Paleoethnobotany", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4151"
+        }, 
+        "ARTS-5631": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "is a lecture course examining the culture developments of the Iroquoian peoples of Northeastern Canada and the USA. Using both archaeological and ethnohistoric materials, this course will outline and explain the changing social, political and economic traditions of this culture group from their origins through the early contact period.", 
+            "concurrent": [], 
+            "courseTitle": "Iroquoian Archaeology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 4190", 
+            "courseNumber": "4171"
+        }, 
+        "ARTS-5640": {
+            "courseDescription": "is an alternate option to the Honours Essay.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehensive Examination", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4996"
+        }, 
+        "ARTS-5584": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "is a survey course introducing the archaeology and ethnohistory of various pre-contact civilizations of North, Central and South America. Archaeological Evidence will be used to explore the rise of civilizations in the Americas and particular civilizations will be examined and compared based on idealogy, economy and administration.", 
+            "concurrent": [], 
+            "courseTitle": "Ancient Civilizations of the Americas", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2481"
+        }, 
+        "ARTS-5585": {
+            "courseDescription": "is a course on how human history is reconstructed from archaeological remains. Methods and techniques of archaeology are illustrated through discussion of archaeological research currently in progress, both in Newfoundland and Labrador and elsewhere in the world.", 
+            "concurrent": [], 
+            "courseTitle": "Popular Archaeology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used for credit toward a major or minor in Archaeology", 
+            "courseNumber": "2491"
+        }, 
+        "ARTS-5586": {
+            "courseDescription": "is an examination of procedures and techniques used by Biological anthropologists and archaeologists to obtain data pertinent to investigations by law enforcement and medical authorities; evidence concerning the identification of human remains and the cause, time and manner of death.", 
+            "concurrent": [], 
+            "courseTitle": "Forensic Archaeology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used for credit toward a major or minor in Archaeology", 
+            "courseNumber": "2492"
+        }, 
+        "ARTS-5587": {
+            "courseDescription": "explores the use of archaeology as a popular backdrop to many films and documentaries. Yet, the manner in which archaeology is represented in modern film is hardly realistic, or is it? The portrayal of archaeology in popular film will be discussed in order to determine what movies convey to the public about archaeological method and theory as well as the historical stories that archaeologists investigate.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology on Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used for credit toward a major or minor in Archaeology", 
+            "courseNumber": "2493"
+        }, 
+        "ARTS-5580": {
+            "courseDescription": "is a broad overview of Archaeology and Bioarchaeology introducing the concepts of human biological and cultural evolution and the methods and techniques by which these are investigated. The course is designed to provide the basis for further study in the disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Archaeology and Bioarchaeology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1030"
+        }, 
+        "ARTS-5581": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "investigates the human animal as we exist now and as we developed through time. Students will discover how the study of fossil remains, living and extinct primates, and the applications of the principles of genetics, adaptation and variation of human evolution help to provide an understanding of how biology and culture have interacted to produce modern humans.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Bioarchaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2430"
+        }, 
+        "ARTS-5582": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "introduces the student to a broad range of scientific approaches used in archaeology. The course provides an overview of the historical development of archaeological science and a survey of the current techniques used to investigate materials recovered from archaeological contexts, including biomolecular methods, paleoethnobotany, zooarchaeology, geoarchaeology, dating techniques, remote sensing and conservation.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Archaeological Science", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2450"
+        }, 
+        "ARTS-5583": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "is an introduction to archaeological techniques, methodology and theory. Lectures cover the development of the discipline, techniques of survey and excavation, methods of analysis and the interpretation of prehistory.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Archaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2480"
+        }, 
+        "ARTS-5589": {
+            "courseDescription": "is aimed at introductory level students who are curious about how archaeologists uncover evidence about the past. It is also designed to help students to become better researchers and writers. Readings will explore a variety of short classics in archaeology, from debates about when and where humans first evolved to recent research on the historical archaeology of Newfoundland. This course qualifies as a research writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Basic Research and Writing about the Archaeological Past", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2590"
+        }, 
+        "ARTS-5607": {
+            "PR": "ARCH 1030", 
+            "courseDescription": "is an introduction to the archaeology of the Canadian Arctic, Greenland, and Alaska, from earliest settlement to historic interactions between Inuit and Europeans. Special emphasis is placed on the eastern Canadian Arctic, and the changing social and economic adjustments arctic peoples have made to a challenging environment.", 
+            "concurrent": [], 
+            "courseTitle": "Arctic Archaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3588"
+        }, 
+        "ARTS-5606": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeological Conservation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3587"
+        }, 
+        "ARTS-5605": {
+            "PR": "ARCH 3583", 
+            "courseDescription": "offers students practical introduction to archaeological fieldwork (3585) and laboratory techniques (3586). These courses provide instruction and experience in site mapping, sampling strategies, the recovery and conservation of archaeological materials (i.e., artifacts and ecofacts) and the cleaning, cataloguing and cultural interpretation of artifacts and features. The students will also receive an introduction to archaeological research concerning prehistoric and/or historic cultures of a selected region.", 
+            "concurrent": [], 
+            "courseTitle": "Archaeology Field School", 
+            "prerequisites": [
+                "ARTS-5603"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3585-3586"
+        }, 
+        "ARTS-5604": {
+            "PR": "the former ARCH 2582, ARCH 2480 or any 2000-level History course", 
+            "courseDescription": "(same as the former Anthropology 3584 and History", 
+            "concurrent": [
+                "ARTS-6354"
+            ], 
+            "courseTitle": "Historical Anthropology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 3584, History 3535", 
+            "courseNumber": "3584"
+        }, 
+        "ARTS-5603": {
+            "PR": "ARCH 2480", 
+            "courseDescription": "is designed to familiarize students with field and laboratory techniques. Students will learn about research design and the methodologies involved in archaeological site survey and mapping. Students will be instructed in the identification of archaeological sites, completion of site inventory forms, the use of surveying instruments, and the creation of accurate site maps, using these instruments as well as the concepts associated with archaeological excavation, mapping, recording and photography. Finally, students will be given basic instruction in artifact identification, processing and cataloguing. This course is intended to be a precursor to Arch 3585 and 3586 (Archaeology Field School).", 
+            "concurrent": [], 
+            "courseTitle": "Archaeological Field School Orientation", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3583"
+        }, 
+        "ARTS-5602": {
+            "PR": "ARCH 1030 or permission of instructor", 
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5700"
+            ], 
+            "courseTitle": "Bronze Age Archaeology of the Eastern Mediterranean", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "Classics 3580", 
+            "courseNumber": "3580"
+        }, 
+        "ARTS-5601": {
+            "PR": "ARCH 2480 , or permission of instructor", 
+            "courseDescription": "is a subfield of archaeology that uses recent ethnographic information to interpret and explain the material remains of past human behaviour. This course compares the goals and methods of ethnoarchaeologists with those of ethnographers and archaeologists. Case studies are used to illustrate the different approaches and concerns of ethnoarchaeologists working in different regions of the world.", 
+            "concurrent": [], 
+            "courseTitle": "Ethnoarchaeology", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3561"
+        }, 
+        "ARTS-5600": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal History from 1763", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3525"
+        }, 
+        "ARTS-5629": {
+            "PR": "one of ARCH 2450 , 2480 , 2481 , the former 2582, or permission of the instructor", 
+            "courseDescription": "are courses which may be offered from time to time as demand arises. They may involve readings, seminars and actual analysis of archaeological collections on, for example: The Neolithic of Western Asia; the Rise of Civilization in Western Asia Scandinavian Prehistory; Palaeoethnobotany; and Technology and Material Culture.", 
+            "concurrent": [], 
+            "courseTitle": "Special Projects in Archaeology", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583", 
+                "ARTS-5584"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4160-4169"
+        }, 
+        "ARTS-5628": {
+            "PR": "ARCH 2450 or ARCH 2480", 
+            "courseDescription": "explores the range of techniques used to study stone tools, including material and provenance identification, morphology and functional analysis, temporal and cultural typology, measurement, illustration, experimental manufacture, use wear and breakage patterns, refitting, debitage analysis and spatial distribution.", 
+            "concurrent": [], 
+            "courseTitle": "Lithic Analysis", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ARCH 4196 or the former Anthropology 4196", 
+            "courseNumber": "4153"
+        }, 
+        "ARTS-5612": {
+            "PR": "ARCH 2480 , the former ARCH 2582, or permission of the instructor", 
+            "courseDescription": "provides students with practical experience in the analytical methods used to identify, date and interpret the different types of artifacts encountered on seventeenth- and eighteenth century archaeological sites in Colonial North America. In depth discussions on manufacture, technology, form and function provide the necessary background for a better understanding of concepts relating to artifact identification, provenance, dating techniques, theoretical approaches and other current issues. Practical, hands-on exercises will help reinforce weekly topics and teach students the fundamentals required to interpret artifact assemblages from the historic period.", 
+            "concurrent": [], 
+            "courseTitle": "Artifacts of Colonial North America", 
+            "prerequisites": [
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-5609": {
+            "PR": "one of ARCH 2450 , 2480 or the former 2582", 
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6030"
+            ], 
+            "courseTitle": "Collections Management", 
+            "prerequisites": [
+                "ARTS-5582", 
+                "ARTS-5583"
+            ], 
+            "corequisites": [], 
+            "CR": "Folklore 3591", 
+            "courseNumber": "3591"
+        }, 
+        "ARTS-5608": {
+            "PR": "ARCH 1030 or Anthropology 1031", 
+            "courseDescription": "(same as the former Anthropology 3590) examines past and present hunting and gathering societies from various areas of the world, both from an ethnographic and an archaeological perspective.", 
+            "concurrent": [], 
+            "courseTitle": "Hunter-Gatherer Studies", 
+            "prerequisites": [
+                "ARTS-5580", 
+                "ARTS-5520"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 3590", 
+            "courseNumber": "3590"
+        }
+    }
+}

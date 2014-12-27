@@ -1,0 +1,113 @@
+{
+    "PLST": {
+        "ARTS-6623": {
+            "courseDescription": "will introduce students to different theories and models of policing. It will examine the organization of policing, its mandate and operation. It will provide an overview of the history and development of policing in Canada; examples from Newfoundland and Labrador will be used where appropriate. It will discuss the various roles and responsibilities of the police in society. It will explore the issue by police decision making, the exercise of police powers, and the use of discretion by police officers. Several other issues relating to policing will be discussed including police recruitment and training, the professional role of the police, stress on the job and policing in a diverse society.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to Policing in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-6630": {
+            "PR": "completion of two semesters of course work in the Diploma Program in Police Studies , admission to the Diploma Program in Police Studies , and good standing as a recruit cadet of the Royal Newfoundland Constabulary", 
+            "courseDescription": "is a one-semester course offered in the Spring semester, following completion of ten courses specified for the", 
+            "CH": "6", 
+            "CO": "completion of two semesters of course work in the Diploma Program in Police Studies , admission to the Diploma Program in Police Studies , and good standing as a recruit cadet of the Royal Newfoundland Constabulary", 
+            "concurrent": [], 
+            "courseTitle": "Instructional Field Placement in Police Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "applicable to the Diploma Program in Police Studies only", 
+            "courseNumber": "5000"
+        }, 
+        "ARTS-6628": {
+            "PR": "a minimum of 60 credit hours, including PLST 2000 and 9 additional credit hours from Table 1 Core Faculty of Arts Courses for the Major in Police Studies under Police Studies", 
+            "courseDescription": "provides in depth discussion of various aspects of policing. It will discuss how social, economic and political factors influence the challenges of policing in a democratic society. It will look at police powers of arrest, search and release and how they are affected by the Charter of Rights and Freedoms. The different types of offences found in the Criminal Code and the special knowledge required to police them will be covered. The course will consider the use of police discretion, police misconduct and accountability and ethics in policing. It will also look at officer safety and stress in the work place. Several special topics related to policing will be discussed including: policing persons with mental illness, policing drug related offences, and policing racially diverse communities.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Issues in Policing", 
+            "prerequisites": [
+                "ARTS-6623"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-6629": {
+            "PR": "a minimum of 60 credit hours, including PLST 2000 and 9 additional credit hours from Table 1 Core Faculty of Arts Courses for the Major in Police Studies under Police Studies", 
+            "courseDescription": "provides students with the tools to locate, critically review, and summarize the findings and practical implications of police research on key topics. These topics include the influence of discretion on police powers and the importance of ethics and accountability in policing. The course will also discuss police officer stress and how it is influenced by ethical dilemmas. Examples of misuse of discretion and ethical dilemmas will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Police Decision Making and Ethics", 
+            "prerequisites": [
+                "ARTS-6623"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4001"
+        }, 
+        "ARTS-7424": {
+            "courseDescription": "will cover special topics related to policing and will be announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100-4110"
+        }, 
+        "ARTS-6624": {
+            "PR": "a minimum of 60 credit hours, including PLST 2000 and 6 additional credit hours from Table 1 Core Faculty of Arts Courses for the Major in Police Studies under Police Studies", 
+            "courseDescription": "will provide an opportunity to explore contemporary victim issues, in particular, as they relate to enhancing police response and sensitivity to the needs of victims. The course will explore different types of victimization, encourage critical analysis and understanding of the impact of the CJS on victims and the role of the victim in bringing about progressive and positive changes in the CJS. It will consider recent legislative developments, programs, services and emerging issues and discuss how victim engagement can promote public confidence in the administration of justice.", 
+            "concurrent": [], 
+            "courseTitle": "Crime Victims and Policing", 
+            "prerequisites": [
+                "ARTS-6623"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6625": {
+            "PR": "a minimum of 60 credit hours including PLST 2000 and Sociology 1000", 
+            "courseDescription": "examines the gendered aspects of criminal offending, victimization, criminal justice responses (police, courts, corrections), and workers in the criminal justice system.", 
+            "concurrent": [], 
+            "courseTitle": "Gender, Crime and Criminal Justice", 
+            "prerequisites": [
+                "ARTS-6623", 
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6626": {
+            "PR": "a minimum of 60 credit hours, including PLST 2000 and 9 additional credit hours from Table 1 Core Faculty of Arts Courses for the Major in Police Studies under Police Studies", 
+            "courseDescription": "is a part-time unpaid placement with a police department, Provincial Corrections, or various areas of the Department of Justice including the Sheriff's Office and Correctional Facilities. The number of openings varies and admission to the course is selective and competitive. Placements are for 12 weeks, eight hours a week, in addition to a regularly scheduled class meeting.", 
+            "concurrent": [], 
+            "courseTitle": "Internship", 
+            "prerequisites": [
+                "ARTS-6623"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6627": {
+            "PR": "completion of a minimum of 60 credit hours", 
+            "courseDescription": "will introduce students to investigative interviewing. It covers a range of topics that will help develop and/or improve the interviewing skills of those working in various disciplines where professional interviewing skills are essential.", 
+            "concurrent": [], 
+            "courseTitle": "Investigative Interviewing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-7423": {
+            "courseDescription": "will cover special topics related to policing and will be announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3600-3610"
+        }, 
+        "ARTS-7422": {
+            "courseDescription": "introduces students to the Correctional Systems in Canada and their role in Canadian Criminal Justice. Topics covered in this course include: the evolution of punishment and corrections in Canada, the purpose of prison, the classification of federal prisoners, the prisoner subculture or &lsquo;inmate&rsquo; code, violence inside prisons, and community corrections after full custody incarceration.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Corrections", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2200"
+        }
+    }
+}

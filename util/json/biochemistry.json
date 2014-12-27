@@ -1,0 +1,473 @@
+{
+    "BIOC": {
+        "SCI-2747": {
+            "PR": "BIOC 2100 or Biology 2250 ; BIOC 3106 ; and one of BIOC 3203 or the former BIOC 3200", 
+            "courseDescription": "is designed to familiarize students with emerging discoveries in the area of diet-gene interaction and to further their understanding of the relationships between the genome and diet as well as the potential to design personalized diets for better health. Students will develop an appreciation for the role of nutrients in the prevention and/or development of disease.", 
+            "concurrent": [], 
+            "courseTitle": "Nutrigenetics and Nutrigenomics", 
+            "prerequisites": [
+                "SCI-0691", 
+                "SCI-0791", 
+                "SCI-0704", 
+                "SCI-3076"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4240"
+        }, 
+        "SCI-2429": {
+            "PR": "to be determined at the time of offering", 
+            "courseDescription": "will be given for senior undergraduates, and will cover a range of topics in specialized fields in Biochemistry. They may be taught by visiting specialists when available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Biochemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4231-4239"
+        }, 
+        "SCI-0691": {
+            "PR": "BIOC 2101 , Chemistry 2401 , Physics 1021 or 1051 . Students may replace the co-requisite Chemistry 2401 with Chemistry 2440 as a prerequisite. Chemistry 2440 may not be taken as a co-requisite of 2100", 
+            "courseDescription": "will cover the heritability of simple traits from phenotype to genotype; the discovery of DNA as the molecule of heredity; the structure and function of DNA; the elucidation of the genetic code; and the manipulation of DNA for recombinant DNA technology and biotechnology.", 
+            "CO": "BIOC 2101 , Chemistry 2401 , Physics 1021 or 1051 . Students may replace the co-requisite Chemistry 2401 with Chemistry 2440 as a prerequisite. Chemistry 2440 may not be taken as a co-requisite of 2100", 
+            "concurrent": [
+                "SCI-0791"
+            ], 
+            "courseTitle": "Introduction to Molecular Biology and Genetics", 
+            "LH": "up to four hours on alternate weeks which will normally consist of one three hour laboratory period plus one additional hour on the following day", 
+            "prerequisites": [
+                "SCI-0692", 
+                "SCI-0923", 
+                "SCI-1577", 
+                "SCI-1815", 
+                "SCI-0923", 
+                "SCI-0925", 
+                "SCI-0925"
+            ], 
+            "corequisites": [
+                "SCI-0692", 
+                "SCI-0923", 
+                "SCI-1577", 
+                "SCI-1815", 
+                "SCI-0923", 
+                "SCI-0925", 
+                "SCI-0925"
+            ], 
+            "CR": "Biology 2250", 
+            "courseNumber": "2100"
+        }, 
+        "SCI-3698": {
+            "PR": "BIOC 3106 or Pharmacy 3111", 
+            "courseDescription": "is designed to provide current knowledge about advances and controversies in lipid and lipoprotein metabolism in the context of health and disease. Topics to be covered include advanced knowledge about lipid and lipoprotein synthesis and regulation, reverse cholesterol transport, plus lipid and lipoprotein utilization to regulate cellular and physiological functions. The covered topics will be related to areas such as reproductive biology, atherosclerosis, AIDS, Alzheimer&rsquo;s, and cancer.", 
+            "concurrent": [], 
+            "courseTitle": "Lipid and Lipoprotein Metabolism", 
+            "prerequisites": [
+                "SCI-0704", 
+                "PHAR-0143"
+            ], 
+            "corequisites": [], 
+            "CR": "BIOC 6000", 
+            "courseNumber": "4230"
+        }, 
+        "SCI-0692": {
+            "PR": "Chemistry 2400 and 2401 , or Chemistry 2440 ; and Physics 1020 or 1050 , and 1021 (or 1051 ). Chemistry 2401 and Physics 1021 or 1051 can be done concurrently", 
+            "courseDescription": "is an introduction to the major organic substances of living organisms, proteins, carbohydrates and lipids: their structure, analysis and biochemical function. Other topics will include: enzymes; the biochemistry of membranes, including the plasma membrane and specialized intracellular membranes; and the biochemistry of selected differentiated cells.", 
+            "concurrent": [
+                "PHAR-0130"
+            ], 
+            "courseTitle": "Introduction to Biochemistry", 
+            "LH": "one three-hour laboratory period on alternate weeks", 
+            "prerequisites": [
+                "SCI-0921", 
+                "SCI-0923", 
+                "SCI-0925", 
+                "SCI-1576", 
+                "SCI-1579", 
+                "SCI-1577", 
+                "SCI-1815", 
+                "SCI-0923", 
+                "SCI-1577", 
+                "SCI-1815"
+            ], 
+            "corequisites": [], 
+            "CR": "Pharmacy 2004 , or the former Pharmacy 3110", 
+            "courseNumber": "2101"
+        }, 
+        "SCI-0694": {
+            "courseDescription": "(same as Human Kinetics", 
+            "concurrent": [
+                "HKR-0388"
+            ], 
+            "courseTitle": "Introduction to Human Nutrition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Human Kinetics 2600 or the former Kinesiology 2600", 
+            "courseNumber": "2600"
+        }, 
+        "SCI-0725": {
+            "PR": "BIOC 3106", 
+            "courseDescription": "is designed to familiarize students with methods used for the study of cellular and subcellular metabolism. This course may include a research project.", 
+            "LC": "times as arranged", 
+            "concurrent": [], 
+            "courseTitle": "Biochemical Research Techniques II", 
+            "LH": "times as arranged", 
+            "prerequisites": [
+                "SCI-0704"
+            ], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "4211"
+        }, 
+        "SCI-0724": {
+            "PR": "BIOC 3105", 
+            "courseDescription": "examines the proteome and the genome. This course is designed to familiarize students with current methodology employed in the analyses of the complements of proteins and genes resident in eukaryotic cells. Emphasis will be placed on techniques that facilitate the simultaneous functional analyses of large numbers of proteins or genes. A variety of techniques, used in the study of expression and functional proteomics, will be described, including 2D PAGE, tagged proteins, fluorophores, mass spectrometry and protein microarrays. Techniques used in the study of gene expression and functional genomics will also be described, including the use of reporter gene constructs, analysis of protein-DNA interactions, expressions of cloned genes and several experimental approaches used to define the eukaryotic transcriptome.", 
+            "concurrent": [], 
+            "courseTitle": "Biochemical Research Techniques I", 
+            "prerequisites": [
+                "SCI-0703"
+            ], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "SCI-0726": {
+            "PR": "BIOC 311A/B or Medicine 310A/B or Pharmacy 2002 / 2003 (or the former Pharmacy 3201/3202)", 
+            "courseDescription": "(same as Medicine", 
+            "CO": "BIOC 3106 or Pharmacy 3111", 
+            "concurrent": [
+                "MED-0404"
+            ], 
+            "courseTitle": "Introduction to General and Autonomic Pharmacology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0708", 
+                "MED-0403", 
+                "PHAR-0128", 
+                "PHAR-0129"
+            ], 
+            "corequisites": [
+                "SCI-0704", 
+                "PHAR-0143"
+            ], 
+            "CR": "Medicine 4300", 
+            "courseNumber": "4220"
+        }, 
+        "SCI-0720": {
+            "PR": "BIOC 2101", 
+            "courseDescription": "(same as Pharmacy", 
+            "concurrent": [
+                "SCI-0842", 
+                "PHAR-0277"
+            ], 
+            "courseTitle": "Immunology", 
+            "prerequisites": [
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4200 , Pharmacy 3006 , the former Pharmacy 3105, the former Pharmacy 4105", 
+            "courseNumber": "4105"
+        }, 
+        "SCI-0723": {
+            "PR": "BIOC 3105", 
+            "courseDescription": "examines the structure of model and biological membranes, the molecular interactions between membrane components and the effects of these interactions on the biophysical and functional properties of membranes. Other topics will include the structure-function of specialized membranous systems, such as lipoprotein, lung surfactant, and lipid rafts; membrane lipid composition in biochemical adaptation and function; and the role of membrane proteins in intracellular trafficking, receptor function, enzymatic activity and membrane-related diseases.", 
+            "concurrent": [], 
+            "courseTitle": "Membranes - Structure and Function", 
+            "prerequisites": [
+                "SCI-0703"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "SCI-0708": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Human Physiology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "311A/B"
+        }, 
+        "SCI-0707": {
+            "PR": "BIOC 2100 or Biology 2250 ; and BIOC 2101", 
+            "courseDescription": "focuses on the molecular biochemistry of intracellular regulation, including advances in topics such as signal transduction, apoptosis and cancer. Other topics will include protein processing and sorting, cyclins, G-protein structure, function and regulation, cell adhesion molecules and the structure of the extracellular matrix.", 
+            "concurrent": [], 
+            "courseTitle": "Molecular Biochemistry of the Cell", 
+            "prerequisites": [
+                "SCI-0691", 
+                "SCI-0791", 
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3108"
+        }, 
+        "SCI-0706": {
+            "PR": "BIOC 2101 ; and BIOC 2100 or Biology 2250", 
+            "courseDescription": "examines the structure, function and biochemistry of DNA and RNA and the biochemical processes in the flow of information from the gene to protein. These will include: DNA replication, recombination and repair processes; transcription of RNA and RNA splicing; and protein synthesis. The regulation of gene expression will also be covered at an introductory level. The course will also include an introduction to cloning methodology.", 
+            "concurrent": [], 
+            "courseTitle": "Nucleic Acid Biochemistry and Molecular Biology", 
+            "LH": "up to four hours per week which will normally consist of one three hour laboratory period plus one additional hour on the following day.", 
+            "prerequisites": [
+                "SCI-0692", 
+                "SCI-0691", 
+                "SCI-0791"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3107"
+        }, 
+        "SCI-0704": {
+            "PR": "BIOC 2101", 
+            "courseDescription": "examines the catabolism of carbohydrates, lipids and amino acids. Other topics will be: mitochondria, chloroplasts and ATP synthesis; biosynthesis of carbohydrates and lipids; metabolic specialization of differentiated cells and tissues; and, integration of metabolism.", 
+            "concurrent": [
+                "PHAR-0143"
+            ], 
+            "courseTitle": "Metabolism", 
+            "LH": "one three-hour laboratory or one-hour tutorial per week", 
+            "prerequisites": [
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOC 3102 or Pharmacy 3111", 
+            "courseNumber": "3106", 
+            "OR": "one-hour tutorial or one three-hour laboratory per week"
+        }, 
+        "SCI-0703": {
+            "PR": "BIOC 2101 ; and Chemistry 2300 or 2301 or Physics 2053", 
+            "courseDescription": "examines topics such as: types of intermolecular forces in biomolecules; the folding of biomolecules and the role of water; pH, buffers, and ionisation of biomolecules; thermodynamics: equilibria, coupled reactions, transport across membranes and redox reactions; and ligand binding. Other topics will include: size and shape of biomolecules; isotopes in biochemistry; and, spectroscopy of biomolecules.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Biochemistry", 
+            "prerequisites": [
+                "SCI-0692", 
+                "SWGC-3096", 
+                "SCI-2741", 
+                "SCI-1582"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3105", 
+            "OR": "a two hour problem-solving class"
+        }, 
+        "SCI-0728": {
+            "PR": "BIOC 3203 or the former BIOC 3200/3201, and either BIOC 311B or Medicine 310B", 
+            "courseDescription": "is a course in which current controversies and trends in human nutrition are presented and discussed using the scientific literature.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Nutrition", 
+            "prerequisites": [
+                "SCI-3076", 
+                "SCI-0708"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "SCI-0700": {
+            "PR": "Biology 3050", 
+            "courseDescription": "(same as Biology", 
+            "LC": "three hours per week", 
+            "concurrent": [
+                "SCI-0800"
+            ], 
+            "courseTitle": "Food Microbiology", 
+            "LH": "three hours per week", 
+            "prerequisites": [
+                "SCI-0799"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 3052 , and the former BIOC 3054, BIOC 3401", 
+            "courseNumber": "3052"
+        }, 
+        "SCI-0722": {
+            "PR": "BIOC 3106", 
+            "courseDescription": "examines topics such as: respiration and electron transport; the functional organization of energy transducing membranes; the structure and function of flavoenzymes, cytochromes, iron-sulfur proteins and quinones; enzyme reduction of oxygen; and, free radicals in biological systems.", 
+            "LC": "two to three hours per week and assigned reading", 
+            "concurrent": [], 
+            "courseTitle": "Bioenergetics and Biological Oxidation", 
+            "prerequisites": [
+                "SCI-0704"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "SCI-2430": {
+            "PR": "to be determined at the time of offering", 
+            "courseDescription": "will be given for senior undergraduates, and will cover a range of topics in specialized fields in Nutrition. They may be taught by visiting specialists when available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Nutrition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4242-4249"
+        }, 
+        "SCI-0688": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Food Science", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "SCI-0686": {
+            "PR": "Level 3 Chemistry or Chemistry 1010 or Chemistry 1810 or equivalent, and acceptance to Bachelor of Nursing (Collaborative)", 
+            "courseDescription": "is an introduction to the chemistry and structure-function relationships of carbohydrates, lipids and proteins. It will examine the basic metabolism of carbohydrates and fats, with emphasis on the biochemical fluctuations that occur in human health and disease, and will include a brief introduction to molecular genetics. Prospective fast-track program students should consult with the School of Nursing concerning admission to this course.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Biochemistry for Nurses", 
+            "prerequisites": [
+                "SCI-0908", 
+                "SWGC-0646"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOC 2430", 
+            "UL": "may not be used for credit to fulfil the requirements for a major in the Department of Biochemistry", 
+            "courseNumber": "1430"
+        }, 
+        "SCI-2264": {
+            "courseDescription": "introduces the concepts of the composition of foods, and how the processing of food affects sensory appeal, shelf life and nutrient composition. Common food and water-borne illnesses (risks and prevention) are covered in the course content. Students will also be introduced to food biotechnologies, including genetically modified organisms, nutriceuticals and the development of functional foods.", 
+            "CO": "Chemistry 2400 or 2440", 
+            "concurrent": [], 
+            "courseTitle": "Food, Food Safety, and Health", 
+            "prerequisites": [], 
+            "corequisites": [
+                "SCI-0921", 
+                "SCI-0925"
+            ], 
+            "courseNumber": "2005"
+        }, 
+        "SCI-3076": {
+            "PR": "BIOC 2101 , 2600", 
+            "courseDescription": "is the cornerstone course for the study of nutrition. The sources, uptake and physiologic roles of essential nutrients will be discussed in the context of growth, maintenance, reproduction and overall health in humans.", 
+            "CO": "BIOC 3106", 
+            "concurrent": [], 
+            "courseTitle": "Fundamentals of Human Nutrition", 
+            "prerequisites": [
+                "SCI-0692", 
+                "SCI-0694"
+            ], 
+            "corequisites": [
+                "SCI-0704"
+            ], 
+            "CR": "the former BIOC 3201", 
+            "courseNumber": "3203"
+        }, 
+        "SCI-3077": {
+            "PR": "BIOC 2600 or HKR 2600 or the former BIOC 3200/3201; and one of BIOC 311B , MED 310B, HKR 2320", 
+            "courseDescription": "deals with the specific roles of nutrients in sport and exercise, and the application of nutrition to sport and exercise.", 
+            "concurrent": [], 
+            "courseTitle": "Sports and Exercise Nutrition", 
+            "prerequisites": [
+                "SCI-0694", 
+                "HKR-0388", 
+                "SCI-0708", 
+                "HKR-0381"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BIOC 4241", 
+            "courseNumber": "3600"
+        }, 
+        "SCI-0729": {
+            "PR": "BIOC 3203 or the former BIOC 3200/3201, and either BIOC 311B or Medicine 310B", 
+            "courseDescription": "is a course which addresses the scientific basis for nutritional intervention in chronic human disease.", 
+            "concurrent": [], 
+            "courseTitle": "Nutrition and Disease", 
+            "prerequisites": [
+                "SCI-3076", 
+                "SCI-0708"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }, 
+        "SCI-0732": {
+            "PR": "Honours students in their final year or permission of the Head", 
+            "courseDescription": "is a two-semester linked course based on independent study of a problem in Biochemistry. The subject of study will be decided in consultation with Faculty advisors and must be approved in advance by the Department. This dissertation is obligatory for Honours students in Biochemistry. The dissertation will be submitted as a formal written report accompanied by appropriate illustration before the end of the tenth week of the second semester. Before the end of his/her final semester the student will give an oral presentation of his/her research.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Dissertation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499A and 499B"
+        }, 
+        "SCI-0731": {
+            "PR": "Honours Nutrition students in their final year or permission of the Head", 
+            "courseDescription": "is a seminar course in which faculty and students will discuss concepts and methods used in the study of nutrition. Students will be responsible for reading and critically assessing recent literature.", 
+            "concurrent": [], 
+            "courseTitle": "Techniques in Nutrition Research", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4502"
+        }, 
+        "SCI-0718": {
+            "PR": "BIOC 3107", 
+            "courseDescription": "is a detailed and up-to-date treatment of the mechanisms of genetic regulation found in bacterial cells. The course will develop topics based on the evidence of bacterial genetics and modern molecular biological experiments. Topics may include: theory of mutations, RNA transcription, positive and negative regulation of transcription; regulation of protein synthesis; control of DNA replication; bacterial operons and regulons; developmental molecular biology in bacterial systems; and evolution and molecular biology of organelles.", 
+            "concurrent": [], 
+            "courseTitle": "Prokaryotic Gene Regulation", 
+            "prerequisites": [
+                "SCI-0706"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4103"
+        }, 
+        "SCI-0719": {
+            "PR": "BIOC 3107 or 3108", 
+            "courseDescription": "details the cellular and molecular aspects of eukaryotic gene regulation and development. Topics to be covered will include the DNA content and organization of eukaryotes, mechanisms controlling the expression of eukaryotic genetic information at the transcriptional and post-transcriptional levels, and the methodologies used to define these mechanisms. Detailed consideration will be given to the cell-surface events which regulate nuclear gene expression and cell lineage specification. Developmental mechanisms operating in a number of model systems will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Eukaryotic Gene Regulation and Developmental Biology", 
+            "prerequisites": [
+                "SCI-0706", 
+                "SCI-0707"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4104"
+        }, 
+        "SCI-0714": {
+            "PR": "BIOC 2000 or 2005 ; BIOC 2101 ; Chemistry 2440 or Chemistry 2401", 
+            "courseDescription": "examines the following topics: water structure and the role of water in chemical reactions and mechanical properties of foods; chemistry and physical properties of carbohydrates, proteins and lipids; food dispersions; pigments and natural colorants; food flavour; enzyme properties and applications; vitamins and minerals; chemistry of enzymic and non-enzymic browning; characteristics of: muscle tissue, milk, eggs, bread and edible plant tissue; food additives; and, chemical changes in foods during processing.", 
+            "concurrent": [], 
+            "courseTitle": "Food Chemistry", 
+            "LH": "one period per week", 
+            "prerequisites": [
+                "SCI-0688", 
+                "SCI-2264", 
+                "SCI-0692", 
+                "SCI-0925", 
+                "SCI-0923"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3402"
+        }, 
+        "SCI-0715": {
+            "PR": "BIOC 2100 or Biology 2250 ; BIOC 3106", 
+            "courseDescription": "examines metabolic regulation at the cellular and multicellular level. Topics will include: control theory; hormones: their biosynthesis and mechanism of action; signal transduction; and, endocrine coordination of metabolic processes. Principles will be illustrated by the use of case studies from the medical and veterinary literature.", 
+            "LC": "two to three hours per week, together with assigned reading and case studies", 
+            "concurrent": [], 
+            "courseTitle": "Biochemical Regulation", 
+            "prerequisites": [
+                "SCI-0691", 
+                "SCI-0791", 
+                "SCI-0704"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4002"
+        }, 
+        "SCI-0716": {
+            "PR": "BIOC 3105", 
+            "courseDescription": "will review the history of protein research and the general properties of proteins and include other topics such as: strategy and methods for purification; chemical structure, properties, modification and determination of the protein amino acids; sequencing strategy, chain cleavage methods and end group analysis; folding of the protein main chain and techniques to determine structure; and, the relationship between structure and function: protein filaments, motors and regulators. It will also cover disease-related proteins and other examples from the current literature.", 
+            "LC": "two to three hours per week, together with assigned reading", 
+            "concurrent": [], 
+            "courseTitle": "Proteins", 
+            "prerequisites": [
+                "SCI-0703"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4101"
+        }, 
+        "SCI-0717": {
+            "PR": "Honours Biochemistry students in their final year or permission of the Head", 
+            "courseDescription": "is a seminar course in which faculty and students will discuss topics of current interest in the biochemical literature. Students will be responsible for reading and critically assessing recent literature.", 
+            "concurrent": [], 
+            "courseTitle": "Current Topics in Biochemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4102"
+        }, 
+        "SCI-0712": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Community Nutrition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3202"
+        }
+    }
+}

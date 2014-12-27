@@ -1,0 +1,646 @@
+{
+    "PHIL": {
+        "ARTS-6606": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Law", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4350"
+        }, 
+        "ARTS-6567": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines selections from the works of the Greek \"lovers of wisdom\" - the first philosophers - particularly Plato.", 
+            "concurrent": [], 
+            "courseTitle": "Plato", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3730"
+        }, 
+        "ARTS-6550": {
+            "courseDescription": "is a survey of the development of Western philosophy since the 17th century.", 
+            "concurrent": [], 
+            "courseTitle": "History of Modern Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 3700, the former PHIL 3701", 
+            "courseNumber": "2702"
+        }, 
+        "ARTS-6551": {
+            "PR": "PHIL 1200 and PHIL 2210 or permission of the Department", 
+            "courseDescription": "examines techniques and topics in the logic of propositions, of predicates and of induction and probability. Normally the second course in logic.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Logic", 
+            "prerequisites": [
+                "ARTS-6532", 
+                "ARTS-6534"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3110"
+        }, 
+        "ARTS-6556": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Hermeneutics, Semiotics and Deconstruction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3160"
+        }, 
+        "ARTS-6557": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines leading philosophical ideas concerning the origin and justification of political institutions.", 
+            "concurrent": [], 
+            "courseTitle": "Political Philosophy", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "ARTS-6554": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "investigates various uses of language and its relationship to thought, as well as particular features of language, such as meaning, synonymy, reference, translation and interpretation.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of Language", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3120"
+        }, 
+        "ARTS-6555": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines major issues in the origins, methods and philosophical implications of science. Science as a form of knowledge; its relation to metaphysics; to more general theories of knowledge. Science and values.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of the Natural Sciences", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-6601": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Science", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "ARTS-6558": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6776"
+            ], 
+            "courseTitle": "Philosophy of Religion", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3500", 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-6559": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines the expression and interpretation in the humanistic disciplines: theology, history, art and literature, language.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of the Humanities", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-6619": {
+            "courseDescription": "is a part-time, one semester period of practical work designed to provide experience in medical, psychiatric, environmental, or other similar settings. Students may be placed, e.g., in a government policy office or a hospital.", 
+            "concurrent": [], 
+            "courseTitle": "Instructional Field Placement in Applied Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "applicable only towards the Diploma in Applied Ethics", 
+            "courseNumber": "5000"
+        }, 
+        "ARTS-6604": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "topics will be announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Metaphysics and Epistemology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4250 and 4260"
+        }, 
+        "ARTS-6608": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4450"
+        }, 
+        "ARTS-6609": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "ARTS-6594": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines the philosophy and literature of Existentialism from Kierkegaard, Nietzsche and Dostoevsky to Sartre, de Beauvoir and Camus.", 
+            "concurrent": [], 
+            "courseTitle": "Existentialism", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHIL 3980", 
+            "courseNumber": "3940"
+        }, 
+        "ARTS-6605": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "topics will be announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Ethics topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4300 and 4310"
+        }, 
+        "ARTS-6592": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is an introduction to the philosophy of Husserl and some of his followers, e.g. Heidegger, Merleau-Ponty.", 
+            "concurrent": [], 
+            "courseTitle": "Phenomenology", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3920"
+        }, 
+        "ARTS-6593": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines the pragmatist standpoint from Peirce to the present.", 
+            "concurrent": [], 
+            "courseTitle": "Pragmatism", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3930"
+        }, 
+        "ARTS-6591": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines selections from established texts in contemporary analytic philosophy: Russell, Carnap, Wittgenstein and others.", 
+            "concurrent": [], 
+            "courseTitle": "Analytic Philosophy", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3910"
+        }, 
+        "ARTS-6611": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Language", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4550"
+        }, 
+        "ARTS-6599": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "topics will be announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Logic and the Philosophy of Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6578": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is an introduction to the work of one of the most influential thinkers of the modern era, concentrating on his theory of knowledge, particularly as stated in the", 
+            "concurrent": [], 
+            "courseTitle": "Kant's Theory of Knowledge", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3850"
+        }, 
+        "ARTS-6616": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "is an individualized course tailored to the specialized moral interests of each student.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Readings in Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4900"
+        }, 
+        "ARTS-6615": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "topics will be announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Twentieth- and Twenty-First Century Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4800-4890"
+        }, 
+        "ARTS-6561": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of Art", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3620"
+        }, 
+        "ARTS-6579": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is an introduction to the work of one of the most influential thinkers of the modern era, concentrating on his ethics, particularly as stated in", 
+            "concurrent": [], 
+            "courseTitle": "Kant's Ethics", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3851"
+        }, 
+        "ARTS-6560": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy and Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3610"
+        }, 
+        "ARTS-6610": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Philosophical Background to Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4520"
+        }, 
+        "ARTS-6541": {
+            "courseDescription": "examines concepts of health and illness and their ethical implications.", 
+            "concurrent": [], 
+            "courseTitle": "Health Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2803", 
+            "courseNumber": "2551"
+        }, 
+        "ARTS-6540": {
+            "courseDescription": "will examine Western theories and practices of soul-care which parallel and resonate with Eastern approaches. We will learn what is distinctive to Western approaches with selections from Socrates, Jesus, Paul, Plotinus, Augustine, Eckhart, Alchemy, Freud, Jung and Foucault. Students will not only gain knowledge of this lost road in Western culture, but also an understanding of themselves.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy and Western Spirituality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2541"
+        }, 
+        "ARTS-6543": {
+            "courseDescription": "examines medical dilemmas from legal and ethical points of view.", 
+            "concurrent": [], 
+            "courseTitle": "Biomedical Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2807", 
+            "courseNumber": "2553"
+        }, 
+        "ARTS-6542": {
+            "courseDescription": "examines concepts of mental health and illness and their ethical implications.", 
+            "concurrent": [], 
+            "courseTitle": "Mental Health Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2802", 
+            "courseNumber": "2552"
+        }, 
+        "ARTS-6545": {
+            "courseDescription": "examines concepts of technology and their ethical implications.", 
+            "concurrent": [], 
+            "courseTitle": "Technology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2801", 
+            "courseNumber": "2571"
+        }, 
+        "ARTS-6544": {
+            "courseDescription": "examines concepts of nature and their ethical implications.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2809", 
+            "courseNumber": "2561"
+        }, 
+        "ARTS-6547": {
+            "courseDescription": "examines ethical issues and dilemmas arising in the realm of the mass media, within the context of foundational ethical theories and major philosophies of mass communication. Topics include the nature and structure of mass communication, the public sphere, and the role of the media in a functioning democracy. Subtopics include: propaganda, censorship, freedom of speech, and access to information and communication.", 
+            "concurrent": [], 
+            "courseTitle": "Media Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2582"
+        }, 
+        "ARTS-6546": {
+            "courseDescription": "introduces some of the central philosophers, topics and themes in the philosophy of film. Topics and themes include: the nature of film image, the relationship between film and &ldquo;reality&rdquo;, the social/ political role and function of film and the nature and value of the documentary. The course will also consider the representation of broader philosophical ideas in film. A film or films will accompany each section.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2581"
+        }, 
+        "ARTS-6549": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5686"
+            ], 
+            "courseTitle": "History of Ancient Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2701", 
+            "courseNumber": "2701"
+        }, 
+        "ARTS-6548": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Restorative Justice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2591"
+        }, 
+        "ARTS-6603": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Mind", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-6618": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "is part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-6569": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6522"
+            ], 
+            "courseTitle": "Medieval Philosophy", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "CR": "Medieval Studies 3004", 
+            "courseNumber": "3760"
+        }, 
+        "ARTS-6568": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines the works and legacy of perhaps the most influential systematic thinker of all time.", 
+            "concurrent": [], 
+            "courseTitle": "Aristotle", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3740"
+        }, 
+        "ARTS-6585": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines 19th century reactions to idealist systems, the critique of Metaphysics, the rise of Positivism.", 
+            "concurrent": [], 
+            "courseTitle": "Post-Idealist Thought", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3880"
+        }, 
+        "ARTS-6584": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines moral, political and jurisprudential themes in Bentham, J.S. Mill and their followers. Recent utilitarian theories.", 
+            "concurrent": [], 
+            "courseTitle": "Utilitarianism", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3870"
+        }, 
+        "ARTS-6586": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines the political, social and historical theories of Marx and Engels and their later developments; themes in Marxist analysis of class and capitalism.", 
+            "concurrent": [], 
+            "courseTitle": "Marxism", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3890"
+        }, 
+        "ARTS-6607": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Political Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-6583": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "examines selections from Hegel's system with emphasis on the nature of dialectical and speculative philosophy and its enormous influence in the present time.", 
+            "concurrent": [], 
+            "courseTitle": "Hegel", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-6613": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Aesthetics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4600"
+        }, 
+        "ARTS-6617": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "is part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehensive Examination", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4998"
+        }, 
+        "ARTS-6574": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is a systematic introduction to the works and thought of the \"father of modern philosophy\".", 
+            "concurrent": [], 
+            "courseTitle": "Descartes", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-6600": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Logic and the Philosophy of Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4110"
+        }, 
+        "ARTS-6575": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is a study of rationalism in Descartes, Spinoza, Leibniz and of subsequent developments of this standpoint.", 
+            "concurrent": [], 
+            "courseTitle": "Rationalism", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3820"
+        }, 
+        "ARTS-6534": {
+            "courseDescription": "is an introduction to traditional and modern logic. Open in any year to all students wishing acquaintance with basic logical skills.", 
+            "concurrent": [], 
+            "courseTitle": "Logic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2210"
+        }, 
+        "ARTS-6535": {
+            "courseDescription": "examines various concepts of knowledge - empirical, rational, transcendental, systematic. Their metaphysical grounds and implications. The concept of scientific knowledge; real and abstract entities; objectivity and subjectivity.", 
+            "concurrent": [], 
+            "courseTitle": "Epistemology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2220"
+        }, 
+        "ARTS-6536": {
+            "courseDescription": "examines the sources and validity of ethical principles which underlie individual and social action.", 
+            "concurrent": [], 
+            "courseTitle": "Moral Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2230"
+        }, 
+        "ARTS-6537": {
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6457"
+            ], 
+            "courseTitle": "Philosophy of Language and Mind", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Linguistics 2300 , the former Linguistics 2710, the former PHIL 2710", 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-6530": {
+            "courseDescription": "is an approach to philosophical thinking by way of analysis and critique of theories of human nature, classical and modern, and the world views associated with them. Philosophy 1000, or the former Philosophy 1600, is not required for further courses in philosophy but is of particular value to students interested in the Social Sciences and Humanities. All sections of this course will qualify as a Research/Writing course for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of Human Nature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 1001, the former PHIL 1600", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6531": {
+            "courseDescription": "aims to impart critical analytic skills: i.e., the ability to recognize good and bad arguments, to explain why a particular argument is good or bad, and a general understanding of why a good argument ought to persuade and a bad argument ought not to persuade.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Thinking", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 1003", 
+            "courseNumber": "1100"
+        }, 
+        "ARTS-6532": {
+            "courseDescription": "is a general introduction to the study of Philosophy both as a contemporary intellectual discipline and as a body of knowledge. The course covers the main divisions, fundamental questions and essential terminology of Philosophy through a reading of classical texts. It is a prerequisite for courses at the 3000 level or above in Philosophy programs. It is intended for students in first year who have completed one semester of university education. All sections of this course will qualify as a Research/Writing course for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHIL 2200", 
+            "courseNumber": "1200"
+        }, 
+        "ARTS-6533": {
+            "courseDescription": "is an introduction to the systematic inquiry into the nature of reality. Topic may include the nature of being, time, the question of God, appearance and reality, the one and the many, mind and matter, essence and existence.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Metaphysics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-6570": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Late Medieval and Renaissance Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3790"
+        }, 
+        "ARTS-6614": {
+            "PR": "6 credit hours in courses at the 3000 level or permission of the Department", 
+            "courseDescription": "will be announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Special Authors and Texts", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4700-4790"
+        }, 
+        "ARTS-6612": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Language", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4560"
+        }, 
+        "ARTS-6538": {
+            "courseDescription": "employs historical and contemporary sources to explore major traditions and concepts in the philosophy of law. Topics covered include natural law, legal positivism, the nature of legal interpretation, the relationship between law and morality, and the concepts of rights, responsibility, and justice.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Philosophy of Law", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2400"
+        }, 
+        "ARTS-6539": {
+            "courseDescription": "discusses the philosophical dimensions of an area of practical concern such as contemporary culture, professional ethics, leisure, education, the mass media, gender, war and human rights.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Issues", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2500-2550"
+        }, 
+        "ARTS-6576": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Empiricism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3830"
+        }, 
+        "ARTS-6577": {
+            "PR": "PHIL 1200 or permission of the Department", 
+            "courseDescription": "is a study of the work and influence of Hume on theories of knowledge, metaphysics and moral philosophy.", 
+            "concurrent": [], 
+            "courseTitle": "Hume", 
+            "prerequisites": [
+                "ARTS-6532"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3840"
+        }
+    }
+}

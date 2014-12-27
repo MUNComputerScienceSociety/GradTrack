@@ -1,0 +1,553 @@
+{
+    "ENGI": {
+        "ENGI-1592": {
+            "PR": "ENGI 7623", 
+            "courseDescription": "will provide a comprehensive picture of the availability and design of both traditional and current process equipment. Economic and optimization issues relevant to investment, product-cost estimation, and profitability analysis will also be addressed. The course will provide students with tools to evaluate the economics of process industries reflecting current economic criteria, and provide helpful guidelines to approaching, defining, and solving optimization problems.", 
+            "concurrent": [], 
+            "courseTitle": "Process Plant Design and Economics", 
+            "prerequisites": [
+                "ENGI-1587"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8677"
+        }, 
+        "ENGI-1364": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "covers process description, design methods, operating procedures, and troubleshooting aspects of gas production facilities including inlet separation operations, hydrate prevention and control, gas dehydration, NGL recovery and dew point control, gas transmission and pipeline design and transportation systems.", 
+            "concurrent": [], 
+            "courseTitle": "Design of Natural Gas Handling Equipment", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8676"
+        }, 
+        "ENGI-1367": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "examines the procedures and equipment necessary for preparing a well to produce hydrocarbons and maximizing flow rate during the life of the well; techniques for well productivity analysis in under-saturated, saturated, and natural gas reservoirs; well completion configuration tubulars; packers and subsurface flow control devices; completion and work over fluids; perforating oil and gas wells; formation damage; surfactants for well treatment; hydraulic fracturing; acidizing; scale deposition, removal, and prevention; work over and completion rigs; and artificial lift.", 
+            "concurrent": [], 
+            "courseTitle": "Petroleum Production Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8691"
+        }, 
+        "ENGI-1591": {
+            "PR": "ENGI 7640", 
+            "courseDescription": "is a design project that illustrates the application of previous engineering science and design related courses. Projects will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the process industry which includes the offshore oil and gas industry, mining and metal processing industry and chemical process industry.", 
+            "LC": "scheduled as required", 
+            "concurrent": [], 
+            "courseTitle": "Process Engineering Project II", 
+            "prerequisites": [
+                "ENGI-1588"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8640"
+        }, 
+        "ENGI-1361": {
+            "PR": "ENGI 7650", 
+            "courseDescription": "is a multidisciplinary design project that illustrates the application of previous engineering science and design related courses. The project will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the offshore oil and gas engineering industry. Lectures will be scheduled as required.", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Offshore Oil and Gas Engineering Project II", 
+            "prerequisites": [
+                "ENGI-1331"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8600", 
+            "courseNumber": "8650"
+        }, 
+        "ENGI-1360": {
+            "PR": "ENGI 3054", 
+            "courseDescription": "examines the formulation of mission statement, design constraints and the historical development of submersibles design. Major subsystems of underwater vehicles, including propulsion, power, communication, navigation and control, are introduced. Principles of floatation, stability and control as they pertain to submersibles and underwater navigation are covered. Maneuvering and control equations are examined. Students perform resistance and propulsion calculations. Submersible construction materials and their selection criteria are examined.", 
+            "concurrent": [], 
+            "courseTitle": "Submersible Design", 
+            "LH": "at least 12 hours per semester", 
+            "prerequisites": [
+                "ENGI-1252"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8058"
+        }, 
+        "ENGI-1363": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "begins with an overview of safety and risk issues in the offshore oil and gas industry. The course examines regulatory requirements; hazards and structured analysis tools; risk terminology and quantified risk analysis (QRA) techniques; and safety assessment studies. The course includes project and case studies.", 
+            "concurrent": [], 
+            "courseTitle": "Safety and Risk Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8671"
+        }, 
+        "ENGI-1362": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "is an introduction to reliability engineering; physics of failure and failure mechanism, reliability measures and assessment; reliability of components and parts; complex system reliability and availability analysis; and field reliability assessment. The course includes case studies and a project.", 
+            "concurrent": [], 
+            "courseTitle": "Reliability Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8670"
+        }, 
+        "ENGI-1717": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "is an introduction to the concepts, issues, and themes related to business planning, strategy, and entrepreneurship, with an overview of the functional activities in a typical business venture. Business analysis and planning skills are developed. The course explores the business planning and strategic management issues of technology-driven enterprises in the early stages of development and focuses on the engineer as an entrepreneur.", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Entrepreneurship", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8607", 
+            "courseNumber": "8150"
+        }, 
+        "ENGI-1369": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Petroleum Facilities Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8693"
+        }, 
+        "ENGI-1368": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "covers both offshore and onshore drilling operations and includes: rotary drilling rig operations, well construction sequence, drill string, drill bits, well bore hydraulics, casing and well heads, cementing, well control, directional and horizontal drilling, well planning and fishing operations, and extended reach, horizontal and multilateral well drilling techniques.", 
+            "concurrent": [], 
+            "courseTitle": "Drilling Engineering for Petroleum Exploration &amp; Production", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8692"
+        }, 
+        "ENGI-1365": {
+            "PR": "ENGI 5821", 
+            "courseDescription": "begins with an introduction to feedback and feedforward control systems, regulatory and servo control. Topics include modelling thermal, gas, liquid and chemical processes; sensors and transmitters, control valve sizing for liquids and gases, industrial feedback controllers; design of feedback control loops, tuning of feedback controllers; cascade, ratio, override and selective control; feedforward control; multivariable process control; piping and instrumentation diagrams, and control system documentation.", 
+            "concurrent": [], 
+            "courseTitle": "Process Control and Instrumentation", 
+            "LH": "at least four 3-hour sessions per semester.", 
+            "prerequisites": [
+                "ENGI-1294"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8680"
+        }, 
+        "ENGI-1366": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "examines fluid pressure regimes, oil recovery factors, calculation of hydrocarbon volumes, reservoir rock characteristics, reservoir fluid properties, porosity and permeability, material balance, and well test analysis.", 
+            "concurrent": [], 
+            "courseTitle": "Reservoir Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8690"
+        }, 
+        "ENGI-1393": {
+            "PR": "ENGI 6961 , ENGI 6933", 
+            "courseDescription": "examines structural vibrations generated by fluid flow. These vibrations can be transient or they can take the form of instability or resonance. The course deals with the following fluid structure interactions: (1) Flow induced vibration of structures (2) Unsteady flow in pipe networks (3) Water wave interactions with structures.", 
+            "concurrent": [], 
+            "courseTitle": "Fluid Structure Interactions", 
+            "LH": "at least three 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1325", 
+                "ENGI-1323"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8904", 
+            "courseNumber": "8964"
+        }, 
+        "ENGI-1390": {
+            "PR": "ENGI 5931", 
+            "courseDescription": "examines traditional design methods; load types; sustained, cyclic, impact; failure modes and mechanisms; incremental collapse; plastic shakedown; upper bound and lower bound approximations; loa cycle fatigue; and rational design procedures. Case studies are conducted for cylinders; plates; shells.", 
+            "concurrent": [], 
+            "courseTitle": "Pressure Component Design", 
+            "prerequisites": [
+                "ENGI-1300"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8935"
+        }, 
+        "ENGI-1600": {
+            "PR": "ENGI 6876", 
+            "courseDescription": "examines the techniques used to provide security in communication networks and computer systems. The course focuses on topics in cryptography required to provide privacy, authentication, and integrity, including symmetric key ciphers, public key ciphers, message authentication, and digital signature schemes.", 
+            "concurrent": [], 
+            "courseTitle": "Computer and Communications Security", 
+            "prerequisites": [
+                "ENGI-1319"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8868"
+        }, 
+        "ENGI-1391": {
+            "PR": "ENGI 4932 , 6933", 
+            "courseDescription": "begins with a review of Newton's Law, planar rigid body kinematics and kinetics. Topics include three-dimensional kinematics and kinetics: orientation angles, rotation matrices, Euler&rsquo;s equations. Lagrange's and Hamilton's equations, constraints, dynamic simulation of linkages, mechanism loads, balancing, engine dynamics. There is a student analysis project.", 
+            "concurrent": [], 
+            "courseTitle": "Machine Dynamics", 
+            "LH": "at least eight 1-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1282", 
+                "ENGI-1323"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7945", 
+            "courseNumber": "8937"
+        }, 
+        "ENGI-1392": {
+            "PR": "ENGI 6901", 
+            "courseDescription": "is an overview of production and operations management, and an examination of decision making and operations strategy; process design and improvement, process flow analysis/simulation, capacity planning; design of value chains, lean systems, plant layout and process planning; operating value chains, MIS systems, inventory and resource management; Relevant computer laboratory exercises are conducted.", 
+            "concurrent": [], 
+            "courseTitle": "Production &amp; Operations Management", 
+            "prerequisites": [
+                "ENGI-1321"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7943", 
+            "courseNumber": "8945"
+        }, 
+        "ENGI-1616": {
+            "PR": "one of ENGI 5312 , ENGI 5931 or ENGI 6003", 
+            "courseDescription": "provides an introduction to subsea pipeline engineering with a focus on the mechanical design of offshore pipelines. Stress-based, design-based and limit-states design for strength and stability are examined. Other fundamental pipeline engineering design issues such as materials specification, flow assurance and installation are reviewed. Principles of geotechnical engineering and pipeline/soil interaction analysis techniques are investigated. Special topics are also reviewed.", 
+            "concurrent": [], 
+            "courseTitle": "Subsea Pipeline Engineering", 
+            "LH": "2", 
+            "prerequisites": [
+                "ENGI-1286", 
+                "ENGI-1300", 
+                "ENGI-1303"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8673"
+        }, 
+        "ENGI-1359": {
+            "PR": "ENGI 5003", 
+            "courseDescription": "examines the concepts used in the design of advanced marine vehicles. Emphasis will be given to: structural design of craft constructed from fibre reinforced plastics; high speed marine vehicles (powering, structures, seakeeping and model testing); small craft.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Marine Vehicles", 
+            "LH": "at least 9 hours per semester", 
+            "prerequisites": [
+                "ENGI-1284"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8054"
+        }, 
+        "ENGI-1662": {
+            "PR": "ENGI 3934 , ENGI 4312", 
+            "courseDescription": "(same as the former ENGI 8674) examines marine ice as an environmental load factor in the context of ships and engineered structures designed for ice covered waters. Topics include types of naturally occurring ice; sea ice formation and characteristics; mechanical strength of sea ice under common modes of ice failure; modes of ice interaction with ships and marine structures; estimation of ice forces on offshore structures; powering requirements for ice breaking ships; regulations and standards for design of ships and offshore structures in arctic environments.", 
+            "concurrent": [], 
+            "courseTitle": "Arctic Ocean Engineering", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1264", 
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8674", 
+            "courseNumber": "8074"
+        }, 
+        "ENGI-1357": {
+            "PR": "ENGI 7000", 
+            "courseDescription": "completes the design project selected and approved in ENGI", 
+            "concurrent": [], 
+            "courseTitle": "Ocean and Naval Architectural Engineering Project", 
+            "LH": "3", 
+            "prerequisites": [
+                "ENGI-1326"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8000"
+        }, 
+        "ENGI-1642": {
+            "PR": "ENGI 6871 , ENGI 6876", 
+            "courseDescription": "(same as the former ENGI 8804) covers the fundamentals and main concepts of wireless and mobile communication systems focusing on the system level design and performance. Main topics to be covered include Introduction to Wireless Communication Systems, Wireless Channel Models, Frequency Reuse Concept, Wireless Multiple Access Techniques (TDMA, FDMA, CDMA), Orthogonal Frequency Division Multiplexing (OFDM), Wireless Systems (GSM, 3G, LTE, etc.).", 
+            "concurrent": [], 
+            "courseTitle": "Wireless and Mobile Communications", 
+            "prerequisites": [
+                "ENGI-1318", 
+                "ENGI-1319"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8804", 
+            "courseNumber": "8877"
+        }, 
+        "ENGI-1376": {
+            "PR": "completion of Term 7 of the Civil Engineering program", 
+            "courseDescription": "is an introduction to law as it applies to engineering activity; the nature of law and legal processes, including standard forms; liens, bonds and insurances; the labour movement in North America; examination of union philosophies and managerial attitudes; labour law and collective bargaining; disputes and settlements.", 
+            "concurrent": [], 
+            "courseTitle": "Contract Law and Labour Relations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6740", 
+            "courseNumber": "8740"
+        }, 
+        "ENGI-1377": {
+            "PR": "ENGI 6713", 
+            "courseDescription": "examines the coastal and ocean environment; ocean circulation and properties; waves and tides; instrumentation and measurement. Additional topics will be drawn from the areas of hydraulic, geotechnical and structural engineering. Relevant field exercises will be conducted.", 
+            "concurrent": [], 
+            "courseTitle": "Coastal and Ocean Engineering", 
+            "prerequisites": [
+                "ENGI-1310"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8751"
+        }, 
+        "ENGI-1374": {
+            "PR": "ENGI 7716", 
+            "courseDescription": "includes water supply system overview; water consumption estimation; groundwater and surface water sources; oxygen demand and transfer; water treatment processes; water distribution systems and design software; sewer systems and design software; wastewater treatment processes; sludge handling; decentralized and on-site wastewater treatment.", 
+            "concurrent": [], 
+            "courseTitle": "Municipal Engineering", 
+            "prerequisites": [
+                "ENGI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8713"
+        }, 
+        "ENGI-1375": {
+            "PR": "ENGI 4717", 
+            "courseDescription": "covers statistical analysis; pollution monitoring, and sampling network design; water quality and air quality modelling; environmental risk assessment; environmental impact assessment; site remediation and hazardous waste management. There are relevant field trips and case studies.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Assessment, Monitoring and Control", 
+            "LH": "at least ten 3-hour lab sessions per semester", 
+            "prerequisites": [
+                "ENGI-1274"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8717"
+        }, 
+        "ENGI-1372": {
+            "PR": "ENGI 6707", 
+            "courseDescription": "examines geometries, loads, safety and serviceability, procedure of using the national building code for evaluating the governing loads on structural members;.design of low rise concrete, timber and steel buildings; lateral load-resisting elements and bracing systems; design of foundation systems, footing design, pile cap design, pile group analysis using elastic centre method and inclined pile analysis; prestressed concrete concepts: strength of flexural members, and shear reinforcement for prestressed concrete beams.", 
+            "concurrent": [], 
+            "courseTitle": "Structural Building Systems", 
+            "LH": "at least nine 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1309"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8705"
+        }, 
+        "ENGI-1373": {
+            "PR": "ENGI 7707", 
+            "courseDescription": "examines guidelines and international codes and standards for offshore structural design; understanding design constraints and concepts of offshore fixed and floating structures; design consideration for fixed offshore concrete platform; design consideration for offshore platform and floating production system design, and analysis of various support systems of the offshore structure.", 
+            "concurrent": [], 
+            "courseTitle": "Offshore Structural Design", 
+            "prerequisites": [
+                "ENGI-1335"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8708"
+        }, 
+        "ENGI-1370": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "includes: oil and natural gas processing, oil and gas storage facilities and their design, oil and gas separation processes, petroleum refining processes, and de-bottle necking.", 
+            "concurrent": [], 
+            "courseTitle": "Downstream Processing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8694"
+        }, 
+        "ENGI-1371": {
+            "PR": "completion of Term 7 of the Civil Engineering program", 
+            "courseDescription": "is a practically oriented design project integrated over the five areas in which Civil programs are offered. Students will operate in consultant groups and will complete a design for a typical Civil Engineering undertaking.", 
+            "LC": "scheduled as required", 
+            "concurrent": [], 
+            "courseTitle": "Civil Engineering Project", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8700", 
+            "OR": "1 client meeting per week, 1 tutorial per week"
+        }, 
+        "ENGI-1703": {
+            "PR": "ENGI 6961", 
+            "courseDescription": "begins with a review of the equations governing viscous fluid flows and heat transfer. The course includes heat conduction, convection-diffusion, and fluid flow equations; gridding, dependent variable interpolation, discretized equations, solution of the discretized equations, transients and nonlinearities; testing and validation of CFD codes, standard test problems.", 
+            "concurrent": [], 
+            "courseTitle": "Computational Fluid Dynamics", 
+            "prerequisites": [
+                "ENGI-1325"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGI 9977", 
+            "courseNumber": "8947"
+        }, 
+        "ENGI-1702": {
+            "PR": "ENGI 5952", 
+            "courseDescription": "has an emphasis on interdisciplinary system models, equation formulation and structure, and model complexity. The bond graph modelling language will be introduced to simulate systems containing mechanical, electrical, thermal, hydraulic, and magnetic components.", 
+            "concurrent": [], 
+            "courseTitle": "Modelling and Simulation of Dynamic Systems", 
+            "prerequisites": [
+                "ENGI-1696"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGI 9496", 
+            "courseNumber": "8946"
+        }, 
+        "ENGI-1378": {
+            "PR": "ENGI 7824", 
+            "courseDescription": "is a review of introductory digital signal processing (DSP) principles, including sampling theory and discrete-time systems and signals. Topics include transform analysis of DSP systems; issues in the implementation of DSP systems; design of IIR and FIR digital filters; computable transforms and their use in the frequency analysis of digital signals; and design of DSP systems for current and emerging applications of digital signal processing.", 
+            "concurrent": [], 
+            "courseTitle": "Design of Digital Signal Processing Systems", 
+            "prerequisites": [
+                "ENGI-1345"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8821"
+        }, 
+        "ENGI-1379": {
+            "PR": "ENGI 5854", 
+            "courseDescription": "begins with an introduction to analog filters. The course examines descriptive terminology, transfer functions and frequency response of filters; design of first order passive and active filters; design and analysis of biquad circuit, Sallen key circuit, multiple feedback circuit and state variable filter; RC-CR transformation; inductance simulation circuit; cascade design principle; design of filters with maximally flat magnitude response; design of filters with equal ripple magnitude response; design of Bessel-Thomson filters; analysis and design of switched capacitor filters; and the use of Matlab for design of analog filters.", 
+            "concurrent": [], 
+            "courseTitle": "Filter Synthesis", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1295"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8826"
+        }, 
+        "ENGI-1704": {
+            "PR": "ENGI 6961", 
+            "courseDescription": "includes fluid kinematics; equations of fluid dynamics: Navier-Stokes equations, Euler's equations, Stokes' equations, vorticity transport; low Reynolds flows; unsteady viscous flows; boundary layer flows; potential flows; introduction to turbulent flow; free shear flows.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Fluid Dynamics", 
+            "prerequisites": [
+                "ENGI-1325"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGI 9901", 
+            "courseNumber": "8965"
+        }, 
+        "ENGI-1741": {
+            "PR": "ENGI 3101", 
+            "courseDescription": "(same as the former ENGI 8977) examines multidisciplinary planning on technical international development projects through the conceptual frameworks of international development and project implementation theory. Emphasis is placed on analysis of the complex relationships between society, culture, economic, environmental and political factors, and technology to achieve sustainable international development objectives.", 
+            "concurrent": [], 
+            "courseTitle": "Technology, Sustainable Society and International Development", 
+            "prerequisites": [
+                "ENGI-1253"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8977", 
+            "courseNumber": "8151"
+        }, 
+        "ENGI-1593": {
+            "PR": "completion of academic term 6 of the Process Engineering program", 
+            "courseDescription": "will cover crude and refinery products properties and specifications, process description, design methods, operating procedures, and troubleshooting aspects of modern petroleum refining. It also includes hydrorefining, catalytic reforming, hydrocracking, isomerisation, refinery machinery, and utilities.", 
+            "concurrent": [], 
+            "courseTitle": "Petroleum Refining Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8696"
+        }, 
+        "ENGI-1387": {
+            "PR": "ENGI 7911", 
+            "courseDescription": "examines forms of corrosion; the electrochemical nature of the corrosion process; the mixed potential theory, Purbaix diagrams and Evan diagrams; corrosion testing, control use by use of materials, selection, cathodic protection, inhibitors, and coatings. There are case studies of selected corrosion problems.", 
+            "concurrent": [], 
+            "courseTitle": "Corrosion and Corrosion Control", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1352"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8962", 
+            "courseNumber": "8911"
+        }, 
+        "ENGI-1386": {
+            "PR": "ENGI 6901", 
+            "courseDescription": "examines mechanical systems design; system simulation, control, and optimization; design optimization and system performance evaluation; design case studies and equipment for overall system design.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanical Systems", 
+            "prerequisites": [
+                "ENGI-1321"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8903"
+        }, 
+        "ENGI-1385": {
+            "PR": "ENGI 7894", 
+            "courseDescription": "examines real-time process scheduling; memory and device management; I/O communications; real-time systems; operating system and hardware concurrency issues; kernel architectures; device drivers; and a survey of available real-time operating systems and embedded platforms.", 
+            "concurrent": [
+                "SCI-1076"
+            ], 
+            "courseTitle": "Real-time Operating Systems", 
+            "prerequisites": [
+                "ENGI-1349"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7863, Computer Science 4721", 
+            "courseNumber": "8894"
+        }, 
+        "ENGI-1384": {
+            "PR": "ENGI 6871", 
+            "courseDescription": "is a review of baseband transmission and basic digital modulation schemes, detection (optimum receiver, matched filter, correlator), error performance, intersymbol interference (ISI), equalization, the concept of information and entropy, source coding including Huffman coding and linear predictive coding, channel coding including block and convolutional error correcting codes, modulation and coding trade-offs, bandwidth and power efficiency.", 
+            "concurrent": [], 
+            "courseTitle": "Digital Communications", 
+            "prerequisites": [
+                "ENGI-1318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8879"
+        }, 
+        "ENGI-1383": {
+            "PR": "ENGI 5865", 
+            "courseDescription": "(same as Computer Science", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to LSI Design", 
+            "LH": "at least eight 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1296"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8863"
+        }, 
+        "ENGI-1382": {
+            "PR": "7804", 
+            "courseDescription": "continues ENGI", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Computer Engineering Design Project II", 
+            "prerequisites": [
+                "ENGI-1342"
+            ], 
+            "corequisites": [], 
+            "CR": ": the former ENGI 8800", 
+            "courseNumber": "8854", 
+            "OR": "weekly meetings with project supervisor"
+        }, 
+        "ENGI-1381": {
+            "PR": "7803", 
+            "courseDescription": "continues ENGI", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Electrical Engineering Design Project II", 
+            "prerequisites": [
+                "ENGI-1341"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8800", 
+            "courseNumber": "8853", 
+            "OR": "weekly meetings with project supervisor"
+        }, 
+        "ENGI-1380": {
+            "PR": "ENGI 7844", 
+            "courseDescription": "examines symmetrical components; power system fault analysis; power system stability; and power system protection.", 
+            "concurrent": [], 
+            "courseTitle": "Power System Operation", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1347"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "8845"
+        }, 
+        "ENGI-1389": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Fatigue and Fracture Mechanics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "8933"
+        }, 
+        "ENGI-1388": {
+            "PR": "ENGI 7926", 
+            "courseDescription": "is the second of two capstone design courses in the Department of Mechanical Engineering. Building on skills acquired in the first, student teams each choose a unique design challenge and then proceed to generate a solution. The problem statements are often drawn from industry and, where possible, interdisciplinary interaction is encouraged (for example, with business, computer science, or other engineering disciplines). In most cases, the problem proponent will act as the &ldquo;client&rdquo; and the team is expected to manage the client interaction process as well. Significant emphasis is placed on both oral and written communication of both the process and results. Wherever possible, each system or a critical component of it, will be prototyped and tested.", 
+            "LC": "scheduled as required", 
+            "concurrent": [], 
+            "courseTitle": "Mechanical Design Project II", 
+            "LH": "scheduled as required", 
+            "prerequisites": [
+                "ENGI-1353"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8936", 
+            "courseNumber": "8926"
+        }
+    }
+}

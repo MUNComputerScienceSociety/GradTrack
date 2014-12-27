@@ -1,0 +1,94 @@
+{
+    "ENGI": {
+        "ENGI-1242": {
+            "PR": "ENGI 002W", 
+            "courseDescription": "requires greater participation in the student&rsquo;s selected engineering discipline. A student becomes more experienced and proficient with the appropriate design procedures than in the preceding work terms. A student is expected to acquire improved speed and accuracy in their work and accept greater responsibility and be able to function with less direct supervision. Self-confidence and initiative as well as improved analytical skills are expected to develop at this stage in the student&rsquo;s engineering education. The communications component for Work Term 3 consists of a formal technical report on a topic chosen from the student&rsquo;s work environment.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 3", 
+            "prerequisites": [
+                "ENGI-1241"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "003W"
+        }, 
+        "ENGI-1243": {
+            "PR": "ENGI 003W", 
+            "courseDescription": "requires a student to engage in various facets of engineering, such as design, analysis, project management, specifications, plans, formal proposals, tender documents, etc. Participation in the student's selected engineering discipline is expected. A student should continue to gain an appreciation of the use and importance of acquired analytical skills in engineering analysis as well as the application of specifications and codes. A student should have a level of responsibility commensurate with his/her academic background and experience. The communications component for Work Term 4 consists of an oral presentation and written summary on a technical subject taken from the student&rsquo;s work environment.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 4", 
+            "prerequisites": [
+                "ENGI-1242"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "004W"
+        }, 
+        "ENGI-1241": {
+            "PR": "ENGI 001W , ENGI 3101", 
+            "courseDescription": "requires a student to contribute positively to the engineering design and problem solving processes practised in the work environment. A student is expected to show greater independence and responsibility and function as a more effective team member than in Work Term 1. An ability to deal, under supervision, with complex work-related concepts and problems should also be demonstrated. A student can become better acquainted with his/her chosen discipline, and the attitudes, responsibilities, and ethics normally expected of engineers. The communications component for Work Term 2 consists of a formal, descriptive technical report on a topic chosen from the student&rsquo;s work environment.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 2", 
+            "prerequisites": [
+                "ENGI-1237", 
+                "ENGI-1253"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "002W"
+        }, 
+        "ENGI-1246": {
+            "courseDescription": "are offered during the Fall and Winter semesters prior to a student&rsquo;s first work term. These seminars introduce the co-operative education process and prepare the student for work terms. These seminars are graded PAS or FAL.", 
+            "CH": "0", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Professional Development Seminars", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "200W"
+        }, 
+        "ENGI-1244": {
+            "PR": "ENGI 004W", 
+            "courseDescription": "requires a student to engage in various facets of engineering, such as design, analysis, project management, specifications, plans, formal proposals, tender documents, etc. Participation in his/her selected engineering discipline is expected. A student should continue to gain an appreciation of the use and importance of acquired analytical skills in engineering analysis as well as the application of specifications and codes. A student should have a level of responsibility commensurate with his/her academic background and experience. The communications component for Work Term 5 consists of a written report or oral presentation on a topic chosen from the student&rsquo;s work environment.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 5", 
+            "prerequisites": [
+                "ENGI-1243"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "005W"
+        }, 
+        "ENGI-1245": {
+            "PR": "ENGI 005W", 
+            "courseDescription": "requires a student to engage in various facets of engineering, such as design, analysis, project management, specifications, plans, formal proposals, tender documents, etc. Participation in his/her selected engineering discipline is expected. A student should continue to gain an appreciation of the use and importance of acquired analytical skills in engineering analysis as well as the application of specifications and codes. A student should have a level of responsibility commensurate with his/her academic background and experience. The communications component for Work Term 6 consists of a written report or oral presentation on a topic chosen from the student&rsquo;s work environment.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 6", 
+            "prerequisites": [
+                "ENGI-1244"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "006W"
+        }, 
+        "ENGI-1237": {
+            "PR": "ENGI 200W", 
+            "courseDescription": "represents, for most students, the first experience in an engineering or related work environment. A student is expected to learn, develop and practise the basic standards of behaviour, discipline and performance normally found in a professional work environment. A student is expected to learn the basics of technical writing and to become familiar with the various communications tools used in a technical work environment. The communications component for Work Term 1 will include a daily diary and a written document.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Work Term 1", 
+            "prerequisites": [
+                "ENGI-1246"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "001W"
+        }
+    }
+}

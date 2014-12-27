@@ -1,0 +1,538 @@
+{
+    "ECON": {
+        "ARTS-5786": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is an advanced course in open economy macroeconomics covering balance of payments adjustment under fixed and flexible exchange rates; exchange rate movements and capital movements; the international monetary system; interdependence in the world economy.", 
+            "concurrent": [], 
+            "courseTitle": "International Monetary Problems", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4031"
+        }, 
+        "ARTS-5787": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Economics of Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4040"
+        }, 
+        "ARTS-5784": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is an analysis of the theory of taxation. Relationship to resource allocation and distribution of income. Incentive effects of taxation. Tax incidence. Tax structure in Canada at federal, provincial and local levels.", 
+            "concurrent": [], 
+            "courseTitle": "Taxation", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ECON 4020", 
+            "courseNumber": "4026"
+        }, 
+        "ARTS-5785": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is pure theory of trade, commercial policy, price discrimination and cartels, commercial policy for developing countries and the customs union.", 
+            "concurrent": [], 
+            "courseTitle": "International Trade", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4030"
+        }, 
+        "ARTS-7498": {
+            "PR": "ECON 2010", 
+            "courseDescription": "examines microeconomic choices made outside perfectly competitive markets. Its topics include areas to which choice theory has been applied, for example, the economics of labour, marriage, sport, entertainment, crime, gambling, and the consumption of addictive goods.", 
+            "concurrent": [], 
+            "courseTitle": "Applications of Choice Theory", 
+            "prerequisites": [
+                "ARTS-5759"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3670"
+        }, 
+        "ARTS-5783": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is an analysis of the theory of public expenditure. Relationship to resource allocation and distribution of income. Market failure and the rationale for government intervention. Theory of public goods. Public choice mechanisms. Expenditure patterns in Canada. Public sector budgeting. Public enterprise pricing and investment rules. Introduction to cost-benefit analysis.", 
+            "concurrent": [], 
+            "courseTitle": "Public Expenditure", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ECON 4020", 
+            "courseNumber": "4025"
+        }, 
+        "ARTS-5780": {
+            "PR": "ECON 2550 , 3000 , 3001 , 3010", 
+            "courseDescription": "is an advanced treatment of theoretical and applied microeconomic theory, including topics such as intertemporal choice, risk and information, game theory and competitive strategy, index numbers, public goods, externalities, input-output analysis, linear programming, duality theory and empirical microeconomic studies.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Microeconomic Analysis", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5764", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-5781": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Economics of Development in Less Developed Countries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-5788": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Inflation: Theory and Policy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4050"
+        }, 
+        "ARTS-5789": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is Alfred Marshall to Keynes. A study in the evolution of marginalism. Emphasis will be placed on the Economics of Marshall and Keynes. Institutional Economics, a parallel development, is also considered.", 
+            "concurrent": [], 
+            "courseTitle": "Development of Economic Thought II", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4061"
+        }, 
+        "ARTS-5815": {
+            "PR": "Admission to the Co-operative Education Option of the Bachelor of Arts or Bachelor of Science degree programs and successful completion of Academic Term 5.", 
+            "courseDescription": "follows the successful completion of Academic Term 5. Students should have sufficient academic grounding and work experience to contribute in a positive manner to the problem-solving and management processes needed and practiced in the work environment. Students should become better acquainted with their discipline of study, should observe and appreciate the attitudes, responsibilities, and ethics normally expected of professionals and should exercise greater independence and responsibility in their assigned work functions.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499W"
+        }, 
+        "ARTS-5782": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Economic Planning and Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4011"
+        }, 
+        "ARTS-5806": {
+            "PR": "Admission to the Co-operative Education Option of the Bachelor of Arts or Bachelor of Science degree programs and successful completion of Academic Term 2.", 
+            "courseDescription": "follows the successful completion of Academic Term 2. For most students, it represents their first work experience in a professional environment and as such represents their first opportunity to evaluate their choice of pursuing a career in Economics. Students are expected to learn, develop and practice the high standards of behaviour and performance normally expected in the work environment. (A detailed description of each job is normally posted during the job competition.)", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "299W"
+        }, 
+        "ARTS-7499": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is Adam Smith to Karl Marx. A study in the development of Classical Economics with emphasis on the contributions of Smith, Malthus, Ricardo, Mill and Marx.", 
+            "concurrent": [], 
+            "courseTitle": "Development of Economic Thought I", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4060"
+        }, 
+        "ARTS-5801": {
+            "PR": "ECON ECON 2550 , 3000 , 3010 , 4550", 
+            "courseDescription": "covers further problems in econometric theory and technique: multicollinearity, autocorrelation, nonlinear estimation, and the identification and estimation of systems of equations. Published empirical research will be discussed and each student will be expected to perform an original empirical study.", 
+            "concurrent": [], 
+            "courseTitle": "Econometrics II", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765", 
+                "ARTS-5800"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4551"
+        }, 
+        "ARTS-5800": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "covers estimation of the general linear regression model with emphasis on fundamental theory and examples from published empirical research.", 
+            "concurrent": [], 
+            "courseTitle": "Econometrics I", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4550"
+        }, 
+        "ARTS-5802": {
+            "PR": "ECON 2550 , 3000 , 3010 and admission to the Honours program.", 
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-5820": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is the basic microeconomic theory course; consumer demand, indifference curve analysis, theory of production and cost, factor substitution, and the theory of the firm under perfect competition and monopoly.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Micro Theory I", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-5777": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Economic History to the End of the 19th Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3620"
+        }, 
+        "ARTS-5776": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "International Economic History of the 19th and 20th Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3610"
+        }, 
+        "ARTS-5775": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Revolutions of the 18th and 19th Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-5774": {
+            "PR": "ECON 2010 , 2020 , and 3550", 
+            "courseDescription": "covers integral calculus, difference and differential equations, with applications to Economics.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Economics II", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761", 
+                "ARTS-5773"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3551"
+        }, 
+        "ARTS-5773": {
+            "PR": "ECON 2010 , 2020 , and Mathematics 1000 or equivalent with a \"B\" standing, or Mathematics 2050", 
+            "courseDescription": "examines linear algebra and differential calculus, with applications to economics.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Economics I", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761", 
+                "SCI-1337", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3550"
+        }, 
+        "ARTS-5772": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is an intermediate course concentrating on Canadian labour issues. The course investigates the labour market decisions that workers face and the influence of government decisions. Course topics also include factors affecting a firm's demand for labour, wage determination in non-union market, the role of unions, the various structure of wages and wage differentials in the Canadian setting.", 
+            "concurrent": [], 
+            "courseTitle": "Labour Market Economics", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ECON 4360", 
+            "courseNumber": "3360"
+        }, 
+        "ARTS-5771": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "examines the operation of the money and banking system, with special emphasis on Canadian problems. Monetary theory will be treated in relation to income theory and foreign trade.", 
+            "concurrent": [], 
+            "courseTitle": "Money and Banking", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-5770": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Economic Analysis in Health Care", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3140"
+        }, 
+        "ARTS-5759": {
+            "courseDescription": "examines scarcity and opportunity cost. Demand and supply. Elasticity. Household demand: marginal utility. Household demand: indifference curves. Production functions. Short-run and long-run cost functions. Perfect competition in the short run and the long run. Monopoly.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Microeconomics I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-5779": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is (I.) federal-provincial-municipal fiscal relations in Canada: intergovernmental tax agreements and equalization payments. (II.) Co-operative federalism: shared-cost programs and opting-out arrangements. (III.) Intergovernmental bargaining in the following issue areas: tax reform; administration of justice; welfare policy; post-secondary education.", 
+            "concurrent": [], 
+            "courseTitle": "Intergovernmental Relations", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Political Science 3711", 
+            "courseNumber": "3711"
+        }, 
+        "ARTS-5778": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Economic History in the 20th Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3630"
+        }, 
+        "ARTS-5795": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Organization and Public Policy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-5794": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is an introduction to some of the theoretical economic problems and practical solutions involved in the exploration, development and production phases of mineral and petroleum mining in Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Mineral and Petroleum Economics", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4090"
+        }, 
+        "ARTS-5797": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Health Economics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4140"
+        }, 
+        "ARTS-5796": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "investigates some current criteria of welfare theory found in the literature and then outlines the principles used in measuring changes in consumer and producer welfare. The theory of cost benefit analysis is examined and then the principles are applied to a variety of projects, some of which are proposed to take place in Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Welfare Economics and Cost Benefit Analysis", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4120"
+        }, 
+        "ARTS-5791": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Forestry Economics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4070"
+        }, 
+        "ARTS-5793": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "is an advanced treatment of the environmental consequences of economic activities and the associated policy issues.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Environmental Economics", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4085"
+        }, 
+        "ARTS-5792": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Fisheries Economics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4080"
+        }, 
+        "ARTS-5799": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Labour Market Theory and Income Distribution", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4361"
+        }, 
+        "ARTS-5798": {
+            "PR": "ECON 2550 , 3000 , 3010", 
+            "courseDescription": "examines empirical studies in money. Readings in current literature. Monetary theory with applications to problems of employment and foreign trade.", 
+            "concurrent": [], 
+            "courseTitle": "Monetary Theory", 
+            "prerequisites": [
+                "ARTS-5763", 
+                "ARTS-5820", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "ARTS-5768": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is an analysis of the structure of the economy of Newfoundland. Basic economic theory will be applied to current economic issues and problems in Newfoundland.", 
+            "concurrent": [], 
+            "courseTitle": "The Structure and Problems of the Newfoundland Economy", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3070"
+        }, 
+        "ARTS-5769": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is application of economic analysis to renewable and nonrenewable natural resource industries such as the fishery, forestry, and mining. Emphasis is given to the criteria for optimal resource use under various market structures and their implications for public policy. Issues of environmental resource management and pollution control will also be covered.", 
+            "concurrent": [], 
+            "courseTitle": "Natural Resource and Environmental Economics", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3080"
+        }, 
+        "ARTS-5760": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Microeconomics II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2015"
+        }, 
+        "ARTS-5761": {
+            "courseDescription": "covers national income accounting, aggregate income analysis, money, banking and foreign trade.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Macroeconomics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-5762": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Structure and Problems of the Newfoundland Economy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2070"
+        }, 
+        "ARTS-5763": {
+            "PR": "ECON 2010 , 2020 , and Statistics 2500 or equivalent", 
+            "courseDescription": "is an analysis of economic statistics and the use of economic data. A course designed to introduce students to the task of economic data collection, description and analysis. Emphasis will be on interpretation and analysis of data using computer software programs.", 
+            "concurrent": [], 
+            "courseTitle": "Economic Statistics and Data Analysis", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761", 
+                "SCI-3079"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2550"
+        }, 
+        "ARTS-5764": {
+            "PR": "ECON 2010 , 2020 , and 3000", 
+            "courseDescription": "is a continuation of basic microeconomic theory; the theory of imperfect competition, theory of factor pricing under various market structures, general equilibrium and welfare economics.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Micro Theory II", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761", 
+                "ARTS-5820"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-5765": {
+            "courseDescription": "is aggregate analysis including consumer, investment, government and international sectors, the role of money, determinants of aggregate supply, and the effects of autonomous behavioural changes and fiscal and monetary policies on unemployment, price levels and the balance of payments.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Macro Theory I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-5766": {
+            "PR": "ECON 2010 , 2020 , and 3010", 
+            "courseDescription": "is a consideration of modern theories of macroeconomics, dynamics, empirical evidence and simulation of the national economy. Emphasis on the availability and effectiveness of government policy instruments.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Macro Theory II", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761", 
+                "ARTS-5765"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3011"
+        }, 
+        "ARTS-5767": {
+            "PR": "ECON 2010 and 2020", 
+            "courseDescription": "is an intermediate course in international economics. The course covers the theory of comparative advantage, the structure and policy issues of the Canadian balance of payments, the foreign exchange market and the institutional aspects of international commerce.", 
+            "concurrent": [], 
+            "courseTitle": "International Economics - Issues and Problems in a Canadian Context", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3030"
+        }, 
+        "ARTS-5810": {
+            "PR": "Admission to the Co-operative Education Option of the Bachelor of Arts or Bachelor of Science degree programs and successful completion of Academic Term 4.", 
+            "courseDescription": "follows the successful completion of Academic Term 4. Students are expected to further develop and expand their knowledge and work-related skills and should be able to accept increased responsibility and challenge. In addition, students are expected to demonstrate an ability to deal with increasingly complex work-related concepts and problems. The Work Report, as a minimum requirement should", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }
+    }
+}

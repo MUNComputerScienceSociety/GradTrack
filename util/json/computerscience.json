@@ -1,0 +1,810 @@
+{
+    "COMP": {
+        "SCI-1083": {
+            "PR": "COMP 3719", 
+            "courseDescription": "is an in-depth study of various types of formal machines and their associated languages. Effective computability and other formalisms, such as lambda calculus will be studied as well.", 
+            "concurrent": [], 
+            "courseTitle": "Formal Languages and Computability", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "CR": "the former COMP 3740", 
+            "courseNumber": "4741"
+        }, 
+        "SCI-1082": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Numerical Computations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4736-4739"
+        }, 
+        "SCI-1081": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Matrix Computations and Applications", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4735"
+        }, 
+        "SCI-1080": {
+            "PR": "COMP 3731", 
+            "courseDescription": "is an introduction to linear algebra; solution to linear systems; scaling, improving and estimating accuracy; the linear least squares problem; the eigenvalue problem; singular value decomposition of a matrix; the generalized eigenvalue problem.", 
+            "concurrent": [], 
+            "courseTitle": "Matrix Computations and Applications", 
+            "prerequisites": [
+                "SCI-1061"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4734"
+        }, 
+        "SCI-1087": {
+            "PR": "COMP 3719 and Mathematics 2050", 
+            "courseDescription": "examines display devices, display processors, display file compilers, display transformations, structured display files, graphical input devices, perspective, hidden line elimination, languages and graphics systems.", 
+            "concurrent": [], 
+            "courseTitle": "Computer Graphics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4751"
+        }, 
+        "SCI-1038": {
+            "PR": "COMP 2710 . It is recommended that students complete COMP 2742 prior to registering for COMP 2711", 
+            "courseDescription": "includes the study of standard ways of organizing and manipulating data in computer storage. Fundamental concepts in the design and analysis of algorithms are also discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Algorithms and Data Structures", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1037", 
+                "SCI-1040"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2711"
+        }, 
+        "SCI-1085": {
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Theoretical Aspects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4745-4749 (Excluding 4748)"
+        }, 
+        "SCI-1084": {
+            "PR": "COMP 3719", 
+            "courseDescription": "is an in-depth discussion of computational complexity theory. Topics covered in the course include: models of computation (for both serial and parallel computations); complexity measures; reducibility; complexity classes (NP, PSPACE, NC, LOGSPACE and P); and randomized computations.", 
+            "concurrent": [], 
+            "courseTitle": "Computational Complexity", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4742"
+        }, 
+        "SCI-1065": {
+            "PR": "Mathematics 2050 , and one of COMP 2602 or 2710", 
+            "courseDescription": "is an introduction to the Linear Programming Problem (LPP). The emphasis is placed upon developing the most recent and numerically reliable algorithms for the solution of the Linear Programming Problem. The numerical stability of these algorithms will be examined as well. Geometric understanding of the LPP. Simplex method for the LPP. Sparse matrix LPP. Duality and postoptimality analysis. Extensions to the simplex algorithm. Principles of interior algorithms for the LPP.", 
+            "concurrent": [], 
+            "courseTitle": "Computational Aspects of Linear Programming", 
+            "prerequisites": [
+                "SCI-1356", 
+                "SCI-1033", 
+                "SCI-1037"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3753"
+        }, 
+        "SCI-1064": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Computational Aspects of Operations Research", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3751"
+        }, 
+        "SCI-3245": {
+            "PR": "Biology 2060 or Biochemistry 2101 , and one Computer Science course at the 1000-level or above excluding COMP 1600 and COMP 2000 ; or COMP 2500 or COMP 2710 , and one Biology course at the 1000-level or above excluding Biology 2040 and Biology 2041 ; or permission of the course instructor", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-3243"
+            ], 
+            "courseTitle": "Introduction to Bioinformatics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0692", 
+                "SCI-1967", 
+                "SCI-2990", 
+                "SCI-2079", 
+                "SCI-1037", 
+                "SCI-0775", 
+                "SCI-0777"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 3951", 
+            "courseNumber": "3550"
+        }, 
+        "SCI-1066": {
+            "PR": "COMP 2711 and COMP 2742", 
+            "courseDescription": "introduces students to application areas that are away from usual number-based and text-based processing. Students will learn the basic concepts and become aware of the historical developments and social and ethical issues related to the application areas such as intelligent systems and information management. This exposure will help students to become knowledgeable about managing large volumes of data and dealing with problems that are well defined but whose algorithmic solutions are not feasible or problems that are fuzzily defined.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Information and Intelligent Systems", 
+            "prerequisites": [
+                "SCI-1038", 
+                "SCI-1040"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3754"
+        }, 
+        "SCI-1061": {
+            "PR": "Mathematics 2000 and Mathematics 2050 , and one of COMP 2602 or COMP 2710", 
+            "courseDescription": "main objectives are the development of algorithms for the numerical solution of mathematical problems and the study of the numerical stability of these algorithms. The efficiency of these algorithms with respect to speed and storage requirements is considered as well. Emphasis is also placed on the study of the sensitivity of selected problems to perturbations in the data. There is also a brief introduction to the development of numerical algorithms that take advantage of advanced computer architectures, such as pipeline processors, array processors and parallel processors.", 
+            "concurrent": [
+                "SCI-1378"
+            ], 
+            "courseTitle": "Introduction to Scientific Computing", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1356", 
+                "SCI-1033", 
+                "SCI-1037"
+            ], 
+            "corequisites": [], 
+            "CR": "Mathematics 3132", 
+            "courseNumber": "3731"
+        }, 
+        "SCI-1060": {
+            "PR": "COMP 3724", 
+            "courseDescription": "covers system design and the architectural implementations of these designs. The objective is to develop the basic concepts of processor design, memory management, operating systems, and I/O devices and their interactions.", 
+            "concurrent": [], 
+            "courseTitle": "Computer Architecture and Operating Systems", 
+            "prerequisites": [
+                "SCI-1059"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3725"
+        }, 
+        "SCI-1047": {
+            "PR": "admission to the Computer Industry Internship Option (CIIO)", 
+            "courseDescription": "is a course for students who are admitted to CIIO. Students are required to register for this non-credit course every semester during their internship. This course is open only to students who have been accepted into the Internship Program and provides an opportunity for qualified students to obtain rewarding job experience of 8, 12 or 16 months of continuous duration, during the course of their studies.", 
+            "CH": "0", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Experience", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3700"
+        }, 
+        "SCI-3548": {
+            "PR": "Biology 3951 or COMP 3550 , and Statistics 2550 (or equivalent), or permission of the course instructor", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-3547"
+            ], 
+            "courseTitle": "Bioinformatics: Biological Data Analysis", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-3243", 
+                "SCI-3245", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4606", 
+            "courseNumber": "4550"
+        }, 
+        "SCI-2602": {
+            "PR": "COMP 2760 , COMP 3715 and COMP 3716", 
+            "courseDescription": "focuses on the design and implementation of software in a mobile networking environment. The primary topics to be covered in this course include software engineering, network computing, graphics programming, and human-computer interaction for mobile devices. A modern mobile device with advanced networking and graphic features, including multi-touch interaction and motion sensors will be used as the primary platform for development in this course.", 
+            "concurrent": [], 
+            "courseTitle": "Software Development for Mobile Devices", 
+            "LH": "One and one-half hours per week", 
+            "prerequisites": [
+                "SCI-1042", 
+                "SCI-1052", 
+                "SCI-1053"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4768"
+        }, 
+        "SCI-3565": {
+            "PR": "COMP 1510 or COMP 1550 or COMP 1700 or COMP 1710 or COMP 2650", 
+            "courseDescription": "covers tools, work flows and concepts used in software development in a concentrated introductory set of topics. The essential work flows (with their underlying concepts) used to edit, build, test, combine with existing software and find existing software are introduced. The tools covered include text editors, programming language translators, file management tools, debuggers, scripting tools, source control tools, and building, testing and deployment tools. The architecture and use of an Integrated Development Environment are discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Development Tools, Work Flows and Concepts", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1965", 
+                "SCI-3373", 
+                "SCI-1028", 
+                "SCI-1029", 
+                "SCI-1035"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2718"
+        }, 
+        "SCI-1043": {
+            "PR": "Level III Advanced Mathematics or Mathematics 1000 or Mathematics 1090 (or equivalent)", 
+            "courseDescription": "introduces students to computer applications in business, document processing, application development, decision support, and information management. A three hour laboratory is required.", 
+            "CO": "Mathematics 1000", 
+            "concurrent": [
+                "SCI-1967", 
+                "SCI-1035", 
+                "SWGC-1959"
+            ], 
+            "courseTitle": "Introductory Computing for Business", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1337", 
+                "SCI-1352"
+            ], 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "CR": "COMP 1600 , COMP 2650 , or Business 2700", 
+            "courseNumber": "2801"
+        }, 
+        "SCI-1042": {
+            "PR": "two 1000-level English courses, or equivalent", 
+            "courseDescription": "examines social, ethical, legal and cultural issues surrounding the use of computers in modern society. These broader social issues are followed by an examination of the use of social and individual psychology in user interface design. Students will be expected to demonstrate an understanding of these issues both directly (through verbal and written discourse) and practically, as applied to the creation of actual software artifacts.", 
+            "CO": "COMP 2710", 
+            "concurrent": [], 
+            "courseTitle": "Encountering the Computer: Society and the Individual", 
+            "prerequisites": [], 
+            "corequisites": [
+                "SCI-1037"
+            ], 
+            "courseNumber": "2760"
+        }, 
+        "SCI-1041": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Business Data Processing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2752"
+        }, 
+        "SCI-1040": {
+            "PR": "COMP 1710 and Mathematics 1000", 
+            "courseDescription": "is an introduction to propositional and predicate logic with applications. The use of the system of boolean logic in reasoning and circuit design, as well as basic proof techniques and the resolution principle, for both propositional and predicate logic, will be covered. Concepts involving sets will be used to illustrate different types of proof techniques. The probable intractability of boolean logic and Goedel's incompleteness theorem will be presented.", 
+            "concurrent": [], 
+            "courseTitle": "Logic for Computer Science", 
+            "prerequisites": [
+                "SCI-1029", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2742"
+        }, 
+        "SCI-1029": {
+            "courseDescription": "is an introduction to fundamental programming techniques, primitive data types and operations, program control structures and the use of objects, classes and methods.", 
+            "concurrent": [
+                "SCI-1037"
+            ], 
+            "courseTitle": "Object-Oriented Programming I", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "if previously completed or currently registered for COMP 2710", 
+            "courseNumber": "1710"
+        }, 
+        "SCI-1028": {
+            "courseDescription": "lays the foundation for the art and the science of computing. The course contains fundamental and topical issues in computers, languages, programming and applications. This course is designed for potential Computer Science majors without a background in programming, but is also available for non majors.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Computer Science", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1700"
+        }, 
+        "SCI-2250": {
+            "PR": "COMP 3719 and COMP 3754", 
+            "courseDescription": "provides an introduction to four of the fundamental computational intelligence methods: artificial neural networks, evolutionary computation, swarm intelligence and fuzzy systems. The integration of these techniques for problem solving will also be introduced.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Computational Intelligence", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1066"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4752"
+        }, 
+        "SCI-3549": {
+            "PR": "COMP 3719 and COMP 3724", 
+            "courseDescription": "studies properties of formal grammars and languages; syntax-directed parsing and code generation; top-down and bottom-up parsing methods; LL(k) and LR(k) grammars and parsers; Code optimization; compiler writing tools.", 
+            "concurrent": [], 
+            "courseTitle": "Compiler Construction", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1059"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4712"
+        }, 
+        "SCI-1048": {
+            "PR": "COMP 2711", 
+            "courseDescription": "is a study of several programming languages of vocational significance. The use of appropriate programming paradigms to solve some significant problems will be illustrated.", 
+            "concurrent": [], 
+            "courseTitle": "Vocational Languages", 
+            "prerequisites": [
+                "SCI-1038"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3710"
+        }, 
+        "SCI-1093": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Human-Computer Interaction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4761"
+        }, 
+        "SCI-2082": {
+            "PR": "COMP 3719", 
+            "courseDescription": "discusses classical problems in combinatorial optimization and graph algorithms, including matching, colorability, independent sets, isomorphism, network flows and scheduling. Special families of graphs are discussed and algorithms that would otherwise be NP-hard or complete are shown to be polynomial time when restricted to such families.", 
+            "concurrent": [], 
+            "courseTitle": "Graph Algorithms and Combinatorial Optimization", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4743"
+        }, 
+        "SCI-1059": {
+            "PR": "COMP 2711 and COMP 2742", 
+            "courseDescription": "can be studied at the digital logic implementation level, the instruction set architecture level, and the translation of programming languages to the underlying machine instruction level. This course studies computer organization at these levels.", 
+            "CO": "Mathematics 2320", 
+            "concurrent": [], 
+            "courseTitle": "Computer Organization", 
+            "prerequisites": [
+                "SCI-1038", 
+                "SCI-1040"
+            ], 
+            "corequisites": [
+                "SCI-3062"
+            ], 
+            "courseNumber": "3724"
+        }, 
+        "SCI-1968": {
+            "PR": "Special topics courses are not offered on a regular basis, but whenever departmental resources permit. For these reasons, the prerequisites can vary each time the courses are offered.", 
+            "courseDescription": "will be offered as departmental resources permit.", 
+            "CO": "Special topics courses are not offered on a regular basis, but whenever departmental resources permit. For these reasons, the co-requisites can vary each time the courses are offered.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4800-4825"
+        }, 
+        "SCI-2431": {
+            "PR": "COMP 2711 , Mathematics 2000 , Mathematics 2050 , and Statistics 1510 or 2550 or the former Statistics 2510", 
+            "courseDescription": "examines the fundamental constraints, technologies, and algorithms of autonomous robotics. The focus of this course will be on computational aspects of autonomous wheeled mobile robots. The following topics will be covered: major paradigms in robotics, methods of locomotion, kinematics, simple control systems, sensor technologies, stereo vision, feature extraction, modelling uncertainty of sensors and positional information, localization, SLAM, obstacle avoidance, and 2-D path planning.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Autonomous Robotics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1038", 
+                "SCI-1354", 
+                "SCI-1356", 
+                "SCI-3078", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4766"
+        }, 
+        "SCI-3684": {
+            "PR": "COMP 1510 or COMP 1550 or COMP 1700 or COMP 1710 or Engineering 1020 , or equivalent", 
+            "courseDescription": "is a comprehensive treatment of the C/C++ programming languages. It is intended for students with some first programming experience. This course starts with a discussion of fundamentals of C and C++, moves on to the object-oriented aspects of C++, and introduces some advanced topics. It is an essential course for mastering the power of this rich programming language.", 
+            "concurrent": [
+                "ENGI-1261"
+            ], 
+            "courseTitle": "Programming in C/C++", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1965", 
+                "SCI-3373", 
+                "SCI-1028", 
+                "SCI-1029", 
+                "ENGI-1248"
+            ], 
+            "corequisites": [], 
+            "CR": "Engineering 3891", 
+            "courseNumber": "2510"
+        }, 
+        "SCI-1965": {
+            "PR": "Mathematics 1000", 
+            "courseDescription": "introduces students to basic programming in the context of numerical methods with the goal of providing the foundation necessary to handle larger scientific programming projects. Numerical methods to solve selected problems from Physics, Chemistry, and Mathematics will be covered.", 
+            "concurrent": [
+                "SCI-1033"
+            ], 
+            "courseTitle": "An Introduction to Programming for Scientific Computing", 
+            "LH": "2", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "COMP 2602 , the former Mathematics 2120", 
+            "courseNumber": "1510"
+        }, 
+        "SCI-1967": {
+            "courseDescription": "offers an overview of computers and information technology. It provides students with the knowledge necessary to answer questions, such as: What is a computer system? How does it work? How is it used? This is done through the use of popular spreadsheet, word processing and database software packages and the Internet. Social issues and implications will also be included.", 
+            "concurrent": [
+                "SWGC-1959", 
+                "SCI-1035", 
+                "SCI-1043"
+            ], 
+            "courseTitle": "Basic Computing and Information Technology", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Business 2700 , COMP 2650 or COMP 2801", 
+            "courseNumber": "1600"
+        }, 
+        "SCI-1078": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to LSI Design", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4725"
+        }, 
+        "SCI-1091": {
+            "PR": "COMP 3719", 
+            "courseDescription": "will centre on the key analytical and algorithmic tools and concepts of digital image processing. Topics will include Transformations, Enhancement, Encoding, Data Bases, Segmentation and Description.", 
+            "concurrent": [], 
+            "courseTitle": "Image Processing", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4756"
+        }, 
+        "SCI-1067": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Readings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3790"
+        }, 
+        "SCI-1079": {
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Computer Systems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4726-4729"
+        }, 
+        "SCI-1094": {
+            "PR": "COMP 3719", 
+            "courseDescription": "will give an overview of computational problems and algorithms for these problems associated with a variety of analyses of biological molecular data.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Computational Molecular Biology", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4762"
+        }, 
+        "SCI-1095": {
+            "PR": "COMP 3715 , COMP 3716 , COMP 3724 , and COMP 3754", 
+            "courseDescription": "has as its main objective to develop a working prototype of a software system as a team effort. A group of students will work on a project for a term, experiencing the advantages and difficulties of team projects.", 
+            "concurrent": [], 
+            "courseTitle": "Team Project", 
+            "prerequisites": [
+                "SCI-1052", 
+                "SCI-1053", 
+                "SCI-1059", 
+                "SCI-1066"
+            ], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "4770"
+        }, 
+        "SCI-1096": {
+            "PR": "admission to the honours program and permission of the Head of Department", 
+            "courseDescription": "introduces computer science honours students to research activities, familiarizes them with a special problem in computer science, and provides independent study on an advanced topic under the direct supervision of a member of the computer science faculty. The topic is decided in consultation with the supervisor. The student is required to produce a written report on the project, to include the literature search on the topic, and to present this work at a departmental seminar prior to the last week of the semester.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Project", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4780"
+        }, 
+        "SCI-1072": {
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Programming Languages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4715 and 4717"
+        }, 
+        "SCI-1076": {
+            "PR": "COMP 3725", 
+            "courseDescription": "studies the design and implementation of an operating system&rsquo;s kernel. The main components used in operating system implementations include: context switches, process management, memory management, interprocess communication, file systems and system calls. The data structures and algorithms used in implementing the above components are studied. The different architectural styles of kernel implementation are also considered. Real-time operating systems are also discussed.", 
+            "concurrent": [
+                "ENGI-1385"
+            ], 
+            "courseTitle": "Operating Systems", 
+            "prerequisites": [
+                "SCI-1060"
+            ], 
+            "corequisites": [], 
+            "CR": "Engineering 8894", 
+            "courseNumber": "4721"
+        }, 
+        "SCI-1070": {
+            "PR": "COMP 3719 and COMP 3724", 
+            "courseDescription": "covers programming language design considerations; syntactic and semantic structure; survey of typical features and operations; analysis of facilities for control and data structuring; language extensibility; execution models; formal specification of programming languages.", 
+            "concurrent": [], 
+            "courseTitle": "Structure of Programming Languages", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1059"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4711"
+        }, 
+        "SCI-2990": {
+            "courseDescription": "is a survey of computation as a means of understanding, modelling, and describing artificial and natural systems. The emergence of complex behaviour from the interaction of simple rules governing individual components is illustrated and discussed, as well as the role of communication between system components. Selected systems to be studied will be drawn from different topic areas which may include the worldwide web, the mind (cognitive science), formal logic, autonomous robotics, chaos and fractals, and bioinformatics. Each topic will incorporate an associated laboratory experience.", 
+            "concurrent": [], 
+            "courseTitle": "Collaborative and Emergent Behaviour", 
+            "LH": "3 hours bi-weekly", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "SCI-1077": {
+            "PR": "COMP 3724", 
+            "courseDescription": "examines the architecture and instruction sets for several microprocessors. The use of microprocessors as device controllers; comparisons of hardware and programmed techniques; microprocessor interfacing with external devices; methods of I/O; bus structures; modern microprocessor support devices are discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Microprocessors", 
+            "LH": "Minimum of three hours per week. Practical experience with basic principles will be obtained through laboratory experience.", 
+            "prerequisites": [
+                "SCI-1059"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4723"
+        }, 
+        "SCI-1074": {
+            "PR": "COMP 3716", 
+            "courseDescription": "surveys the major topics of software engineering. Areas covered include: requirements capture, system design and design approaches, verification and validation (including formal methods and testing), and management of the software development process.", 
+            "concurrent": [], 
+            "courseTitle": "Survey of Software Engineering", 
+            "prerequisites": [
+                "SCI-1053"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4718"
+        }, 
+        "SCI-1075": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Software Specification", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4719"
+        }, 
+        "SCI-1054": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Symbolic Computation and Recursion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3717"
+        }, 
+        "SCI-1055": {
+            "PR": "COMP 2711", 
+            "courseDescription": "demonstrates the tools and techniques used in the construction of small software systems. The software tools and techniques to be covered include analysis and design of software components, software construction tools (e.g. linkers, builders, debuggers), software library use and design, and system integration.", 
+            "concurrent": [], 
+            "courseTitle": "Programming in the Small", 
+            "prerequisites": [
+                "SCI-1038"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3718"
+        }, 
+        "SCI-1056": {
+            "PR": "COMP 2711 and Mathematics 2320", 
+            "courseDescription": "is an introduction to formal algorithmic problem solving. Various algorithm design techniques that sometimes yield efficient solutions are studied. Deterministic and nondeterministic machines (finite state automata, pushdown automata and Turing machines) are discussed and used to efficiently solve problems such as the String Matching Problem, the parsing of Context-free Languages, and to introduce the theory of NP-completeness. In addition, Turing machines are used to prove the unsolvability of certain problems. Tractable, intractable and undecidable problems are contrasted. Basic issues related to parallelization are discussed as well.", 
+            "concurrent": [], 
+            "courseTitle": "Theory of Computation and Algorithms", 
+            "prerequisites": [
+                "SCI-1038", 
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "CR": "the former COMP 3711 and the former COMP 3740", 
+            "courseNumber": "3719"
+        }, 
+        "SCI-1051": {
+            "PR": "COMP 3719 and 3724", 
+            "courseDescription": "reviews typical elements of (imperative) programming languages, and then discusses language implementations in the form of compilers and interpreters. The topics include specification of syntax and semantics of programming languages, discussion of expressions and assignments, side effects, control structures, data and procedural abstractions, parameter passing mechanisms, bindings, scopes, and type systems. The recursive-descent technique is used for illustrations of different aspects of syntax analysis, code generation and error recovery. Language interpreters are discussed for both low-level and high-level languages.", 
+            "concurrent": [], 
+            "courseTitle": "Programming Languages and their Processors", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1059"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3714"
+        }, 
+        "SCI-1052": {
+            "PR": "COMP 2711", 
+            "courseDescription": "studies how distributed applications (e.g., client/server Web applications) are constructed using the Internet. Topics covered include: the socket interface for network communication, client/server applications, browser scripting using Javascript, content generation for web applications (e.g., jsp, php), html/css documents, and the use of cryptography to handle security.", 
+            "concurrent": [], 
+            "courseTitle": "Network Computing with WEB Applications", 
+            "prerequisites": [
+                "SCI-1038"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3715"
+        }, 
+        "SCI-1053": {
+            "PR": "COMP 2711", 
+            "courseDescription": "studies the development of software by gathering the requirements of the software program, analysing the requirements to create a development model, and creating the software and documents for the software product. This course studies techniques for all three software development activities.", 
+            "concurrent": [], 
+            "courseTitle": "Software Methodology", 
+            "prerequisites": [
+                "SCI-1038"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3716"
+        }, 
+        "SCI-1037": {
+            "PR": "COMP 1710 and Mathematics 1000", 
+            "courseDescription": "continues from Object-Oriented Programming I, and studies object-oriented and event-driven programming. Additional topics include: recursion, basic analysis of algorithms, fundamental data structures such as simple linked structures and stacks, and fundamental computing algorithms such as binary search and quadratic time sorting. A brief overview of programming languages, virtual machines and language translations is also provided.", 
+            "concurrent": [], 
+            "courseTitle": "Object-Oriented Programming II", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1029", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2710"
+        }, 
+        "SCI-1086": {
+            "PR": "COMP 3719", 
+            "courseDescription": "is an exploration of the use of computers in the simulation of complex systems. Some theories and models, such as cellular automata, artificial life, fractals, genetic algorithms, chaos, and evolution will be discussed and will be used in the modelling of \"real-life\" systems. The approach in this course is practical. Students have to write a number of programs of different levels of sophistication including a final project.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the Science of Complexity", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4748"
+        }, 
+        "SCI-1035": {
+            "PR": "Level III Advanced Mathematics or Mathematics 1000 or Mathematics 1090 (or equivalent)", 
+            "courseDescription": "is an overview of tools and techniques that current computer technology offers in a PC based networked environment. The emphases are on conceptual understanding of the software, from exploring capabilities of the existing software tools to learning methods of extending these capabilities. The key topics include problem-solving strategies, visual programming, macro-language operations, object linking and embedding, digital communication, and developing interactive web pages. The course has a practical flavour. In structured laboratory sessions, students gain proficiency in using personal computers for solving common problems.", 
+            "CO": "Mathematics 1000", 
+            "concurrent": [
+                "SCI-1967", 
+                "SCI-1043"
+            ], 
+            "courseTitle": "Problem-Solving with Personal Computers", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1337", 
+                "SCI-1352"
+            ], 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "CR": "COMP 1600 , COMP 2801 , or the former Business 2700", 
+            "courseNumber": "2650"
+        }, 
+        "SCI-1058": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Logic Design", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3723"
+        }, 
+        "SCI-1033": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Computer Programming in FORTRAN", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2602"
+        }, 
+        "SCI-2080": {
+            "PR": "COMP 3719", 
+            "courseDescription": "will give an overview of techniques for the design of efficient optimal-solution and heuristic algorithms. It will include an introduction to various advanced data structures for set and string processing that are used to further optimize algorithm efficiency.", 
+            "concurrent": [], 
+            "courseTitle": "Design and Analysis of Algorithms", 
+            "prerequisites": [
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4740"
+        }, 
+        "SCI-2432": {
+            "PR": "COMP 2760 and COMP 3719", 
+            "courseDescription": "focuses on the design and implementation of interactive visualization techniques for the analysis, comprehension, exploration, and explanation of large collections of abstract information. Topics to be covered include principles of visual perception, information data types, visual encodings of data, representation of relationships, interaction methods, understanding user goals and tasks, and evaluation techniques. Case studies of accepted techniques and the current state-of-the-art in information visualization will be presented.", 
+            "concurrent": [], 
+            "courseTitle": "Information Visualization and Applications", 
+            "prerequisites": [
+                "SCI-1042", 
+                "SCI-1056"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4767"
+        }, 
+        "SCI-1092": {
+            "PR": "COMP 3715 and COMP 3725", 
+            "courseDescription": "looks at how the operation of computer networks requires the following: a) communication between two computers, b) information transfer between two computers not directly connected, and c) services that need computer communication. This course focuses on the standard solutions and services used to fulfill the previous requirements. These include: physical transmission of signals, reliable communication based on unreliable communication channels, the routing of messages between connected computers to reach computers that are not directly connected, e-mail, file transfer, name servers, remote terminal access and the World Wide Web. Particular attention will be placed on the workings of the Internet.", 
+            "concurrent": [], 
+            "courseTitle": "Computer Networks", 
+            "prerequisites": [
+                "SCI-1052", 
+                "SCI-1060"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4759"
+        }, 
+        "SCI-1089": {
+            "PR": "COMP 3725 and 3754", 
+            "courseDescription": "introduces students to database processing, database management systems and database design considerations. It will cover the theory and methodologies essential for the relational database design, implementation, manipulation, optimization and management.", 
+            "concurrent": [], 
+            "courseTitle": "Database Systems", 
+            "prerequisites": [
+                "SCI-1060", 
+                "SCI-1066"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4754"
+        }, 
+        "SCI-3373": {
+            "courseDescription": "is an introduction to programming and computer science with an emphasis on the development of multimedia applications. The course introduces the fundamental principles of programming, including object-oriented and event-driven programming, how to use and create classes and methods and combine them with multimedia libraries to produce animations, handle input from keyboard and mouse, and import sounds and videos to produce multimedia applications which can be directly deployed on the Internet.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Multimedia Application Development", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1550"
+        }, 
+        "SCI-1088": {
+            "PR": "COMP 3719 and 3754", 
+            "courseDescription": "has selected topics from AI programming languages; heuristic searching; problem solving; game-playing; knowledge representations; knowledge-based systems; reasoning in uncertainty situations; planning; natural language understanding; pattern recognition; computer vision; and machine learning.", 
+            "concurrent": [], 
+            "courseTitle": "Artificial Intelligence", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-1066"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4753"
+        }, 
+        "SCI-2079": {
+            "PR": "COMP 1510 or COMP 1700 or COMP 1710 or COMP 2602 (or equivalent)", 
+            "courseDescription": "introduces the use of scripting languages to solve common data analysis tasks. The control structures and expressions of the language are first discussed. Script solution to storing/retrieving data sets, searching data sets, and performing numeric and statistical calculation are covered. Plotting and visualization for data sets are also presented.", 
+            "concurrent": [], 
+            "courseTitle": "Data Analysis with Scripting Languages", 
+            "prerequisites": [
+                "SCI-1965", 
+                "SCI-1028", 
+                "SCI-1029", 
+                "SCI-1033"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2500"
+        }, 
+        "SCI-3695": {
+            "PR": "COMP 3719 and Statistics 1510", 
+            "courseDescription": "covers tasks involving human languages, such as speech recognition, text understanding, and keyword-based information retrieval which underlie many modern computing applications and their interfaces. To be truly useful, such natural language processing must be both efficient and robust. This course will give an introduction to the algorithms and data structures used to solve key NLP tasks, including utterance understanding and generation and language acquisition, in both of the major algorithmic paradigms used today (rule-based and statistical). The emphasis will be primarily on text-based processing though speech-based processing will be addressed where possible.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Natural Language Processing", 
+            "prerequisites": [
+                "SCI-1056", 
+                "SCI-3078"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4750"
+        }
+    }
+}

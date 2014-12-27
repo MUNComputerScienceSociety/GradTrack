@@ -1,0 +1,922 @@
+{
+    "NURS": {
+        "NURS-0419": {
+            "PR": "Statistics 1510 or 2500 or equivalent, or Education 2900 , and acceptance into the Bachelor of Nursing (Post-RN) Program or admission to the Bachelor of Technology Program", 
+            "courseDescription": "introduces students to the key terminology, elements, and processes of research. The focus will be on understanding the components of the research process, interpreting and critically analysing nursing and health-related research studies, and understanding the importance of utilizing research for evidence based practice. Students will have the opportunity to explore methodologies in both quantitative and qualitative research.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Nursing and Health Research", 
+            "prerequisites": [
+                "SCI-3078", 
+                "SCI-3079", 
+                "EDUC-0487"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4002"
+        }, 
+        "NURS-0418": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Transcultural Nursing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "NURS-0413": {
+            "PR": "proof of current practising license as a Registered Nurse or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "is designed to familiarize the student with theories, principles and methods of learning and teaching and to allow the student to apply them in client teaching situations.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching/Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2230"
+        }, 
+        "NURS-0412": {
+            "PR": "proof of current practising license as a Registered Nurse", 
+            "courseDescription": "focuses on the development of competencies needed to assess the health status of individuals. A systematic approach will be used for the collection and analysis of data related to the health status of the client. Interpretation of the health assessment findings and of the results of diagnostic tests will be discussed in the context of nurses&rsquo; responsibilities.", 
+            "concurrent": [
+                "NURS-0388"
+            ], 
+            "courseTitle": "Health Assessment", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "NURS 1014", 
+            "courseNumber": "2040"
+        }, 
+        "NURS-0415": {
+            "PR": "proof of current practising license as a Registered Nurse or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "is a comprehensive review of the physiology of the cell and major body systems. It assumes a basic understanding of physiology and provides the basis for concepts developed in NURS", 
+            "concurrent": [], 
+            "courseTitle": "Current Concepts in Human Physiology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2740"
+        }, 
+        "NURS-0414": {
+            "PR": "proof of current practising license as a Registered Nurse or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "is designed to introduce the students to the key concepts, conceptual models and selected theories of nursing. This is a required course for the Bachelor of Nursing (Post-RN) Program and may be used as an elective in the", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Theories in Practice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "NURS-0417": {
+            "PR": "acceptance into the Bachelor of Nursing (Post-RN) Program, NURS 2230 or NURS 2700 or admission to the Bachelor of Technology Program or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "focuses on the counselling role of the nurse, building on the communication skills needed for a therapeutic relationship. Gerard Egan's model of helping is integral to the course. In the lab component of the course and in the course assignments, students have the opportunity to practice counselling skills to enhance their ability to counsel clients in a variety of nursing contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Counselling", 
+            "LH": "14 hours during the semester", 
+            "prerequisites": [
+                "NURS-0413", 
+                "NURS-0414"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3023"
+        }, 
+        "NURS-0416": {
+            "PR": "NURS 1004 or the former NURS 1001, and 1014 or be a Registered Nurse", 
+            "courseDescription": "will focus on the spiritual dimension of nursing practice. Students will explore their own personal spiritual philosophy and development. Key concepts of the spiritual dimension of nursing will be examined, such as spiritual well being, spiritual needs, spiritual distress and spiritual care. Distinction will be made between religion and expressions of spirituality.", 
+            "concurrent": [], 
+            "courseTitle": "Spiritual Dimension of Nursing Practice", 
+            "prerequisites": [
+                "NURS-0383", 
+                "NURS-0388"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2990"
+        }, 
+        "NURS-0422": {
+            "PR": "acceptance into the Bachelor of Nursing (Post-RN Program) and NURS 2740 , or admission to the Bachelor of Technology Program and NURS 2740 , or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "reviews the most recent theories in pathophysiology, current trends in diagnosis and treatment and their nursing implications. This course assumes a basic understanding of physiology.", 
+            "concurrent": [], 
+            "courseTitle": "Current Concepts in Pathophysiology", 
+            "prerequisites": [
+                "NURS-0415", 
+                "NURS-0415"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4701"
+        }, 
+        "NURS-0423": {
+            "PR": "acceptance into the Bachelor of Nursing (Post-RN) Program and NURS 2740 .", 
+            "courseDescription": "explores current principles of nutrition and pharmacology in a variety of disease states. The course will be built upon previous nutrition and pharmacology knowledge. This course assumes a basic understanding of physiology.", 
+            "concurrent": [], 
+            "courseTitle": "Current Concepts in Pharmacology and Nutrition", 
+            "prerequisites": [
+                "NURS-0415"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4702"
+        }, 
+        "NURS-0906": {
+            "PR": "NURS 3001 and 3501 or 4502 , NURS 3014 and 3514 , NURS 3012 and 3512 or 3513 , NURS 3113 and clinical placement approval from the Committee on Undergraduate Studies", 
+            "courseDescription": "provides the students with the opportunity to apply leadership and management principles in coordinating care for groups of individuals within a variety of nursing care settings. Students also have the opportunity to further develop clinical competencies acquired in previous courses.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Extended Practice III", 
+            "prerequisites": [
+                "NURS-0398", 
+                "NURS-0402", 
+                "NURS-1326", 
+                "NURS-0400", 
+                "NURS-0404", 
+                "NURS-0399", 
+                "NURS-0403", 
+                "NURS-1478", 
+                "NURS-0401"
+            ], 
+            "corequisites": [], 
+            "CR": "the former NURS 3520 and the former 3521", 
+            "courseNumber": "3523", 
+            "OR": "40 clinical hours per week for eight weeks"
+        }, 
+        "NURS-0904": {
+            "PR": "NURS 4103 , NURS 4501 or 4502 and NURS 4515", 
+            "courseDescription": "provides students with the opportunity to practice nursing with a select client population. Students apply and test knowledge from nursing and related disciplines in this selected clinical setting. The course also enables students to further develop their professional roles. Online discussions will be included.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Consolidated Practicum", 
+            "prerequisites": [
+                "NURS-0405", 
+                "NURS-0407", 
+                "NURS-1326", 
+                "NURS-0409"
+            ], 
+            "corequisites": [], 
+            "CR": "the former NURS 4514 or the former NURS 3522, and the former NURS 4513", 
+            "courseNumber": "4516", 
+            "OR": "40 clinical hours per week for ten weeks"
+        }, 
+        "NURS-0903": {
+            "PR": "proof of a current practising license as a Registered Nurse, NURS 4701 , NURS 4310 , and NURS 4370", 
+            "courseDescription": "focuses on the application of diagnostic reasoning and clinical decision making skills learned in N5600. Opportunities to acquire advanced skills to assist in the diagnosis and management of common health problems will be provided. Preceptored clinical experiences will be provided in primary health care practice settings. Students are required to attend St. John&rsquo;s Campus for demonstrations and clinical testing.", 
+            "CO": "NURS 5600", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Clinical Decision Making &ndash; Clinical Practice", 
+            "prerequisites": [
+                "NURS-0422", 
+                "NURS-0421", 
+                "NURS-0735"
+            ], 
+            "corequisites": [
+                "NURS-0736"
+            ], 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "5360", 
+            "OR": "16 clinical hours per week"
+        }, 
+        "NURS-0902": {
+            "PR": "proof of a current practising license as a Registered Nurse, NURS 5600 and NURS 5360", 
+            "courseDescription": "provides opportunities for learners, under the mentorship of nurse practitioners and physicians, to gain experience in managing the health and illness needs of clients across the life span. Clinical learning experiences are selected to develop learner competence and confidence for the transition to the role of a Primary Health Care Nurse Practitioner. Students are required to attend St. John&rsquo;s Campus for clinical testing.", 
+            "concurrent": [], 
+            "courseTitle": "Integrated Clinical Practicum", 
+            "prerequisites": [
+                "NURS-0736", 
+                "NURS-0903"
+            ], 
+            "corequisites": [], 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "5370", 
+            "OR": "5 days of clinical per week"
+        }, 
+        "NURS-0901": {
+            "PR": "NURS 1003 and 1004", 
+            "courseDescription": "will provide the student an opportunity to acquire beginning psychomotor competencies that are related to the provision of client comfort and safety in a variety of settings. As well, this course provides the opportunity for the student to integrate the conceptual framework of the", 
+            "CH": "1", 
+            "CO": "NURS 1003 and 1004", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Fundamental Psychomotor Competencies", 
+            "LH": "2", 
+            "prerequisites": [
+                "NURS-0385", 
+                "NURS-0383"
+            ], 
+            "corequisites": [
+                "NURS-0385", 
+                "NURS-0383"
+            ], 
+            "courseNumber": "1017"
+        }, 
+        "NURS-0425": {
+            "PR": "admission to the Bachelor of Nursing (Post-RN) Program and 3 credit hours in English and NURS 2230 ; or admission to the Bachelor of Technology Program and 3 credit hours in English.", 
+            "courseDescription": "focuses on the philosophical bases and practical considerations in the organization and administration of Health Care Delivery Systems. The planning, management and evaluation of the Canadian health care system will be compared with those of other countries. Future trends in the delivery of health care to Canadians will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Health Care Systems", 
+            "prerequisites": [
+                "NURS-0413"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5210"
+        }, 
+        "NURS-0389": {
+            "PR": "NURS 1002 , 1003 , and 1004 ; or admission to the Fast-Track Option", 
+            "courseDescription": "will explore, in-depth, concepts and issues applicable to the well older adult (65+). Selected theories, physical changes, and psychosocial, ethical, and legal issues associated with aging will be presented.", 
+            "CO": "NURS 1012 , 1014 , and 1015 ; or admission to the Fast-Track Option", 
+            "concurrent": [], 
+            "courseTitle": "Healthy Aging", 
+            "prerequisites": [
+                "NURS-0384", 
+                "NURS-0385", 
+                "NURS-0383"
+            ], 
+            "corequisites": [
+                "NURS-0387", 
+                "NURS-0388", 
+                "NURS-0386"
+            ], 
+            "courseNumber": "1016"
+        }, 
+        "NURS-0388": {
+            "courseDescription": "focuses on the development of competencies needed to assess the health status of individuals throughout the lifespan using a systematic approach. Content includes the nurse's responsibilities for health history, physical examination, interpretation of findings, and documentation.", 
+            "CO": "NURS 1012", 
+            "concurrent": [
+                "NURS-0412"
+            ], 
+            "courseTitle": "Health Assessment", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0387"
+            ], 
+            "CR": "NURS 2040", 
+            "courseNumber": "1014"
+        }, 
+        "NURS-0385": {
+            "courseDescription": "focuses on the application of caring theory to interpersonal communications. It emphasizes the development of the role of communicator in individual and group experiences and in professional relationships. Utilizing an experiential model, laboratory experiences focus on self-awareness and group dynamics.", 
+            "CO": "NURS 1004", 
+            "concurrent": [], 
+            "courseTitle": "Developing Therapeutic Relationships", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0383"
+            ], 
+            "courseNumber": "1003"
+        }, 
+        "NURS-0384": {
+            "courseDescription": "presents a survey of human anatomy and physiology throughout the lifespan. It includes aspects of cytology and histology that form a foundation for the practice of nursing. Special emphasis is given to the skeletal, muscular, nervous and endocrine systems.", 
+            "concurrent": [
+                "PHAR-0128"
+            ], 
+            "courseTitle": "Anatomy and Physiology I", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Pharmacy 2002 or the former Pharmacy 3201", 
+            "courseNumber": "1002"
+        }, 
+        "NURS-0387": {
+            "PR": "NURS 1002", 
+            "courseDescription": "presents a survey of anatomy and physiology throughout the lifespan. It includes aspects of cytology, histology and embryology that form a foundation for the practice of nursing. Special emphasis is given to the circulatory, respiratory, urinary, digestive, and reproductive systems, including pregnancy and delivery.", 
+            "concurrent": [
+                "PHAR-0129"
+            ], 
+            "courseTitle": "Anatomy and Physiology II", 
+            "LH": "2", 
+            "prerequisites": [
+                "NURS-0384"
+            ], 
+            "corequisites": [], 
+            "CR": "Pharmacy 2003 or the former Pharmacy 3202", 
+            "courseNumber": "1012"
+        }, 
+        "NURS-0386": {
+            "PR": "NURS 1004 or the former NURS 1001, NURS 1003 and Psychology 1000 ; or admission to the Fast-Track Option", 
+            "courseDescription": "explores nursing concepts and theories pertaining to health promotion/protection throughout the lifespan. Content includes principles of teaching/learning, introduction to community health and primary health care concepts and the determinants of health.", 
+            "CO": "NURS 1004 or the former NURS 1001, NURS 1003 and Psychology 1000 ; or admission to the Fast-Track Option", 
+            "concurrent": [], 
+            "courseTitle": "Health Promotion throughout the Lifespan", 
+            "prerequisites": [
+                "NURS-0383", 
+                "NURS-0385", 
+                "SCI-1706"
+            ], 
+            "corequisites": [
+                "NURS-0383", 
+                "NURS-0385", 
+                "SCI-1706"
+            ], 
+            "CR": "the former NURS 1011", 
+            "courseNumber": "1015", 
+            "OR": "24 clinical or lab hours during the semester"
+        }, 
+        "NURS-0383": {
+            "courseDescription": "introduces the major concepts and theories related to the paradigm of person, health, society, nursing, environment, and nursing education in relation to the philosophy, conceptual framework and objectives of the program. Emphasis is placed on the concept of caring as the essence of nursing practice.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Nursing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former NURS 1001", 
+            "courseNumber": "1004"
+        }, 
+        "NURS-0428": {
+            "PR": "admission to the Bachelor of Nursing (Post-RN) Program or admission to Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option and 3 credit hours in English and NURS 2230", 
+            "courseDescription": "is designed to promote an understanding of theories and principles of management of nursing practice. Process, methods and issues are considered with emphasis on practical nursing examples.", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Management", 
+            "prerequisites": [
+                "NURS-0413"
+            ], 
+            "corequisites": [], 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Program", 
+            "courseNumber": "5700"
+        }, 
+        "NURS-0731": {
+            "PR": "proof of a current practising license as a Registered Nurse.", 
+            "courseDescription": "focuses on the development of competencies and assessment skills necessary for the completion and documentation of a comprehensive health assessment. Common physical alterations and developmental issues that may impact on client status and findings across the lifespan will be incorporated. Students are required to attend St. John&rsquo;s Campus for laboratory sessions.", 
+            "CO": "NURS 3380", 
+            "concurrent": [
+                "NURS-0412"
+            ], 
+            "courseTitle": "Health Assessment Across the Lifespan", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0732"
+            ], 
+            "CR": "NURS 2040", 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "3070"
+        }, 
+        "NURS-0732": {
+            "PR": "proof of a current practising license as a Registered Nurse.", 
+            "courseDescription": "focuses on the clinical application of knowledge and skills obtained in NURS", 
+            "CO": "NURS 3070", 
+            "concurrent": [
+                "NURS-0412"
+            ], 
+            "courseTitle": "Health Assessment Clinical Practice I", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0731"
+            ], 
+            "CR": "NURS 2040", 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "3380", 
+            "OR": "8 clinical hours per week"
+        }, 
+        "NURS-1446": {
+            "courseDescription": "provides an overview of the philosophy and practice of complementary and alternative health care (CAHC). It introduces students to key terminology and theoretical perspectives foundational to selected CAHC modalities. Using a holistic approach and research principles, they will examine some commonly used CAHC approaches. They will also explore situations where integrative health care incorporates biomedical, complementary and alternative modalities.", 
+            "concurrent": [], 
+            "courseTitle": "Complementary and Alternative Health Care", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2991"
+        }, 
+        "NURS-0735": {
+            "PR": "proof of a current, practising license, NURS 3070 , and NURS 3380", 
+            "courseDescription": "provides clinical opportunities for students to complete focussed histories and physical examinations on clients across the lifespan. The integration and consolidation of knowledge and skills obtained in NURS 3070 and NURS 3380 is required. Students are preceptored in a primary health care setting by either a nurse practitioner or physician. Students are required to attend St. John&rsquo;s Campus for clinical testing.", 
+            "concurrent": [
+                "NURS-0412"
+            ], 
+            "courseTitle": "Health Assessment Clinical Practice II", 
+            "prerequisites": [
+                "NURS-0731", 
+                "NURS-0732"
+            ], 
+            "corequisites": [], 
+            "CR": "NURS 2040", 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "4370", 
+            "OR": "8 clinical hours per week"
+        }, 
+        "NURS-0736": {
+            "PR": "proof of a current, practising license as a Registered Nurse, NURS 4310 , 4370 , and 4701", 
+            "courseDescription": "focuses on the development of diagnostic reasoning and clinical decision making skills within the scope of practice of a primary care nurse practitioner. A systematic approach to patient assessment and management of health problems will be discussed. This course integrates knowledge acquired in previous courses. Students are required to attend St. John&rsquo;s campus for some onsite lectures.", 
+            "CO": "5360", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Clinical Decision Making", 
+            "prerequisites": [
+                "NURS-0421", 
+                "NURS-0735", 
+                "NURS-0422"
+            ], 
+            "corequisites": [
+                "NURS-0903"
+            ], 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "5600"
+        }, 
+        "NURS-0420": {
+            "PR": "NURS 2040 , 2230 , 2700 , 3023 or the former 3022, 4002 , and proof of current practising license as a Registered Nurse or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "introduces the student to the field of community health nursing. It focuses on the nursing care of individuals, families, groups, and the community. Core concepts include theoretic approaches to families, epidemiology, health promotion and the community as client.", 
+            "concurrent": [], 
+            "courseTitle": "Community Health Nursing I", 
+            "prerequisites": [
+                "NURS-0412", 
+                "NURS-0413", 
+                "NURS-0414", 
+                "NURS-0417", 
+                "NURS-0419"
+            ], 
+            "corequisites": [], 
+            "CR": "the former NURS 4311 or 4312", 
+            "courseNumber": "4010"
+        }, 
+        "NURS-0421": {
+            "PR": "NURS 4010 and proof of current practising license as a Registered Nurse or admission to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseDescription": "allows the student to apply the knowledge and practise the competencies acquired in NURS", 
+            "concurrent": [], 
+            "courseTitle": "Community Health Nursing II", 
+            "prerequisites": [
+                "NURS-0420"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4310", 
+            "OR": "8 clinical hours per week"
+        }, 
+        "NURS-0408": {
+            "PR": "NURS 2014 , 2514 , 4501 and 4103 (or 4101 ) and admission to the Fast-Track Option", 
+            "courseDescription": "provides students with the opportunity to integrate and consolidate knowledge and competencies acquired throughout the program and apply them to community health nursing practice. Using a primary health care framework, the student participates in strategies which facilitate the mobilization of communities toward health. Online discussions will be included.", 
+            "concurrent": [], 
+            "courseTitle": "Community Health Practicum", 
+            "prerequisites": [
+                "NURS-0395", 
+                "NURS-0396", 
+                "NURS-0407", 
+                "NURS-0405", 
+                "NURS-0465"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4512", 
+            "OR": "40 clinical hours per week for four weeks"
+        }, 
+        "NURS-0409": {
+            "PR": "NURS 3523 or admission to the Fast-Track Option", 
+            "courseDescription": "provides students the opportunity to work with individuals and their families who are experiencing multiple health challenges. Students are expected to synthesize concepts and theories of nursing, science and humanities, and participate in interprofessional collaborative practice in a variety of settings to facilitate the achievement of health and well-being for clients and their families.", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Concepts &amp; Practice for Complex Care", 
+            "prerequisites": [
+                "NURS-0906"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4515", 
+            "OR": "144 clinical hours during the semester"
+        }, 
+        "NURS-0599": {
+            "PR": "Statistics 1510 or 2500 or equivalent, or Education 2900", 
+            "courseDescription": "builds on previously introduced research concepts. It explores the research process and its inherent ethical and legal implications. The course focuses on the acquisitions of concepts used to critically appraise nursing research studies and examines the relevance of these studies for nursing practice.", 
+            "CO": "Statistics 1510 or 2500 or equivalent, or Education 2900", 
+            "concurrent": [
+                "NURS-0419"
+            ], 
+            "courseTitle": "Nursing Research", 
+            "prerequisites": [
+                "SCI-3078", 
+                "SCI-3079", 
+                "EDUC-0487"
+            ], 
+            "corequisites": [
+                "SCI-3078", 
+                "SCI-3079", 
+                "EDUC-0487"
+            ], 
+            "CR": "NURS 4002 and the former NURS 4104", 
+            "courseNumber": "3104"
+        }, 
+        "NURS-0426": {
+            "PR": "Admission to the Bachelor of Nursing (Post-RN) Program and 3 credit hours in English and NURS 2230 .", 
+            "courseDescription": "reviews the historical development of the nursing profession and facilitates discussion of factors influential in its evolution. Content will focus on the current status of nursing, ethical issues and the profession's impact on health care delivery. Selected categories of nursing theory, their impact on practice and education will be analysed in relation to major issues and future trends in nursing.", 
+            "concurrent": [], 
+            "courseTitle": "Professional Issues", 
+            "prerequisites": [
+                "NURS-0413"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5220"
+        }, 
+        "NURS-0427": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Interdisciplinary Course on Family Violence", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5327"
+        }, 
+        "NURS-0402": {
+            "courseDescription": "provides the student with opportunities to apply theoretical knowledge and to practise competencies acquired in NURS", 
+            "CO": "NURS 3001", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Practice for Mental Health", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0398"
+            ], 
+            "courseNumber": "3501", 
+            "OR": "96 hours during the semester"
+        }, 
+        "NURS-0403": {
+            "PR": "NURS 2520 ; or admission to the Fast-Track Option", 
+            "courseDescription": "provides the student with opportunities to apply knowledge and practise competencies acquired in NURS", 
+            "CO": "NURS 3012", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Practice with Children, Adolescents and Young Adults", 
+            "LH": "24 hours during the semester", 
+            "prerequisites": [
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0399"
+            ], 
+            "CR": "the former NURS 2511", 
+            "courseNumber": "3512", 
+            "OR": "64 clinical hours during the semester"
+        }, 
+        "NURS-0400": {
+            "PR": "NURS 2520", 
+            "courseDescription": "uses a conceptual approach and focuses on individuals and families from middle to older adulthood. The emphasis is on assisting persons experiencing acute and chronic health related needs to achieve health and well being.", 
+            "CO": "NURS 3514", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Concepts in Middle and Older Adulthood", 
+            "prerequisites": [
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0404"
+            ], 
+            "CR": "the former NURS 3111", 
+            "courseNumber": "3014"
+        }, 
+        "NURS-0401": {
+            "PR": "NURS 3501 , 3512 or 3513 , and 3514", 
+            "courseDescription": "is designed to promote an understanding of the theories and principles of leadership and management in relation to the Co-ordinator of Care nursing role. Emphasis is placed on concepts of organizational structure and function, management of client care, team building, professional development, and application of nursing theories to practice. Current issues and trends are explored.", 
+            "CO": "NURS 3501 or NURS 4502 , NURS 3512 or NURS 3513 , and NURS 3514", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Leadership and Management", 
+            "prerequisites": [
+                "NURS-0402", 
+                "NURS-0403", 
+                "NURS-1478", 
+                "NURS-0404"
+            ], 
+            "corequisites": [
+                "NURS-0402", 
+                "NURS-1326", 
+                "NURS-0403", 
+                "NURS-1478", 
+                "NURS-0404"
+            ], 
+            "courseNumber": "3113"
+        }, 
+        "NURS-0407": {
+            "PR": "NURS 2014 , NURS 2514 , and NURS 3523", 
+            "courseDescription": "provides the student with opportunities to apply knowledge acquired in Community Health Nursing Theory and other related courses. It also further develops competencies in community health nursing practice. In the clinical experiences, students work with selected aggregates (including individuals and families) in the community.", 
+            "CO": "NURS 4103", 
+            "concurrent": [
+                "NURS-1326"
+            ], 
+            "courseTitle": "Community Health Nursing Practice II", 
+            "prerequisites": [
+                "NURS-0395", 
+                "NURS-0396", 
+                "NURS-0906"
+            ], 
+            "corequisites": [
+                "NURS-0405"
+            ], 
+            "CR": "NURS 4502", 
+            "courseNumber": "4501", 
+            "OR": "96 hours during the semester"
+        }, 
+        "NURS-0404": {
+            "PR": "NURS 2520", 
+            "courseDescription": "provides the student with the opportunity to practise competencies and apply knowledge acquired NURS", 
+            "CO": "NURS 3014", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Practice with Middle and Older Adults", 
+            "LH": "24 hours during semester", 
+            "prerequisites": [
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0400"
+            ], 
+            "CR": "the former NURS 3511", 
+            "courseNumber": "3514", 
+            "OR": "96 clinical hours during the semester"
+        }, 
+        "NURS-0405": {
+            "PR": "NURS 3113 or admission to the Fast-Tack Option", 
+            "courseDescription": "focuses on the development of a personal framework for nursing practice, nursing organizations at the international level and nursing's role and development within health care systems. Current trends and issues in health policy and health care are examined.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in Nursing and Health Care", 
+            "prerequisites": [
+                "NURS-0401"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4103"
+        }, 
+        "NURS-0465": {
+            "courseDescription": "focuses on the knowledge required to practise nursing at the aggregate and community levels. It further examines the principles of primary health care, their application in community health nursing and the multidimensional role of the nurse. Core concepts include: community development, epidemiology, program development, and the theoretical bases of community health nursing.", 
+            "CO": "NURS 2514 or admission to the Fast-Track Option", 
+            "concurrent": [
+                "NURS-0395"
+            ], 
+            "courseTitle": "Community Health Nursing", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0396"
+            ], 
+            "CR": "NURS 2014", 
+            "courseNumber": "4101", 
+            "OR": "tutorial 2 hours per week"
+        }, 
+        "NURS-1325": {
+            "PR": "NURS 2700 and NURS 4002", 
+            "courseDescription": "examines the role of the nurse practitioner in the delivery of primary health care. Factors affecting role implementation and its impact on health care delivery will be discussed. The historical development and future trends of nurse practitioner practice in a changing health care system will be examined.", 
+            "CO": "NURS 4002", 
+            "concurrent": [], 
+            "courseTitle": "Roles of Nurse Practitioners in Primary Health Care", 
+            "prerequisites": [
+                "NURS-0414", 
+                "NURS-0419"
+            ], 
+            "corequisites": [
+                "NURS-0419"
+            ], 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "3410"
+        }, 
+        "NURS-1326": {
+            "PR": "Admission to the Fast-Track Option and NURS 2014 or 4101 , NURS 2514 , NURS 3014 , NURS 3104 , NURS 3514", 
+            "courseDescription": "provides opportunities for practice in acute care psychiatric/mental health and community settings with individuals, families, and groups/aggregates. The application of community health and mental health knowledge and competencies, with a particular focus on the concepts of vulnerability/resilience, will be emphasized.", 
+            "CH": "6", 
+            "CO": "NURS 3001", 
+            "concurrent": [
+                "NURS-0402", 
+                "NURS-0407"
+            ], 
+            "courseTitle": "Nursing Care in Community and Mental Health Settings", 
+            "prerequisites": [
+                "NURS-0395", 
+                "NURS-0465", 
+                "NURS-0396", 
+                "NURS-0400", 
+                "NURS-0599", 
+                "NURS-0404"
+            ], 
+            "corequisites": [
+                "NURS-0398"
+            ], 
+            "CR": "NURS 3501 and NURS 4501", 
+            "courseNumber": "4502", 
+            "OR": "168 hours during the semester"
+        }, 
+        "NURS-0733": {
+            "PR": "NURS 2740 and NURS 4701", 
+            "courseDescription": "focuses on the principles of pharmacology and nutritional therapies across the lifespan. Pharmacotherapeutic and nutritional management of common health problems within each body system will be discussed. Emphasis will be placed on the application of knowledge required to prescribe and monitor medication and nutritional therapies within the scope of practice for the Primary Health Care Nurse Practitioner.", 
+            "concurrent": [
+                "NURS-0423"
+            ], 
+            "courseTitle": "Concepts in Pharmacology Across the Lifespan", 
+            "prerequisites": [
+                "NURS-0415", 
+                "NURS-0422"
+            ], 
+            "corequisites": [], 
+            "CR": "NURS 4702", 
+            "UL": "applicable only to the Bachelor of Nursing (Post-RN) Primary Health Care Nurse Practitioner Option", 
+            "courseNumber": "3430"
+        }, 
+        "NURS-0398": {
+            "PR": "NURS 2520", 
+            "courseDescription": "focuses on individuals, families and small groups experiencing psychiatric/mental health problems across the lifespan. The meaning of mental health and illness to the individual, family and vulnerable populations is explored. Course content includes counselling, psychopathology, interdisciplinary psychiatric care, community mental health concepts and analysis of sociopolitical factors/issues affecting mental health.", 
+            "CO": "NURS 3501 or NURS 4502", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Concepts for Mental Health", 
+            "prerequisites": [
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0402", 
+                "NURS-1326"
+            ], 
+            "courseNumber": "3001", 
+            "OR": "seminar 2 hours per week"
+        }, 
+        "NURS-0399": {
+            "PR": "NURS 2520 ; or admission to the Fast-Track Option", 
+            "courseDescription": "uses a conceptual approach to focus on the nursing care of individuals and families, from infancy to young adulthood. The emphasis is on assisting persons experiencing health related needs to achieve health and well-being.", 
+            "CO": "NURS 3512 or NURS 3513", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Concepts for Children, Adolescents and Young Adults", 
+            "prerequisites": [
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0403", 
+                "NURS-1478"
+            ], 
+            "CR": "the former NURS 2011", 
+            "courseNumber": "3012"
+        }, 
+        "NURS-0396": {
+            "PR": "NURS 1520", 
+            "courseDescription": "provides the student with the opportunity to apply knowledge and practise competencies for beginning community health nursing practice acquired in Community Health Nursing Theory.", 
+            "CO": "NURS 2014 or NURS 4101", 
+            "concurrent": [], 
+            "courseTitle": "Community Health Nursing Practice I", 
+            "prerequisites": [
+                "NURS-0390"
+            ], 
+            "corequisites": [
+                "NURS-0395", 
+                "NURS-0465"
+            ], 
+            "courseNumber": "2514", 
+            "OR": "96 clinical hours during the semester"
+        }, 
+        "NURS-0397": {
+            "PR": "NURS 2002 , 2014 , 2017 , 2502 , and 2514 ; or admission to the Fast-Track Option", 
+            "courseDescription": "provides the student with the opportunity to integrate the knowledge and practise the competencies acquired to date. The focus is on caring for adults in stable health situations and on the application of community health concepts. This course is normally taught at the end of the Winter Semester, usually beginning during the final week of the examination period.", 
+            "CO": "NURS 2002 and 2502 or 2014 and 2514", 
+            "concurrent": [], 
+            "courseTitle": "Extended Practice II", 
+            "prerequisites": [
+                "NURS-0391", 
+                "NURS-0395", 
+                "NURS-1477", 
+                "NURS-0394", 
+                "NURS-0396"
+            ], 
+            "corequisites": [
+                "NURS-0391", 
+                "NURS-0394", 
+                "NURS-0395", 
+                "NURS-0396"
+            ], 
+            "courseNumber": "2520", 
+            "OR": "96 clinical hours over three weeks"
+        }, 
+        "NURS-0394": {
+            "courseDescription": "provides the student with opportunities to apply knowledge and practise competencies acquired in NURS", 
+            "CO": "NURS 2002", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Practice for the Care of Women and the Child-bearing Family", 
+            "LH": "24 during the semester", 
+            "prerequisites": [], 
+            "corequisites": [
+                "NURS-0391"
+            ], 
+            "CR": "the former NURS 2501", 
+            "courseNumber": "2502", 
+            "OR": "80 clinical hours during the semester"
+        }, 
+        "NURS-0395": {
+            "PR": "NURS 1520 , 2003 , and 2004", 
+            "courseDescription": "focuses on the knowledge required to practise nursing in the community with a variety of clients including individuals, families, groups and communities. It further examines the principles of primary health care, population health, and their application in community health nursing. It also focuses on the multidimensional role of the nurse.", 
+            "CO": "NURS 2003 and 2004 , 2514", 
+            "concurrent": [
+                "NURS-0465"
+            ], 
+            "courseTitle": "Community Health Nursing Theory", 
+            "prerequisites": [
+                "NURS-0390", 
+                "NURS-0392", 
+                "NURS-0393"
+            ], 
+            "corequisites": [
+                "NURS-0392", 
+                "NURS-0393", 
+                "NURS-0396"
+            ], 
+            "CR": "NURS 4101", 
+            "courseNumber": "2014", 
+            "OR": "seminar or labs 2 hours per week"
+        }, 
+        "NURS-0392": {
+            "PR": "NURS 1012 , Biochemistry 1430 or admission to the Fast-Track Option", 
+            "courseDescription": "presents general concepts of disease processes and their impact on health. The course focuses on major pathophysiologic changes, including associated etiology, pathogenesis and clinical manifestations. Common illnesses are studied to illustrate these disease processes.", 
+            "CO": "NURS 1012", 
+            "concurrent": [], 
+            "courseTitle": "Pathophysiology", 
+            "prerequisites": [
+                "NURS-0387", 
+                "SCI-0686"
+            ], 
+            "corequisites": [
+                "NURS-0387"
+            ], 
+            "courseNumber": "2003", 
+            "OR": "tutorial 1.5 hours per week"
+        }, 
+        "NURS-0393": {
+            "PR": "NURS 1012 , NURS 1014 , NURS 1017 , Biochemistry 1430 , and a score of 50 on the Mathematics Placement Test or Math 102N or 3 credit hours in Mathematics excluding Statistics 2500 .", 
+            "courseDescription": "explores principles and concepts of pharmacological, nutritional and complementary therapies and management of common health problems across the lifespan. Nursing considerations and psychomotor competencies pertinent to these therapies are addressed.", 
+            "CO": "NURS 1012 and NURS 1014", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacology and Nutritional Therapies", 
+            "LH": "2", 
+            "prerequisites": [
+                "NURS-0387", 
+                "NURS-0388", 
+                "NURS-0901", 
+                "SCI-0686", 
+                "SCI-2579", 
+                "SCI-3079"
+            ], 
+            "corequisites": [
+                "NURS-0387", 
+                "NURS-0388"
+            ], 
+            "courseNumber": "2004"
+        }, 
+        "NURS-0390": {
+            "PR": "NURS 1012 , 1014 , 1015 or the former 1011, 1016 , and 1017", 
+            "courseDescription": "provides the student with the opportunity to integrate the knowledge and practise the competencies acquired to date. The focus is the promotion, protection and maintenance of health for individuals within the context of the family. This course is normally taught at the end of the Winter semester, usually beginning during the final week of the examination period.", 
+            "CO": "NURS 1012 , 1014 , 1015 or the former 1011, 1016 , and 1017", 
+            "concurrent": [], 
+            "courseTitle": "Extended Practice I", 
+            "prerequisites": [
+                "NURS-0387", 
+                "NURS-0388", 
+                "NURS-0386", 
+                "NURS-0389", 
+                "NURS-0901"
+            ], 
+            "corequisites": [
+                "NURS-0387", 
+                "NURS-0388", 
+                "NURS-0386", 
+                "NURS-0389", 
+                "NURS-0901"
+            ], 
+            "courseNumber": "1520", 
+            "OR": "96 clinical hours over three weeks; or 96 clinical hours during the semester for Fast-Track Option students"
+        }, 
+        "NURS-0391": {
+            "PR": "NURS 1520 , 2003 , and 2004", 
+            "courseDescription": "covers major concepts in women's reproductive health. The two major foci are women and their families through all phases of childbirth and the neonatal period, and nursing care of women experiencing alterations in reproductive health.", 
+            "CO": "NURS 2003 , 2004 , and 2502", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Concepts for the Care of Women and the Child-bearing Family", 
+            "prerequisites": [
+                "NURS-0390", 
+                "NURS-0392", 
+                "NURS-0393"
+            ], 
+            "corequisites": [
+                "NURS-0392", 
+                "NURS-0393", 
+                "NURS-0394"
+            ], 
+            "CR": "the former NURS 2001", 
+            "courseNumber": "2002"
+        }, 
+        "NURS-1477": {
+            "PR": "NURS 1520 and 2004", 
+            "courseDescription": "will provide the student an opportunity to acquire intermediate psychomotor competencies that are related to the provision of client comfort and safety in a variety of settings. As well, this course provides the opportunity for the student to integrate the conceptual framework of the", 
+            "CH": "1", 
+            "CO": "NURS 2004", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Psychomotor Competencies", 
+            "LH": "24 hours during the semester", 
+            "prerequisites": [
+                "NURS-0390", 
+                "NURS-0393"
+            ], 
+            "corequisites": [
+                "NURS-0393"
+            ], 
+            "courseNumber": "2017"
+        }, 
+        "NURS-0600": {
+            "PR": "NURS 2040 , 2230 , 2700 , 3023 or the former 3022, 4002 , 4701 , 4702 and proof of current, practising license", 
+            "courseDescription": "allows students to explore in depth, concepts and practices that are relevant to all populations across a variety of care settings. Emphasis will be placed on enhancing knowledge, attitudes and skills for nursing assessment, interventions and measurement of nursing-sensitive outcomes. Students will be required to apply the knowledge gained to client situations in clinical practice.", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Dimensions of Professional Nursing Practice", 
+            "prerequisites": [
+                "NURS-0412", 
+                "NURS-0413", 
+                "NURS-0414", 
+                "NURS-0417", 
+                "NURS-0419", 
+                "NURS-0422", 
+                "NURS-0423"
+            ], 
+            "corequisites": [], 
+            "CR": "the former NURS 4714, 4720 or 4723, 4734, and 4744", 
+            "courseNumber": "4754", 
+            "OR": "72 clinical hours during the semester"
+        }, 
+        "NURS-1478": {
+            "PR": "NURS 2017 and NURS 2520", 
+            "courseDescription": "provides the student with opportunities to apply knowledge and practise competencies acquired in NURS", 
+            "CH": "2", 
+            "CO": "NURS 3012", 
+            "concurrent": [], 
+            "courseTitle": "Nursing Practice with Children, Adolescents and Young Adults", 
+            "prerequisites": [
+                "NURS-1477", 
+                "NURS-0397"
+            ], 
+            "corequisites": [
+                "NURS-0399"
+            ], 
+            "CR": "the former NURS 2511 and NURS 3512", 
+            "courseNumber": "3513", 
+            "OR": "64 clinical hours during the semester"
+        }
+    }
+}

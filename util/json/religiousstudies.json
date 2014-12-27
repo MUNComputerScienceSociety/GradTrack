@@ -1,0 +1,772 @@
+{
+    "RELS": {
+        "ARTS-6729": {
+            "courseDescription": "explores the historical development of the principal doctrines of Christianity from the period of the Early Church to the Middle Ages. Topics will include the doctrine of the Trinity, the doctrine of the Person of Christ, the nature of the Church, the doctrine of the sacraments, and early and medieval speculation on the nature of Heaven and Hell.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity from the First Century to the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2130"
+        }, 
+        "ARTS-6728": {
+            "courseDescription": "is an introduction to the history and literary structure of the documents comprising the New Testament. Emphasis will be placed on the major themes found in these documents and on the distinctiveness of approach of the individual writers.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the New Testament", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2051"
+        }, 
+        "ARTS-6721": {
+            "courseDescription": "will introduce students to the basics of Chinese vocabulary, characters, and grammar. Mandarin Chinese, the official dialect of China, Taiwan, and Singapore, will be taught. This course is not intended for native speakers.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Chinese (Mandarin) I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 4904", 
+            "courseNumber": "1040"
+        }, 
+        "ARTS-6720": {
+            "courseDescription": "is a broadly based survey course introducing students to the religions, culture, and societies of Asia. Traditions explored may include those of India (Hinduism, Buddhism, Sikhism, Jainism), China (Daoism, Confucianism, Buddhism), Japan (Shinto, Zen Buddhism), and Korea.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Asian Religions and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1032"
+        }, 
+        "ARTS-6723": {
+            "courseDescription": "is designed to introduce students to the elements of Biblical Hebrew in order to prepare them for reading the Hebrew Bible/Old Testament in the original. The emphasis will be upon learning the basic grammar and syntax of Biblical Hebrew.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Biblical Hebrew I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3700, the former RELS 4900", 
+            "courseNumber": "1050"
+        }, 
+        "ARTS-6722": {
+            "PR": "RELS 1040", 
+            "courseDescription": "is a continuation of RELS", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Chinese (Mandarin) II", 
+            "prerequisites": [
+                "ARTS-6721"
+            ], 
+            "corequisites": [], 
+            "CR": "the former RELS 4911", 
+            "courseNumber": "1041"
+        }, 
+        "ARTS-6725": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Bible in Western Religion and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1200"
+        }, 
+        "ARTS-6724": {
+            "PR": "RELS 1050", 
+            "courseDescription": "is a continuation of RELS", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Biblical Hebrew II", 
+            "prerequisites": [
+                "ARTS-6723"
+            ], 
+            "corequisites": [], 
+            "CR": "the former RELS 3701, the former RELS 4901", 
+            "courseNumber": "1051"
+        }, 
+        "ARTS-6727": {
+            "courseDescription": "is an introduction to the historical background, literary structure, and content of the Old Testament. Emphasis will be placed on the authorship and dating of the various texts that comprise the Old Testament, as well as on major themes, figures, and events. This course may qualify as a Research/Writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the Old Testament", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2050"
+        }, 
+        "ARTS-6726": {
+            "courseDescription": "is a study of the Christian tradition, its development and variety. The course will include an examination of the beliefs and practices of both Eastern and Western Christianity and a study of the main differences among the major Western denominations.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Christianity", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2013"
+        }, 
+        "ARTS-6758": {
+            "courseDescription": "is a study of the ministry and thought of Jesus of Nazareth as contained in the Gospels and other New Testament writings. Attention will be given to the methods and conclusions of recent scholarship as applied to his principal teachings and to the study of the historical Jesus.", 
+            "concurrent": [], 
+            "courseTitle": "Jesus: His Life and Teaching", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6759": {
+            "courseDescription": "is a study of the Pauline writings and an appraisal of the contribution to Christianity of his mission and theology on the basis of New Testament and other relevant material. Particular attention will be given to such related themes as salvation, reconciliation, grace, and justification.", 
+            "concurrent": [], 
+            "courseTitle": "Paul and His Writings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "ARTS-6754": {
+            "courseDescription": "(same as Anthropology", 
+            "concurrent": [
+                "ARTS-5531"
+            ], 
+            "courseTitle": "Anthropology of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Anthropology 3053", 
+            "courseNumber": "3053"
+        }, 
+        "ARTS-6755": {
+            "courseDescription": "is a study of the prophets through the relevant books of the Old Testament. Problems of text and interpretation will be discussed in relation to selected passages, but the general approach will be to bring out the creative genius and radical implications of the prophetic movement as a whole.", 
+            "concurrent": [], 
+            "courseTitle": "The Prophets of Israel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3060"
+        }, 
+        "ARTS-6756": {
+            "courseDescription": "introduces students to the universal problem of human suffering as it is depicted in various biblical books. Special attention will be placed on the book of Job, but notions of suffering in the Psalms, Jeremiah, Proverbs, Ecclesiastes, and some apocryphal literature will also be considered.", 
+            "concurrent": [], 
+            "courseTitle": "Visions of Human Suffering in the Hebrew Bible", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3090", 
+            "courseNumber": "3091"
+        }, 
+        "ARTS-6757": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Early Christian Thought: The First Five Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-6750": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5884", 
+                "ARTS-6325", 
+                "ARTS-6518"
+            ], 
+            "courseTitle": "Medieval Books", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3002 , History 3000 , and Medieval Studies 3000", 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6751": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5688"
+            ], 
+            "courseTitle": "Greek Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 3010 , the former RELS 3121, the former Classics 3121", 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-6752": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5689"
+            ], 
+            "courseTitle": "Roman Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 3020 , the former RELS 3121, the former Classics 3121", 
+            "courseNumber": "3020"
+        }, 
+        "ARTS-6753": {
+            "courseDescription": "introduces students to one of the founding texts of Western culture, the book of Genesis. Special attention will be paid to the role of myth, human origins, values, and political institutions.", 
+            "concurrent": [], 
+            "courseTitle": "The Book of Genesis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3030", 
+            "courseNumber": "3031"
+        }, 
+        "ARTS-6738": {
+            "courseDescription": "is an introduction to the principal forms of tradition to emerge in China. This course examines the origins and development of Confucianism, Daoism, Moism, and Legalism. After exploring the social and historical conditions that gave rise to them, the course will explore their continuing development and role in Chinese society.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Chinese Philosophy and Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2420"
+        }, 
+        "ARTS-6739": {
+            "courseDescription": "is an examination of religion in modern China and the Chinese diaspora in Taiwan, Singapore, and North America. Special attention will be paid to religious beliefs, practices, and institutions and the way in which modern attitudes have been framed by the past.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Issues in Chinese Religion and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3425", 
+            "courseNumber": "2425"
+        }, 
+        "ARTS-6732": {
+            "courseDescription": "is an exploration of Judaism from its beginnings to the modern era. This course introduces students to the basic beliefs and practices of the Jewish faith.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Judaism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2330"
+        }, 
+        "ARTS-6733": {
+            "courseDescription": "is a study of the religion of Islam in its historical and contemporary manifestations; Muhammad, the Qur'an, Islamic sects, relations with Judaism and Christianity; trends and developments in contemporary Islamic thought and practice.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Islam", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3340", 
+            "courseNumber": "2340"
+        }, 
+        "ARTS-6730": {
+            "courseDescription": "explores the radical religious, ethical, and intellectual changes and challenges that brought about the modern world we live in: the Reformation, the Enlightenment, the Romantic Period and Pietism, and Secularism. This course may qualify as a Research/Writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Christianity from the Reformation to the Present", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2140"
+        }, 
+        "ARTS-6736": {
+            "courseDescription": "involves a study of the religious thought and history of India, the literature of Hinduism, the major thinkers in Hindu philosophy, and the role of Hinduism in the culture and society of India.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Hinduism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3410", 
+            "courseNumber": "2410"
+        }, 
+        "ARTS-6737": {
+            "courseDescription": "is focussed on myth, iconography and ritual of Hindu gods and goddesses from the ancient to the contemporary period. The course will explore fundamental assumptions of Hindu theistic traditions in popular practice and in formal religious institutions.", 
+            "concurrent": [], 
+            "courseTitle": "Gods and Goddesses of Hinduism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2415"
+        }, 
+        "ARTS-6734": {
+            "courseDescription": "(same as Anthropology", 
+            "concurrent": [
+                "ARTS-7013"
+            ], 
+            "courseTitle": "Religious Institutions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Anthropology 2350 , the former Sociology/Anthropology 2350, the former Sociology 2350", 
+            "courseNumber": "2350"
+        }, 
+        "ARTS-6735": {
+            "courseDescription": "is a study of the history of the Buddhist tradition in India and China, the development of the main lines of Buddhist thought, and the nature of the Chinese transformation of Buddhism.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Buddhism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3400", 
+            "courseNumber": "2400"
+        }, 
+        "ARTS-6715": {
+            "courseDescription": "is an introduction to the basic beliefs and practices of the world's great religions.", 
+            "concurrent": [], 
+            "courseTitle": "The Religions of the World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 2010", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6716": {
+            "courseDescription": "is an introduction to some of the major issues confronting religion in the modern world. The focus will be on such topics as globalization and religion, religious faith and violence, freedom and authority.", 
+            "concurrent": [], 
+            "courseTitle": "Religion in the Modern World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1010"
+        }, 
+        "ARTS-6717": {
+            "courseDescription": "is an introduction to Christianity and its place in the history of Western civilization through examples from Early Christianity, the Reformation, and the Modern Period.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity in Western Civilization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1020"
+        }, 
+        "ARTS-6718": {
+            "courseDescription": "will explore the many ways in which Judaism and Christianity have anticipated and imagined the end times. Attention will be given to Jewish and early Christian notions of the Messiah and his reign, the end of the world, and the impending judgment, as well as how Christianity has coped repeatedly with the delay of the end and how millennial thought and action have affected people during periods of social and natural crises. The role of millennial expectations in our modern era and why the apocalypse is once again a powerful image in religion, film, and literature will also be covered.", 
+            "concurrent": [], 
+            "courseTitle": "Apocalypse: The End Times in Thought, Action, and Imagination", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1021"
+        }, 
+        "ARTS-6719": {
+            "courseDescription": "is a study of how Jesus is represented in modern film. The course explores the continuing impact that the Jesus of history and faith has had on modern Western culture. The course will examine such films as", 
+            "concurrent": [], 
+            "courseTitle": "Jesus in Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1022"
+        }, 
+        "ARTS-6787": {
+            "courseDescription": "is an in-depth examination of one or more forms of contemporary alternative spirituality. Students will study the writings of practitioners of alternative spirituality, as well as social-scientific studies of alternative spiritual groups. Religious movements to be explored include African-American alternative spirituality, Mother Earth and Creation spirituality, Neo-paganism, the New Age Movement, UFO spirituality, and contemporary witchcraft.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Alternative Spirituality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3811"
+        }, 
+        "ARTS-6786": {
+            "courseDescription": "is a study of modern attempts to analyze, interpret, and reassess the place and significance of religion in human life. Attention will be given to thinkers such as Nietzsche, Marx, Freud, Sartre, Otto, Eliade, and Tillich.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Interpretations of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3531", 
+            "courseNumber": "3810"
+        }, 
+        "ARTS-6785": {
+            "courseDescription": "is presented in three parts. Firstly, there will be a grounding theoretically in Islam, Orientalism, feminism and contemporary political implications related to the study of Muslim women. Secondly, there will be a consideration of topics which have served as explanations for the \"difference\" of Muslim women in various contexts, both in contemporary Muslim majority and minority political situations. Lastly, the course concludes by considering a variety of contemporary ethnographic representations of Muslim women in Egypt, Palestine, France, Turkey, Cyprus and Malaysia.", 
+            "concurrent": [], 
+            "courseTitle": "Re/Presentations of Muslim Women: Gender, Colonialism and Islam", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-6784": {
+            "courseDescription": "is a study of religious approaches to the problem of evil. Attention will be paid to both traditional and contemporary efforts among the world's religions to address the problem.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and the Problem of Evil", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 4800", 
+            "courseNumber": "3680"
+        }, 
+        "ARTS-6783": {
+            "courseDescription": "is a study of social justice issues that arise from an investigation of economic and political systems from the perspective of religious ethics. Topics addressed may include environmental ethics, ecofeminism, gender equity, pacifism, civil disobedience, poverty, and social welfare questions.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Social Justice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-6782": {
+            "courseDescription": "is an examination of the religious ethics of health care in the light of foundational concepts of bioethics. Topics to be discussed will include the relation of religion and medicine, as well as specific issues such as abortion, euthanasia, and genetic engineering.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Bioethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3640"
+        }, 
+        "ARTS-6781": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5701"
+            ], 
+            "courseTitle": "Ancient Myth and Cult", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 3600", 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-6780": {
+            "courseDescription": "is a study of the origins and development of the mystical tradition in Christianity from the fathers of the early Church to contemporary spirituality. The course will examine representative writers and writings from both the Western Christian tradition and Eastern Orthodoxy.", 
+            "concurrent": [], 
+            "courseTitle": "Christian Mysticism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3591"
+        }, 
+        "ARTS-6789": {
+            "courseDescription": "(same as Visual Arts", 
+            "concurrent": [
+                "SWGC-1369"
+            ], 
+            "courseTitle": "Religion and the Arts", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Visual Arts 3820", 
+            "courseNumber": "3820"
+        }, 
+        "ARTS-6788": {
+            "PR": "completion of RELS 2812 is recommended but not required", 
+            "courseDescription": "provides an in-depth examination of religious themes and issues arising from and within the philosophies of Walt Disney, the Disney animated films, other Disney feature films, and the Disney theme parks. Theoretical models drawn from the field of Religion and Popular Culture will provide the lens through which the religious dimensions of Disney and Disney fandom will be explored.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Disney: Not Just Another Mickey Mouse Course", 
+            "prerequisites": [
+                "ARTS-6746"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3812"
+        }, 
+        "ARTS-6765": {
+            "courseDescription": "is an exploration of the religious thought and institutions of the kingdoms of Israel and Judah in their cultural and historical contexts from their beginnings to the sixth century B.C.E. The course introduces students to the religious beliefs, practices, and institutions of these two kingdoms prior to their destruction and prior to the development of Judaism in the post-exilic period.", 
+            "concurrent": [], 
+            "courseTitle": "The Religion of Ancient Israel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3050", 
+            "courseNumber": "3305"
+        }, 
+        "ARTS-6764": {
+            "courseDescription": "examines the relevance of the Bible to such issues as the environmental crisis, emergent global capitalism, and technology and freedom.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Issues and the Bible", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3275", 
+            "courseNumber": "3276"
+        }, 
+        "ARTS-6767": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Development of Modern Judaism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3315"
+        }, 
+        "ARTS-6766": {
+            "courseDescription": "will explore the developments in Jewish thought, institutions, beliefs, and practices during the time when Greek and Jewish cultures encountered one another and in which Jesus of Nazareth lived.", 
+            "concurrent": [], 
+            "courseTitle": "Judaism at the Beginning of the Christian Era", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3220", 
+            "courseNumber": "3310"
+        }, 
+        "ARTS-6761": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Ethics and the New Testament", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3265"
+        }, 
+        "ARTS-6760": {
+            "courseDescription": "is an examination of the Gospel of John and the community which produced it. Special attention will be given to the place of the Gospel in the history of early Christianity.", 
+            "concurrent": [], 
+            "courseTitle": "The Gospel of John", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3251"
+        }, 
+        "ARTS-6763": {
+            "courseDescription": "examines ways in which the Bible has been interpreted from the beginnings of Christianity to the present.", 
+            "concurrent": [], 
+            "courseTitle": "Bible, Culture and Interpretation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3271, the former RELS 4200", 
+            "courseNumber": "3272"
+        }, 
+        "ARTS-6762": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity and the Roman Empire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3270"
+        }, 
+        "ARTS-6769": {
+            "courseDescription": "examines the relationship between meditation and theories of human psychology in Buddhism from its origins to its formulation in Zen.", 
+            "concurrent": [], 
+            "courseTitle": "Zen, Buddhist Meditation, and Buddhist Psychology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3401"
+        }, 
+        "ARTS-6768": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Mysticism in Judaism and Islam", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3320"
+        }, 
+        "ARTS-6798": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Folk Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4460"
+        }, 
+        "ARTS-6799": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in the Philosophy of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4500 and 4510"
+        }, 
+        "ARTS-6790": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Religion, Science and Technology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3830"
+        }, 
+        "ARTS-6791": {
+            "courseDescription": "is a study of religious themes in contemporary songwriting through the in-depth examination of the work of a selection of contemporary songwriters. The course will explore how religious questions and themes are handled in contemporary song and explore how song as an artistic medium expresses religious meaning. Songwriters to be explored may include the following: Bob Dylan, Bob Marley, Joni Mitchell, Leonard Cohen, Van Morrison, Tori Amos, Nick Cave, Alanis Morissette, Julie Miller, the Louvin Brothers, the Stanley Brothers, Hank Williams, etc.", 
+            "concurrent": [], 
+            "courseTitle": "Religious Themes in Contemporary Songwriting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3831"
+        }, 
+        "ARTS-6793": {
+            "courseDescription": "is an in-depth examination of the concept of implicit religion. The course will explore the concept of \"the sacred\" through an examination of the ideas of such theorists as Eliade, Turner, and Bailey and will examine the claims of some Religious Studies scholars that the sacred can be found in secular contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Implicit Religion: The Sacred in Secular Places", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-6794": {
+            "courseDescription": "is a study of religion and its role in Newfoundland society from the seventeenth century to the middle of the nineteenth century. Attention will be given to the origin, growth, and consolidation of the Anglican, Roman Catholic, Methodist, Moravian, and Congregational churches.", 
+            "concurrent": [], 
+            "courseTitle": "Religion in Newfoundland and Labrador: Beginnings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-6795": {
+            "courseDescription": "is a study of religion and its role in Newfoundland society from the middle of the nineteenth century to the present. The course will include the history of the Anglican, Roman Catholic, United (Methodist), Congregational, and Presbyterian churches in Newfoundland and the establishment and social significance of the Pentecostal movement and the Salvation Army.", 
+            "concurrent": [], 
+            "courseTitle": "Religion in Newfoundland and Labrador: The Nineteenth and Twentieth Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3901"
+        }, 
+        "ARTS-6796": {
+            "PR": "permission of the Department", 
+            "courseDescription": "are courses which will be offered at the discretion of the Department. They are designed to provide an opportunity for students majoring in Religious Studies or doing a strong concentration of courses in the area to pursue advanced study under tutorial supervision.", 
+            "concurrent": [], 
+            "courseTitle": "Biblical Studies: Special Subjects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4201-4230"
+        }, 
+        "ARTS-6797": {
+            "PR": "permission of the Department", 
+            "courseDescription": "are courses which will be offered at the discretion of the Department. They are designed to provide an opportunity for students majoring in Religious Studies or doing a strong concentration of courses in the area to pursue advanced study under tutorial supervision.", 
+            "concurrent": [], 
+            "courseTitle": "World Religions: Special Subjects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4300-4330"
+        }, 
+        "ARTS-6776": {
+            "courseDescription": "(same as Philosophy", 
+            "concurrent": [
+                "ARTS-6558"
+            ], 
+            "courseTitle": "Philosophy of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Philosophy 3500", 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-6777": {
+            "courseDescription": "is a study of Christian thought and practice in the Reformation era. This course will examine both Protestant and Catholic efforts at reform from the late Middle Ages to the seventeenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity in the Reformation Era", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3510"
+        }, 
+        "ARTS-6774": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Confucius and Confucianism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3432"
+        }, 
+        "ARTS-6772": {
+            "courseDescription": "is a study of Hindu constructions of ideal or iconic females (e.g., Durga, the warrior goddess; Sita, the perfect wife; the Yoginis, the \"witches\" of Tantra) and their power in the lives of Hindu women. The course includes critical examination of the history of Hindu goddess traditions, the ideals for females in Hindu law, and Hindu women's interpretations of \"ideal females\".", 
+            "concurrent": [], 
+            "courseTitle": "Warrior, Wife, Witch: Ideal Females and Female Ideals in Hinduism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3415"
+        }, 
+        "ARTS-6773": {
+            "courseDescription": "is a course in the critical reading of the two most important texts in Daoism, the", 
+            "concurrent": [], 
+            "courseTitle": "Readings in Daoism: The", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3420, the former RELS 3422", 
+            "courseNumber": "3431"
+        }, 
+        "ARTS-6770": {
+            "courseDescription": "is a study of one of the most influential Epics of Hinduism, the story of Rama, the perfect king of a golden age. The course examines various versions of the narrative, the social and religious values expressed through the story, and the Epic&rsquo;s place in Indian politics, in dramatic performances, and in visual arts.", 
+            "concurrent": [], 
+            "courseTitle": "The Ramayana: A Hindu Epic and Performance Tradition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3411"
+        }, 
+        "ARTS-6771": {
+            "courseDescription": "is an in-depth examination of some of the principal Upanishads, foundational texts for Hindu religious philosophy and techniques of meditation. The course also examines classical and modern interpretations of these texts.", 
+            "concurrent": [], 
+            "courseTitle": "The Teachings of the Upanishads", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3412"
+        }, 
+        "ARTS-6778": {
+            "courseDescription": "is a study of Western Christianity from the Enlightenment to the twentieth century through an examination of institutional and intellectual developments as well as changes in popular religious consciousness and practice.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity in the Modern Era", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3530, the former RELS 3595", 
+            "courseNumber": "3535"
+        }, 
+        "ARTS-6779": {
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6521"
+            ], 
+            "courseTitle": "Christian Thought in the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Medieval Studies 3003", 
+            "courseNumber": "3560"
+        }, 
+        "ARTS-6800": {
+            "PR": "permission of the Department", 
+            "courseDescription": "are courses which will be offered at the discretion of the Department. They are designed to provide an opportunity for students majoring in Religious Studies or doing a strong concentration of courses in the area to pursue advanced study under tutorial supervision.", 
+            "concurrent": [], 
+            "courseTitle": "Christian Thought and History: Special Subjects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4700-4730"
+        }, 
+        "ARTS-6801": {
+            "PR": "permission of the Department", 
+            "courseDescription": "are courses which will be offered at the discretion of the Department. They are designed to provide an opportunity for students majoring in Religious Studies or doing a strong concentration of courses in the area to pursue advanced study under tutorial supervision.", 
+            "concurrent": [], 
+            "courseTitle": "Religion, Ethics, and Modern Culture: Special Subjects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4801-4830"
+        }, 
+        "ARTS-6802": {
+            "courseDescription": "are designed to provide students with some basic knowledge of the languages necessary for studying the original texts of the major world religions. The languages presently offered through the Department are Mishnaic Hebrew, Aramaic, Coptic, Pali, Tibetan, Japanese, Manchu, Arabic, and Chinese. These courses will be offered at the discretion of the Department. They are designed to provide an opportunity for students majoring in Religious Studies or doing a strong concentration of courses in the area to pursue advanced study under tutorial supervision. In addition to those languages mentioned above, courses in Latin and New Testament Greek are available from the Department of Classics and courses in Sanskrit from the Department of Linguistics.", 
+            "concurrent": [], 
+            "courseTitle": "Language Studies: Special Subjects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4902-4910 (Excluding 4904)"
+        }, 
+        "ARTS-6803": {
+            "courseDescription": "will be based on a program of assigned reading related to the general subject area of the student's dissertation.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehensive Examination for Honours Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4998"
+        }, 
+        "ARTS-6804": {
+            "courseDescription": "may be required as part of the honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay for Honours Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-7350": {
+            "PR": "3 credit hours in Religious Studies beyond the first-year level or departmental permission", 
+            "courseDescription": "is an examination of the attitudes of various religious traditions to the environment. Special attention will be paid to Native American spirituality.", 
+            "concurrent": [], 
+            "courseTitle": "Spirituality and the Earth", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3880"
+        }, 
+        "ARTS-6749": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Religion in Contemporary Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2850"
+        }, 
+        "ARTS-6748": {
+            "courseDescription": "is an introduction to the study of religious themes in popular music. The course will explore the influence of religious music on popular music and song and examine the role of music and song in the expression of religious themes.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Popular Music", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2830"
+        }, 
+        "ARTS-6743": {
+            "courseDescription": "is an examination of the history of women in the traditions of Hinduism, Buddhism, Confucianism, Taoism, and folk traditions in Asia. The modern status of women in Asia and its relationship to traditional religious ideas will also be studied.", 
+            "concurrent": [], 
+            "courseTitle": "Women in Eastern Religions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2801"
+        }, 
+        "ARTS-6742": {
+            "courseDescription": "is an examination of the attitudes toward, and roles of, women in the Western religions, including prehistoric traditions, Judaism, Christianity, and Islam. Contemporary evaluations of these traditions from the point of view of women will also be considered.", 
+            "concurrent": [], 
+            "courseTitle": "Women in Western Religions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2800"
+        }, 
+        "ARTS-6741": {
+            "courseDescription": "is an introduction to religious ethics through the systematic study of selected writers and issues in biomedicine, human sexuality, and social justice. Possible topics for discussion include euthanasia, abortion, poverty, and unemployment.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Religious Ethics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "students who have successfully completed both the former RELS 2600 and the former RELS 2601 may not receive credit for RELS 2610", 
+            "courseNumber": "2610"
+        }, 
+        "ARTS-6740": {
+            "courseDescription": "is an examination of the nature and development of Shinto, the history and characteristics of the major sects of Japanese Buddhism, and the origins and importance of the New Religions of the 19th and 20th centuries, especially Tenrikyo and Soka Gakkai.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese Religions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former RELS 3430", 
+            "courseNumber": "2430"
+        }, 
+        "ARTS-6747": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Cults and New Religious Movements", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2820"
+        }, 
+        "ARTS-6746": {
+            "courseDescription": "will focus on the portrayal and treatment of religion in popular culture and will examine some of the ways in which religious and mythic themes are expressed in such pop culture forums as television shows, films, music, mass-market fiction, and material culture.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Popular Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2812"
+        }, 
+        "ARTS-6745": {
+            "courseDescription": "is an introduction to contemporary religious movements in the West, including modern witchcraft, Neo-pagan religions, Mother Earth Spirituality, UFO religion, and the New Age Movement.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Contemporary Religious Movements", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2811"
+        }, 
+        "ARTS-6744": {
+            "courseDescription": "is an historical examination of the impact of science on religion in Western culture. Particular emphasis will be placed on such developments as the scientific revolution, the rise of modern technology, and the emergence of modern scientific theories.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Modern Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2810"
+        }
+    }
+}

@@ -1,0 +1,549 @@
+{
+    "CHEM": {
+        "SCI-2745": {
+            "PR": "CHEM 2302 (or the former CHEM 3301) and Mathematics 2260 or ( 3260 ). Due to the requirement of Mathematics 2260 , students wishing to take this course should plan ahead.", 
+            "courseDescription": "examines exact solutions to the Schrodinger equation, introduction to approximate methods, modern methods (wavefunction and density functional theories), spectroscopy, and applications of computational chemistry.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Quantum Chemistry", 
+            "prerequisites": [
+                "SCI-2742", 
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-3556"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CHEM 4300", 
+            "courseNumber": "4304"
+        }, 
+        "SCI-2741": {
+            "PR": "minimum 60% in CHEM 1051 (or CHEM 1001 or CHEM 1031 ), Mathematics 1001 and Physics 1051 or Physics 1021", 
+            "courseDescription": "builds upon knowledge of physical chemistry from first year. It covers the three laws of thermodynamics for ideal and real systems as well as chemical kinetics. Topics in thermodynamics include the thermodynamics of ideal and real gases, phases, and solutions, the Maxwell relations, equilibria between phases, and in electrolyte solutions. The integrated rate laws for simple and complex mechanisms, and the temperature dependence of reaction rates in terms of kinetic molecular theory are some of the topics discussed in the kinetics section of the course.", 
+            "CO": "Mathematics 2000 is recommended", 
+            "concurrent": [
+                "SWGC-3096"
+            ], 
+            "courseTitle": "Thermodynamics and Kinetics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2569", 
+                "SWGC-0643", 
+                "SCI-0909", 
+                "SCI-1339", 
+                "SCI-1815", 
+                "SCI-1577"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1354"
+            ], 
+            "CR": "CHEM 2300 (offered at Grenfell Campus)", 
+            "courseNumber": "2301"
+        }, 
+        "SCI-2743": {
+            "PR": "CHEM 2301 (or 2300 ) and CHEM 2302 (or the former CHEM 3301) Mathematics 2000 and Mathematics 2050 .", 
+            "courseDescription": "examines physical chemistry from the microscopic viewpoint. Topics include probability distributions, quantum statistical mechanics, statistical thermodynamics, ensembles, kinetics and introduction to statistical rate theories as well as an introduction to computational chemistry (lab).", 
+            "concurrent": [], 
+            "courseTitle": "Statistical Thermodynamics and Rate Theories", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2741", 
+                "SWGC-3096", 
+                "SCI-2742", 
+                "SCI-1354", 
+                "SCI-1356"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 3300", 
+            "courseNumber": "3303"
+        }, 
+        "SCI-2742": {
+            "PR": "minimum 60% in CHEM 1051 (or CHEM 1001 or CHEM 1031 ), Mathematics 1001 and Physics 1051 or Physics 1021", 
+            "courseDescription": "examines the quantum mechanics of simple systems such as the particle in a box, the harmonic oscillator, linear rotor, and hydrogen-like atoms. Topics also include orbital quantum numbers, spin, many electron atoms, an introduction to quantum mechanical methods, the electronic structures of molecules, bonding, and symmetry. Furthermore, electronic, rotational, and vibrational spectroscope will be discussed as well as modern applications of spectroscopy and lasers.", 
+            "CO": "Mathematics 2000 is recommended", 
+            "concurrent": [], 
+            "courseTitle": "Quantum Chemistry and Spectroscopy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2569", 
+                "SWGC-0643", 
+                "SCI-0909", 
+                "SCI-1339", 
+                "SCI-1815", 
+                "SCI-1577"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1354"
+            ], 
+            "CR": "the former CHEM 3301", 
+            "courseNumber": "2302"
+        }, 
+        "SCI-3246": {
+            "PR": "CHEM 2401 and CHEM 3211", 
+            "courseDescription": "examines the benefits and limitations of new methods aimed at reducing the environmental impact of chemical processes including waste prevention, hazard/risk reduction, catalysts, renewable feedstocks and alternative solvents.", 
+            "concurrent": [], 
+            "courseTitle": "Green Chemistry", 
+            "prerequisites": [
+                "SCI-0923", 
+                "SCI-0928"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4206"
+        }, 
+        "SCI-0952": {
+            "PR": "CHEM 2302 or the former CHEM 3301, and CHEM 3411 or the former CHEM 3401. CHEM 3500 is strongly recommended.", 
+            "courseDescription": "is an introduction to the quantitative and qualitative theories of reactions and reactivity and their application to organic reaction mechanisms and to mechanism elucidation.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Organic Chemistry", 
+            "prerequisites": [
+                "SCI-2742", 
+                "SCI-0933", 
+                "SCI-0935"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CHEM 4400 and the former CHEM 4401", 
+            "courseNumber": "4420"
+        }, 
+        "SCI-0950": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Physical Chemistry III: Selected Topics in Physical Chemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4350"
+        }, 
+        "SCI-0951": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Topics in Medicinal Chemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4411"
+        }, 
+        "SCI-0956": {
+            "PR": "admission to the Honours Chemistry Program or Chemistry Joint Honours Program and honours standing", 
+            "courseDescription": "is available only to students in Chemistry Honours or Chemistry Joint Honours Programs. These courses are two single-semester, linked courses based on independent research carried out under the supervision of a faculty member in the Department of Chemistry. Research undertaken for these courses must have a clear disconnect from any research previously conducted. These courses are mandatory for Honours Chemistry students. A grade of pass in 490A is required to proceed to 490B. A written thesis is to be handed in by the end of the course. 490A and 490B are to be taken in the Fall and Winter semesters in the same academic year.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Honours Research in Chemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may be taken by students not in an Honours program or without Honours standing with the permission of the Head of the Department and a research supervisor.", 
+            "courseNumber": "490A/B"
+        }, 
+        "SCI-0954": {
+            "PR": "the former CHEM 3401 or 3411 . CHEM 4420 is strongly recommended.", 
+            "courseDescription": "examines modern synthetic methods with particular attention placed on the synthesis of enantiomerically enriched compounds and newer methods for the formation of carbon-carbon bonds. Designing syntheses of complex organic molecules.", 
+            "concurrent": [], 
+            "courseTitle": "Synthetic Organic Chemistry II", 
+            "prerequisites": [
+                "SCI-0933", 
+                "SCI-0952"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CHEM 4410", 
+            "courseNumber": "4430"
+        }, 
+        "SCI-0939": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Spectrometric Techniques", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "SCI-0919": {
+            "PR": "CHEM 1051 (or 1001 or 1031 ), Mathematics 1000", 
+            "courseDescription": "studies the chemistry of selected s, p, and d block elements. Introduction to crystal and molecular structures and to molecular orbital and crystal field theories.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Inorganic Chemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2569", 
+                "SWGC-0643", 
+                "SCI-0909", 
+                "SCI-1337"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "2210"
+        }, 
+        "SCI-0931": {
+            "PR": "CHEM 2401 . It is recommended that CHEM 3500 be taken concurrently.", 
+            "courseDescription": "is a study of the major classes of biomolecules, their structure, function, and in vitro chemistry. An introduction to natural products. Synthetic polymers compared to biopolymers. Heteroaromatic molecules and derived biomolecules.", 
+            "concurrent": [], 
+            "courseTitle": "Bio-organic Chemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0923", 
+                "SCI-0935"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 3401", 
+            "courseNumber": "3410"
+        }, 
+        "SCI-0933": {
+            "PR": "CHEM 3410 , or all of CHEM 2401 , Biochemistry 2100 and Biochemistry 2101", 
+            "courseDescription": "is a survey of some important reactions used in organic synthesis, including pericyclic reactions and those based on carbocation, carbene, nitrene and carbanion intermediates. Emphasis is placed on multifunctional compounds.", 
+            "concurrent": [], 
+            "courseTitle": "Synthetic Organic Chemistry I", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0931", 
+                "SCI-0923", 
+                "SCI-0691", 
+                "SCI-0692"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 3400", 
+            "courseNumber": "3411"
+        }, 
+        "SCI-0935": {
+            "PR": "CHEM 2210 , CHEM 2302 (or 2300 ) and CHEM 2401", 
+            "courseDescription": "is the application of spectroscopic methods to the determination of molecular structure. Emphasis will be placed on electronic, vibrational and rotational spectroscopy, nuclear magnetic resonance spectroscopy and mass spectrometry.", 
+            "concurrent": [], 
+            "courseTitle": "Spectroscopic Analysis: Spectroscopy and Structure", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0919", 
+                "SCI-2742", 
+                "SWGC-3096", 
+                "SCI-0923"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "SCI-0936": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Chemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "SCI-3680": {
+            "PR": "CHEM 3110", 
+            "courseDescription": "comprises the development and critical evaluation of analytical methods and sampling protocols for analyses in complex matrices, including those relevant to environmental, medical, food, and forensic sciences.", 
+            "concurrent": [], 
+            "courseTitle": "Analytical Method Development and Sampling", 
+            "prerequisites": [
+                "SCI-3074"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4156"
+        }, 
+        "SCI-2569": {
+            "PR": "CHEM 1050 and Mathematics 1001 which may be taken concurrently with CHEM 1051", 
+            "courseDescription": "builds on CHEM", 
+            "CO": "Mathematics 1001", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "General Chemistry II", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0910", 
+                "SCI-1339"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1339"
+            ], 
+            "UL": "only 6 science credit hours will be awarded for a major or honours in Chemistry from the following course groups: CHEM 1010 / 1011 / 1031 , or CHEM 1010 / 1050 /1051, or CHEM 1810 / 1200 / 1001 (Grenfell Campus)", 
+            "courseNumber": "1051"
+        }, 
+        "SCI-2568": {
+            "PR": "CHEM 1010", 
+            "courseDescription": "examines chemical bonding including VSEPR shapes and polarity; introduction to valence bond theory and hybridization; liquids, solids and intermolecular forces; chemical kinetics; chemical equilibrium; acids and bases; solubility equilibrium; electrochemistry.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Chemistry II", 
+            "LH": "1.5", 
+            "prerequisites": [
+                "SCI-0908"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "UL": "only 6 science credit hours will be awarded for a major or honours in Chemistry from the following course groups: CHEM 1010 /1011/ 1031 , or CHEM 1010 / 1050 / 1051 , or CHEM 1810 / 1200 / 1001 (Grenfell Campus)", 
+            "courseNumber": "1011", 
+            "OR": "1.5 hour tutorial per week"
+        }, 
+        "SCI-3571": {
+            "PR": "CHEM 3500", 
+            "courseDescription": "examines advances in modern and traditional NMR techniques, the principles and applications of solution and solid-state NMR spectroscopy and micro imaging.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Nuclear Magnetic Resonance Spectroscopy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0935"
+            ], 
+            "AR": "Attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "SCI-3570": {
+            "PR": "CHEM 3303 or the former CHEM 3301", 
+            "courseDescription": "examines intermolecular forces, the properties of liquids, the solvation of molecules and ions, and the structure and dynamics of macromolecules within the framework of statistical thermodynamics.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Statistical Thermodynamics", 
+            "prerequisites": [
+                "SCI-2743"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CHEM 4303", 
+            "courseNumber": "4305"
+        }, 
+        "SCI-0909": {
+            "PR": "CHEM 1011 and Mathematics 1001 which may be taken concurrently with CHEM 1031", 
+            "courseDescription": "prepares students who have completed CHEM", 
+            "CO": "Mathematics 1001", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Chemistry III", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2568", 
+                "SCI-1339"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1339"
+            ], 
+            "UL": "only 6 science credit hours will be awarded for a major or honours in Chemistry from the following course groups: CHEM 1010 / 1011 /1031, or CHEM 1010 / 1050 / 1051 , or CHEM 1810 / 1200 / 1001 (Grenfell Campus)", 
+            "courseNumber": "1031"
+        }, 
+        "SCI-3074": {
+            "PR": "CHEM 2100 or the former CHEM 3100", 
+            "courseDescription": "(same as the former CHEM 4110) builds upon the student&rsquo;s knowledge from CHEM", 
+            "concurrent": [], 
+            "courseTitle": "Analytical Chemistry II", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-3073"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 4100, the former CHEM 4101, or the former CHEM 4110", 
+            "courseNumber": "3110"
+        }, 
+        "SCI-3075": {
+            "PR": "CHEM 2210 , CHEM 2301 (or 2300 ), and CHEM 2302", 
+            "courseDescription": "is a detailed examination of the chemistry of the s and p block elements and modern applications of inorganic chemistry in materials and nanotechnology.", 
+            "concurrent": [], 
+            "courseTitle": "Main Group and Materials Chemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0919", 
+                "SCI-2741", 
+                "SWGC-3096", 
+                "SCI-2742"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "SCI-3073": {
+            "PR": "CHEM 1051 (or 1001 or 1031 ) with a grade of at least 60%", 
+            "courseDescription": "(same as the former CHEM 3100) is an introduction to analytical chemistry and includes preparation of samples and standards, calibration methods, statistical treatment of data, spectrophotometric trace analysis, gravimetric analysis and volumetric analysis including acid-based titrations, precipitation titrations, oxidation-reduction titrations, complexometric titrations and titrations in non-aqueous systems. Also introduced are liquid-liquid and other types of extraction, and chromatography with key methods of detection. Theoretical, practical and problem-solving aspects are covered.", 
+            "concurrent": [], 
+            "courseTitle": "Analytical Chemistry I", 
+            "LH": "4", 
+            "prerequisites": [
+                "SCI-2569", 
+                "SWGC-0643", 
+                "SCI-0909"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 3100", 
+            "courseNumber": "2100"
+        }, 
+        "SCI-0945": {
+            "PR": "CHEM 3211", 
+            "courseDescription": "is a survey of inorganic and organometallic reactions, their mechanisms and kinetic characteristics. In addition, stereochemical non-rigidity, reactions of coordinated ligands and homogeneous catalysis are discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Inorganic Reaction Mechanisms and Catalysis", 
+            "prerequisites": [
+                "SCI-0928"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4204"
+        }, 
+        "SCI-0944": {
+            "PR": "CHEM 3211", 
+            "courseDescription": "is principles and applications of organometallic chemistry with emphasis on compounds of the transition metals, lanthanides and actinides. A study of synthetic methods, structure, bonding, reactions and applications of these concepts to organic synthesis and to catalysis.", 
+            "concurrent": [], 
+            "courseTitle": "Organometallic Chemistry", 
+            "prerequisites": [
+                "SCI-0928"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4203"
+        }, 
+        "SCI-0946": {
+            "PR": "CHEM 3211 and the former CHEM 3301 or CHEM 2302", 
+            "courseDescription": "is an introduction to the theory of electronic excited states in transition metal complexes. Applications to artificial photosynthesis, photodynamic therapy, molecular photovoltaics and molecular electronics.", 
+            "CO": "CHEM 3211 and CHEM 2302", 
+            "concurrent": [], 
+            "courseTitle": "Photochemistry of Transition Metal Complexes", 
+            "prerequisites": [
+                "SCI-0928", 
+                "SCI-2742"
+            ], 
+            "corequisites": [
+                "SCI-0928", 
+                "SCI-2742"
+            ], 
+            "courseNumber": "4205"
+        }, 
+        "SCI-0941": {
+            "PR": "CHEM 3110 (or the former CHEM 4100 or the former CHEM 4101 or the former CHEM 4110)", 
+            "courseDescription": "examines the principles and theory of dynamic electrochemistry, voltammetry, stripping analysis, electro-chemical sensors and detectors.", 
+            "concurrent": [], 
+            "courseTitle": "Electroanalytical Techniques", 
+            "prerequisites": [
+                "SCI-3074"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4152"
+        }, 
+        "SCI-0940": {
+            "PR": "CHEM 3110 (or the former CHEM 4100 or the former CHEM 4101 or the former CHEM 4110)", 
+            "courseDescription": "examines advances in the traditional chromatographic techniques, the development of new analytical tools in separation science, the interfacing of mass spectrometers to chromatographic instruments, and other mass spectrometric techniques.", 
+            "concurrent": [], 
+            "courseTitle": "Analytical Separations and Organic Mass Spectrometry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-3074"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "4151"
+        }, 
+        "SCI-0943": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Main Group Chemistry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4202"
+        }, 
+        "SCI-0942": {
+            "PR": "CHEM 3211", 
+            "courseDescription": "examines the role of certain transition elements e.g. iron, copper, cobalt, and zinc, in proteins and enzymes will be discussed in terms of structural features, the natural ligands, magnetic properties, mechanisms, etc., and reinforced with examples of 'model compounds'. Magnetic theory, in particular for polynuclear transition metal complexes, will also be developed.", 
+            "concurrent": [], 
+            "courseTitle": "Coordination Chemistry in Biological Molecules - Structural, Mechanistic and Magnetic Studies", 
+            "prerequisites": [
+                "SCI-0928"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "SCI-0928": {
+            "PR": "CHEM 2210 , CHEM 2301 (or 2300 ), and CHEM 2302", 
+            "courseDescription": "is a detailed examination of the structure, bonding, and chemistry of the d block elements.", 
+            "concurrent": [], 
+            "courseTitle": "Inorganic Chemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0919", 
+                "SCI-2741", 
+                "SWGC-3096", 
+                "SCI-2742"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "courseNumber": "3211"
+        }, 
+        "SCI-0910": {
+            "PR": "CHEM 1010 with a grade of at least 60% or high school CHEM 3202 with a grade of at least 75%, and Mathematics 1000 which may be taken concurrently with CHEM 1050", 
+            "courseDescription": "builds on basic chemistry concepts from high school. Topics include gases; thermochemistry; atomic structure; periodic properties; chemical bonding including valence bond theory; hybridization and molecular orbital theory; properties of liquids, solids and solutions.", 
+            "CO": "Mathematics 1000", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "General Chemistry I", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0908", 
+                "SCI-1337"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "UL": "only 6 science credit hours will be awarded for a major or honours in Chemistry from the following course groups: CHEM 1010 / 1011 / 1031 , or CHEM 1010 /1050/ 1051 , or CHEM 1810 / 1200 / 1001 (Grenfell Campus)", 
+            "courseNumber": "1050"
+        }, 
+        "SCI-0923": {
+            "PR": "CHEM 2400", 
+            "courseDescription": "is an introduction to the interpretation of infrared, H and C-13 NMR spectra; properties, syntheses and reactions of ethers, simple aromatic compounds, ketones, aldehydes, amines, carboxylic acids and their derivatives; aldol and related reactions.", 
+            "concurrent": [
+                "SCI-0925"
+            ], 
+            "courseTitle": "Introductory Organic Chemistry II", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0921"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 2420, 2440 , and the former 240A/B", 
+            "courseNumber": "2401"
+        }, 
+        "SCI-0908": {
+            "PR": "it is recommended that students have at least 70% in high school Academic Mathematics 3204, or a pass in any university level mathematics course", 
+            "courseDescription": "examines descriptive chemistry; measurements; atoms; molecules; the mole; mole calculations and reaction stoichiometry; the balancing of redox reactions; gases; thermochemistry; atomic structure; periodic properties; the physical properties of matter.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Chemistry I", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "UL": "only 6 science credit hours will be awarded for a major or honours in Chemistry from the following course groups: CHEM 1010/ 1011 / 1031 , or CHEM 1010/ 1050 / 1051 , or CHEM 1810 / 1200 / 1001 (Grenfell Campus)", 
+            "courseNumber": "1010", 
+            "OR": "1 hour tutorial per week"
+        }, 
+        "SCI-0921": {
+            "PR": "CHEM 1051 or 1031 ; or CHEM 1010 and 1011 with a grade of at least 80% in each; or CHEM 1011 with a grade of at least 85%; or CHEM 1001 with a grade of at least 65%", 
+            "courseDescription": "is a course on bonding involving carbon; conformations and sterochemistry; introduction to functional groups and nomenclature; properties, syntheses and reactions of hydrocarbons, alkyl halides and alcohols.", 
+            "concurrent": [
+                "SCI-0925"
+            ], 
+            "courseTitle": "Introductory Organic Chemistry I", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2569", 
+                "SCI-0909", 
+                "SCI-0908", 
+                "SCI-2568", 
+                "SCI-2568", 
+                "SWGC-0643"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "the former CHEM 2420, 2440 and the former 240A/B", 
+            "courseNumber": "2400"
+        }, 
+        "SCI-0925": {
+            "PR": "CHEM 1011 (or 1001 or 1051 )", 
+            "courseDescription": "is an introduction to the principles of organic chemistry with an emphasis on material relevant to biological molecules. The laboratory will introduce techniques and illustrate concepts covered in the course. This course is designed primarily for Biology Majors.", 
+            "concurrent": [
+                "SCI-0921"
+            ], 
+            "courseTitle": "Organic Chemistry for Biologists", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-2568", 
+                "SWGC-0643", 
+                "SCI-2569"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [], 
+            "CR": "CHEM 2400 , the former 2420, the former 240A/B", 
+            "UL": "may not be used for credit by Chemistry or Biochemistry Majors and is not a prerequisite for any other Chemistry course.", 
+            "courseNumber": "2440"
+        }
+    }
+}

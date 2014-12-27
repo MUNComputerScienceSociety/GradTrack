@@ -1,0 +1,982 @@
+{
+    "PSYC": {
+        "SCI-1846": {
+            "PR": "PSYC 2520 , 2570 , 2911 and PSYC 3750 or BIOL 3750 , and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of animal behaviour.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Animal Behaviour", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1771", 
+                "SCI-0828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4770"
+        }, 
+        "SCI-1729": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Psychology of Thinking", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3430"
+        }, 
+        "SCI-1777": {
+            "PR": "PSYC 3050 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in developmental psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Developmental Psychology II", 
+            "prerequisites": [
+                "SCI-1756"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4051"
+        }, 
+        "SCI-1722": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Intelligence", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2560"
+        }, 
+        "SCI-1723": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Personality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2610"
+        }, 
+        "SCI-3083": {
+            "PR": "PSYC 3450 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(same as the former PSYC 4401) is an intensive examination of a specific topic in cognition.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Cognition II", 
+            "prerequisites": [
+                "SCI-1767"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PSYC 4401", 
+            "courseNumber": "4451"
+        }, 
+        "SCI-1721": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is an examination of the influence of gender on development and socialization, attitude formation, cognition, personality and mental health.", 
+            "concurrent": [], 
+            "courseTitle": "Psychology of Gender", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2540"
+        }, 
+        "SCI-1726": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is a broad survey of physiological psychology at an elementary level. Topics will include the following: structure of the nervous system, nerve conduction, sensory and motor systems, behavioural biology of reproduction, aggression, feeding and drinking, sleep and arousal, pleasure and pain, learning and memory.", 
+            "concurrent": [
+                "SWGC-1148", 
+                "SCI-1750"
+            ], 
+            "courseTitle": "Brain and Behaviour", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2825 , the former PSYC 2850, PSYC 3801", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2810"
+        }, 
+        "SCI-3084": {
+            "PR": "two courses chosen from PSYC 3050 , 3250 , 3350 , 3450 , 3801 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(same as the former PSYC 4402) is an intensive examination of a specific topic in cognitive science from a psychological perspective.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Cognitive Science", 
+            "prerequisites": [
+                "SCI-1756", 
+                "SCI-1828", 
+                "SCI-1830", 
+                "SCI-1767", 
+                "SCI-1750"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PSYC 4402", 
+            "courseNumber": "4453"
+        }, 
+        "SCI-1841": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Developmental Psychopathology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4660"
+        }, 
+        "SCI-1725": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is an examination of the neurophysiology of drug action, the measurable effect of drugs on experimentally controlled behaviour, and a survey of information available on common self-administered drugs and their immediate and long-term effects.", 
+            "concurrent": [], 
+            "courseTitle": "Drugs and Behaviour", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2800"
+        }, 
+        "SCI-1828": {
+            "PR": "PSYC 2520 , 2570 , and 2911 , and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(formerly PSYC 2250) examines how organisms adjust their behaviour to regularities in the environment as a result of experience.", 
+            "concurrent": [
+                "SCI-1717"
+            ], 
+            "courseTitle": "Learning", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2240 , the former PSYC 2225, the former PSYC 2250", 
+            "courseNumber": "3250"
+        }, 
+        "SCI-1706": {
+            "courseDescription": "is the first half of a two-semester introduction to Psychology as a biological and social science. Topics may include history, research methodology, behavioural neuroscience, sensation and perception, consciousness, learning, and memory.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Psychology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "SCI-1707": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is a survey of principles underlying human development from the prenatal stage to adolescence. Topics covered will include sensorimotor, linguistic, perceptual, cognitive and motivational changes.", 
+            "concurrent": [
+                "SWGC-1138", 
+                "SCI-1756"
+            ], 
+            "courseTitle": "The Psychology of Human Development I", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2025 , PSYC 3050", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2010"
+        }, 
+        "SCI-2736": {
+            "PR": "two 3000-level majors courses (other than 3900 ) and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in psychology that crosses traditional subdisciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Psychology II", 
+            "prerequisites": [
+                "SCI-1774"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4501"
+        }, 
+        "SCI-1769": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an examination of the nature, explanation and treatment of psychological disorders with an emphasis on research methods and current findings.", 
+            "concurrent": [
+                "SCI-1735", 
+                "SWGC-1159"
+            ], 
+            "courseTitle": "Abnormal Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 3640 , PSYC 3626", 
+            "courseNumber": "3650"
+        }, 
+        "SCI-1847": {
+            "PR": "PSYC 2520 , 2570 , 2911 , and either 3800 or 3801 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of neuroscience.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Neuroscience", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1773", 
+                "SCI-1750"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4870"
+        }, 
+        "SCI-1767": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an introduction to the experimental study of the mental representations and processes involved in human cognition. Topics such as attention, perception and pattern recognition, concepts and the organization of knowledge, language processes, mental imagery, reasoning, problem solving, decision making and skilled performance will be covered with an emphasis on experimental analysis and techniques.", 
+            "concurrent": [
+                "SCI-1718", 
+                "SWGC-1144"
+            ], 
+            "courseTitle": "Human Cognition", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2440 , PSYC 2425", 
+            "courseNumber": "3450"
+        }, 
+        "SCI-1845": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Personality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4671"
+        }, 
+        "SCI-1765": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Learning Processes and Drug Effects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4260"
+        }, 
+        "SCI-1843": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Psychology and Theories of Psychotherapy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4662"
+        }, 
+        "SCI-1709": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is an examination of relevant research on socialization and personality development with special emphasis on attachment, imitation, sex role and moral development in childhood and adolescence.", 
+            "concurrent": [
+                "SWGC-1138"
+            ], 
+            "courseTitle": "The Psychology of Human Development II", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2025", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2011"
+        }, 
+        "SCI-1746": {
+            "PR": "PSYC 1000 and 1001 and admission to a Major in Psychology or Behavioural Neuroscience; minors may be permitted to take this course if space permits", 
+            "courseDescription": "is based on the idea that psychological and neuroscience research efforts are synergistic. Neuroscience research can reveal mechanisms that help explain the mind and behavior, while concepts developed by psychological research often define the topics that neuroscience investigates. Topics such as memory, emotion, mental illness, and sleep will illustrate the utility of multiple research perspectives for developing a more complete understanding of psychological issues.", 
+            "concurrent": [], 
+            "courseTitle": "Mind and Brain", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2520"
+        }, 
+        "SCI-1747": {
+            "PR": "PSYC 1000 and 1001 and admission to a Major in Psychology or Behavioural Neuroscience; minors may be permitted to take this course if space permits", 
+            "courseDescription": "uses current conceptualizations of personality and ability as a focus. The course will review issues related to the measurement of individual differences, including test characteristics and ethics. Research from a variety of perspectives will be used to illustrate the contributions of different areas of psychology to our understanding of individual differences.", 
+            "concurrent": [], 
+            "courseTitle": "Understanding Individual Differences", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2570"
+        }, 
+        "SCI-1801": {
+            "PR": "admission to the Honours Program", 
+            "courseDescription": "is a linked course, based on independent study of an approved problem in Psychology. The topic will be chosen in consultation with the Faculty Advisor. The first semester will normally involve directed reading in this area, and preparation of a dissertation proposal. The second semester will be devoted to conducting the study, gathering data, data analysis and preparation of a formal written report. The dissertation must be submitted for grading before the end of the tenth week of the semester in which the student is registered for 499B.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Honours Dissertation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499A and 499B"
+        }, 
+        "SCI-1844": {
+            "PR": "PSYC 2520 , 2570 , 2911 and 3650 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of clinical psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Abnormal Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1769"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4670"
+        }, 
+        "SCI-1794": {
+            "PR": "PSYC 3750 or Biology 3750 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in animal behaviour.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Animal Behaviour II", 
+            "prerequisites": [
+                "SCI-1771", 
+                "SCI-0828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4751"
+        }, 
+        "SCI-2804": {
+            "courseDescription": "follows the successful completion of Semester 7. Students should have sufficient academic grounding and work experience to contribute in a positive manner to the problem-solving and management processes needed and practiced in the work environment. Students should become better acquainted with their discipline of study, should observe and appreciate the attitudes, responsibilities, and ethics normally expected of professionals and should exercise greater independence and responsibility in their assigned work functions. The work report should reflect the growing professional development of the student and, as a minimum requirement, will:", 
+            "concurrent": [], 
+            "courseTitle": "Work Term III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }, 
+        "SCI-1840": {
+            "PR": "PSYC 2520 , 2570 , 2911 , and 3450 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of cognition.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Cognition", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1767"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4470"
+        }, 
+        "SCI-2803": {
+            "courseDescription": "follows the successful completion of Semester 6. Students are expected to further develop and expand their knowledge and work-related skills and should be able to accept increased responsibility and challenge. In addition, students are expected to demonstrate an ability to deal with increasingly complex work-related concepts and problems. The work report, as a minimum requirement, should:", 
+            "concurrent": [], 
+            "courseTitle": "Work Term II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "299W"
+        }, 
+        "SCI-2199": {
+            "PR": "PSYC 3450 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "surveys theories and research about how humans remember information and why they forget. Topics include research on sensory memory, short-term working memory, amnesia, forgetting, memory development, and semantic memory as well as practical issues such as how to improve memory.", 
+            "concurrent": [], 
+            "courseTitle": "Human Memory", 
+            "prerequisites": [
+                "SCI-1767"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4462"
+        }, 
+        "SCI-1760": {
+            "PR": "PSYC 2520 , 2570 , and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an examination of the concepts and principles involved in social behaviour. Topics covered will include attitudes, social cognition, interpersonal relations, and group processes.", 
+            "concurrent": [
+                "SCI-1713"
+            ], 
+            "courseTitle": "Social Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2100 , PSYC 2125", 
+            "courseNumber": "3100"
+        }, 
+        "SCI-1799": {
+            "PR": "at the St. John&rsquo;s campus, 30 credit hours in Psychology courses required in the majors program and admission to a Major in Psychology or Behavioural Neuroscience or, at the Grenfell campus, 30 credit hours in Psychology courses including Psychology 3950", 
+            "courseDescription": "is a study of paradigms and explanations in contemporary psychology in the context of their historical antecedents.", 
+            "concurrent": [], 
+            "courseTitle": "Systems in Contemporary Psychology", 
+            "prerequisites": [
+                "SWGC-1134"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4910"
+        }, 
+        "SCI-1734": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Program Evaluation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3577"
+        }, 
+        "SCI-1796": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Behavioural Neuroscience II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4851"
+        }, 
+        "SCI-1795": {
+            "PR": "PSYC 2810 ; or 3800 or 3801 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in behavioural neuroscience.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Behavioural Neuroscience I", 
+            "prerequisites": [
+                "SCI-1726", 
+                "SCI-1773", 
+                "SCI-1750"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4850"
+        }, 
+        "SCI-1754": {
+            "PR": "PSYC 2910 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "covers research methods in psychology with a focus on more complex research designs and statistical approaches, within the realm of experimentation and beyond the laboratory. Specific topics include controlling participant variables, using between and repeated measures designs within the context of Analysis of Variance (ANOVA). Particular ANOVA approaches include one-way and factorial designs, within subject design, and two-way mixed designs.", 
+            "concurrent": [
+                "SCI-1448", 
+                "SCI-1454", 
+                "SWGC-1132"
+            ], 
+            "courseTitle": "Research Methods in Psychology II", 
+            "LH": "one laboratory period weekly", 
+            "prerequisites": [
+                "SCI-1752"
+            ], 
+            "corequisites": [], 
+            "CR": "Statistics 2501 , 2560 , the former PSYC 2901, 2950", 
+            "courseNumber": "2911"
+        }, 
+        "SCI-1793": {
+            "PR": "PSYC 3750 or Biology 3750 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in animal behaviour.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Animal Behaviour I", 
+            "prerequisites": [
+                "SCI-1771", 
+                "SCI-0828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4750"
+        }, 
+        "SCI-1792": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Animal Behaviour II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4701"
+        }, 
+        "SCI-1791": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Abnormal Behaviour II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4651"
+        }, 
+        "SCI-1790": {
+            "PR": "PSYC 3650 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in abnormal behaviour.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Abnormal Behaviour I", 
+            "prerequisites": [
+                "SCI-1769"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4650"
+        }, 
+        "SCI-3082": {
+            "PR": "PSYC 3450 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(same as the former PSYC 4400) is an intensive examination of a specific topic in cognition.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Cognition I", 
+            "prerequisites": [
+                "SCI-1767"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PSYC 4400", 
+            "courseNumber": "4450"
+        }, 
+        "SCI-1837": {
+            "PR": "PSYC 2520 , 2570 , 2911 , and 3250 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of learning.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Learning", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4270"
+        }, 
+        "SCI-1735": {
+            "PR": "any 2000 level course in Psychology", 
+            "courseDescription": "covers problems of definition, the history of beliefs about abnormal behaviour and the implication of a behavioural model for the understanding and control of behaviour problems.", 
+            "concurrent": [], 
+            "courseTitle": "The Psychology of Abnormal Behaviour", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "PSYC 3650, PSYC 3626", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "3640"
+        }, 
+        "SCI-2576": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "will explore the history, aims and future of health psychology. Topics covered will consider the contributions of a wide range of psychological theory within the context of psychosocial risk factors for illness, illness prevention, health promotion, and the health care system itself. These theories extend from rather individualistic notions of health and wellness (e.g., personality, attitudes, and behaviour) to concepts associated with characteristics of the broader social environment (e.g., social support, economic challenges, and organizational factors). An overall bio-psycho-social approach to health and wellness is explored.", 
+            "concurrent": [], 
+            "courseTitle": "Health Psychology", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2151"
+        }, 
+        "SCI-1737": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Human Neuropsychology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4810"
+        }, 
+        "SCI-2566": {
+            "PR": "PSYC 1000", 
+            "courseDescription": "is the second half of a two-semester introduction to Psychology as a biological and social science. Topics may include emotion, motivation, stress and health, personality and individuality, psychological disorders and treatment, and social psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Psychology", 
+            "prerequisites": [
+                "SCI-1706"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1001"
+        }, 
+        "SCI-1731": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Psychology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3501"
+        }, 
+        "SCI-1732": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "covers the most important aspects of human sexuality with a psychology theory and research framework. The course will examine the biological, behavioural and socio-cultural bases of the human sexual response. Topics include sexual interaction and communication, contraception, sexually transmitted infections, reproduction, sexual orientation, transgender and intersex, variations in sexual behaviour, sex and gender, sexual dysfunction and therapy, and sexual coercion.", 
+            "concurrent": [], 
+            "courseTitle": "Sexual Behaviour", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "3533"
+        }, 
+        "SCI-1717": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Survey of Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2240"
+        }, 
+        "SCI-1716": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "will provide an in-depth overview of the relationship between psychology and the law. A variety of topics will be discussed and critically evaluated, including the use and misuse of psychology-based investigative methods such as offender and geographic profiling, detection of deception, investigative interviewing, eyewitness testimony, jury decision-making, corrections and treatment, risk assessment, and criminal responsibility.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Forensic Psychology", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2150"
+        }, 
+        "SCI-1715": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Interpersonal and Group Processes", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2120"
+        }, 
+        "SCI-1713": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Attitudes and Social Cognition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2100"
+        }, 
+        "SCI-1774": {
+            "PR": "PSYC 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is a course on complex and specialized research design in Psychology. Multifactor research designs that employ both between- and within-subjects independent variables. Advantages and disadvantages of using multifactor research designs to test psychological hypotheses. Hierarchical designs and incomplete factorials. The use of covariates and blocking to increase experimental precision. Problems created by missing data. Single subject designs. How to answer specific psychological questions in the context of complex designs. The design and analysis of non-experimental psychological research. Applications of such techniques as the analysis of variance and multiple linear regression to the data obtained with these research designs, with special attention to problems inherent in psychological research.", 
+            "concurrent": [
+                "SWGC-1134", 
+                "SCI-1458"
+            ], 
+            "courseTitle": "Design and Analysis III", 
+            "LH": "one laboratory period weekly", 
+            "prerequisites": [
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 3950 , Statistics 3520", 
+            "courseNumber": "3900"
+        }, 
+        "SCI-1711": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "examines physical and psychological changes from early adulthood until the end of the lifespan. Topics include career choices, love partnerships, parenting and grandparenting, cognitive changes, interpersonal changes, and healthy aging.", 
+            "concurrent": [], 
+            "courseTitle": "Adult Development from Young Adulthood to Old Age", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PSYC 3052", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2012"
+        }, 
+        "SCI-1776": {
+            "PR": "PSYC 3050 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in developmental psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Developmental Psychology I", 
+            "prerequisites": [
+                "SCI-1756"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4050"
+        }, 
+        "SCI-1779": {
+            "PR": "PSYC 3100 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in social psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Social Psychology II", 
+            "prerequisites": [
+                "SCI-1760"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4151"
+        }, 
+        "SCI-1752": {
+            "PR": "PSYC 1000 and 1001 ; Mathematics 1000 or two of 1090 , 1050 and 1051 (or equivalent) and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an introduction to the design and application of psychological research with particular concentration on understanding and applying scientific method, creating and testing hypotheses, constructing reliable and valid experiments, managing and analysing data sets, using statistical software, and scientific writing. Specific topics include descriptive statistics including measures of central tendency, variability and relative standing, inferential statistics such as", 
+            "concurrent": [
+                "SCI-3079", 
+                "SCI-1452", 
+                "SWGC-1130"
+            ], 
+            "courseTitle": "Research Methods in Psychology I", 
+            "LH": "one laboratory period weekly", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566", 
+                "SCI-1337", 
+                "SCI-1352", 
+                "SCI-1342", 
+                "SCI-1347"
+            ], 
+            "corequisites": [], 
+            "CR": "Statistics 2500 , 2550 , the former 2510, the former PSYC 2900, 2925", 
+            "courseNumber": "2910"
+        }, 
+        "SCI-1750": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is a survey of knowledge about brain mechanisms of behaviour. Topics will include the following: basic neuroanatomy and neurophysiology, somatosensory systems and pain, reward, mental illness, sleep and arousal, developmental neurobiology, sexual development and behaviour, regulation of eating and body weight, learning and memory, and cortical function, including cortical mediation of language.", 
+            "concurrent": [
+                "SCI-1726", 
+                "SWGC-1148"
+            ], 
+            "courseTitle": "Behavioural Neuroscience", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2810 , PSYC 2825 , the former PSYC 2850", 
+            "courseNumber": "3801"
+        }, 
+        "SCI-1756": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an examination of the methods of study and an evaluation of current findings and theoretical issues of importance to an understanding of development. Topics will be drawn from perception, learning, cognition, social learning, memory and language development.", 
+            "concurrent": [
+                "SCI-1707"
+            ], 
+            "courseTitle": "Developmental Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 2010 , PSYC 2025", 
+            "courseNumber": "3050"
+        }, 
+        "SCI-1718": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "is an introduction to the basic principles of human memory and information processing. Topics covered will include the organization, representation and retrieval of information in memory, attention, pattern recognition, language processing, mental imagery, reasoning, problem solving, and decision making. There will be an emphasis on the application of basic principles to real life situations.", 
+            "concurrent": [
+                "SCI-1767"
+            ], 
+            "courseTitle": "Human Memory and Cognition", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "CR": "PSYC 3450 , PSYC 2425", 
+            "UL": "cannot be used towards the Psychology major", 
+            "courseNumber": "2440"
+        }, 
+        "SCI-1836": {
+            "PR": "PSYC 2520 , 2570 , 2911 , and 3100 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "will provide research experience in a selection of areas typically studied by social psychologists such as attitudes, prejudice, groups and social cognition. Students will acquire experience with research methods that are used to advance the body of knowledge in social psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Social Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1760"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4170"
+        }, 
+        "SCI-1771": {
+            "PR": "Biology 1001 , 1002 and PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-0828"
+            ], 
+            "courseTitle": "Animal Behaviour I", 
+            "prerequisites": [
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 3750", 
+            "courseNumber": "3750"
+        }, 
+        "SCI-1834": {
+            "PR": "PSYC 2520 , 2570 , 2911 , and 3050 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of developmental psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Development Psychology", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1756"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4070"
+        }, 
+        "SCI-1835": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Psychology and the Law", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4160"
+        }, 
+        "SCI-1832": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Personality Theory and Research", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3620"
+        }, 
+        "SCI-1830": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "(formerly PSYC 2360) is a broad survey of theory and research in sensation and perception.", 
+            "concurrent": [], 
+            "courseTitle": "Perception", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PSYC 2360", 
+            "courseNumber": "3350"
+        }, 
+        "SCI-2799": {
+            "courseDescription": "follows the successful completion of Semester 4. Students are expected to learn, develop and practice the high standards of behaviour and performance normally expected in the work environment. (A detailed description of each job is normally posted during the job competition.) As one component of the Work Term, the student is required to complete a work report. The work report, as a minimum requirement should:", 
+            "concurrent": [], 
+            "courseTitle": "Work Term I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "199W"
+        }, 
+        "SCI-1827": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Psycholinguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4461"
+        }, 
+        "SCI-1773": {
+            "PR": "PSYC 2520 , 2570 and 2911 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "addresses the structure and function of neurons and neural circuits and examines principles of electrochemical neural communication at the macroscopic, microscopic and molecular level. The relevance of this knowledge to understanding brain mechanisms of normal and diseased brain functions will be touched upon. The molecular basis of the formation of some types of memories will be explored.", 
+            "concurrent": [], 
+            "courseTitle": "Neuroscience", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "SCI-1838": {
+            "PR": "PSYC 2520 , 2570 , 2911 and 3350 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "allows students to gain research experience in selected areas of perception.", 
+            "concurrent": [], 
+            "courseTitle": "Research Experience in Perception", 
+            "prerequisites": [
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1830"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4370"
+        }, 
+        "SCI-1839": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Cognition: Reading", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4452"
+        }, 
+        "SCI-1842": {
+            "PR": "PSYC 3650 , or all of 2520 , 2570 , 2911 and 3640 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is a study of the reciprocal relationship between family processes and abnormal behaviour. The course will focus on the role of family dynamics in the etiology of abnormal behaviour, the impact of psychological disorders on family functioning and the application of family therapy to create therapeutic change.", 
+            "concurrent": [], 
+            "courseTitle": "Family Psychology", 
+            "prerequisites": [
+                "SCI-1769", 
+                "SCI-1746", 
+                "SCI-1747", 
+                "SCI-1754", 
+                "SCI-1735"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4661"
+        }, 
+        "SCI-1778": {
+            "PR": "PSYC 3100 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in social psychology.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Social Psychology I", 
+            "prerequisites": [
+                "SCI-1760"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "SCI-2445": {
+            "PR": "PSYC 1000 and 1001", 
+            "courseDescription": "provides an introduction to the design, understanding, and application of psychological research. Topics covered include understanding and applying scientific method, creating and testing hypotheses, constructing reliable and valid experiments, and the proper use of controls. An emphasis will be placed on thinking critically about psychology and common errors of judgment.", 
+            "concurrent": [], 
+            "courseTitle": "Research Methods in Psychology for Non-Majors", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [], 
+            "UL": "cannot be used towards the Psychology major or any Psychology honours or joint honours programs", 
+            "courseNumber": "2920"
+        }, 
+        "SCI-1788": {
+            "PR": "PSYC 3620 or the former PSYC 2620 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in personality.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Personality II", 
+            "prerequisites": [
+                "SCI-1832"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4620"
+        }, 
+        "SCI-2735": {
+            "PR": "two 3000-level majors courses (other than 3900 ) and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in psychology that crosses traditional subdisciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Psychology I", 
+            "prerequisites": [
+                "SCI-1774"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "SCI-1784": {
+            "PR": "PSYC 3350 or the former PSYC 2360 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in perception.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Perception II", 
+            "prerequisites": [
+                "SCI-1830"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4351"
+        }, 
+        "SCI-1787": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Personality I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4610"
+        }, 
+        "SCI-1780": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Applied Social Psychology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4152"
+        }, 
+        "SCI-1781": {
+            "PR": "PSYC 3250 or the former PSYC 2250 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "an intensive examination of a specific topic in learning and motivation.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Learning and Motivation I", 
+            "prerequisites": [
+                "SCI-1828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4250"
+        }, 
+        "SCI-1782": {
+            "PR": "PSYC 3250 or the former PSYC 2250 and admission to a Major in Psychology or Behavioural Neuroscience", 
+            "courseDescription": "is an intensive examination of a specific topic in learning and motivation.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Learning and Motivation II", 
+            "prerequisites": [
+                "SCI-1828"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4251"
+        }, 
+        "SCI-1783": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Perception I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4350"
+        }
+    }
+}

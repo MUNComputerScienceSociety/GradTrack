@@ -1,0 +1,654 @@
+{
+    "PHYS": {
+        "SCI-2746": {
+            "PR": "PHYS 3400 and 3750", 
+            "courseDescription": "covers ensembles. Classical and quantum statistical mechanics. Statistical mechanics of phase transitions. Advanced topics in statistical mechanics.", 
+            "CO": "PHYS 3750", 
+            "concurrent": [], 
+            "courseTitle": "Statistical Mechanics", 
+            "prerequisites": [
+                "SCI-1594", 
+                "SCI-1600"
+            ], 
+            "corequisites": [
+                "SCI-1600"
+            ], 
+            "courseNumber": "4400"
+        }, 
+        "SCI-1609": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Classical Mechanics III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "SCI-1608": {
+            "PR": "PHYS 3400 and 3750 or waiver approved by the instructor", 
+            "courseDescription": "covers crystal structure and binding, phonons and lattice vibrations, thermal properties of solids. Electrons in solids, energy bands, semi-conductors, superconductivity, dielectric properties. Magnetic properties of solids.", 
+            "concurrent": [], 
+            "courseTitle": "Solid State Physics", 
+            "prerequisites": [
+                "SCI-1594", 
+                "SCI-1600"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "SCI-1605": {
+            "PR": "at least two of PHYS 2053 , 2820 , 2055 , and PHYS 2750 (or 2056 )", 
+            "courseDescription": "is a selection of experiments based primarily on material covered in the third year courses.", 
+            "concurrent": [], 
+            "courseTitle": "Physics Laboratory I", 
+            "LH": "6", 
+            "prerequisites": [
+                "SCI-1582", 
+                "SCI-1587", 
+                "SCI-1583", 
+                "SCI-1585", 
+                "SWGC-1104"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "SCI-1620": {
+            "PR": "PHYS 3230 , 3750 , 3820 or waiver approved by the instructor", 
+            "courseDescription": "examines postulates of quantum mechanics. Operators and operator algebra. Matrix representations. Spin and magnetic fields. Approximation methods: WKB method, time independent perturbation theory, time dependent perturbation theory, variational methods. Elementary scattering theory.", 
+            "concurrent": [], 
+            "courseTitle": "Quantum Mechanics", 
+            "prerequisites": [
+                "SCI-1591", 
+                "SCI-1600", 
+                "SWGC-2375"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4850"
+        }, 
+        "SCI-1601": {
+            "PR": "PHYS 3750", 
+            "courseDescription": "covers multielectron atoms. Molecules. Solids - conductors and semiconductors. Superconductors. Magnetic properties. Nuclear models. Nuclear decay and nuclear reactions. Properties and interactions of elementary particles.", 
+            "concurrent": [], 
+            "courseTitle": "Quantum Physics II", 
+            "prerequisites": [
+                "SCI-1600"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3751"
+        }, 
+        "SCI-1600": {
+            "PR": "PHYS 2750 (or 2056 ), 3220 and 3810 (or Mathematics 3202 )", 
+            "courseDescription": "covers wave-particle duality of nature. Introduction to Quantum Mechanics. Schr&ouml;dinger equation. One electron atoms. Quantum statistics.", 
+            "CO": "PHYS 3220 and 3810 or Mathematics 3202", 
+            "concurrent": [], 
+            "courseTitle": "Quantum Physics I", 
+            "prerequisites": [
+                "SCI-1585", 
+                "SWGC-1104", 
+                "SCI-1590", 
+                "SCI-1602", 
+                "SCI-1381"
+            ], 
+            "corequisites": [
+                "SCI-1590", 
+                "SCI-1602", 
+                "SCI-1381"
+            ], 
+            "courseNumber": "3750"
+        }, 
+        "SCI-1602": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Analysis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3810"
+        }, 
+        "SCI-1625": {
+            "PR": "PHYS 3810 (or Mathematics 3202 ), PHYS 3300 and the completion of any 15 credit hours in core courses at the 3000 or 4000 level in the Faculty of Science or waiver approved by the instructor", 
+            "courseDescription": "covers numerical techniques, finite difference, finite element and spectral methods. Introduction to the climate system. Ocean climate models. Box models. Variability on interdecadal, centennial and geological scales. Zonally averaged models. 3-D ocean modelling. Thermohaline circulation. General circulation models. Climate modelling and global warming.", 
+            "concurrent": [], 
+            "courseTitle": "Ocean Climate Modelling", 
+            "prerequisites": [
+                "SCI-1602", 
+                "SCI-1381", 
+                "SCI-1592"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6318"
+        }, 
+        "SCI-1624": {
+            "PR": "PHYS 3810 (or the former Mathematics 3220) and 3220 , or waiver approved by the instructor", 
+            "courseDescription": "covers basic theory of sound, sound in the ocean environment, wave equation, ray tracing, sonar system operation, transducers, applications.", 
+            "concurrent": [], 
+            "courseTitle": "Underwater Acoustics", 
+            "prerequisites": [
+                "SCI-1602", 
+                "SCI-1590"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6317"
+        }, 
+        "SCI-1623": {
+            "courseDescription": "is required of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Physics Thesis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "490A/B"
+        }, 
+        "SCI-1622": {
+            "PR": "PHYS 3900", 
+            "courseDescription": "is a selection of experiments at the senior level.", 
+            "concurrent": [], 
+            "courseTitle": "Physics Laboratory II", 
+            "LH": "6", 
+            "prerequisites": [
+                "SCI-1605"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4900"
+        }, 
+        "SCI-1588": {
+            "PR": "PHYS 2053 , 2750 (or 2056 ), and 2820", 
+            "courseDescription": "is a review of macroscopic and microscopic physics. The sun: luminosity, mass, spectrum, photosphere, corona, interior. Principles of stellar structure; radiative and convective transport of energy. The virial theorem. Thermonuclear fusion; temperature dependence; the solar neutrino problem. Nucleosynthesis; the curve of binding energy; the synthesis of heavy elements. White dwarfs, neutron stars, and black holes; degenerate electron and neutron gases; Chandrasekhar's Limit. Population I and Population II stars; the Hertzsprung-Russell diagram; relationships among luminosity, mass, and effective temperature for main sequence dwarfs. Evolution of post main sequence stars.", 
+            "concurrent": [], 
+            "courseTitle": "Astrophysics I", 
+            "prerequisites": [
+                "SCI-1582", 
+                "SCI-1585", 
+                "SWGC-1104", 
+                "SCI-1587"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "SCI-1589": {
+            "PR": "PHYS 3150 and 3220", 
+            "courseDescription": "covers stellar spectra and classification of stars. Hertzsprung-Russell diagram; equations of stellar structure for a star in equilibrium; temperature and density dependencies of nuclear processes. Formation and classification of binary stars; mass and energy transfer in binary star systems; semidetached binaries; cataclysmic variables, pulsars, etc. Galaxies and galactic structure; active galactic nuclei; cosmological redshift. Cosmology.", 
+            "concurrent": [], 
+            "courseTitle": "Astrophysics II", 
+            "prerequisites": [
+                "SCI-1588", 
+                "SCI-1590"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3151"
+        }, 
+        "SCI-1587": {
+            "PR": "Mathematics 2000 and PHYS 1051", 
+            "courseDescription": "covers newtonian dynamics and celestial mechanics, numerical differentiation and integration, numerical solutions to mechanics problems, data and spectral analysis, Fourier series and normal modes, oscillations and vibrations, linear and non-linear oscillators, nonlinear dynamics and chaos.", 
+            "CO": "Mathematics 2000", 
+            "LC": "5", 
+            "concurrent": [], 
+            "courseTitle": "Computational Mechanics", 
+            "LH": "5", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1815"
+            ], 
+            "corequisites": [
+                "SCI-1354"
+            ], 
+            "courseNumber": "2820"
+        }, 
+        "SCI-1584": {
+            "PR": "6 credit hours in Mathematics courses at the first year level", 
+            "courseDescription": "covers atomic structure and spectra. The sun: radiation, energetics, magnetic field. Stars: distance, velocity, size, atmospheres, interiors. Variable stars, multiple stars, clusters and stellar associations. Stellar evolution, interstellar matter, structure of the Milky Way Galaxy. Exterior galaxies, quasi-stellar objects, pulsars. Cosmology.", 
+            "concurrent": [], 
+            "courseTitle": "Stellar Astronomy and Astrophysics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2151"
+        }, 
+        "SCI-1585": {
+            "PR": "Mathematics 1001 and PHYS 1051", 
+            "courseDescription": "covers special relativity, quanta of light, atomic structure and spectral lines, quantum structure of atoms and molecules, nuclei and elementary particles.", 
+            "CO": "Mathematics 1001 and PHYS 1051", 
+            "concurrent": [
+                "SWGC-1104"
+            ], 
+            "courseTitle": "Modern Physics", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1815"
+            ], 
+            "corequisites": [
+                "SCI-1339", 
+                "SCI-1815"
+            ], 
+            "CR": "PHYS 2056", 
+            "courseNumber": "2750"
+        }, 
+        "SCI-1582": {
+            "PR": "Mathematics 1001 and PHYS 1051", 
+            "courseDescription": "examines elasticity, fluid mechanics, thermodynamics, kinetic theory and statistical mechanics.", 
+            "CO": "Mathematics 1001 and PHYS 1051", 
+            "concurrent": [], 
+            "courseTitle": "Fluids and Thermal Physics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1815"
+            ], 
+            "corequisites": [
+                "SCI-1339", 
+                "SCI-1815"
+            ], 
+            "courseNumber": "2053"
+        }, 
+        "SCI-1583": {
+            "PR": "Mathematics 2000 and PHYS 1051", 
+            "courseDescription": "examines Gauss' Law, the electrostatic potential, capacitance, magnetic forces and the magnetic field, electromagnetic induction, magnetic materials, ac circuits, superconductivity, the displacement current and Maxwell's equations.", 
+            "CO": "Mathematics 2000", 
+            "concurrent": [], 
+            "courseTitle": "Electricity and Magnetism", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1815"
+            ], 
+            "corequisites": [
+                "SCI-1354"
+            ], 
+            "courseNumber": "2055"
+        }, 
+        "SCI-1826": {
+            "PR": "PHYS 2055 or registration in Academic Term 3 of the Electrical Engineering Program", 
+            "courseDescription": "is structures of crystalline and amorphous solids. Excitations and transport in metals, semiconductors, and dielectrics; electronic band structures. Physics of multi-material devices including photodiodes, solid state lasers, and field-effect transistors.", 
+            "concurrent": [], 
+            "courseTitle": "Physics of Device Materials", 
+            "prerequisites": [
+                "SCI-1583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "SCI-3675": {
+            "PR": "any two first-year courses in Physics", 
+            "courseDescription": "(same as Ocean Sciences", 
+            "concurrent": [
+                "SWGC-0845", 
+                "SCI-3704"
+            ], 
+            "courseTitle": "Introductory Physical Oceanography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Environmental Science 2371 , Ocean Sciences 2300", 
+            "courseNumber": "2300"
+        }, 
+        "SCI-2965": {
+            "PR": "Mathematics 2260 or ( 3260 ) and PHYS 3810 (or Mathematics 3202 )", 
+            "courseDescription": "examines the functions of a complex variable; residue calculus. Introduction to Cartesian tensor analysis. Matrix eigenvalues and eigenvectors. Diagonalization of tensors. Matrix formulation of quantum mechanics. Quantum mechanical spin. Vector differential operators in curvilinear coordinate systems. Partial differential equations of Mathematical Physics and boundary value problems; derivation of the classical equations, separation of variables; Helmholtz equation in spherical polar coordinates.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Physics III", 
+            "prerequisites": [
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-1602", 
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3820"
+        }, 
+        "SCI-1579": {
+            "PR": "Mathematics 1000", 
+            "courseDescription": "is a calculus based introduction to mechanics. The course will emphasize problem solving. For more details regarding PHYS 1050, see", 
+            "CO": "Mathematics 1000", 
+            "concurrent": [
+                "SCI-1576"
+            ], 
+            "courseTitle": "General Physics I: Mechanics", 
+            "LH": "3; normally there will be six laboratory sessions per semester", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "CR": "PHYS 1020", 
+            "courseNumber": "1050", 
+            "OR": "tutorial sessions may be held on weeks when no laboratory is scheduled"
+        }, 
+        "SCI-1577": {
+            "PR": "PHYS 1020 or 1050 and Mathematics 1090 or 1000", 
+            "courseDescription": "is a non-calculus based introduction to fluids, wave motion, light, optics, electricity and magnetism.", 
+            "CO": "Mathematics 1000", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Physics II", 
+            "LH": "3; normally there will be six laboratory sessions per semester", 
+            "prerequisites": [
+                "SCI-1576", 
+                "SCI-1579", 
+                "SCI-1352", 
+                "SCI-1337"
+            ], 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "courseNumber": "1021", 
+            "OR": "tutorial sessions may be held on weeks when no laboratory is scheduled"
+        }, 
+        "SCI-1576": {
+            "PR": "Level III Advanced Mathematics or Mathematics 1090 . It is recommended that students have completed at least one of level II and level III high school physics courses", 
+            "courseDescription": "is a non-calculus based introduction to mechanics. This course may be completed by someone who has no physics background provided some extra effort is made.", 
+            "CO": "Mathematics 1090", 
+            "concurrent": [
+                "SCI-1579"
+            ], 
+            "courseTitle": "Introductory Physics I", 
+            "LH": "3; six laboratory sessions per semester", 
+            "prerequisites": [
+                "SCI-1352"
+            ], 
+            "corequisites": [
+                "SCI-1352"
+            ], 
+            "CR": "PHYS 1050", 
+            "courseNumber": "1020", 
+            "OR": "tutorial sessions may be held on weeks when no laboratory is scheduled"
+        }, 
+        "SCI-1618": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Nuclear Physics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4710"
+        }, 
+        "SCI-1619": {
+            "PR": "PHYS 3820", 
+            "courseDescription": "covers further topics on partial differential equations of Mathematical Physics and boundary value problems; Sturm-Liouville theory, Fourier series, generalized Fourier series, introduction to the theory of distributions, Dirac delta function, Green&rsquo;s functions, Bessel functions, Legendre functions, spherical harmonics.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Physics III", 
+            "prerequisites": [
+                "SWGC-2375"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4820"
+        }, 
+        "SCI-1612": {
+            "PR": "PHYS 3300 and 3820 or registration in Academic term 6 of the Ocean and Naval Architectural Engineering program , or waiver approved by the instructor", 
+            "courseDescription": "covers fundamental properties of seawater and techniques of oceanographic measurement. The dynamical equations of oceanography are derived and solutions explored by comparison with oceanic observations. Properties of waves in rotating and non-rotating fluids. Linear and non-linear wave theory are developed.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Physical Oceanography", 
+            "prerequisites": [
+                "SCI-1592", 
+                "SWGC-2375"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "SCI-1613": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Topics in Physical Oceanography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4330"
+        }, 
+        "SCI-1610": {
+            "PR": "PHYS 3220 and either Mathematics 4160 or the former PHYS 3821 or waiver approved by the instructor", 
+            "courseDescription": "(same as Mathematics", 
+            "concurrent": [
+                "SCI-1398"
+            ], 
+            "courseTitle": "Introduction to Fluid Dynamics", 
+            "prerequisites": [
+                "SCI-1590", 
+                "SCI-1394"
+            ], 
+            "corequisites": [], 
+            "CR": "Mathematics 4180", 
+            "courseNumber": "4205"
+        }, 
+        "SCI-1611": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Continuum Mechanics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "SCI-1616": {
+            "PR": "PHYS 3500 , 3600 , and PHYS 3751 or waiver approved by the instructor", 
+            "courseDescription": "is a review of basic topics in wave optics. Phase sensitive imaging. Electromagnetic waves in anisotropic media. Scattering of electromagnetic waves. The physics of light sources and applications. Non-linear optics and applications.", 
+            "CO": "PHYS 3751", 
+            "concurrent": [], 
+            "courseTitle": "Optics and Photonics II", 
+            "prerequisites": [
+                "SCI-1596", 
+                "SCI-1599", 
+                "SCI-1601"
+            ], 
+            "corequisites": [
+                "SCI-1601"
+            ], 
+            "courseNumber": "4600"
+        }, 
+        "SCI-1617": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Atomic and Molecular Physics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "SCI-1614": {
+            "PR": "PHYS 3340 and PHYS 3820 or waiver approved by the instructor", 
+            "courseDescription": "covers the basic principles underlying environmental modelling will be developed and techniques for modelling presented and applied. Techniques for numerical modelling will be developed and simple numerical models will be developed for use in terrestrial, atmospheric and oceanic environments. Free and forced systems will be discussed and the transition to chaos and some aspects of chaotic dynamics.", 
+            "concurrent": [], 
+            "courseTitle": "Modelling in Environmental Physics", 
+            "prerequisites": [
+                "SCI-1593", 
+                "SWGC-2375"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4340"
+        }, 
+        "SCI-1615": {
+            "PR": "PHYS 3500 and 3820 or waiver approved by the instructor", 
+            "courseDescription": "covers multipole expansions, electrostatic fields as boundary value problems, polarizability of molecules in dielectric media, Clausius-Mossotti relation, gauges. Electromagnetic Waves: Poynting's theorem, reflection and transmission of electromagnetic waves, cavity resonators, wave guides. Electromagnetic Radiation: dipoles, antennas, quantum mechanics and electro-magnetic interactions. Selected topics in electrodynamics and applied electromagnetism.", 
+            "concurrent": [], 
+            "courseTitle": "Electromagnetic Fields II", 
+            "prerequisites": [
+                "SCI-1596", 
+                "SWGC-2375"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "SCI-1591": {
+            "PR": "PHYS 3220 and 3810 (or Mathematics 3202 ) and Mathematics 2260 or ( 3260 )", 
+            "courseDescription": "covers rigid body motion. Lagrange's equations. Hamilton's equations. Vibrations. Special theory of relativity.", 
+            "concurrent": [], 
+            "courseTitle": "Classical Mechanics II", 
+            "prerequisites": [
+                "SCI-1590", 
+                "SCI-1602", 
+                "SCI-1381", 
+                "SCI-3556", 
+                "SWGC-1063"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3230"
+        }, 
+        "SCI-1590": {
+            "PR": "PHYS 2820 and Mathematics 2260 (or 3260 )", 
+            "courseDescription": "covers kinematics and dynamics of a particle. Moving reference systems. Celestial mechanics. Systems of particles.", 
+            "CO": "PHYS 2820 and Mathematics 2260 (or 3260 )", 
+            "concurrent": [], 
+            "courseTitle": "Classical Mechanics I", 
+            "prerequisites": [
+                "SCI-1587", 
+                "SCI-3556", 
+                "SWGC-1063"
+            ], 
+            "corequisites": [
+                "SCI-1587", 
+                "SCI-3556", 
+                "SWGC-1063"
+            ], 
+            "courseNumber": "3220"
+        }, 
+        "SCI-1593": {
+            "PR": "Mathematics 2000 and PHYS 2053", 
+            "courseDescription": "will explore the basic physical principles of light, heat, energy and sound in the natural environment. Several key aspects of physics in the environment will be covered including climate and the physical evolution of the planet and the present role of the atmosphere and ocean spectroscopy in the atmosphere and measurement and observation of the atmosphere; principles of energy generation and pollution transport in the atmosphere and ocean.", 
+            "concurrent": [], 
+            "courseTitle": "Principles of Environmental Physics", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1582"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3340"
+        }, 
+        "SCI-1592": {
+            "PR": "PHYS 2053 and Mathematics 2000", 
+            "courseDescription": "deals with the physics of processes in the ocean, but provides an integrated view of the whole field of oceanography. The importance of physical processes to other aspects of oceanography is treated.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Physical Oceanography", 
+            "prerequisites": [
+                "SCI-1582", 
+                "SCI-1354"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "SCI-1594": {
+            "PR": "Mathematics 2000 , PHYS 2053 and PHYS 2750 or 2056", 
+            "courseDescription": "covers the first and second laws of thermodynamics. Entropy. Thermodynamics of real substances. Kinetic theory of matter. Introduction to statistical mechanics.", 
+            "concurrent": [], 
+            "courseTitle": "Thermodynamics", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1582", 
+                "SCI-1585", 
+                "SWGC-1104"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "SCI-1597": {
+            "PR": "Mathematics 2050 , Mathematics 2260 or ( 3260 ), PHYS 2055", 
+            "courseDescription": "covers circuit elements. Simple resistive circuits. Techniques of circuit analysis. Topology in circuit analysis. Operational amplifiers. Reactive circuit elements. Natural response and step response of RL, RC and RLC circuits. Circuits driven by sinusoidal sources. Mutual inductance. Series and parallel resonance. Laplace transforms in the analysis of frequency response.", 
+            "CO": "Mathematics 2260 or ( 3260 )", 
+            "LC": "6", 
+            "concurrent": [
+                "ENGI-1259"
+            ], 
+            "courseTitle": "Electric Circuits", 
+            "LH": "6", 
+            "prerequisites": [
+                "SCI-1356", 
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-1583"
+            ], 
+            "corequisites": [
+                "SCI-3556", 
+                "SWGC-1063"
+            ], 
+            "CR": "Engineering 3821", 
+            "courseNumber": "3550"
+        }, 
+        "SCI-1596": {
+            "PR": "PHYS 2055 and 3810 (or Mathematics 3202 )", 
+            "courseDescription": "examines electrostatic Field: field, potential, Poisson's equation, Laplace's equation, capacitance, dielectrics, polarization, electric displacement, boundary conditions. Magnetic Field: electric current and magnetic field, vector potential, Lorentz force and relativity, changing magnetic field, inductance, magnetic materials, magnetization. Maxwell's equations.", 
+            "concurrent": [], 
+            "courseTitle": "Electromagnetic Fields I", 
+            "prerequisites": [
+                "SCI-1583", 
+                "SCI-1602", 
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "SCI-1599": {
+            "PR": "Mathematics 2000 and PHYS 2055", 
+            "courseDescription": "covers geometrical Optics: thin lenses, mirrors, optical systems. Two-beam and multiple-beam interference phenomena. Fraunhofer Diffraction. Introduction to Maxwell's Theory: reflection, transmission, and polarization. Modulation of light waves. Fibre-optical light guides: intermodal dispersion, index profiles, loss mechanisms, single mode fibres. Optical communication systems: free space and fibre systems, emitters, detectors, amplifers, wavelength-division multiplexing, integrated optics.", 
+            "concurrent": [], 
+            "courseTitle": "Optics and Photonics I", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1583"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "SCI-1598": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Analogue Electronics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3551"
+        }, 
+        "SCI-2263": {
+            "PR": "Computer Science 1510 , PHYS 2820 , Mathematics 2260 or ( 3260 ), Mathematics 3202", 
+            "courseDescription": "is a project-based course intended to train students to become functional in computational methods, by writing and compiling computer code (C/Fortran) in a Unix environment to solve problems drawn from different areas of physics. Students will complete several projects selected from different areas of physics. Projects will introduce the students to a particular class of numerical methods. Lectures and tutorials will cover the theory that underlies the computational methods and background for code development and the application of the required numerical methods.", 
+            "CO": "Any two 2000-level Physics course plus at least one other 3000-level Physics course", 
+            "LC": "5", 
+            "concurrent": [], 
+            "courseTitle": "Computational Physics", 
+            "LH": "5", 
+            "prerequisites": [
+                "SCI-1965", 
+                "SCI-1587", 
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "SCI-1815": {
+            "PR": "PHYS 1050 , or 1021 , or 1020 (with a minimum grade of 65%) and Mathematics 1001", 
+            "courseDescription": "is a calculus based introduction to oscillations, wave motion, physical optics and electromagnetism.", 
+            "CO": "Mathematics 1001", 
+            "concurrent": [], 
+            "courseTitle": "General Physics II: Oscillations, Waves, Electromagnetism", 
+            "LH": "3; normally there will be six laboratory sessions per semester", 
+            "prerequisites": [
+                "SCI-1579", 
+                "SCI-1577", 
+                "SCI-1339"
+            ], 
+            "corequisites": [
+                "SCI-1339"
+            ], 
+            "courseNumber": "1051", 
+            "OR": "tutorial sessions may be held on weeks when no laboratory is scheduled"
+        }, 
+        "SCI-1621": {
+            "PR": "PHYS 4850 and the former 3821 or waiver approved by the instructor", 
+            "courseDescription": "covers general formulation of quantum mechanics, measurement theory and operators. Hilbert spaces. Advanced topics selected from: electron in a strong magnetic field and the Aharonov-Bohm effect; advanced scattering theory; systems of identical particles; Feynman path integral formulation of quantum mechanics; relativistic quantum mechanics; second quantization; symmetry and group theory; density matrix and mixtures.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Quantum Mechanics", 
+            "prerequisites": [
+                "SCI-1620"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4851"
+        }, 
+        "SCI-1977": {
+            "PR": "Mathematics 3202 and one of PHYS 3220 , Mathematics 4230 or waiver approved by the instructor", 
+            "courseDescription": "(Mathematics", 
+            "CO": "Mathematics 4230", 
+            "concurrent": [
+                "SCI-1976"
+            ], 
+            "courseTitle": "Introduction to general Relativity", 
+            "prerequisites": [
+                "SCI-1381", 
+                "SCI-1590", 
+                "SCI-1401"
+            ], 
+            "corequisites": [
+                "SCI-1401"
+            ], 
+            "CR": "Mathematics 4130", 
+            "courseNumber": "4220"
+        }
+    }
+}

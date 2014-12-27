@@ -1,0 +1,598 @@
+{
+    "ANTH": {
+        "ARTS-5526": {
+            "courseDescription": "is a survey course dealing with various indigenous peoples of North America.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Peoples of North America", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ANTH 3281", 
+            "courseNumber": "2414"
+        }, 
+        "ARTS-5527": {
+            "courseDescription": "explores how cultural identities, social relationships, and inequalities are linked to the production, exchange, and consumption of food. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Food", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2415"
+        }, 
+        "ARTS-5524": {
+            "courseDescription": "is an examination of key social and cultural factors involved in the global extinction of small-scale societies; the intrusive influences that jeopardize small-scale societies, such as disease; economic and military incursion; the role of international non-governmental agencies in aid of threatened peoples; and the role of the anthropologist in this human crisis.", 
+            "concurrent": [], 
+            "courseTitle": "Threatened Peoples", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2412"
+        }, 
+        "ARTS-5525": {
+            "courseDescription": "explores the way in which social, cultural, economic and political interconnections at the global level interact with local social and cultural processes.", 
+            "concurrent": [], 
+            "courseTitle": "Culture in a Globalized World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2413"
+        }, 
+        "ARTS-5522": {
+            "courseDescription": "combines a firsthand introduction to ethnographic research and writing with an exploration of how anthropological understanding develops through the experiences and human relationships of anthropologists in the field. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropologists in the Field", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2411"
+        }, 
+        "ARTS-5545": {
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Studies in Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3384-3389"
+        }, 
+        "ARTS-5520": {
+            "courseDescription": "provides an overview of the field of social and cultural anthropology. Diverse case studies will be used to illustrate key anthropological concepts and methods.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ANTH 1000 or 2000", 
+            "courseNumber": "1031"
+        }, 
+        "ARTS-5521": {
+            "courseDescription": "is an examination of selected milestone monographs, ground-breaking studies for subdisciplinary specialties, and major syntheses. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Classics in Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2410"
+        }, 
+        "ARTS-5548": {
+            "courseDescription": "examines a range of theoretical perspectives, case studies and individual theorists in the study of ritual.", 
+            "concurrent": [], 
+            "courseTitle": "The Anthropology of Ritual", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3406"
+        }, 
+        "ARTS-5549": {
+            "courseDescription": "focuses on a range of issues including illness, disease and healing, sexuality and reproduction, pandemics and epidemics, medical technology and bioethics.", 
+            "concurrent": [], 
+            "courseTitle": "Medical Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3407"
+        }, 
+        "ARTS-5560": {
+            "courseDescription": "explores the way in which anthropologists have studied the inter-linkages among economic, social and cultural processes. Topics covered include key concepts and debates in economic anthropology and the way in which different societies and social groups are integrated within global capitalist markets.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Economic Processes", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-5561": {
+            "courseDescription": "explores selected current debates in the anthropology of Northern Ireland and the Republic of Ireland. Seminars centre on the critical reading of recent ethnographic studies. The course considers Ireland, north and south, as a changing scene, assesses the current state of Irish ethnography and considers how the field might develop.", 
+            "concurrent": [], 
+            "courseTitle": "Current Debates in the Anthropology of Ireland", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-5566": {
+            "courseDescription": "is an evaluation of current approaches to culture and power through a focus on critical issues and major schools of contemporary thought influencing Anthropology in the late 20th and early 21st centuries. Emphasis is placed on major works, paradigms and individual theorists.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Theory in Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4412"
+        }, 
+        "ARTS-5542": {
+            "courseDescription": "focuses on the process of anthropological fieldwork. Readings, discussions and evaluations will examine a range of issues and concepts that include observation techniques, interviewing, ethical issues, and the interpretation of data. Students will conduct original fieldwork to learn how to apply some of these skills.", 
+            "concurrent": [], 
+            "courseTitle": "Fieldwork Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ANTH 4300", 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-5528": {
+            "courseDescription": "explores the symbolic formations that humans create in order to give meaning to their lives. Some of the cultural formations that will be studied include specific examples from the realms of religion, play, sports, art, and commonplace material objects.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Formations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2416"
+        }, 
+        "ARTS-5529": {
+            "courseDescription": "reviews the co-evolution of the fields of ecology and anthropology since the late 19th century and examines the variety of contemporary perspectives on the interconnection between social and ecological systems.", 
+            "concurrent": [], 
+            "courseTitle": "Ecology and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3050"
+        }, 
+        "ARTS-5572": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Politics of Landscapes", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4450"
+        }, 
+        "ARTS-5569": {
+            "courseDescription": "examines how ethnographers do comparative research on the everyday sounds found in people&rsquo;s daily environments, including music and new media products.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Sound", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4417"
+        }, 
+        "ARTS-5567": {
+            "courseDescription": "examines core issues and problems entailed in the anthropological analysis of work and labour in the context of the global economy.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Labour", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4415"
+        }, 
+        "ARTS-5568": {
+            "courseDescription": "examines social class forces producing a planet of slums, and details ways that everyday forms of violence, social injustice, and poverty take social shape in the everyday lives of slum dwellers. Among the topics covered are: social class formations, including ghettos, favelas, and shanty towns; surplus populations and disposable peoples resulting from late capitalist globalization; and forms of resistance and struggle that arise within dispossessed populations.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Slums", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4416"
+        }, 
+        "ARTS-5544": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Anthropology of Gender", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3305"
+        }, 
+        "ARTS-5563": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Newfoundland Ethnography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4280"
+        }, 
+        "ARTS-7018": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "European Societies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3242"
+        }, 
+        "ARTS-7019": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Peoples of the Pacific", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3249"
+        }, 
+        "ARTS-5546": {
+            "courseDescription": "is an exploration of the anthropological study of travel and tourism. Students will learn how to critically evaluate this global industry and consider the role that it plays in the formation of contemporary human identity.", 
+            "concurrent": [], 
+            "courseTitle": "The Anthropology of Travel and Tourism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3403"
+        }, 
+        "ARTS-5552": {
+            "courseDescription": "(same as the former ANTH 4410) follows a historical approach to understanding some of the key theoretical trends in anthropology since the inception of the discipline.", 
+            "concurrent": [], 
+            "courseTitle": "Classic Theory in Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ANTH 4410", 
+            "courseNumber": "3410"
+        }, 
+        "ARTS-7011": {
+            "courseDescription": "(same as the former Sociology/Anthropology 2260 and the former Sociology 2260) is a critical review of ethological, psychological and sociological approaches to the understanding of violence and organized aggression.", 
+            "concurrent": [], 
+            "courseTitle": "War and Aggression", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 2260, the former Sociology 2260", 
+            "UL": "not applicable towards the Major or Minor in Anthropology", 
+            "courseNumber": "2260"
+        }, 
+        "ARTS-7012": {
+            "courseDescription": "(same as the former Sociology/Anthropology 2280 and the former Sociology 2280) examines varieties of urban life around the world and through history. The city as habitat and as spectacle.", 
+            "concurrent": [], 
+            "courseTitle": "The City", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 2280, the former Sociology 2280", 
+            "UL": "not applicable towards the Major or Minor in Anthropology", 
+            "courseNumber": "2280"
+        }, 
+        "ARTS-7013": {
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6734"
+            ], 
+            "courseTitle": "Religious Institutions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 2350 , the former Sociology/Anthropology 2350, the former Sociology 2350", 
+            "UL": "not applicable towards the Major or Minor in Anthropology", 
+            "courseNumber": "2350"
+        }, 
+        "ARTS-7014": {
+            "courseDescription": "explores the anthropology of imaginary worlds, including those created through pseudo-history, on-line gaming, science fiction and fantasy literature, and film. Particular examples will be examined in terms of the ways that social stratification, gender, ethnicity, race, and cultural beliefs become constructed inside of these imaginary worlds.", 
+            "concurrent": [], 
+            "courseTitle": "Imaginary Worlds", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3073"
+        }, 
+        "ARTS-7015": {
+            "courseDescription": "(same as the former Sociology/Anthropology 3100 and the former Sociology 3100) is a study of dominance behaviour in human societies, surveying the range from private to public and from openly exploitative to fully legitimate power systems.", 
+            "concurrent": [], 
+            "courseTitle": "Dominance and Power", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3100, the former Sociology 3100", 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-7016": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Studies: Contemporary Native Peoples of Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3240"
+        }, 
+        "ARTS-7017": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Studies: The Atlantic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3241"
+        }, 
+        "ARTS-5562": {
+            "PR": "Departmental permission", 
+            "courseDescription": "is a series of individual or small group tutorials and reading courses on topics of special or current interest.", 
+            "concurrent": [], 
+            "courseTitle": "Special Areas in Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4202-4209"
+        }, 
+        "ARTS-5540": {
+            "courseDescription": "examines the social, cultural, and economic forces that have contributed to rapid resource depletion and other environmental changes during the 20th century and looks at how the impacts of these changes have been experienced in different parts of the world.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Crises", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3083"
+        }, 
+        "ARTS-5556": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Fisheries Revolution", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3452"
+        }, 
+        "ARTS-5547": {
+            "courseDescription": "explores the use of documentary film, photography, and new digital media in anthropological fieldwork. It also teaches students how anthropologists study visual media such as television, newspapers, popular films, social networking sites, web sites, and photography collections.", 
+            "concurrent": [], 
+            "courseTitle": "Visual Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3404"
+        }, 
+        "ARTS-5573": {
+            "PR": "admission to the Honours program in Anthropology", 
+            "courseDescription": "prepares students for the Honours Essay by helping them refine their research topics; providing them with independent research and writing skills; and offering a structured context in which to conduct the preliminary stages of Honours Essay research and writing.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4994"
+        }, 
+        "ARTS-5574": {
+            "PR": "ANTH 4994", 
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay II", 
+            "prerequisites": [
+                "ARTS-5573"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4995"
+        }, 
+        "ARTS-5535": {
+            "courseDescription": "examines the role of culture in mediating different forms of social inequality, exploring the idea that culture is not only a way of life but also a way of managing power among unequals, from individuals to social classes. Readings in the course concentrate on cultural techniques of social control.", 
+            "concurrent": [], 
+            "courseTitle": "Culture and Social Inequality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3061"
+        }, 
+        "ARTS-5534": {
+            "courseDescription": "is the history of ideas, dealing with the emergence of this key anthropological concept, the meanings it has acquired, its broader implications, and major critiques of its use in the social sciences.", 
+            "concurrent": [], 
+            "courseTitle": "The Idea of Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3060"
+        }, 
+        "ARTS-5537": {
+            "courseDescription": "examines anthropological approaches and contributions to debates about ethnicity and multiculturalism.", 
+            "concurrent": [], 
+            "courseTitle": "The Politics of Ethnicity and Multiculturalism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3063"
+        }, 
+        "ARTS-5536": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology in Social Policy-making", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3062"
+        }, 
+        "ARTS-5531": {
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6754"
+            ], 
+            "courseTitle": "Anthropology of Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3053", 
+            "courseNumber": "3053"
+        }, 
+        "ARTS-5530": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology and Directed Social Change", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3052"
+        }, 
+        "ARTS-5533": {
+            "courseDescription": "is an examination of anthropological studies of urban populations and population segments, such as ethnic groups and categories, occupations, neighbourhoods, etc.", 
+            "concurrent": [], 
+            "courseTitle": "Urban Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3058"
+        }, 
+        "ARTS-5532": {
+            "courseDescription": "is an examination of the phenomenon of play in a variety of human cultures, and in such forms of activity as religion, politics, festival, speech, performance, and artistic creation. Principal themes are the functional role of play in social relations, and the meaningful role of play in social thought.", 
+            "concurrent": [], 
+            "courseTitle": "Play, Games and Sport", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3054"
+        }, 
+        "ARTS-5571": {
+            "courseDescription": "is a seminar open to senior students in any discipline, which examines in detail both the mechanics and the sensitivities necessary to produce literate analysis.", 
+            "concurrent": [], 
+            "courseTitle": "The Craft of Writing Anthropological Narrative", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4422"
+        }, 
+        "ARTS-5553": {
+            "courseDescription": "deals with societies heavily reliant on hunting, fishing, and gathering wild foods. Industrial and post-industrial settings in which various forms of foraging (including recycling) are the basis for some people&rsquo;s livelihood will also be considered.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology of Foraging", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3411"
+        }, 
+        "ARTS-5555": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Ethnography of Gambling", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3451"
+        }, 
+        "ARTS-5554": {
+            "courseDescription": "will have a topic of current interest and importance announced by the Department for each term.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropological Specialties", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3421-3430"
+        }, 
+        "ARTS-5539": {
+            "courseDescription": "examines types of social conflict specific to different kinds of class-based society, including social banditry, primitive rebellions, and peasant revolutions. More generally, social conflict is used to explore the variety of ways that pre-industrial societies have been made part of the modern world economy.", 
+            "concurrent": [], 
+            "courseTitle": "Banditry, Rebellion, and Social Revolution", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3082"
+        }, 
+        "ARTS-5538": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Anthropology and the Study of Social Problems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3064"
+        }, 
+        "ARTS-5551": {
+            "courseDescription": "provides students with a comprehensive understanding of the issues and problems entailed in the anthropological analysis of war and violence. Key topics include: the relationships between war and globalization, political violence and culture, and militarization and social memory.", 
+            "concurrent": [], 
+            "courseTitle": "War, Violence and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3409"
+        }, 
+        "ARTS-5550": {
+            "courseDescription": "is a seminar course exploring debates about the potential - and potential pitfalls - of a variety of approaches to publicly engaged anthropology.", 
+            "concurrent": [], 
+            "courseTitle": "Engaged Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3408"
+        }, 
+        "ARTS-5541": {
+            "courseDescription": "studies cultural, ecologic, economic and social systems in the northern circumpolar regions.", 
+            "concurrent": [], 
+            "courseTitle": "The Arctic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3280"
+        }, 
+        "ARTS-5559": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Seminar in the Anthropology of Gender", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4081"
+        }, 
+        "ARTS-5564": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Intensive Study of One Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }, 
+        "ARTS-5558": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Legal Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4030"
+        }, 
+        "ARTS-5565": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Ethnographic Life Histories", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4302"
+        }, 
+        "ARTS-5575": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehensive Examination", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4996"
+        }, 
+        "ARTS-5570": {
+            "courseDescription": "examines the uses of Marx&rsquo;s later writings, especially Capital, in current American Anthropology. The primary focus is on the agenda-setting works of Eric Wolf and David Harvey. Topics include: capital accumulation and the making of localities; primitive accumulation and class formation; uneven global development; crises of capitalism and crises of social reproduction; capitalist globalization and disposable surplus populations.", 
+            "concurrent": [], 
+            "courseTitle": "Marx and Anthropological Inquiry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4418"
+        }, 
+        "ARTS-7021": {
+            "courseDescription": "(same as Sociology 3260 and the former Sociology/Anthropology 3260) is an examination of theories of development including a critical analysis of empirical situations to which they are applied.", 
+            "concurrent": [], 
+            "courseTitle": "Social and Economic Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Sociology 3260, the former Sociology/Anthropology 3260", 
+            "courseNumber": "3260"
+        }, 
+        "ARTS-7020": {
+            "courseDescription": "(same as the former Sociology/Anthropology 3254-3257 and the former Sociology 3254-3257) are interdisciplinary approaches to the study of selected regions.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3254-3257, the former Sociology 3254-3257", 
+            "courseNumber": "3254-3257"
+        }, 
+        "ARTS-7023": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Social and Cultural Change", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3700"
+        }, 
+        "ARTS-7022": {
+            "courseDescription": "(same as Sociology 3630 and the former Sociology/Anthropology 3630) will explore non-print means for recording social behaviour and will utilize various forms of the media as a descriptive and an analytic tool.", 
+            "concurrent": [], 
+            "courseTitle": "New Media Methods in Social Research", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Sociology 3630, the former Sociology/Anthropology 3630", 
+            "courseNumber": "3630"
+        }, 
+        "ARTS-7025": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Social and Cultural Aspects of Health and Illness", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4071"
+        }, 
+        "ARTS-7024": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Self-Governance", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4070"
+        }, 
+        "ARTS-7027": {
+            "courseDescription": "(same as the former Sociology/Anthropology 4073 and the former Sociology 4073) is a critical inquiry into the social sources of human misery and suffering that characterize life in the underclass.", 
+            "concurrent": [], 
+            "courseTitle": "Studies in Underclass Life", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 4073, the former Sociology 4073", 
+            "courseNumber": "4073"
+        }, 
+        "ARTS-7026": {
+            "courseDescription": "(same as the former Sociology/Anthropology 4072 and the former Sociology 4072) covers topics which may include: symbolic meanings and values attached to death; cultural and historical variations in the management of death, e.g. treatment of the 'terminally ill', burial rites, the mourning process, and the social fate of survivors, together with the social and psychological meanings of these behaviours. Open to those without normal prerequisites by permission of the Instructor.", 
+            "concurrent": [], 
+            "courseTitle": "Social and Cultural Aspects of Death", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 4072, the former Sociology 4072", 
+            "courseNumber": "4072"
+        }, 
+        "ARTS-7028": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Language and Social Change", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4089"
+        }
+    }
+}

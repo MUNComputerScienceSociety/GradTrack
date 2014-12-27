@@ -1,0 +1,1435 @@
+{
+    "ED": {
+        "EDUC-0668": {
+            "PR": "ED 2710 , ED 2720 , ED 2730 , ED 2801 , ED 3280 , and ED 3801 , or equivalent teaching experience and permission of the course instructor", 
+            "courseDescription": "applies theories of education in the learning situation; observation and demonstration of lessons; seminars in teaching techniques.", 
+            "concurrent": [], 
+            "courseTitle": "Student Teaching in Post-Secondary Education", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0479", 
+                "EDUC-0480", 
+                "EDUC-0484", 
+                "EDUC-0520", 
+                "EDUC-0574"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "EDUC-0513": {
+            "courseDescription": "is an introduction to contemporary concepts and practices of career education and to theories of career development. Emphasis is on the practical application of theory and basic principles to the design and delivery of career education programs and to career counselling. Attention will be given to continuing career counselling and career development needs of individuals as well as to groups with special needs.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Career Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4906", 
+            "courseNumber": "3211"
+        }, 
+        "EDUC-0512": {
+            "courseDescription": "is an introduction to guidance services in the modern school with specific emphasis on its history, purpose, basic concepts and principles, and services. Students are introduced to the nature of counselling, ways of developing effective interpersonal relationships within the school environment, and the role of the school counsellor and other educational personnel in the provision of guidance services.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Guidance Services", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "EDUC-0511": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Bilingualism: Linguistic, Cognitive and Educational Aspects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "EDUC-0510": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Creative Arts", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3140"
+        }, 
+        "EDUC-1976": {
+            "courseDescription": "examines the literacies, discourses and epistemologies of post-secondary learning contexts. Academic areas are ways of knowing which are generated and defended through language, practices and texts. This course explores ways of making explicit these often implicit activities. It provides opportunities to understand different forms of knowledge, what counts as evidence, and how &lsquo;texts&rsquo; are developed, written, read and performed.", 
+            "concurrent": [], 
+            "courseTitle": "Academic Literacies in Adult and Post-Secondary Learning Contexts", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "EDUC-0516": {
+            "courseDescription": "is a practical course designed to develop approaches to Science teaching based on student investigation of scientific phenomena. Examples are drawn from both provincial and other major curricula.", 
+            "concurrent": [], 
+            "courseTitle": "Science in the Primary/Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2180, the former ED 3270, the former ED 3275", 
+            "courseNumber": "3273"
+        }, 
+        "EDUC-0515": {
+            "courseDescription": "will discuss the general issues of child abuse including definitions, detection, reporting, protection, prevention, and the educational implications of child abuse. A number of specific issues including provincial policies presently in force in Newfoundland and Labrador and elsewhere will be examined. The teacher's role in collaboration between officials in education, social work, health and justice agencies will be explored with a view to preventing abuse and modifying the circumstances of abused children.", 
+            "concurrent": [], 
+            "courseTitle": "Child Abuse and the School-Age Child", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3255"
+        }, 
+        "EDUC-0655": {
+            "courseDescription": "are on-the-job supervised activities designed to have the student implement the theory and principles of Adult Education.", 
+            "concurrent": [], 
+            "courseTitle": "Practicum in Adult Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4450"
+        }, 
+        "EDUC-0643": {
+            "PR": "completion of the Professional Year", 
+            "courseDescription": "is an examination of such social issues in education as poverty, child abuse, gender, ethnicity, and changes in the society and their implications for the nature and process of schooling. A study of social dimensions of education, including the content of education and the organization of teaching and learning. An analysis of students' experiences in the internship with regard to the above and other aspects of education the students might identify.", 
+            "concurrent": [], 
+            "courseTitle": "Sociological Perspectives on Teaching and Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4360", 
+            "courseNumber": "4362"
+        }, 
+        "EDUC-0646": {
+            "courseDescription": "examines educational theory, practice and policy from the disciplinary perspectives of philosophy, sociology, history and/or comparative education. Its aim is to foster an appreciation of the intrinsic value of these specific forms of inquiry as contributions to contemporary understanding of educational enterprise. Topics include: ethical and epistemological considerations related to areas such as critical pedagogy, equal educational opportunity, educational reform, change and social justice.", 
+            "concurrent": [], 
+            "courseTitle": "Perspectives on Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4381"
+        }, 
+        "EDUC-0452": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2037"
+        }, 
+        "EDUC-0453": {
+            "courseDescription": "is a study of music and art in cultural transmission. The course will develop skills in reading and writing associated with Innu and Inuit cultures, and will emphasize activities for exploring the elements of music. Innu and Inuit art forms will be explored as well as art as decoration in Innu and Inuit society.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Music and Art", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2038"
+        }, 
+        "EDUC-0450": {
+            "courseDescription": "applies the principles of effective teaching to the learning of history and culture as it applies to the Labrador Inuit and Innu. Topics include specific teaching strategies and examination of the selection and use of learning resources for unit planning, development and evaluation.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of History and Culture of Labrador Inuit and Innu", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2035"
+        }, 
+        "EDUC-0451": {
+            "courseDescription": "examines the teaching of specific current events relevant to Labrador Inuit and Innu. This will include issues in the areas of education/environment/society politics/self-government/industry and the economy. Class sessions will include a workshop mode of learning (public speaking, panel debates, use of Internet, research, survey and interviews).", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Aboriginal Issues", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2036"
+        }, 
+        "EDUC-0454": {
+            "courseDescription": "is intended for aboriginal people to learn about ways of helping and healing that are traditional to their own culture and to learn ways of effectively incorporating those cultural aspects in the school curriculum of aboriginal schools. This course includes a one-week field trip to an isolated camp in coastal Labrador, where students and instructors will live according to traditional cultural practices under the guidance of community elders.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Camp", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2039"
+        }, 
+        "EDUC-0455": {
+            "courseDescription": "is designed to help students develop confidence through self-expression, and acquire skills in interpersonal relationships.", 
+            "concurrent": [], 
+            "courseTitle": "Basic Interpersonal Communication", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2041", 
+            "courseNumber": "2040"
+        }, 
+        "EDUC-0593": {
+            "courseDescription": "introduces the principles, dispositions, and skills needed to create various types of effective learning environments. Topics include: professional relationships, school culture, decision making classroom management and models of teacher power.", 
+            "concurrent": [], 
+            "courseTitle": "Effective Teaching and Learning Environments", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4005"
+        }, 
+        "EDUC-0458": {
+            "courseDescription": "is designed to introduce students to the use of drama as a learning medium. Students will be expected to participate in and to critically analyse practical drama sessions in order to gain an understanding of the fundamental nature of drama. Students will be engaged in a variety of teacher devised drama structures to introduce them to the theory and practice of selected pioneers in the field. Reference will be made to some aspects of child development such as play, cognition, affect and language and their relationship to learning through drama. It is expected that students will begin to formulate a rationale for the use of drama education in their future classroom practice.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Drama Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2030", 
+            "courseNumber": "2050"
+        }, 
+        "EDUC-0597": {
+            "PR": "see Bachelor of Education (Native and Northern) Degree Regulations", 
+            "courseDescription": "(equivalent to 15 credit hours in Education) is a one-semester internship in a school setting that will enable students to become directly involved in the teaching/learning process through observation and practice. Activities during the semester will involve seminars to assist students in the assessment of teaching methodologies most appropriate for the curriculum in Native schools. Student placement will be in a school setting depending upon the program route which students have followed.", 
+            "concurrent": [], 
+            "courseTitle": "Internship in Native and Northern Education", 
+            "prerequisites": [], 
+            "AR": "Attendance is required. With respect to holidays, interns follow the schedule of the school and not that of the University.", 
+            "corequisites": [], 
+            "courseNumber": "404X"
+        }, 
+        "EDUC-0596": {
+            "PR": "ED 2500 , ED 2515 , ED 2520 , ED 3920 , ED 3925 and any additional requirements as outlined in the letter of acceptance to the music education program", 
+            "courseDescription": "(equivalent to 15 credit hours in Education) is a one semester internship in one or more schools to provide student teaching experiences in choral, classroom, and/or instrumental teaching contexts in primary, elementary, intermediate, and/or secondary schools settings.", 
+            "concurrent": [], 
+            "courseTitle": "Internship in Music Education", 
+            "prerequisites": [
+                "EDUC-1277", 
+                "EDUC-1278", 
+                "EDUC-0473", 
+                "EDUC-0579", 
+                "EDUC-0580"
+            ], 
+            "AR": "Attendance is required. With respect to holidays, interns follow the schedule of the school and not that of the University.", 
+            "corequisites": [], 
+            "courseNumber": "403X", 
+            "OR": "students may not be placed in their first district of choice and may be assigned to another Provincial school district"
+        }, 
+        "EDUC-0595": {
+            "courseDescription": "is a seminar course dealing with research, current problems and issues associated with Native Education within a Canadian, and in particular, a Newfoundland and Labrador context.", 
+            "concurrent": [], 
+            "courseTitle": "Issues and Trends in Native Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4020"
+        }, 
+        "EDUC-0594": {
+            "PR": "successful completion of the professional year. Students must have completed the professional year of the French Immersion Option to be assigned to a French Immersion classroom.", 
+            "courseDescription": "(equivalent to 15 credit hours in Education) is a 65 day teaching and learning experience, framed by explicit guidelines, designed to provide students an opportunity to integrate theory and practice in the school classroom. It includes both observation periods and extensive teaching experiences. The internship is intended to help students develop their individual style of teaching, to enable students to recognize the scope and complexity of a classroom teacher's role and responsibility, and to provide opportunities for the study of children as individuals and in groups, both in the classroom and other school settings.", 
+            "concurrent": [], 
+            "courseTitle": "Undergraduate Teaching Internship", 
+            "prerequisites": [], 
+            "AR": "Attendance is required. With respect to holidays, interns follow the schedule of the school and not that of the University.", 
+            "corequisites": [], 
+            "courseNumber": "401X", 
+            "OR": "students may not be placed in the first school of choice and may be assigned to another appropriate school"
+        }, 
+        "EDUC-0670": {
+            "PR": "ED 2710 , ED 2720 , and ED 2730", 
+            "courseDescription": "is a study of the various Post-Secondary Education programs operated either wholly by industry and labour or jointly with educational institutions; apprenticeship, work experience and study programs, co-operative education, training-in-industry, training on-the-job, supervisory training, and management development.", 
+            "concurrent": [], 
+            "courseTitle": "Educational Programs and Practices in Industry and Labour", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0479", 
+                "EDUC-0480"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4730"
+        }, 
+        "EDUC-0505": {
+            "courseDescription": "is designed to provide the prospective primary/elementary classroom teacher with the knowledge, skills and understandings necessary for presenting basic music concepts and skills to students and for using music as a means for teaching or enriching other areas of the curriculum. Course work will include study in the three facets of general classroom music: scholarship of the discipline, musicianship, and classroom methodology.", 
+            "concurrent": [], 
+            "courseTitle": "Music Education in the Primary/Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "former ED 3130", 
+            "UL": "not applicable towards the Conjoint Degrees of Bachelor of Music and Bachelor of Music Education or the Bachelor of Music Education as a Second Degree", 
+            "courseNumber": "3131"
+        }, 
+        "EDUC-0658": {
+            "PR": "ED 3610", 
+            "courseDescription": "gives consideration to the establishment of objectives; selection, development and review of materials; the use of various instructional strategies; assistive technology and the provision of appropriate experiences for the education of students with mild intellectual disabilities.", 
+            "CO": "ED 3610", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Mild Intellectual Disabilities", 
+            "prerequisites": [
+                "EDUC-0555"
+            ], 
+            "corequisites": [
+                "EDUC-0555"
+            ], 
+            "courseNumber": "4510"
+        }, 
+        "EDUC-0501": {
+            "courseDescription": "develops an understanding of art in relation to current theories of education and art education and to provide individual exploration of an experience in appropriate techniques. Curriculum will be examined with the focus on understanding how to provide favourable conditions and experiences for high quality individual development in visual expression.", 
+            "concurrent": [], 
+            "courseTitle": "Foundations of Art Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2020, the former ED 3110, the former ED 3112", 
+            "courseNumber": "3120"
+        }, 
+        "EDUC-0588": {
+            "PR": "ED 3951", 
+            "courseDescription": "is designed to engage students in a deeper exploration of issues in curriculum, instruction, and assessment in the primary/elementary school through active participation in problem solving. Students will be introduced to the different ways that primary/elementary school children view and make sense of their world. Working through such a framework, students will be introduced to instructional strategies and planning, formative and summative assessment, and issues inherent in the management of the primary/elementary classroom, as they create multi-disciplinary, thematic, resource-based units.", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum, Instruction, and Assessment in the Primary/Elementary School II", 
+            "prerequisites": [
+                "EDUC-0587"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3952"
+        }, 
+        "EDUC-0657": {
+            "PR": "ED 3610", 
+            "courseDescription": "focuses on the application of educational procedures relevant to successful post-secondary education, employment and community integration of adolescents and young adults with mild and moderate developmental disabilities. Appropriate senior high programming, life skills development, use of assistive technology and resource materials necessary for transition planning for this population will be reviewed.", 
+            "CO": "ED 3610", 
+            "concurrent": [], 
+            "courseTitle": "Transition Planning for Adolescents with Intellectual Disabilities", 
+            "prerequisites": [
+                "EDUC-0555"
+            ], 
+            "corequisites": [
+                "EDUC-0555"
+            ], 
+            "courseNumber": "4505"
+        }, 
+        "EDUC-0650": {
+            "courseDescription": "examines educational law and sources of conventional morality for the purpose of clarifying individual stances on legal and moral issues. Topics include the nature and theoretical bases of law and morality in education, the legal foundations of the Canadian education system, the legal and moral rights and responsibilities of teachers and students, and teacher liability.", 
+            "concurrent": [], 
+            "courseTitle": "Legal and Moral Issues in Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4420"
+        }, 
+        "EDUC-0651": {
+            "PR": "completion of the Professional Year", 
+            "courseDescription": "is an examination of the roles of various levels of government in Education; theories of administration; management as it relates to curriculum, organization, personnel, finance, and communication; and their implications for teachers in the Newfoundland context.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Educational Administration", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Education 2410", 
+            "courseNumber": "4425"
+        }, 
+        "EDUC-0465": {
+            "courseDescription": "includes selection and preparation of materials, and suitable classroom strategies for teaching English as a second language. Stress will be on the methods appropriate to cope with linguistic difficulties encountered in schools by children whose first language is not English.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching English as a Second Language", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2222"
+        }, 
+        "EDUC-0464": {
+            "courseDescription": "is a general introductory course for students planning to teach in a classroom where Innu and/or Inuit children are in attendance. Emphasis will be placed on creating an awareness of the religion, philosophy, cultural values and way of life of Native peoples; the legal and administrative processes concerning Native peoples from the past to the present; a historical perspective in Native education; and contemporary issues and trends in Native education. This course will provide the necessary foundation for the training of teachers who are sensitive to the influence of culture on the values, behaviour, needs and motivations of children.", 
+            "concurrent": [], 
+            "courseTitle": "Education in Native and Northern Communities - An Overview", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2202"
+        }, 
+        "EDUC-0463": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Language Arts", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2200"
+        }, 
+        "EDUC-0589": {
+            "courseDescription": "will include an examination of teacher planning, appropriate teaching strategies for and the evaluation of pupil learning in the social studies within those contexts, in addition to exploring the nature and purposes of social studies education in Native and northern schools.", 
+            "concurrent": [], 
+            "courseTitle": "Social Studies in Native and Northern Schools", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2150, the former ED 3960", 
+            "courseNumber": "3961"
+        }, 
+        "EDUC-0461": {
+            "courseDescription": "examines the curriculum organization in physical education for the Primary and Elementary grades; instructional material and teaching techniques for these grades; creative, aesthetic, and health-developing aspects of physical education.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Education in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 3070, or the former ED 2192 taken during the 1984-85 or 1985-86 academic years", 
+            "courseNumber": "2194"
+        }, 
+        "EDUC-0460": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to the Teaching of Science in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2182"
+        }, 
+        "EDUC-0586": {
+            "PR": "ED 3940 (or equivalent) or ED 4161 (or equivalent) or permission of the instructor", 
+            "courseDescription": "will focus on the nature of junior high Mathematics instruction and how it should differ from elementary and high school instruction. Emphasis will be placed on the transition between informal and formal approaches to the teaching of junior high Mathematics. The Van Hiel levels and their implications for instruction in geometry will be discussed. Activities appropriate to the teaching of junior high Mathematics will be developed and demonstrated. A particular focus in this component of the Institute will be on activities appropriate to the new program and how they can be integrated into the junior high Mathematics curriculum.", 
+            "concurrent": [], 
+            "courseTitle": "Institute in Teaching of Junior High School Mathematics Courses", 
+            "prerequisites": [
+                "EDUC-0581", 
+                "EDUC-0607"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3945 and 3946"
+        }, 
+        "EDUC-0587": {
+            "courseDescription": "is designed to engage students in an introduction to curriculum, instruction, and assessment in the primary/elementary school through active participation in problem solving. Students will be introduced to the different ways that primary/elementary school children view and make sense of their world (i.e., the linguistic, mathematical, scientific, and artistic). Working through such a framework, students will be introduced to instructional strategies and planning, formative and summative assessment, and issues inherent in the management of the primary/elementary classroom, as they create multi-disciplinary, thematic, resource-based units.", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum, Instruction, and Assessment in the Primary/Elementary School I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3951"
+        }, 
+        "EDUC-0580": {
+            "courseDescription": "examines current pedagogical practices, procedures, and resources for teaching Music in the intermediate/secondary schools. In addition to standard contexts in general music, choral, and instrumental settings, emphasis is placed on technology and settings such as musical theatre in order to reflect the diversity of music programming in intermediate/secondary schools.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate/Secondary School Music Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3925"
+        }, 
+        "EDUC-0581": {
+            "courseDescription": "is a general overview of aspects of teaching Mathematics in the primary and elementary grades. Theories of child development as they relate to Mathematics teaching, characteristics of Mathematics topics in primary and elementary grades, and the implications for teaching will be the major topics to be discussed in this course.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics in Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2340, the former ED 2310, the former ED 2320", 
+            "courseNumber": "3940"
+        }, 
+        "EDUC-0469": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The School and Community", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2361"
+        }, 
+        "EDUC-0468": {
+            "courseDescription": "examines intuitive notions of a mathematical system with special emphasis on the concepts, basic mathematical properties and skills associated with the number systems of arithmetic. Additional topics will include relations, functions and basic concepts of Geometry related to the Mathematics programs of the elementary school.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to the Teaching of Mathematics in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2350"
+        }, 
+        "EDUC-0648": {
+            "PR": "completion of the Professional Year", 
+            "courseDescription": "examines a number of central philosophical concepts, assumptions and issues involved in the pursuit of teaching and learning in the schools. The aim of the course is to provide students with an understanding of the distinctive character of philosophical analysis as a reflective and critical practice that intends to promote professional excellence and personal well-being.", 
+            "concurrent": [], 
+            "courseTitle": "Philosophy of Teaching and Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4380", 
+            "courseNumber": "4383"
+        }, 
+        "EDUC-1186": {
+            "courseDescription": "to be announced by the Faculty of Education.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics Courses in Special Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3691-3699"
+        }, 
+        "EDUC-0479": {
+            "courseDescription": "is a study of the back-ground of Post-Secondary Education and of its development and present forms in Newfoundland, other provinces of Canada, and other countries; an examination of current programs in Post-Secondary Education; the role of federal and provincial governments in Post-Secondary Education.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Post-Secondary Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2720"
+        }, 
+        "EDUC-0471": {
+            "courseDescription": "is a study of the administrative structures involved in the education of children of Innu and Inuit backgrounds. The study examines the administrative structures of the past and present with particular reference to the problems which arise in the administration of schools in remote, isolated regions. Further, the study includes an overall examination of the alternative Native processes of education relevant to the philosophy of Native people.", 
+            "concurrent": [], 
+            "courseTitle": "Administration and Supervision in Native and Northern Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2430"
+        }, 
+        "EDUC-0473": {
+            "courseDescription": "examines current pedagogical practices, procedures, and resources for use with all levels of school singing ensembles and choirs. Emphasis is placed on developing teacher candidates' own vocal techniques. Topics include philosophy and history of choral music education, vocal and choral pedagogy, and components/organization of choral programs.", 
+            "concurrent": [], 
+            "courseTitle": "Voice and Choral Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2520"
+        }, 
+        "EDUC-0475": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Recognizing and Protecting Children's Needs", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2655"
+        }, 
+        "EDUC-0476": {
+            "courseDescription": "examines the development of procedures for the identification of concepts in instructional units; analysis of tasks and identification of related competencies; development of resource units.", 
+            "concurrent": [], 
+            "courseTitle": "Course Organization and Development in Post-Secondary Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2710"
+        }, 
+        "EDUC-0477": {
+            "courseDescription": "is an examination of the development, structure and organization of technology education curriculum locally and internationally; applications of design and problem solving instructional strategies; the management of resources in technology education laboratories; the development of resource units for teaching.", 
+            "concurrent": [], 
+            "courseTitle": "Course Organization and Development in Technology Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2711"
+        }, 
+        "EDUC-0571": {
+            "courseDescription": "provides opportunities to apply current teaching and learning strategies within the technology education laboratory environment. Technology education students will examine labor trends that are impacting society's ability to expand and maintain today's infrastructure. Innovative teaching methodologies will be utilized to facilitate further investigation of the opportunities offered in skilled trades. Topics include: Red Seal Certification, print reading and application of the National Building Code within selected skilled trades.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Design and Materials Processing Technology", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "3750", 
+            "OR": "WHMlS training. Information can be obtained from the Office of Undergraduate Student Services."
+        }, 
+        "EDUC-0570": {
+            "PR": "ED 2710 and ED 2730", 
+            "courseDescription": "examines the social, cultural, philosophical, and economic forces influencing changes in Post-Secondary curriculum and instructional methods. Study of current Post-Secondary Education curriculum designs, problems and trends; methods of gathering curriculum information; procedures for revising and evaluating a curriculum.", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum and Instructional Development in Post-Secondary Education", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0480"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3730"
+        }, 
+        "EDUC-0572": {
+            "courseDescription": "examines the application of communication techniques through the various forms of media available. Technology education students will engage in activities that will provide insights into how current teaching and learning strategies can be blended with contemporary communication devices and means to facilitate collaborative lifelong learning. Topics include: web based multimedia, graphic design, audio/video production, animation production and social networking applications.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching Intermediate Communication Systems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3751"
+        }, 
+        "EDUC-0574": {
+            "courseDescription": "introduces audio visual communications with emphasis on equipment operation and basic local production of instructional materials; and the application of computers to education.", 
+            "concurrent": [
+                "EDUC-0536"
+            ], 
+            "courseTitle": "Educational Media", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 3480, ED 3484 , the former ED 4480, the former ED 4905", 
+            "courseNumber": "3801"
+        }, 
+        "EDUC-0579": {
+            "courseDescription": "examines current pedagogical practices, procedures, and resources for teaching brass, woodwinds, percussion, and strings in both band and orchestral school settings. Emphasis is placed on the development of comprehensive instrumental music education programs.", 
+            "concurrent": [], 
+            "courseTitle": "Instrumental Teaching Methods", 
+            "LH": "a 2 hour twice weekly laboratory section (MUN Lab Band and Orchestra) designed to provide practical teaching experience and methodology in both band and orchestral settings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3920"
+        }, 
+        "EDUC-0620": {
+            "courseDescription": "is an introductory study of aims and objectives, subject matter, curriculum materials, teaching methods, learning experiences, and evaluation for Religious Education courses.", 
+            "concurrent": [], 
+            "courseTitle": "Religious Education in Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2080", 
+            "courseNumber": "4205"
+        }, 
+        "EDUC-0623": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Inuttut II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4221"
+        }, 
+        "EDUC-0622": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Inuttut I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4220"
+        }, 
+        "EDUC-0625": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Innu-aimun II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4231"
+        }, 
+        "EDUC-0624": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Innu-aimun I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4230"
+        }, 
+        "EDUC-0626": {
+            "courseDescription": "is an introduction to the nature of exceptionality in the student. Topics include an examination of special needs resulting from exceptionality, approaches to meeting the special needs, issues of exceptionality, and a consideration of selected categories of exceptionality.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to the Exceptional Learner", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 3220, the former 3230, the former ED 4902", 
+            "courseNumber": "4240"
+        }, 
+        "EDUC-0839": {
+            "courseDescription": "- inactive course", 
+            "concurrent": [], 
+            "courseTitle": "Institute for Teachers of Core French in the Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3052 and 3053"
+        }, 
+        "EDUC-0599": {
+            "courseDescription": "introduces the rationales for teaching art and examines contemporary art teaching practices. Teacher candidates will examine their roles as artist-teacher and teacher-artist, as well as explore learning in and through art. Topics include curriculum implementation; instructional planning; managing the learning environment; assessment and evaluation; safety; arts advocacy; and visual, artistic and technological literacies.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Art in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4120"
+        }, 
+        "EDUC-0562": {
+            "PR": "ED 4240 , or the former ED 3220 or ED 3230", 
+            "courseDescription": "consists of a study of special and selected problems related to the teaching of special education with particular emphasis placed on special education within the Province of Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Current Issues in Special Education", 
+            "prerequisites": [
+                "EDUC-0626"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3640"
+        }, 
+        "EDUC-0560": {
+            "PR": "ED 4240 , or the former ED 3220 or ED 3230", 
+            "courseDescription": "includes an examination of procedures for the early identification of children with behavioural disabilities and major systems of classification of behaviour problems. It will also include an analysis of: aberrant adjustment mechanisms, deviant development and specified behaviour problems with implication for therapeutic education.", 
+            "concurrent": [], 
+            "courseTitle": "Nature and Characteristics of Emotional/Behavioural Disorders", 
+            "prerequisites": [
+                "EDUC-0626"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3620"
+        }, 
+        "EDUC-0561": {
+            "courseDescription": "examines our theoretical understanding of the nature and characteristics of learning disabilities. It explores contemporary understandings, assessment/identification approaches, and current research as it relates to educational practice.", 
+            "concurrent": [], 
+            "courseTitle": "Nature and Characteristics of Learning Disabilities", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 3231", 
+            "courseNumber": "3630"
+        }, 
+        "EDUC-0566": {
+            "courseDescription": "examines the nature of ASD with particular focus on methods of behavioural assessment, use of assistive technology and specific therapy techniques. Support programs will be considered within an ecological context that prioritizes collaborative planning with parents and other therapeutic agents.", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Autism Spectrum Disorder (ASD)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3680"
+        }, 
+        "EDUC-0567": {
+            "courseDescription": "examines the theoretical and practical aspects of collaborative practice within an interagency model of case planning for students with diverse learning needs. Emphasis is on exploring issues of power/empowerment, consultation, communication, conflict resolution/problem-solving, advocacy and collaboration. Perspectives of parents and families, educators, and community resource professionals will be explored. The course strives to create a family-focussed approach to effective planning in contemporary schools.", 
+            "concurrent": [], 
+            "courseTitle": "Collaborative Practice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3690"
+        }, 
+        "EDUC-0564": {
+            "PR": "completion of 18 credit hours in Special Education including ED 3600", 
+            "courseDescription": "encompasses a practice experience with students who have an identified exceptionality. The emphasis will be on a supervised field placement in a special education position within a school setting.", 
+            "concurrent": [], 
+            "courseTitle": "Practicum in Special Education", 
+            "prerequisites": [
+                "EDUC-0554"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3650"
+        }, 
+        "EDUC-0565": {
+            "courseDescription": "is an examination of the nature and characteristics of gifted children, with emphasis upon methods of identifying gifted children, implications of giftedness for learning and instruction and reviews of several educational programs for the gifted.", 
+            "concurrent": [], 
+            "courseTitle": "A Study of the Gifted Child", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3660"
+        }, 
+        "EDUC-0632": {
+            "courseDescription": "considers the unique learning contexts and characteristics of learners through the span of adolescence, from early adolescence to young adulthood. It focuses on the intersection of psychological aspects of adolescence with biological, social and cultural, as well as cognitive and affective aspects in order to understand, to engage, and to effectively teach the adolescent learner. The implications of these unique periods for creating effective teaching and learning environments in both intermediate and secondary classrooms will be considered.", 
+            "concurrent": [], 
+            "courseTitle": "Engaging the Adolescent Learner", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4260"
+        }, 
+        "EDUC-0568": {
+            "PR": "ED 2710 and ED 2730", 
+            "courseDescription": "is an in-depth study of various methods of group instruction; planning and presenting demonstration teaching units; practice in techniques of group instruction.", 
+            "concurrent": [], 
+            "courseTitle": "Group Instruction in Post-Secondary Education", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0480"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3710"
+        }, 
+        "EDUC-0569": {
+            "PR": "ED 2710 and ED 2730", 
+            "courseDescription": "is a study of the various systems of individualized instruction; the theoretical basis for individualizing courses, individual differences, organizing individualized courses, selection and development of materials; management of individual student progress.", 
+            "concurrent": [], 
+            "courseTitle": "Individualized Instruction in Post-Secondary Education", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0480"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3720"
+        }, 
+        "EDUC-0636": {
+            "courseDescription": "is an in-depth examination of innovations in curriculum and instruction in Native communities within Canada. Emphasis will be placed on projects in curriculum planning and the development of instructional material, to be conducted in conjunction with school personnel already in the field. This course would serve as a valuable resource to school systems involved in curriculum planning and instructional development.", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum and Instruction in Native and Northern Schools II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4331"
+        }, 
+        "EDUC-0635": {
+            "courseDescription": "reviews the principles of and techniques for curriculum development. Adaptation or reformulation of these will be made in the light of the needs and desires of Native peoples. Critical analysis will be made of curriculum resources presently in use. Instructional materials will be prepared and produced with emphasis on printed materials relevant to the experiential background of the Indian and Inuit child.", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum and Instruction in Native and Northern Schools I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4330"
+        }, 
+        "EDUC-0485": {
+            "courseDescription": "is an examination of the educational aspects of adult development from early adulthood through middle age to later maturity.", 
+            "concurrent": [], 
+            "courseTitle": "Educational Aspects of Adult Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2803"
+        }, 
+        "EDUC-0484": {
+            "courseDescription": "examines the implications for diversity in adult programs and instructional strategies for adults with various social roles, abilities, attitudes, interests, and skills.", 
+            "concurrent": [], 
+            "courseTitle": "The Adult as Learner", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2801"
+        }, 
+        "EDUC-0487": {
+            "courseDescription": "is a laboratory course which takes a practical case study approach to survey and quasi-experimental quantitative methods in education, together with supporting statistical concepts of probability, descriptive and inferential statistics sampling and sampling distributions, correlation and bivariate regression.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Statistics in Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2900"
+        }, 
+        "EDUC-0486": {
+            "courseDescription": "explores the sociological context of adult learning. The interrelationship between particular social factors (e.g., age, sex, occupational structure) and the need for adult educational programs are studied. The potential effects of such programs on society are examined with reference to community development. Special emphasis is given to societal change as it relates to education as a way of life.", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Adult Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2806"
+        }, 
+        "EDUC-0481": {
+            "courseDescription": "examines theory and practice of teaching problem solving, design and materials processes. Topics and practical activities include production and computer assisted design.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Design and Materials Processes", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "2750", 
+            "OR": "WHMlS training. Information can be obtained from the Office of Undergraduate Student Services."
+        }, 
+        "EDUC-0480": {
+            "courseDescription": "is an introduction to the methodology of teaching psychomotor and cognitive skills; selection of appropriate methods for individual and group instruction; organizing laboratory and shop instruction; principles of instructional management.", 
+            "concurrent": [], 
+            "courseTitle": "General Methods of Teaching in Post-Secondary Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2730"
+        }, 
+        "EDUC-0483": {
+            "courseDescription": "is a review of the history of the Adult Education movement. The rationale for the investment of public or private resources in the education or training of adults. An examination of current educational philosophies related to Adult Education.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Adult Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2800"
+        }, 
+        "EDUC-1173": {
+            "courseDescription": "will have topics to be offered announced by the Faculty of Education.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics Courses in Primary/Elementary (P/E)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4300-4310"
+        }, 
+        "EDUC-0489": {
+            "PR": "ED 3001", 
+            "courseDescription": "is a four month continuation of the experiences provided in Education", 
+            "concurrent": [], 
+            "courseTitle": "Supervised Practice Teaching in Native Schools II", 
+            "prerequisites": [
+                "EDUC-0488"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3002"
+        }, 
+        "EDUC-0488": {
+            "courseDescription": "is a four month period as a teaching assistant involved in the preparation of teaching materials, teaching assigned lessons and participating in other activities related to the duties of a teacher. This session is to be under the direction of a co-operating teacher and a university professor.", 
+            "concurrent": [], 
+            "courseTitle": "Supervised Practice Teaching in Native Schools I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3001"
+        }, 
+        "EDUC-0687": {
+            "courseDescription": "introduces the theory and practice of evaluation and assessment in educational settings. Topics include the nature of classroom assessment; production, administration and evaluation of teacher-made tests and other assessment tools; product and performance assessment; grading and reporting communication of evaluation information; and the analysis and application of assessment data to instructional planning and the improvement of teaching.", 
+            "concurrent": [], 
+            "courseTitle": "Assessment for Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4912", 
+            "courseNumber": "4950"
+        }, 
+        "EDUC-0683": {
+            "courseDescription": "begins with a critical examination of traditional approaches to multi-grading. The main focus of the course will be to introduce teachers to the potential of adopting a multi-age approach in small schools which have of necessity grouped children of more than one age group and grade level together for instruction. This course will also examine the implications of implementing a philosophy of multi-age pedagogy in the primary, elementary and intermediate grades (K-9).", 
+            "concurrent": [], 
+            "courseTitle": "Effective Teaching Strategies for Multi-grade/Multi-age Classrooms", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4901"
+        }, 
+        "EDUC-0600": {
+            "courseDescription": "engages teacher candidates in developing their role as theatre artist/teacher. Topics include: beliefs informing the practice of theatre arts in the context of school; related pedagogies and educational practices in dialogue with the art form of drama; process drama and theatre education, an interdependent relationship; implementation planning strategies; communication style and facilitative language.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Theatre Arts in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4121"
+        }, 
+        "EDUC-0689": {
+            "courseDescription": "will have topics offered announced by the Faculty of Education.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics Courses in Intermediate/Secondary", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4970-4980"
+        }, 
+        "EDUC-0556": {
+            "courseDescription": "is intended to provide students with an awareness and understanding of the origins of many aspects of child behaviour and competence. While focussing on the development and nature of the \"normal\" child, where appropriate, contrasts and comparisons will be made between the development of \"normal\" and \"exceptional\" individuals.", 
+            "concurrent": [], 
+            "courseTitle": "Nature of the Primary/Elementary School Child - Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2610, the former ED 3240", 
+            "courseNumber": "3618"
+        }, 
+        "EDUC-0555": {
+            "courseDescription": "aims to provide an understanding of the nature and characteristics of intellectual disabilities and the psycho-social implications of this area of exceptionality.", 
+            "concurrent": [], 
+            "courseTitle": "Nature and Characteristics of Intellectual Disabilities", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3610"
+        }, 
+        "EDUC-0554": {
+            "courseDescription": "applies the theories of test development in establishing a competent understanding of the utilization of diagnostic and prescriptive instruments as well as teacher-made tests as they apply to the area of exceptional children.", 
+            "concurrent": [], 
+            "courseTitle": "Academic and Behavioural Assessment", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "EDUC-0552": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Multiculturalism and Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3585"
+        }, 
+        "EDUC-0607": {
+            "courseDescription": "introduces teacher candidates to the principles, dispositions, and skills necessary to teach mathematics. Topics include: the nature of mathematical knowledge, learning principles, mathematics pedagogy, curriculum, instructional planning, and evaluation in mathematics.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Mathematics in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4161"
+        }, 
+        "EDUC-0605": {
+            "courseDescription": "is a brief overview of the development of French Immersion programs; aims and objectives of French Immersion; evaluation of the extent to which objectives and materials can reflect those of the regular English classroom; analysis of differences between teaching in the French Immersion classroom and the core French, the French mother tongue, and the regular English classrooms; general teaching strategies appropriate to the level of French language development in the immersion setting.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Teaching in French Immersion in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4155", 
+            "OR": "this course will be conducted in French"
+        }, 
+        "EDUC-0604": {
+            "courseDescription": "provides an introduction to the nature and purpose of French programs in Canada. Topics include: an overview of the purpose of core French and French immersion; theories and principles of second-language teaching and learning; methods; techniques, strategies and characteristics of effective planning and assessment in second-language teaching.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of French in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4154"
+        }, 
+        "EDUC-0603": {
+            "PR": "ED 4154 or permission of the Office of Undergraduate Student Services", 
+            "courseDescription": "is an in-depth analysis of the nature and purpose of the French program. Topics include a brief overview of the history of French teaching methodologies, an introduction to the research literature, an evaluation of techniques, and a consideration of issues facing the teaching of French.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French Methodology", 
+            "prerequisites": [
+                "EDUC-0604"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4151"
+        }, 
+        "EDUC-0601": {
+            "courseDescription": "draws on research in the teaching and learning of English/language and literacy to prepare teacher candidates to develop engaging, differentiated experiences for students. Topics include: curriculum; the nature and structure of language and literature programs; test analysis, response and critique; writing and representing genres in multimodal and linguistic; media literacy forms; and oracy.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of the English Language Arts in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4142"
+        }, 
+        "EDUC-0558": {
+            "PR": "ED 3618", 
+            "courseDescription": "provides an introduction to human learning, motivation and cognition and to the related concepts and theories underlying children's classroom learning and behaviour. Focus will be on typical development with some attention to atypical (exceptionality) functioning in these areas. The course will familiarize students with the concepts and vocabulary used to describe classroom learning and with explanations and justifications for many educational and instructional activities and practices. Particular attention will be paid to application of this knowledge to instruction and classroom management and to the facilitation of learning.", 
+            "concurrent": [], 
+            "courseTitle": "Nature of Primary/Elementary School Child - Learning and Cognition", 
+            "prerequisites": [
+                "EDUC-0556"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ED 3616, the former ED 3615", 
+            "courseNumber": "3619"
+        }, 
+        "EDUC-0497": {
+            "PR": "French 2101", 
+            "courseDescription": "is an introduction to the general principles of second-language teaching, to the curriculum materials currently prescribed for use in the schools, and to a consideration of teaching strategies and evaluation techniques associated with these materials.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of French as a Second Language in the Primary and Elementary Grades", 
+            "prerequisites": [
+                "ARTS-6955"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3050"
+        }, 
+        "EDUC-0495": {
+            "PR": "ED 4350 , 3543 , or the former 3540 or 3545", 
+            "courseDescription": "focuses on techniques for assessing language abilities in primary and elementary students and will provide models for developing strategies in implementing language instruction appropriate to students&rsquo; needs.", 
+            "concurrent": [], 
+            "courseTitle": "The Assessment and Development of Children's Language Abilities", 
+            "prerequisites": [
+                "EDUC-0638", 
+                "EDUC-0542"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3040"
+        }, 
+        "EDUC-0492": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Drama Education in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3009"
+        }, 
+        "EDUC-0490": {
+            "courseDescription": "will examine a broad range of teaching strategies and instructional methods which may be used in classrooms. Students will be encouraged to incorporate elements of the Native and northern perspective in order to bring relevance to the province-wide curriculum. Particular emphasis will be placed upon how Native groups perceive education and the methods they view as appropriate.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching Strategies in Native and Northern Schools", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2230, the former ED 2240, the former ED 4320", 
+            "courseNumber": "3007"
+        }, 
+        "EDUC-1149": {
+            "courseDescription": "examines theoretically sound and research-based methods for the identification and remediation of speech and language concerns in children and adolescents. Topics include typical language development; nature of developmental concerns for both speech (articulation, voice and fluency) and language (receptive, expressive and phonetic awareness); social use of language; and use of assistive technology. Particular focus will be placed on current interventions/strategies and programs/models. The course is aimed at supporting teachers in developing effective individualized programs.", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Speech/Language Disorders", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4540"
+        }, 
+        "EDUC-0638": {
+            "courseDescription": "examines the nature of reading in subject-specific areas such as history, biology, and mathematics. Topics include the role of the teacher in the teaching of content in different areas, evaluating vocabulary, grammar, usage and text structure for instruction, and analysing the variety of strategies for reading, writing and studying.", 
+            "concurrent": [], 
+            "courseTitle": "Reading in the Content Areas", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4350"
+        }, 
+        "EDUC-0583": {
+            "PR": "ED 3940", 
+            "courseDescription": "is a study of aspects of diagnosis and remediation in primary and elementary Mathematics, and of the basis for constructing and applying diagnostic techniques. The course offers an examination, development, and application of a variety of manipulative aids and assistive technology to be used in the teaching of Mathematics in the primary and elementary grades.", 
+            "concurrent": [], 
+            "courseTitle": "Diagnosing and Directing Learning in Primary and Elementary Mathematics", 
+            "prerequisites": [
+                "EDUC-0581"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3941"
+        }, 
+        "EDUC-0548": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The History of Education in Newfoundland Since 1800", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3571"
+        }, 
+        "EDUC-0549": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of Native and Northern Education in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3573"
+        }, 
+        "EDUC-0541": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3542"
+        }, 
+        "EDUC-0542": {
+            "PR": "ED 3312", 
+            "courseDescription": "provides students with a social-psychological perspective on children's learning to read, reading and reading to learn. Students will explore current and traditional models of the reading process and the importance of home/school/community contexts for fostering literacy learning. Students will apply instructional strategies for children's learning of story, book and print concepts, word identification, fluency, vocabulary development and comprehension for a variety of texts.", 
+            "concurrent": [
+                "EDUC-0541"
+            ], 
+            "courseTitle": "Language Arts in the Primary/Elementary School II", 
+            "prerequisites": [
+                "EDUC-0523"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ED 2110, the former ED 2120, the former ED 3540, ED 3542 , the former ED 3545", 
+            "courseNumber": "3543"
+        }, 
+        "EDUC-0546": {
+            "courseDescription": "is an introduction to the study of gender and education. It includes a historical overview of the link between gender and schooling as well as an examination of contemporary theoretical perspectives and research relating to the role of the school in gender development in general and gender inequality in particular. Implications for educational policy and practices will also be explored.", 
+            "concurrent": [], 
+            "courseTitle": "Gender and Schooling", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3565"
+        }, 
+        "EDUC-0547": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of North American Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3570"
+        }, 
+        "EDUC-0611": {
+            "courseDescription": "provides a context for teacher candidates to develop the knowledge, abilities, and dispositions to provide learners with the opportunity to develop multidimensional scientific literacy. Topics include: assessment and instruction, controversial issues in Science, curriculum planning, differentiating instruction in science, inquiry, information and communication technologies in science, learning theories, multicultural science education, scientific literacy, science-technology-society-environment, and student naive and alternative conceptions.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Science in the Intermediate and Secondary School I", 
+            "LH": "two hours per week", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4170, the former ED 4171, the former ED 4270, the former ED 4271", 
+            "courseNumber": "4174", 
+            "OR": "WHMIS training. Information can be obtained from the Office of Undergraduate Student Services, Faculty of Education."
+        }, 
+        "EDUC-0613": {
+            "courseDescription": "provides a context for teacher candidates to develop a greater understanding of the nature of scientific knowledge and how it is generated, explore the rationale(s) for the inclusion of the nature of science as a goal of scientific literacy, analyse research that reports on teachers&rsquo; and students&rsquo; views about the nature of science, and examine the potential of a range of pedagogical approaches for helping all learners in science develop a greater understanding of the nature of science. Topics include: philosophy, history, and sociology of science; the nature of science (definitions and beliefs); and the nature of science in the classroom.", 
+            "CO": "ED 4174", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Science in the Intermediate and Secondary School II", 
+            "prerequisites": [], 
+            "corequisites": [
+                "EDUC-0611"
+            ], 
+            "courseNumber": "4175"
+        }, 
+        "EDUC-0614": {
+            "courseDescription": "examines the theory and practice of social studies education. Teacher candidates will investigate ways of applying the principles of effective teaching and learning in the social studies classroom. Topics include: the nature and purpose of social studies education, specific teaching strategies, and instructional planning and evaluation.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Social Studies in the Intermediate and Secondary School I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4180"
+        }, 
+        "EDUC-0615": {
+            "courseDescription": "examines the separate disciplines of social studies. Topics include: the evolution and nature of social studies education, current issues and trends in the area and various teaching strategies and assessment techniques appropriate to the discipline.", 
+            "CO": "ED 4180", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Social Studies in the Intermediate and Secondary School II", 
+            "prerequisites": [], 
+            "corequisites": [
+                "EDUC-0614"
+            ], 
+            "courseNumber": "4181"
+        }, 
+        "EDUC-0617": {
+            "courseDescription": "applies the principles of effective teaching to the teaching and learning of physical education. Topics include the nature and purpose of physical education, an examination of the physical education curriculum, an analysis of quality daily physical education, approaches to teaching physical education, and evaluation of progress in physical education.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Physical Education in the Intermediate and Secondary School", 
+            "LH": "two hours per week supervised practice teaching on-campus and/or in a school setting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4190"
+        }, 
+        "EDUC-0618": {
+            "courseDescription": "applies the principles of effective teaching to the teaching and learning of religious education. Topics include formulating objectives, examining theories of faith and moral development, selecting and using resources, and evaluating learning.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching and Learning of Religious Education in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4203"
+        }, 
+        "EDUC-1251": {
+            "courseDescription": "provides technology education students with opportunities to apply current teaching and learning strategies while developing the skill set necessary to deliver a comprehensive program in residential construction technologies. Topics include: shop and site safety, print reading and interpretation, basic residential framing techniques, installation of exterior construction features, installation of interior environmental applications, and energy control systems.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching Residential Construction Technology", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "4753", 
+            "OR": "WHMlS training. Information can be obtained from the Office of Undergraduate Student Services."
+        }, 
+        "EDUC-1250": {
+            "courseDescription": "provides technology education students with opportunities to apply current teaching and learning strategies to the issues surrounding traditional and emerging energy technologies. Major topics of study include: fundamentals of sustainable energy production and control, redevelopment and use of traditional energy sources, application of solar energy, wind power production, and fuel cell development and utilization.", 
+            "concurrent": [], 
+            "courseTitle": "Teaching Current and Emerging Power Technology Systems", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "2752", 
+            "OR": "WHMlS training. Information can be obtained from the Office of the Undergraduate Student Services."
+        }, 
+        "EDUC-0659": {
+            "PR": "ED 3610", 
+            "courseDescription": "focuses on inclusive educational practices for students with moderate intellectual disabilities. Emphasis will be placed on the development, implementation and management of a well-balanced individualized curriculum as articulated in an individual educational plan. Students will be expected to demonstrate fluency in the design of effective instructional strategies, including the use of assistive technology to maximize student&rsquo;s individual strengths across a variety of environments.", 
+            "CO": "ED 3610", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Moderate Intellectual Disabilities", 
+            "prerequisites": [
+                "EDUC-0555"
+            ], 
+            "corequisites": [
+                "EDUC-0555"
+            ], 
+            "courseNumber": "4515"
+        }, 
+        "EDUC-0538": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Current Approaches to Reading in the Primary and Elementary Grades", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3515"
+        }, 
+        "EDUC-0536": {
+            "courseDescription": "focuses on the integration of computer software and other learning resources into primary/elementary school teaching. Laboratory components will be scheduled so that students may learn how to use and implement communications, applications and curricular software.", 
+            "concurrent": [
+                "EDUC-0574"
+            ], 
+            "courseTitle": "Computers and Learning Resources for Primary/Elementary Teachers", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 3480, ED 3801 , the former ED 4480, the former ED 4905", 
+            "courseNumber": "3484"
+        }, 
+        "EDUC-0533": {
+            "courseDescription": "examines alternative provincial or regional methods of organization for the provision of Adult Education, including the statutory framework within which Adult Education functions.", 
+            "concurrent": [], 
+            "courseTitle": "Organization and Administration of Programs in Adult Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3440"
+        }, 
+        "EDUC-0664": {
+            "courseDescription": "examines the effects of hearing loss on language and social/emotional development in students and the resulting programming implications for the inclusive classroom. The course strives to prepare teachers to identify the needs of students with various degrees of hearing loss and develop effective programs to accommodate their needs. The use of assistive technology such as hearing aids, cochlear implants and other assistive listening devices will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Hearing Loss", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4543"
+        }, 
+        "EDUC-0667": {
+            "courseDescription": "studies the nature of stress as it is manifested in the teacher and the teaching profession, and provides approaches to coping effectively with the factors which are related to that stress. Topics include the nature of the human stress response, causes and symptoms of stress (personal and professional), self-assessment techniques, and a selection of approaches available to cope with the stress typically related to the roles and expectancies of teaching.", 
+            "concurrent": [], 
+            "courseTitle": "The Nature and Management of Stress", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4610"
+        }, 
+        "EDUC-0661": {
+            "PR": "ED 3630", 
+            "courseDescription": "investigates specific teaching methods, use of assistive technology and programming practices as they pertain to reading, writing, language, mathematics, social skills, and metacognitive skills for students with identified learning disabilities.", 
+            "CO": "ED 3630", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Learning Disabilities", 
+            "prerequisites": [
+                "EDUC-0561"
+            ], 
+            "corequisites": [
+                "EDUC-0561"
+            ], 
+            "courseNumber": "4530"
+        }, 
+        "EDUC-0660": {
+            "PR": "ED 3620", 
+            "courseDescription": "examines programs and strategies for students with behavioural issues. These will include counseling skills, case conferences, structured learning environments, use of assistive technology and therapeutic interventions for specific behaviour problems. In addition, consideration will be given to collaboration with mental health practitioners and procedures to develop readiness for return to regular instructional programs.", 
+            "CO": "ED 3620", 
+            "concurrent": [], 
+            "courseTitle": "Inclusive Practices for Students with Behavioural Challenges", 
+            "prerequisites": [
+                "EDUC-0560"
+            ], 
+            "corequisites": [
+                "EDUC-0560"
+            ], 
+            "courseNumber": "4520"
+        }, 
+        "EDUC-0663": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Communication for the Deaf", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4541"
+        }, 
+        "EDUC-0669": {
+            "PR": "ED 2710 , ED 2720 , and ED 2730", 
+            "courseDescription": "identifies, analyses, and discusses major issues, practices and problems in Post-Secondary Education provincially, nationally, and internationally.", 
+            "concurrent": [], 
+            "courseTitle": "Recurring Issues in Post-Secondary Education", 
+            "prerequisites": [
+                "EDUC-0476", 
+                "EDUC-0479", 
+                "EDUC-0480"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4710"
+        }, 
+        "EDUC-1277": {
+            "courseDescription": "is an introduction to music education, bridging life as a musician and the development of a career as a musician-teacher. Topics include an overview of theoretical, philosophical, historical, sociological, cultural, psychological, methodological, and curricular foundations of music education as well as contemporary contexts and issues in music education. Emphasis is on research and writing in music education, technology applications, and the development of functional keyboard skills specific for music educators.", 
+            "concurrent": [], 
+            "courseTitle": "Orientation to Music Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2500"
+        }, 
+        "EDUC-0591": {
+            "courseDescription": "is an introduction to the social studies program at the primary/elementary school level. Topics to be explored include the nature and purposes of the social studies curricula, approaches to teaching and learning in this curricula area, selecting and utilizing learning resources, and conducting assessment in the social studies.", 
+            "concurrent": [], 
+            "courseTitle": "Social Studies in the Primary/Elementary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2160, the former ED 3960", 
+            "courseNumber": "3962"
+        }, 
+        "EDUC-0628": {
+            "PR": "ED 4240 or the former 3220 or 3230", 
+            "courseDescription": "examines the identification processes and remediation techniques appropriate for dealing with student learning difficulties. Topics include identification of learning difficulties, the process of program planning, and the application of teaching and learning strategies to specific subject areas.", 
+            "concurrent": [], 
+            "courseTitle": "Identification and Remediation of Learning Difficulties", 
+            "prerequisites": [
+                "EDUC-0626"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4242"
+        }, 
+        "EDUC-0526": {
+            "courseDescription": "focuses on the personal and educational values for using children's literature in the classroom, examines the literary genres appropriate for primary/elementary children and explores meaningful literacy extensions to develop children's literacy strategies and skills. In addition, the course examines guidelines for evaluating children's literature for literacy and aesthetic qualities. Instructional strategies to integrate children's literature across the curriculum are explored.", 
+            "concurrent": [], 
+            "courseTitle": "Children's Literature in the Primary/Elementary School", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2060, the former ED 2065, the former ED 3310, the former ED 3320", 
+            "courseNumber": "3322"
+        }, 
+        "EDUC-0525": {
+            "courseDescription": "is an examination of Native literature with special emphasis on writings of Native peoples for Native children. Literature which presents the Native point of view will be examined in the light of historical and current developments in Native and northern conditions.", 
+            "concurrent": [], 
+            "courseTitle": "Native Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3321"
+        }, 
+        "EDUC-0522": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Identifying Learner Diversity Within a Context of Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3290"
+        }, 
+        "EDUC-0523": {
+            "courseDescription": "provides students with a holistic view of the learning and teaching of language arts (i.e., the receptive language abilities of viewing, listening and reading, and the expressive language abilities of speaking and writing). This course will help students develop a theoretical perspective on two major aspects of language, that being \"knowledge of language\" (i.e., knowledge of the structures of language) and \"knowledge about language\" (i.e., knowledge about attitudes and perceptions towards language and the various purposes of language). This course will extend students' understanding of the importance of the home/community influences upon emergent and developmental literacy and language development.", 
+            "concurrent": [], 
+            "courseTitle": "Language Arts in the Primary/Elementary School I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2210, the former ED 2220, the former ED 3305, the former ED 3315", 
+            "courseNumber": "3312"
+        }, 
+        "EDUC-0520": {
+            "courseDescription": "is a study of the broad spectrum of educational assessment focussing specifically on the development of objectives, the construction and use of formal teacher-made tests, the use of informal assessment techniques, the interpretation and application of assessment data, continuous evaluation, criterion-referenced measurement, and emerging trends in assessment.", 
+            "concurrent": [], 
+            "courseTitle": "Educational Assessment", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 4912", 
+            "courseNumber": "3280"
+        }, 
+        "EDUC-0521": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Tests and Measurements", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3281"
+        }, 
+        "EDUC-0676": {
+            "courseDescription": "examines, through inquiry, reflection and synthesis, the foundations of music education common to all levels and contexts of school music. The focus is the bridging of theory, philosophy, and practice in music education. Topics include current issues; challenges and opportunities in music education(provincial, national, and international); interdisciplinary and integrated arts education; cultural pedagogy, diversity, and social justice in education; and teacher professional development. Additional modules will be designed to meet teacher candidates' needs and interests.", 
+            "concurrent": [], 
+            "courseTitle": "Music Education Seminar", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4830"
+        }, 
+        "EDUC-0675": {
+            "courseDescription": "examines the theory and practice of selected advanced specialized Post-Secondary Education technical skills and their application to the laboratory, workshop and business office. Emphasis will be placed on innovative and emerging techniques in selected areas of business, industry, and the service occupations.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Specialized Post-Secondary Education Technologies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4760-4780"
+        }, 
+        "EDUC-0673": {
+            "courseDescription": "is designed to provide technology education students with an understanding of key concepts in robotic development and control applications. Students will complete practical activities that promote development of the skills necessary to deliver a comprehensive program in this area of study. Topics include: the study of electrical energy, analog and digital electronics; fabrication techniques; object oriented/event driven programming; and wireless robotic control over Internet Protocol (IP).", 
+            "concurrent": [], 
+            "courseTitle": "Teaching Robotics Systems", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "4752", 
+            "OR": "WHMlS training. Information can be obtained from the Office of Undergraduate Student Services."
+        }, 
+        "EDUC-0447": {
+            "courseDescription": "focuses on the preparation of materials and classroom strategies for the teaching of Inuttut in Primary and Elementary schools in Native communities. Attention will be given to linguistic difficulties encountered in schools by children whose first language is English.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Inuttut", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2022"
+        }, 
+        "EDUC-0671": {
+            "courseDescription": "provides technology education students with opportunities to examine current teaching and learning strategies applicable to intermediate and secondary technology education programs. The course will focus on advanced materials processing using Computer Numeric Control (CNC) devices. Students will receive practical instruction in the use of fluidic control systems that are used in many manufacturing processes. Topics include: CNC production processing, fluidic control systems, and application of the design process and portfolio development.", 
+            "concurrent": [], 
+            "courseTitle": "Integrated Materials and Production Processes", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4750"
+        }, 
+        "EDUC-0449": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Teaching of Montagnais", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2032"
+        }, 
+        "EDUC-0448": {
+            "courseDescription": "is an overview of issues of language and culture in Native and Northern Education. Emphasis will be placed on examination and development of curricula and materials that recognize cultural diversity (especially Aboriginal cultures), foster the teaching and maintenance of Aboriginal languages, and support the work of Aboriginal language specialists in the classroom.", 
+            "concurrent": [], 
+            "courseTitle": "Language and Culture in Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2023"
+        }, 
+        "EDUC-1278": {
+            "PR": "Primary/Elementary program candidates must have completed the focus area in music", 
+            "courseDescription": "examines current pedagogical practices, methodologies, and resources for use in the primary and elementary school music program. Within the context of authorized K-6 curriculum guides, teacher candidates will develop skills and instructional strategies for developing the singing, moving, playing, listening, and creating child.", 
+            "concurrent": [], 
+            "courseTitle": "Primary/Elementary School Music Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ED 2510, the former ED 2530", 
+            "courseNumber": "2515"
+        }, 
+        "EDUC-1239": {
+            "courseDescription": "provides teacher candidates with an opportunity to frame, conceptualize and articulate educational issues; (re)consider the purposes of education; reflect on teaching and learning; and develop and display artifacts that document learning, professional knowledge and practice, and teacher identity. Teacher candidates are expected to participate in a series of critical reflective seminars and workshops, and to create an electronic portfolio (e-portfolio). Topics include: critical reflection, professionalism and ethics in teaching, and teacher identity.", 
+            "concurrent": [], 
+            "courseTitle": "The Teacher Development Seminar", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "5000", 
+            "OR": "seminars, workshops and other professional development sessions"
+        }, 
+        "EDUC-1238": {
+            "courseDescription": "will be topics announced by the Faculty of Education.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Institutes in Intermediate and Secondary Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4640-4659"
+        }, 
+        "EDUC-1233": {
+            "courseDescription": "is a 10 (consecutive) school day teaching and learning experience, framed by explicit guidelines, that focuses on key learning experiences and graduated responsibilities related to professional teaching. It includes both observation periods and initial teaching experiences.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Internship in the Intermediate and Secondary School", 
+            "prerequisites": [], 
+            "AR": "Attendance is required. With respect to holidays, interns follow the schedule of the school and not that of the University.", 
+            "corequisites": [], 
+            "courseNumber": "406T"
+        }, 
+        "EDUC-1235": {
+            "courseDescription": "examines the intersection of multiple and inter-related forms of social and cultural diversity such as those related to social class, ethnicity, gender, ability, place, and sexual identity. The course explores ways to create more effective equitable learning environments through renewed, culturally responsive and respectful policy; critical, reflective and anti-discriminatory teaching; and more inclusive, socially critical curriculum.", 
+            "concurrent": [], 
+            "courseTitle": "Diversity, Social Justice, Teaching and Learning", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4390"
+        }, 
+        "EDUC-1234": {
+            "PR": "Education 406T. Interns wishing to complete an internship in French immersion must complete Education 4154 and obtain the permission of the Office of Undergraduate Student Services. Normally, French immersion interns have the equivalent of a major in French and a minimum of two semesters in a French milieu.", 
+            "courseDescription": "is a 60 day teaching and learning experience, framed by explicit guidelines, that focuses on key learning experiences and graduated responsibilities related to professional teaching. It includes both observation periods and extensive teaching experiences.", 
+            "CH": "12", 
+            "concurrent": [], 
+            "courseTitle": "Extended Internship in the Intermediate and Secondary School", 
+            "prerequisites": [
+                "EDUC-0604"
+            ], 
+            "AR": "Attendance is required. With respect to holidays, interns follow the schedule of the school and not that of the University.", 
+            "corequisites": [], 
+            "CR": "the former ED 405X", 
+            "courseNumber": "407T", 
+            "OR": "Interns completing the Bachelor of Education (Intermediate/Secondary) Conjoint with the Diploma in Technology Education will be placed for part of the internship in a Technology Education classroom setting."
+        }, 
+        "EDUC-1237": {
+            "courseDescription": "will be topics announced by the Faculty of Education.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Institutes in Intermediate and Secondary Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4620-4639"
+        }, 
+        "EDUC-1236": {
+            "courseDescription": "explores the theory and practice of school organization and its effect on teaching and learning and provide opportunities for teacher candidates to become reflective learners and teacher leaders. Topics include: parents and families, communities and schools; law and education; resources in education; policy and politics; teacher leadership, school and system administration; and the teaching profession.", 
+            "concurrent": [
+                "EDUC-0651"
+            ], 
+            "courseTitle": "Professional Leading and Learning in the School Organization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ED 4425", 
+            "courseNumber": "4427"
+        }
+    }
+}

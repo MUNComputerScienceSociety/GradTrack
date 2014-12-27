@@ -1,0 +1,431 @@
+{
+    "SCWK": {
+        "SCWK-0309": {
+            "courseDescription": "- inactive course", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal People and Social Policy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3511"
+        }, 
+        "SCWK-0303": {
+            "courseDescription": "- inactive course", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Camp", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3230"
+        }, 
+        "SCWK-0422": {
+            "PR": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "courseDescription": "may be offered by the School. Students should consult the School for selected topics being offered in a given semester.", 
+            "CO": "SCWK 4302", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Social Work", 
+            "prerequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "corequisites": [
+                "SCWK-0412"
+            ], 
+            "courseNumber": "4820-4829"
+        }, 
+        "SCWK-0419": {
+            "PR": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "courseDescription": "is aimed at developing knowledge skills, and beginning competence, necessary for assessment and intervention with populations experiencing problems and risks associated with the use and abuse of chemicals and non-chemical addictions throughout the lifespan. Themes addressed include: the oppression of addictions; social determinants of addictions, the social worker&rsquo;s role in the continuum of care; strengths; the special needs of women, aboriginal, and GLBT populations.", 
+            "CO": "SCWK 4302", 
+            "concurrent": [], 
+            "courseTitle": "Field of Practice: Social Work in Addictions", 
+            "prerequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "corequisites": [
+                "SCWK-0412"
+            ], 
+            "CR": "the former SCWK 4616", 
+            "courseNumber": "4323"
+        }, 
+        "SCWK-0418": {
+            "PR": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "courseDescription": "reviews aging from a biopsychosocial perspective with an emphasis on the strengths of seniors and the impact of oppression on the lives of the elderly. The course will explore legislation, policies, societal trends and elder abuse, and consider the social work role in developing strategies for healthy aging and service provision for seniors.", 
+            "CO": "SCWK 4302", 
+            "concurrent": [], 
+            "courseTitle": "Field of Practice: Social Work in Gerontology", 
+            "prerequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "corequisites": [
+                "SCWK-0412"
+            ], 
+            "CR": "the former SCWK 4615 and 5615", 
+            "courseNumber": "4322"
+        }, 
+        "SCWK-0417": {
+            "PR": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "courseDescription": "is aimed at developing knowledge and social work skills necessary for intake, crisis intervention, assessment, family support, removal, community placement, family reunification, and amelioration, within the context of social justice and the best interest of those most vulnerable for maltreatment and oppression. It addresses child-youth neglect, physical abuse, sexual abuse, emotional abuse, exploitation, problems, risks, needs and harm and includes trauma and developmental impacts.", 
+            "CO": "SCWK 4302", 
+            "concurrent": [], 
+            "courseTitle": "Field of Practice: Social Work in Child Abuse and Protection", 
+            "prerequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "corequisites": [
+                "SCWK-0412"
+            ], 
+            "CR": "the former SCWK 5328", 
+            "courseNumber": "4321"
+        }, 
+        "SCWK-0416": {
+            "PR": "SCWK 3221 , 3521 and 3720", 
+            "courseDescription": "examines legislation that protects the rights of children, best practice in child welfare and care and protection of children within a community context. Social work intervention with complex issues such as: family violence, poverty, cultural influences, addictions and mental health impacts are explored through feminist, aboriginal, empowerment and anti-oppressive perspectives. Continuity of care, permanency planning and the impact of separation are addressed through critical analyse of child welfare programs, and care giving models.", 
+            "CO": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "concurrent": [], 
+            "courseTitle": "Field of Practice: Child Welfare Prevention, Crisis Intervention and Protection", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "CR": "the former SCWK 4614", 
+            "courseNumber": "4317"
+        }, 
+        "SCWK-0415": {
+            "PR": "SCWK 3221 , 3521 and 3720 or admission to the second degree program option", 
+            "courseDescription": "prepares students to offer direct services to families through increasing their knowledge of family functioning and their competence in family assessment and intervention. Critical analysis of models of family intervention and exploration of ethical issues form the basis for application of selected approaches to family work including: structural therapy, solution focussed approach and crisis intervention.", 
+            "CO": "SCWK 4312 , 4313 and 4410 ; or SCWK 2321 , 3720 , 4312 and 4313", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Practice with Families", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0420", 
+                "SCWK-0402", 
+                "SCWK-0411", 
+                "SCWK-0413", 
+                "SCWK-0414"
+            ], 
+            "CR": "the former SCWK 5325", 
+            "courseNumber": "4314"
+        }, 
+        "SCWK-0414": {
+            "PR": "SCWK 3221 , 3521 and 3720 or admission to the second degree program option", 
+            "courseDescription": "introduces students to social work methods and skills in group practice and team work. The design and implementation of diverse group types, evaluative models and the parallels between group and team functions are explored. The characteristics and challenges of interdisciplinary team work are considered as well as effective strategies and unique roles that social workers can contribute for effective team collaboration.", 
+            "CO": "SCWK 4312 , 4314 and 4410 ; or SCWK 2321 , 3720 , 4312 and 4314", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Group and Team Work", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0413", 
+                "SCWK-0415", 
+                "SCWK-0420", 
+                "SCWK-0402", 
+                "SCWK-0411", 
+                "SCWK-0413", 
+                "SCWK-0415"
+            ], 
+            "CR": "the former SCWK 4320", 
+            "courseNumber": "4313"
+        }, 
+        "SCWK-0413": {
+            "PR": "SCWK 3221 , 3521 and 3720 or admission to the second degree program option", 
+            "courseDescription": "emphasizes theory and practice of community organizing and community development within the context of social justice. Frameworks for community practice are critically analysed through examination of ethical dilemmas, accountability issues, practice skills, leadership and other roles. Urban, rural and cultural differences are considered in relation to their influence on effective community organizing and development work.", 
+            "CO": "SCWK 4313 , 4314 and 4410 ; or SCWK 2321 , 3720 , 4313 and 4314", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Community Development", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420", 
+                "SCWK-0402", 
+                "SCWK-0411", 
+                "SCWK-0414", 
+                "SCWK-0415"
+            ], 
+            "CR": "the former SCWK 5322", 
+            "courseNumber": "4312"
+        }, 
+        "SCWK-0412": {
+            "PR": "SCWK 4312 , 4313 , 4314 , 4410 and either 4317 or 4620 and successful completion of all designated Year 3 courses or admission to the second degree program option and successful completion of 3300 and 3311", 
+            "courseDescription": "is a 350 hour supervised field experience that provides students with opportunities to apply social work principles, knowledge and skills that demonstrates the capacity for independent practice at micro and macro levels. Emphasis is on developing strong analytical abilities, applying enhanced practice skills, mastering a variety of social work roles, implementing strategies that impact social justice and making professional judgments in increasingly complex situations.", 
+            "CH": "12", 
+            "CO": "either SCWK 4321 , 4322 or 4323 or one of SCWK 4820 - 4829 ; or SCWK 3521", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Internship 2", 
+            "prerequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420", 
+                "SCWK-0416", 
+                "SCWK-0421", 
+                "SCWK-0408", 
+                "SCWK-0409"
+            ], 
+            "corequisites": [
+                "SCWK-0417", 
+                "SCWK-0418", 
+                "SCWK-0419", 
+                "SCWK-0422", 
+                "SCWK-0422", 
+                "SCWK-0410"
+            ], 
+            "CR": "the former SCWK 5300, 5301, and 5315-5319", 
+            "courseNumber": "4302"
+        }, 
+        "SCWK-0411": {
+            "PR": "SCWK 3300 and 3311 or admission to the second degree program option", 
+            "courseDescription": "examines ethical theories, decision - making models and key legislation in a variety of areas including child welfare, youth justice, privacy, health, human rights to resolve dilemmas in practice. Components of legislation and the Social Work Code of Ethics are analysed to determine approaches to practice dilemmas. Consideration and critical analysis of frameworks for decision making will lead to a personal model for practice choices.", 
+            "CO": "SCWK 3221 and 3521 ; or SCWK 2321 , 4312 , 4313 , and 4314", 
+            "concurrent": [], 
+            "courseTitle": "Ethical and Legal Issues in Social Work Practice", 
+            "prerequisites": [
+                "SCWK-0408", 
+                "SCWK-0409"
+            ], 
+            "corequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0402", 
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415"
+            ], 
+            "CR": "the former SCWK 5720", 
+            "courseNumber": "3720"
+        }, 
+        "SCWK-0410": {
+            "PR": "SCWK 3300 and 3311", 
+            "courseDescription": "examines policy development and change in human services organizations and their administration. Management and organizational concepts suitable for the administration of social policies and programs are addressed as are ethical and ideological issues for social workers on human service teams. A focus on beginning skills in administration is included for the social worker within a management and leadership context in human services organizations.", 
+            "CO": "SCWK 3221 and 3720 ; or SCWK 4302", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Organizational Development for Community Services", 
+            "prerequisites": [
+                "SCWK-0408", 
+                "SCWK-0409"
+            ], 
+            "corequisites": [
+                "SCWK-0407", 
+                "SCWK-0411", 
+                "SCWK-0412"
+            ], 
+            "CR": "the former SCWK 3110, the former 3510 and 4111", 
+            "courseNumber": "3521"
+        }, 
+        "SCWK-0398": {
+            "courseDescription": "provides an overview of the historical development, philosophical orientation, basic values, principles and knowledge base, and fields of practice of the profession. The course will examine critical social problems that impact societies with an emphasis on the quest for social justice at local, national and global levels.", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Philosophy and Practice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former SCWK 2700", 
+            "courseNumber": "1710"
+        }, 
+        "SCWK-0310": {
+            "courseDescription": "- inactive course", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Social Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3530"
+        }, 
+        "SCWK-0400": {
+            "PR": "SCWK 1710 or the former SCWK 2700", 
+            "courseDescription": "provides an overview of critical and practice theories that explain problems and guide the change process. The course will involve students in a critical analysis of a broad range of theories including: Critical theories such as structural, feminist, Marxist, anti-racist, aboriginal, queer, &amp; anti-oppressive practice; modern theories such as interactional, systems, ecological cognitive &amp; crisis theory/intervention; postmodern theories such as solution focussed and narrative; and Macro practice, social action, and community organization.", 
+            "CO": "SCWK 2320 and 2711", 
+            "concurrent": [], 
+            "courseTitle": "Diverse Theories for Social Work Practice", 
+            "prerequisites": [
+                "SCWK-0398"
+            ], 
+            "corequisites": [
+                "SCWK-0401", 
+                "SCWK-0404"
+            ], 
+            "courseNumber": "2211"
+        }, 
+        "SCWK-0401": {
+            "PR": "SCWK 1710 or the former SCWK 2700", 
+            "courseDescription": "introduces beginning skills for social work practice. The relevance of relationship based approach, a strengths perspective and an anti-oppressive stance will be considered as students acquire biopsychosocial assessment and interviewing skills. Attention is given to self-awareness, professional identity and a wide range of beginning counselling skills with diverse populations and situations such as: Aboriginal people, involuntary clients, suicide risk, domestic violence, clients in crisis and children at risk.", 
+            "CO": "SCWK 2211 and 2711", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Assessment and Intervention", 
+            "prerequisites": [
+                "SCWK-0398"
+            ], 
+            "corequisites": [
+                "SCWK-0400", 
+                "SCWK-0404"
+            ], 
+            "CR": "the former SCWK 3320, the former 3321 and the former 4310", 
+            "courseNumber": "2320"
+        }, 
+        "SCWK-0402": {
+            "PR": "SCWK 2211 , 2320 and 2711", 
+            "courseDescription": "addresses knowledge, skills and competencies that enable the social worker to facilitate positive change within the middle and end stages of intervention. Emphasis will be given to a range of current best known practices within the context of clinical and community applications, promotion of social justice, strengths and critical thinking. General practice approaches that may be applied with individuals, families and communities will be emphasized.", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Personal and Social Change", 
+            "prerequisites": [
+                "SCWK-0400", 
+                "SCWK-0401", 
+                "SCWK-0404"
+            ], 
+            "corequisites": [], 
+            "CR": "the former SCWK 3421", 
+            "courseNumber": "2321"
+        }, 
+        "SCWK-0403": {
+            "PR": "SCWK 2211 , 2320 and 2711 or admission to the second degree program option", 
+            "courseDescription": "engages students in critical analysis of local and national social and health policy development from a social work perspective. The course explores topics that are relevant to direct service provision such as: the influence of historical context on policy, policy development, interactions among federal, provincial and local governments that influence policy and leadership and advocates roles of social workers in program development in a diverse and changing environment.", 
+            "concurrent": [], 
+            "courseTitle": "Social Work: Critical Analysis of Social and Health Policy", 
+            "prerequisites": [
+                "SCWK-0400", 
+                "SCWK-0401", 
+                "SCWK-0404"
+            ], 
+            "corequisites": [], 
+            "CR": "the former SCWK 2510 and 2710", 
+            "courseNumber": "2520"
+        }, 
+        "SCWK-0404": {
+            "PR": "SCWK 1710 or the former SCWK 2700", 
+            "courseDescription": "explores human rights from global perspective and examines social responsibility, the nature of oppression and marginalization and strategies to promote social justice and prevent injustice. Reflective practice principles and experiential activities will form the basis for examining use of self and the relevance of social location, and the application of: critical theoretical perspectives, critical empathy and ethical evaluation for anti-oppressive practice at the individual and structural/organizational level.", 
+            "CO": "SCWK 2211 and 2320", 
+            "concurrent": [], 
+            "courseTitle": "Social Justice and Social Work Practice", 
+            "prerequisites": [
+                "SCWK-0398"
+            ], 
+            "corequisites": [
+                "SCWK-0400", 
+                "SCWK-0401"
+            ], 
+            "courseNumber": "2711"
+        }, 
+        "SCWK-0407": {
+            "PR": "SCWK 3300 and 3311", 
+            "courseDescription": "addresses how theories, concepts and information related to human development must be considered in the context of social issues and impacts in order to inform social work practice with vulnerable populations. The impact of issues such as violence, addictions, poverty, trauma and oppression are examined as are strengths and resilience of human beings. Strategies to address social impacts on human development are explored.", 
+            "CO": "SCWK 3521 and 3720", 
+            "concurrent": [], 
+            "courseTitle": "Social Impacts on Human Development", 
+            "prerequisites": [
+                "SCWK-0408", 
+                "SCWK-0409"
+            ], 
+            "corequisites": [
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "CR": "the former SCWK 3211 and the former 3220", 
+            "courseNumber": "3221"
+        }, 
+        "SCWK-0408": {
+            "PR": "successful completion of all designated Year 2 courses for the first degree program option; or admission to the second degree program option and successful completion of SCWK 2321 , 3720 , 4312 , 4313 , and 4314", 
+            "courseDescription": "is a 350 hour supervised field experience that provides students with opportunities to apply social work principles, theories and skills to work with clients and communities. The field experience is designed to develop: professional use of self, beginning ability to implement planned interventions with diverse populations and an appreciation for social justice activities.", 
+            "CH": "12", 
+            "CO": "SCWK 3311", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Internship 1", 
+            "prerequisites": [
+                "SCWK-0402", 
+                "SCWK-0411", 
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415"
+            ], 
+            "corequisites": [
+                "SCWK-0409"
+            ], 
+            "CR": "the former SCWK 4315, 4316, 4300, 4325 and 4326", 
+            "courseNumber": "3300"
+        }, 
+        "SCWK-0409": {
+            "PR": "successful completion of all designated Year 2 courses for the first degree program option; or admission to the second degree program option", 
+            "courseDescription": "focuses on application of selected models and methods of practice. The course explores links between theory and practice through critical consideration of: the influence of agency and community, the value of theory and knowledge, the role of self awareness, social location and practice skills. Topics to be explored include: documentation, support/resource counselling, advocacy, self care, vicarious trauma, professional identity, community work, interdisciplinary practice, group work, ethics and consultation.", 
+            "CO": "SCWK 3300", 
+            "concurrent": [], 
+            "courseTitle": "Social Work Knowledge and Skills for Integration of Theory and Practice", 
+            "prerequisites": [], 
+            "corequisites": [
+                "SCWK-0408"
+            ], 
+            "CR": "the former SCWK 4310 and 4311", 
+            "courseNumber": "3311"
+        }, 
+        "SCWK-0420": {
+            "PR": "SCWK 3221 , 3521 and 3720 or admission to the second degree program option", 
+            "courseDescription": "teaches theories, concepts and methods of systematic inquiry and its relationship to professional social work judgment and action. The contribution of applied research to social justice, community based inquiry and accountability and evidence based practice is emphasized. Topics to be explored include: quantitative, qualitative, action and evaluative approaches to systematic inquiry for social work practice; ethical considerations in social work research.", 
+            "CO": "SCWK 4312 , 4313 and 4314 ; or SCWK 2211 , 2320 , 2520 , and 2711", 
+            "concurrent": [], 
+            "courseTitle": "Applied Research and Evaluation for Social Work Practice", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0400", 
+                "SCWK-0401", 
+                "SCWK-0403", 
+                "SCWK-0404"
+            ], 
+            "CR": "the former SCWK 4420 and 4421", 
+            "courseNumber": "4410"
+        }, 
+        "SCWK-0421": {
+            "PR": "SCWK 3221 , 3521 and 3720", 
+            "courseDescription": "provides an overview of mental health and illness, the impact on people and communities and social work interventions within an interdisciplinary community context. The oppression of illness, disability and mental health problems across the lifespan is considered as well as the role of social work in the continuum of care. Topics include: mental health, health, mental illness, disability, social determinants of health, social movements and advocacy.", 
+            "CO": "SCWK 4312 , 4313 , 4314 and 4410", 
+            "concurrent": [], 
+            "courseTitle": "Field of Practice: Social Work in Interdisciplinary Mental Health and Health Services", 
+            "prerequisites": [
+                "SCWK-0407", 
+                "SCWK-0410", 
+                "SCWK-0411"
+            ], 
+            "corequisites": [
+                "SCWK-0413", 
+                "SCWK-0414", 
+                "SCWK-0415", 
+                "SCWK-0420"
+            ], 
+            "CR": "the former SCWK 4610, 5610 and 5613", 
+            "courseNumber": "4620"
+        }
+    }
+}

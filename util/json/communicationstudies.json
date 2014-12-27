@@ -1,0 +1,59 @@
+{
+    "CMST": {
+        "ARTS-7463": {
+            "courseDescription": "will have topics to be studied announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Communication Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4010-4020"
+        }, 
+        "ARTS-7462": {
+            "courseDescription": "will have topics to be studied announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Communication Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3010-3020"
+        }, 
+        "ARTS-7442": {
+            "courseDescription": "examines the ways visual culture shapes and is shaped by communication forms and processes.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Mass Communication and Visual Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4001"
+        }, 
+        "ARTS-5735": {
+            "PR": "CMST 2000", 
+            "courseDescription": "provides an introduction to theoretical approaches to organization, use and manipulation of language, including semiotics, performativity, mass and group communications, sociolinguistics and interpersonal communication. We will examine notions of influence, rhetoric, social judgment, deception, subject formation, globalization and cultural hybridity within the field of communications.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Communication Theory", 
+            "prerequisites": [
+                "ARTS-5734"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2001"
+        }, 
+        "ARTS-5734": {
+            "courseDescription": "considers critical issues and approaches in the study of popular culture. It will explore the ways in which everyone is both a user of and is used by popular culture. A variety of critical approaches to studying popular culture will be examined: Production, Texts, Audience, and History.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Approaches to Popular Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-5736": {
+            "PR": "CMST 2000 and 2001 and 9 additional credit hours chosen from Program and Regulations, Elective Courses, List A or B", 
+            "courseDescription": "engages communication theories, such as interpersonal, organizational, intercultural, or international communication, seeking to understand how and why mediated communication works have found their explanatory power to be useful. The course will aim to analyze various communication theories, apply communication theories to everyday life, write a theoretical literature review, and form sound hypotheses or focused research questions to advance theory.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Communications Theory", 
+            "prerequisites": [
+                "ARTS-5734", 
+                "ARTS-5735"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }
+    }
+}

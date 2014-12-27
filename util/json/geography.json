@@ -1,0 +1,726 @@
+{
+    "GEOG": {
+        "ARTS-6192": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Quantitative Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4220"
+        }, 
+        "ARTS-6193": {
+            "PR": "GEOG 3250. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is remote sensing techniques applied to various environmental problems. Techniques include selection of the system for data acquisition (airborne or satellite imagery), planning of a ground truth survey, and of data processing. Applications to high and low density urban areas, agricultural, forestry, coastal zone, oceanic, and environmental monitoring.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Image Analysis", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4250"
+        }, 
+        "ARTS-6190": {
+            "PR": "GEOG 3150 or permission of instructor. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is an advanced course in geomorphology of coastal regions in all climate zones. Covers reflective and dissipative beaches, barrier systems, coastal sand dunes, deltas, tidal flats, estuaries, reefs, bedrock and karst shorelines, ice-dominated shorelines, and influence of climate change and sea level change on coastal environments.", 
+            "concurrent": [], 
+            "courseTitle": "Coastal Geomorphology", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6163", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 4180", 
+            "courseNumber": "4190"
+        }, 
+        "ARTS-6191": {
+            "PR": "GEOG 3202 or permission of instructor. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "will provide students with advanced knowledge in computer-based cartography required to produce final geographic datasets and maps.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Cartography", 
+            "LH": "3. Laboratory exercises will utilize Geographic Information Systems software.", 
+            "prerequisites": [
+                "ARTS-6164", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4202"
+        }, 
+        "ARTS-6178": {
+            "PR": "GEOG 2001", 
+            "courseDescription": "is an investigation of a principal subject of study in cultural geography; the human imprint on the land. The course will include a detailed consideration of the origin of landscape studies in geography; newer approaches emphasizing visual and representational aspects of landscapes; and several diverse case studies, historical and contemporary, concerned with struggles over their definition.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Landscape", 
+            "prerequisites": [
+                "ARTS-6149"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3610"
+        }, 
+        "ARTS-6179": {
+            "PR": "GEOG 2001", 
+            "courseDescription": "is a study of population movements associated with colonization and frontier development.", 
+            "concurrent": [], 
+            "courseTitle": "Migration and Colonization", 
+            "prerequisites": [
+                "ARTS-6149"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3620"
+        }, 
+        "ARTS-6194": {
+            "PR": "GEOG 3260 ; Mathematics 2050 ; Computer Science 1710 ; (or equivalent, with permission of instructor and the Head of Department). It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "explores the nature and use of advanced GIS algorithms, discrete and continuous data structures, computational methods and analysis of error for the purpose of analysing and modelling spatial patterns and processes. Laboratory exercises permit students to use GIS software to explore as well as develop problem solving and modelling skills for a wide variety of real world applications.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Methods in Geographic Information Systems (GIS)", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6170", 
+                "SCI-1356", 
+                "SCI-1029", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4261"
+        }, 
+        "ARTS-6195": {
+            "PR": "GEOG 4202 , 4250 , 4261 , and be enrolled in the Diploma in Geographic Information Sciences . It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is practical experience with the geographic information sciences fields of cartography, remote sensing or geographical information systems. Students will serve as interns in governmental, institutional or private agencies, or in non-profit organizations.", 
+            "CO": "GEOG 4202 , 4250 , 4261 , and be enrolled in the Diploma in Geographic Information Sciences", 
+            "concurrent": [], 
+            "courseTitle": "Geographic Information Sciences Practicum", 
+            "LH": "six hours per week or a total of 72 hours of research or laboratory work", 
+            "prerequisites": [
+                "ARTS-6191", 
+                "ARTS-6193", 
+                "ARTS-6194", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [
+                "ARTS-6191", 
+                "ARTS-6193", 
+                "ARTS-6194"
+            ], 
+            "courseNumber": "4290", 
+            "OR": "six hours per week or a total of 72 hours of research or laboratory work"
+        }, 
+        "ARTS-6174": {
+            "PR": "GEOG 2302 or permission of the instructor", 
+            "courseDescription": "introduces students to regional planning and development theories, techniques and approaches. Understanding of networks of development actors at community and regional scales, methods of delineating regions, links between theory and practice in planning and development. Focus on Canadian experiences and a sustainable development perspective.", 
+            "concurrent": [], 
+            "courseTitle": "Community and Regional Planning and Development", 
+            "prerequisites": [
+                "ARTS-6155"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3350"
+        }, 
+        "ARTS-6175": {
+            "PR": "GEOG 2001 , 2102 and 2302 ; or 6 credit hours in courses for the Major in Canadian Studies; or permission of the instructor and the Head of the Department", 
+            "courseDescription": "is a study of the regional geography of Canada, with emphasis on social, economic and political characteristics. This course is complementary to GEOG", 
+            "concurrent": [], 
+            "courseTitle": "Canada", 
+            "prerequisites": [
+                "ARTS-6149", 
+                "ARTS-6150", 
+                "ARTS-6155"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 2400", 
+            "courseNumber": "3405"
+        }, 
+        "ARTS-6176": {
+            "PR": "GEOG 2425 or equivalent", 
+            "courseDescription": "is the geographic study of contemporary North American issues in resources and their management. Emphasis will be placed on air and water quality issues, lands and forest resources, energy resources, and coastal zone resources. A number of substantive areas in resource analysis will be considered, including resource appraisal, landscape evaluation, and environmental impact assessment.", 
+            "concurrent": [], 
+            "courseTitle": "Geographical Analysis of Resources", 
+            "prerequisites": [
+                "ARTS-6156"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 4400", 
+            "courseNumber": "3425"
+        }, 
+        "ARTS-6177": {
+            "PR": "GEOG 2102 , 2425 , or permission of instructor", 
+            "courseDescription": "is an introductory course in marine science and management treating the world&rsquo;s oceans as a geographic unit. The course covers basic physical, geological and biological marine science and applications of basic science to management issues facing the oceans today.", 
+            "concurrent": [], 
+            "courseTitle": "Geography of the Seas", 
+            "prerequisites": [
+                "ARTS-6150", 
+                "ARTS-6156"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3510"
+        }, 
+        "ARTS-6170": {
+            "PR": "GEOG 2195 , Mathematics 1000", 
+            "courseDescription": "introduces the principles of GIS as they relate to spatial data input, structures, management, integration, analysis and output. Laboratory exercises permit students to use GIS software and explore how it can be applied to a wide variety of disciplines and real world issues.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Geographic Information Systems (GIS)", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6152", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 4251", 
+            "courseNumber": "3260"
+        }, 
+        "ARTS-6171": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Location Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3303"
+        }, 
+        "ARTS-6172": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Fisheries Geography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3320"
+        }, 
+        "ARTS-6173": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Techniques of Regional Analysis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3340"
+        }, 
+        "ARTS-6156": {
+            "PR": "GEOG 1050 , or the former GEOG 1001, or the former GEOG 1011", 
+            "courseDescription": "is an introduction to the concepts of natural resources, environment and conservation: the nature and distribution of natural resources; methods of use, allocation and development of natural resources and the role of various physical, social, economic, political and technological factors influencing decision-making about resources.", 
+            "concurrent": [], 
+            "courseTitle": "Natural Resources", 
+            "prerequisites": [
+                "ARTS-6148"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 3325", 
+            "courseNumber": "2425"
+        }, 
+        "ARTS-6157": {
+            "courseDescription": "is a holistic study of the Geography of Labrador, including the terrain, geology, Quaternary history, climate, vegetation, and fauna; the cultural geography of Labrador, including Innu, Inuit, M&eacute;tis, and Settler people and communities; economic activities in Labrador, and the interaction of the Labrador economy within Newfoundland, Canada, and globally; the management of physical and human resources; and the geographic techniques used to investigate and understand Labrador's unique Geography.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Geography of Labrador", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former GEOG 3495", 
+            "courseNumber": "2495"
+        }, 
+        "ARTS-6154": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Geography of Newfoundland", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2290"
+        }, 
+        "ARTS-6155": {
+            "PR": "GEOG 1050 , or the former GEOG 1001, or the former GEOG 1011", 
+            "courseDescription": "covers basic issues and ideas in economic geography. The development of a regional economy will be related to underlying economic, cultural and physical factors.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in Economic Geography", 
+            "prerequisites": [
+                "ARTS-6148"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2302"
+        }, 
+        "ARTS-6152": {
+            "courseDescription": "is an introduction to the fields of cartography, remote sensing, and geographic information systems (GIS). Geographic information collection, representation and analysis methods are the topics for the course. An emphasis is given to applications of maps and satellite images.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Geographic Information Sciences", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2195"
+        }, 
+        "ARTS-6153": {
+            "PR": "GEOG 1050 or permission of the instructor", 
+            "courseDescription": "is designed to introduce students to the practice of geography in the field. Field techniques will focus on the observation, identification, and collection of primary data. This course provides a basis for further study in advanced geography courses.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Field Methods I", 
+            "prerequisites": [
+                "ARTS-6148"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2226"
+        }, 
+        "ARTS-6150": {
+            "PR": "GEOG 1050 , or the former GEOG 1001, or the former GEOG 1011", 
+            "courseDescription": "is a study of form, process, and change in natural systems at and near the surface of Earth, viewed as human environment. Emphasis is on global and regional scales in the systematic study of climate, water, landforms and vegetation.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Geography: The Global Perspective", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6148"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 2100, the former GEOG 2101", 
+            "courseNumber": "2102"
+        }, 
+        "ARTS-6151": {
+            "courseDescription": "examines the characteristics and development of the natural environments and landscapes of each of the major regions of Canada. The diversity of natural environments is illustrated through discussion of the climatic, hydrological, biogeographical, and geomorphic processes responsible for shaping the land. The impact of both gradual and rapid (catastrophic) changes on local, national, and global scales will be emphasized. This course is complementary to GEOG", 
+            "concurrent": [], 
+            "courseTitle": "Canada's Natural Environments and Landscapes", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former GEOG 3100", 
+            "courseNumber": "2105"
+        }, 
+        "ARTS-6196": {
+            "PR": "6 credit hours in Geography at the 3000-level or permission of Head of Department. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is a seminar course on the key concepts, principles and challenges in fisheries resources worldwide. Topics of discussion include the state of world fisheries, analysis of various management approaches and tools, and future scenarios for world fisheries.", 
+            "concurrent": [], 
+            "courseTitle": "World Fisheries: Current Discourse and Future Directions", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "ARTS-6197": {
+            "PR": "GEOG 2302 or permission of Head of Department. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is focussed on understanding the region and regional development in theoretical terms and in a policy context. The central question of the course is: how do we understand the region and regional development in a globalizing world? What are the policy options for people interested in making regional development work in a global economy? The case studies will cover both the developing and the developed world.", 
+            "concurrent": [], 
+            "courseTitle": "Regional Development Seminar", 
+            "prerequisites": [
+                "ARTS-6155", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4320"
+        }, 
+        "ARTS-6201": {
+            "PR": "GEOG 2001 and at least one of GEOG 2290 , 3610 , 3620 , 3800 ; or 12 credit hours in core courses for the Major in Canadian Studies. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "(formerly GEOG 3240) explains the geographical dimensions of Canada, past and present, in terms of spatial origins and processes of geographical change in the population, economy and landscape of the country. Themes will include: changing perceptions of the environment; the historical demography of immigration and initial settlement; the reconstruction of past regional geographies; the sequent occupance of particular regions; the human alteration of the natural landscape.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Geography of Canada", 
+            "prerequisites": [
+                "ARTS-6149", 
+                "ARTS-6154", 
+                "ARTS-6178", 
+                "ARTS-6179", 
+                "ARTS-6182", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 3240", 
+            "courseNumber": "4640"
+        }, 
+        "ARTS-6204": {
+            "PR": "permission of the instructor and the Head of the Department of Geography. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "will have topics to be offered announced by the Department of Geography.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Geography", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4900-4918"
+        }, 
+        "ARTS-6205": {
+            "PR": "GEOG 4202 , 4250 , 4261 , and be enrolled in the Diploma in Geographic Information Sciences . It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is an applied or research project integrating aspects of cartography, geographical information systems and remote sensing. Students will have access to the GISciences Research Laboratory to complete their project. This is the capstone course for the students registered in the", 
+            "CO": "GEOG 4202 , 4250 , 4261 , and be enrolled in the Diploma in Geographic Information Sciences", 
+            "concurrent": [], 
+            "courseTitle": "Integrative Practicum in Geographic Information Sciences", 
+            "LH": "six hours per week or a total of 72 hours of individual research or laboratory work", 
+            "prerequisites": [
+                "ARTS-6191", 
+                "ARTS-6193", 
+                "ARTS-6194", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [
+                "ARTS-6191", 
+                "ARTS-6193", 
+                "ARTS-6194"
+            ], 
+            "courseNumber": "4919", 
+            "OR": "six hours per week or a total of 72 hours of individual research or laboratory work"
+        }, 
+        "ARTS-6189": {
+            "PR": "6 credit hours in physical geography courses at the 3000- level; or permission of Head of Department. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5625", 
+                "SCI-3683"
+            ], 
+            "courseTitle": "Environmental Change and Quaternary Geography", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 4150 , Earth Sciences 4703", 
+            "courseNumber": "4150"
+        }, 
+        "ARTS-6200": {
+            "PR": "GEOG 2001 and at least one of GEOG 2290 , 3610 , 3620 , 3800 . It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is a study of concepts and methods in historical geography. The field concerned with geographies of the past and their relation to the present. Themes will include the history of geography as a discipline, particularly its relevance to imperialism and state power; changing relationships between humans and the natural environment; and histories of the spaces of social life and human identity.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Geography", 
+            "prerequisites": [
+                "ARTS-6149", 
+                "ARTS-6154", 
+                "ARTS-6178", 
+                "ARTS-6179", 
+                "ARTS-6182", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4600"
+        }, 
+        "ARTS-6188": {
+            "PR": "6 credit hours in physical geography courses at the 3000- level; or permission of Head of Department. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is an examination of the landforms, processes and sediments of past and present glacial environments. Course work will stress broad applications to environmental science.", 
+            "concurrent": [], 
+            "courseTitle": "Glacial Environments", 
+            "LH": "3 hours of laboratory/field work per week", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Earth Sciences 4701", 
+            "courseNumber": "4141"
+        }, 
+        "ARTS-6198": {
+            "PR": "GEOG 2425 or the former GEOG 3325. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is an introduction to the major themes and techniques in the study of outdoor recreation. A theoretical framework will provide a base for the evaluation of the complex issues involved in managing a physical resource for recreational purposes. North American examples will be emphasized.", 
+            "concurrent": [
+                "ARTS-6204"
+            ], 
+            "courseTitle": "Outdoor Recreational Resources and Planning", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6156", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "GEOG 4909", 
+            "courseNumber": "4405"
+        }, 
+        "ARTS-6181": {
+            "PR": "available only as part of the Harlow Campus Semester", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Geography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729"
+        }, 
+        "ARTS-6180": {
+            "PR": "GEOG 2302", 
+            "courseDescription": "is an examination of the evolution, structure and dynamics of cities and urban systems.", 
+            "concurrent": [], 
+            "courseTitle": "Urban Geography", 
+            "prerequisites": [
+                "ARTS-6155"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3701"
+        }, 
+        "ARTS-6169": {
+            "PR": "GEOG 2195 , Mathematics 1000", 
+            "courseDescription": "is an introduction to digital image analysis. Will include many aspects of pre-processing and processing of airborne and satellite imagery.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Remote Sensing", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6152", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3250"
+        }, 
+        "ARTS-6168": {
+            "courseDescription": "will normally be taken by Geography Majors just prior to the Fall Semester of their third year. The course will be held off campus and is designed to provide experience in instrument and field techniques in physical, economic and cultural Geography.", 
+            "concurrent": [], 
+            "courseTitle": "Field Course", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3230"
+        }, 
+        "ARTS-6185": {
+            "PR": "GEOG 2001 and at least one of GEOG 2290 , 3610 , 3620 , 3800 . It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is concepts and methods in the study of cultural geography.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Geography", 
+            "prerequisites": [
+                "ARTS-6149", 
+                "ARTS-6154", 
+                "ARTS-6178", 
+                "ARTS-6179", 
+                "ARTS-6182", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-6184": {
+            "PR": "permission of the instructor and the Head of the Department.", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Geography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3990-3999"
+        }, 
+        "ARTS-6187": {
+            "PR": "GEOG 3120", 
+            "courseDescription": "is analysis of the impact of climatic environments and meteorological conditions upon agriculture, forestry, the hydro industry and the marine sector. Climatological considerations in the planning and design of urban areas and buildings.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Climatology", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6161"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4120"
+        }, 
+        "ARTS-6186": {
+            "PR": "it is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5621", 
+                "ARTS-6060"
+            ], 
+            "courseTitle": "Cultural Resource Management", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 4015 , Folklore 4015", 
+            "courseNumber": "4015", 
+            "OR": "three hours of seminar per week"
+        }, 
+        "ARTS-6163": {
+            "PR": "GEOG 2102 or Earth Sciences 2905 ; Mathematics 1000", 
+            "courseDescription": "(same as Earth Sciences", 
+            "concurrent": [
+                "SCI-3682"
+            ], 
+            "courseTitle": "Geomorphology", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6150", 
+                "SCI-1170", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "Earth Sciences 3700", 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-6162": {
+            "PR": "GEOG 2102 , Mathematics 1000", 
+            "courseDescription": "is the application of ecological concepts to the study of the spatial variations in the distribution of plants and vegetation. Laboratory work emphasizes terrestrial flora of Newfoundland.", 
+            "concurrent": [], 
+            "courseTitle": "Biogeography", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6150", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3140"
+        }, 
+        "ARTS-6161": {
+            "PR": "GEOG 2102 , Mathematics 1000", 
+            "courseDescription": "is an analysis of the energy and moisture budgets and circulation of the atmosphere at the macro-scale, together with an examination of resulting climate characteristics for selected world regions.", 
+            "concurrent": [], 
+            "courseTitle": "Climatology", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6150", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3120"
+        }, 
+        "ARTS-6160": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Geography of the Watershed", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3110"
+        }, 
+        "ARTS-6167": {
+            "PR": "GEOG 2226", 
+            "courseDescription": "is designed to provide students with field experience at a more advanced level, building on GEOG", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Field Methods II", 
+            "prerequisites": [
+                "ARTS-6153"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3226"
+        }, 
+        "ARTS-6166": {
+            "PR": "GEOG 1050 , or the former GEOG 1011, or the former GEOG 1001 and at least 9 credit hours from GEOG 2001 , 2102 , 2195 , 2302 , 2425", 
+            "courseDescription": "is an introduction to principles of research design, and to the use of quantitative techniques. This course provides students with a basic understanding of data collection, entry, and analysis and presentation skills most commonly used by geographers. Practical, computer-based exercises are an essential part of the course. It is strongly recommended that this course be completed before registration in a 4000-level geography course.", 
+            "concurrent": [], 
+            "courseTitle": "Research Design and Quantitative Methods in Geography", 
+            "LH": "3", 
+            "prerequisites": [
+                "ARTS-6148", 
+                "ARTS-6149", 
+                "ARTS-6150", 
+                "ARTS-6152", 
+                "ARTS-6155", 
+                "ARTS-6156"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GEOG 2220", 
+            "courseNumber": "3222"
+        }, 
+        "ARTS-6165": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of Map Making", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "ARTS-6164": {
+            "PR": "6 credit hours at the 2000-level", 
+            "courseDescription": "is an introduction to the field of cartography and its different components, including: projections, generalization, cartographic design, data classification, topographic and thematic mapping.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Cartography", 
+            "LH": "3. Laboratory exercises will utilize Geographic Information Systems software.", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former GEOG 2200", 
+            "courseNumber": "3202"
+        }, 
+        "ARTS-6183": {
+            "PR": "permission of the instructor and the Head of the Department", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Geography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3900-3909"
+        }, 
+        "ARTS-6202": {
+            "PR": "30 credit hours in either Biology or Geography and permission of the course co-ordinator. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-0861"
+            ], 
+            "courseTitle": "Conservation in Biology and Geography", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4650", 
+            "courseNumber": "4650", 
+            "OR": "3 hours of seminar/discussion group per week"
+        }, 
+        "ARTS-6149": {
+            "PR": "GEOG 1050 , or the former GEOG 1001, or the former GEOG 1011", 
+            "courseDescription": "is an introduction to the study of culture in geography, emphasizing both the history of the field from classic studies of landscapes to contemporary scholarship and themes of recent importance. These include the relationship between nature and culture: imperialism and colonialism; place, identity, and power; and global cultures of commodities, media, and tourism.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Geography", 
+            "prerequisites": [
+                "ARTS-6148"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2001"
+        }, 
+        "ARTS-6148": {
+            "courseDescription": "provides perspectives on the major geographical challenges and changes facing the contemporary globe, including: climate and environmental change, sustainability, human development, economic globalization, cultural change, and population and migration. Using the integrative skills of geographical analysis, the course prepares students for advanced study in geography and citizenship in the modern world.", 
+            "concurrent": [], 
+            "courseTitle": "Geographies of Global Change", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may not be obtained for GEOG 1050 and any one of the former GEOG 1000, the former GEOG 1001, the former GEOG 1010, the former GEOG 1011", 
+            "courseNumber": "1050"
+        }, 
+        "ARTS-6207": {
+            "PR": "It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses. Admission to the Honours program.", 
+            "courseDescription": "is required of the Honours degree.", 
+            "concurrent": [], 
+            "courseTitle": "Dissertation Honours Degree", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-6203": {
+            "PR": "GEOG 3701. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "will provide senior students with the opportunity to immerse themselves in the analysis of a small number of problems related to contemporary urban structure and growth.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Advanced Urban Geography", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "ARTS-6206": {
+            "PR": "primarily intended for Honours students. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "is an examination of the major philosophical issues in the nature of geography and recent changes in geographical method. Particular emphasis will be placed on the implications of the quantitative, systems, behavioural and ecological approaches in geography, the use of models, the place of theory and the study of process in geography.", 
+            "concurrent": [], 
+            "courseTitle": "Nature of Geography", 
+            "prerequisites": [
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4990"
+        }, 
+        "ARTS-6182": {
+            "PR": "GEOG 2001", 
+            "courseDescription": "is a geographic study of political ideas and processes. The course will consist of a historical discussion of the origins and trajectory of geopolitics, from the beginning of the 20th century to contemporary uses. Key themes in political geography, including strategy and statecraft, decolonization and nationalism, global technologies, and environmental security will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Political Geography", 
+            "prerequisites": [
+                "ARTS-6149"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-6199": {
+            "PR": "GEOG 2425 or the former GEOG 3325. It is strongly recommended that GEOG 3222 and 3226 be completed before registration in 4000-level courses.", 
+            "courseDescription": "offers the opportunity to undertake advanced work in a number of resource sectors such as energy, fisheries, forests, lands, air and water. The emphasis will be on learning through experience. Students will be expected to initiate and complete suitable research projects in close consultation with faculty involved.", 
+            "concurrent": [], 
+            "courseTitle": "Research Seminar in Resources", 
+            "prerequisites": [
+                "ARTS-6156", 
+                "ARTS-6166", 
+                "ARTS-6167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4410"
+        }
+    }
+}

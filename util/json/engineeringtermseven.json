@@ -1,0 +1,517 @@
+{
+    "ENGI": {
+        "ENGI-1329": {
+            "PR": "ENGI 3901 , ENGI 6933", 
+            "courseDescription": "examines shafting system design; shafting system vibration analysis, study of exciting forces and moments, and balancing of reciprocating and rotating machinery; heat transfer and marine heat exchangers; incompressible fluid flow and piping system design and selection of appropriate pumping devices.", 
+            "CH": "4", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Marine Engineering Systems", 
+            "LH": "1", 
+            "prerequisites": [
+                "ENGI-1262", 
+                "ENGI-1323"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7045"
+        }, 
+        "ENGI-1328": {
+            "PR": "ENGI 4020", 
+            "courseDescription": "examines the fundamental equations of hydrodynamics, boundary layers; potential flow, added mass, damping, circulation, and vorticity; numerical methods for hydrodynamic coefficients; water waves and loading for regular and irregular seas.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Hydrodynamics", 
+            "LH": "at least one 3-hour session per semester", 
+            "prerequisites": [
+                "ENGI-1267"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7033", 
+            "OR": "one tutorial hour per week"
+        }, 
+        "ENGI-1590": {
+            "PR": "completion of academic term 6 of the Process Engineering program", 
+            "courseDescription": "is designed to provide students with a basic fundamental background to the mining, mineral processing, and extractive metallurgical processing industry from both traditional and modern industrial methodologies. Concepts such as a mine design, mineral flow sheets, extraction methods, and examples from industrial applications will be reviewed with problems.", 
+            "concurrent": [], 
+            "courseTitle": "Mining and Metallurgical Process Engineering", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7691"
+        }, 
+        "ENGI-1598": {
+            "courseDescription": "is a senior undergraduate course in computer vision with an emphasis on techniques for automated inspection, object recognition, mechanical metrology, and robotics. Image processing courses typically focus for image enhancement, restoration, filtering, smoothing, etc. These topics will be covered to a certain degree but the main focus will be on image segmentation, feature extraction, morphological operators, recognition and photogrammetry. Issues related to the efficient software implementation of these techniques for real-time applications will also be addressed. While there is no prerequisite for this course non-computer engineering students must have reasonably strong programming skills.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Machine Vision", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7854"
+        }, 
+        "ENGI-1599": {
+            "PR": "ENGI 4841 or the former ENGI 5842", 
+            "courseDescription": "examines the assessment of wind energy potential, wind turbine aerodynamics, types, modelling and control strategies; hybrid energy systems; energy storage; solar energy systems; photovoltaic, PV system engineering, stand-alone and grid connected systems, sizing and maximum power tracking; solar water pumping; micro-hydro systems and control; tidal power, wave energy converters, ocean thermal systems. Applications of hybrid energy system sizing software are also included in the course.", 
+            "concurrent": [], 
+            "courseTitle": "Renewable Energy Systems", 
+            "LH": "at least eight 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1277"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7856"
+        }, 
+        "ENGI-1663": {
+            "PR": "ENGI 3054 , ENGI 4020", 
+            "courseDescription": "(same as the former ENGI 6030) examines applications of the linearised equations of motion to ocean vehicle problems with single and multiple degrees of freedom; dynamics and maneuvering of marine vehicles: motions in calm water and in waves; hydrodynamics effects such as added mass, radiation and viscous damping; strip theory; irregular motions; and systems for course keeping and motion control.", 
+            "concurrent": [], 
+            "courseTitle": "Dynamics and Maneuvering of Ocean Vehicles", 
+            "LH": "at least two 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1252", 
+                "ENGI-1267"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6030", 
+            "courseNumber": "7035"
+        }, 
+        "ENGI-1326": {
+            "PR": "ENGI 3001 , ENGI 3054 , ENGI 4102", 
+            "courseDescription": "develops concept design methods for marine systems from need definition through to solution selection, including weight, cost and power requirements estimating, selection of principal design characteristics and evaluation of alternative solutions. Students develop a proposal for a marine system design project which will include a statement of requirements, a parametric study, a work plan and schedule. This design project will be completed as a full design in ENGI", 
+            "concurrent": [], 
+            "courseTitle": "Ocean Systems Design", 
+            "LH": "3", 
+            "prerequisites": [
+                "ENGI-1251", 
+                "ENGI-1252", 
+                "ENGI-1268"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7052", 
+            "courseNumber": "7000"
+        }, 
+        "ENGI-1699": {
+            "PR": "ENGI 6929 or the former 5927", 
+            "courseDescription": "same as the former ENGI 6927) is a continuation of the ENGI", 
+            "concurrent": [], 
+            "courseTitle": "Mechanical Component Design II", 
+            "LH": "at least ten 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1698"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6926 or 6927", 
+            "courseNumber": "7929"
+        }, 
+        "ENGI-1701": {
+            "PR": "ENGI 5952", 
+            "courseDescription": "(same as the former ENGI 5951) emphasizes the integration of the core technologies on which contemporary, mechatronic designs are based. Topics covered include semiconductors devices, analog and digital electronics; microcontroller technology and interfacing; sensors for motion control; selection, sizing, and modelling of electric servomotors, servovalves and hydraulic actuators; position, velocity, and force control; digital and analog implementation of controller architectures; mechatronic design case studies.", 
+            "concurrent": [], 
+            "courseTitle": "Mechatronics II", 
+            "LH": "five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1696"
+            ], 
+            "corequisites": [], 
+            "CR": "the former 5951", 
+            "courseNumber": "7953"
+        }, 
+        "ENGI-1332": {
+            "PR": "ENGI 5821", 
+            "courseDescription": "examines data acquisition and intelligent field devices; distributed systems and fieldbus technology; programmable logic controllers and programming standards; operator control interface; supervisory control and data acquisition; and enterprise organization.", 
+            "concurrent": [], 
+            "courseTitle": "Supervisory Control and Data Acquisition", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1294"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7680"
+        }, 
+        "ENGI-1661": {
+            "PR": "CHEM 1050 , ENGI 4312", 
+            "courseDescription": "examines the properties and uses of steel and aluminum in marine applications. Topics include: overview of shipbuilding process; review of mechanics of materials, Hooke&rsquo;s Law, material failure models; carbon steel properties, grades, classification, testing; welding of steel - fundamentals, processes, preparation, design, drawings, certification; joining of aluminum - riveting, welding.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Materials", 
+            "LH": "at least 4 three-hour sessions per semester", 
+            "prerequisites": [
+                "SCI-0910", 
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7007"
+        }, 
+        "ENGI-1333": {
+            "PR": "ENGI 5706 or approval of the appropriate Head of the Department", 
+            "courseDescription": "begins with a review of Design Concepts, Standards and Products. Topics include design of members and connections, tension members, bolted joints, welded joints, compression members, stability and effective length, flexural members, beams &amp; beam-columns, plate girders, composite construction, introduction to serviceability, and deflections.", 
+            "concurrent": [], 
+            "courseTitle": "Design of Steel Structures", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1289"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7704"
+        }, 
+        "ENGI-1355": {
+            "PR": "ENGI 4430 , ENGI 5931", 
+            "courseDescription": "examines the basis of the finite element method. The course examines continuum mechanics applications; beam problems, fluid mechanics problems, and heat transfer problems. There are relevant computer laboratory exercises", 
+            "concurrent": [], 
+            "courseTitle": "Finite Element Analysis", 
+            "LH": "at least ten 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1273", 
+                "ENGI-1300"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7934"
+        }, 
+        "ENGI-1356": {
+            "PR": "ENGI 1040 , ENGI 4430", 
+            "courseDescription": "provides the fundamentals in robotic manipulators and arms. The course provides basic understanding in coordinate transformations for spatial description, both kinematical and kinetic analysis, forces and dynamics and finally trajectory generations and path planning.", 
+            "concurrent": [], 
+            "courseTitle": "Robotics and Automation", 
+            "LH": "at least three 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1250", 
+                "ENGI-1273"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7944", 
+            "courseNumber": "7952"
+        }, 
+        "ENGI-1350": {
+            "PR": "ENGI 6901", 
+            "courseDescription": "examines advanced topics in heat transfer; multi-dimensional conduction: shape factors, numerical methods, moving heat sources; heat transfer equipment: heat exchangers, heat exchanger design principles; phase change heat transfer: melting, solidification, condensation, and boiling.", 
+            "concurrent": [], 
+            "courseTitle": "Heat Transfer II", 
+            "LH": "at least one 3-hour session per semester", 
+            "prerequisites": [
+                "ENGI-1321"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7901"
+        }, 
+        "ENGI-1351": {
+            "PR": "ENGI 6901", 
+            "courseDescription": "examines performance characteristics of mechanical equipment; fluid power devices: pipes; valves; pumps; fans; blowers; compressors; storage tanks; heat transfer devices: heat exchangers; boilers; cooling towers; and pressure vessels.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanical Equipment", 
+            "LH": "at least three 1.5-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1321"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7903"
+        }, 
+        "ENGI-1352": {
+            "PR": "ENGI 5911", 
+            "courseDescription": "examines physical and mechanical properties; industrial materials; metals and metal alloys, ceramics and polymer, composite materials, failure modes and mechanisms, non-destructive testing and evaluation; damage tolerant materials; material treatments; and materials selection.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Materials", 
+            "LH": "at least 20 hours per semester", 
+            "prerequisites": [
+                "ENGI-1298"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6972", 
+            "courseNumber": "7911"
+        }, 
+        "ENGI-1353": {
+            "PR": "ENGI 4102 , completion of Academic Term 6 of the Mechanical Engineering program", 
+            "courseDescription": "is the first of two capstone design courses in the Department of Mechanical Engineering. In this course mechanical students are organized into small groups or teams, which must complete a common design challenge. The project is presented as an open-ended problem statement with specific performance objectives. The system must be designed, prototyped and tested during the course of the term. Each team is a small consulting firm and is required to document its object planning as well as its design.", 
+            "LC": "scheduled as required", 
+            "concurrent": [], 
+            "courseTitle": "Mechanical Design Project I", 
+            "LH": "scheduled as required", 
+            "prerequisites": [
+                "ENGI-1268"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7936", 
+            "courseNumber": "7926"
+        }, 
+        "ENGI-1338": {
+            "PR": "ENGI 5723", 
+            "courseDescription": "examines soil investigation and site characterization; pile foundations; embankment dams; elements of geotechnical earthquake engineering; constitutive theories for soil materials; and numerical methods in geotechnical engineering. The students select two of the above topics on which they are interested in concentrating their efforts. Bi-weekly lectures are offered on the other topics at an informal level.", 
+            "concurrent": [], 
+            "courseTitle": "Geotechnical Engineering III", 
+            "prerequisites": [
+                "ENGI-1291"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7723"
+        }, 
+        "ENGI-1339": {
+            "PR": "completion of Academic Term 6 of the Civil Engineering program", 
+            "courseDescription": "examines design and construction of highways including driver, vehicle and road characteristics; highway location and geometric design; soil classification; subgrade and base materials; highway drainage; flexible and rigid pavement; and highway economics.", 
+            "concurrent": [], 
+            "courseTitle": "Highway Engineering", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7745"
+        }, 
+        "ENGI-1587": {
+            "PR": "ENGI 6621 or the former ENGI 5621, ENGI 6671", 
+            "courseDescription": "provides students with the knowledge and experience to use a process simulator effectively for the analysis and synthesis of process flowsheets, mass and energy balances, sizing of individual component and process unit, reactor modeling, separation device modeling, heat exchanger modeling, and dynamic and steady state analysis.", 
+            "concurrent": [], 
+            "courseTitle": "Process Simulation", 
+            "LH": "at least nine 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1788", 
+                "ENGI-1585"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7623"
+        }, 
+        "ENGI-1586": {
+            "PR": "ENGI 6621 or the former ENGI 5621", 
+            "courseDescription": "familiarizes students with the scientific and engineering principles of process dynamics and control. Students will apply and integrate knowledge of chemical engineering to identify, formulate and solve process dynamics problems and develop control systems. Modern computational techniques and tools will be used for solving chemical process control problems. Also students will become familiar with industrial control systems.", 
+            "concurrent": [], 
+            "courseTitle": "Process Dynamics and Control", 
+            "LH": "at least six 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1788"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7621"
+        }, 
+        "ENGI-1589": {
+            "PR": "ENGI 6621 or the former ENGI 5621, ENGI 6671", 
+            "courseDescription": "is designed to introduce methods of industrial pollution assessment and control. Topics include waste characterization, water pollution assessment, water pollution control, air pollution assessment and control, solid waste assessment and control, pollution prevention, environmental risk assessment and risk based decision making.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Pollution Control/Pollution Prevention", 
+            "prerequisites": [
+                "ENGI-1788", 
+                "ENGI-1585"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7651"
+        }, 
+        "ENGI-1588": {
+            "PR": "ENGI 4102 , completion of academic term 6 of the Process Engineering program", 
+            "courseDescription": "gives students the opportunity to apply the knowledge gained in previous design and technical courses to the complete design of a piece of process equipment, e.g. distillation column, evaporator, membrane separation unit, etc. The goal is to expose the students to practical design issues that arise in process equipment design, and to provide experience in the complete design process as applied to real devices. This course is a precursor to ENGI 8640 where students will work in groups to design a process system.", 
+            "LC": "scheduled as required", 
+            "concurrent": [], 
+            "courseTitle": "Process Engineering Project I", 
+            "prerequisites": [
+                "ENGI-1268"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7640"
+        }, 
+        "ENGI-1330": {
+            "PR": "ENGI 003W", 
+            "courseDescription": "examines the origins and development of Engineering as a profession and its values, the place of technology in society and the nature of technological decisions. Topics will include the role and responsibility of the professional engineer in society, code of ethics, sustainable development and environmental stewardship.", 
+            "concurrent": [], 
+            "courseTitle": "The Engineering Profession", 
+            "prerequisites": [
+                "ENGI-1242"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 5101", 
+            "courseNumber": "7102"
+        }, 
+        "ENGI-1331": {
+            "PR": "completion of Academic Term 6", 
+            "courseDescription": "is a multidisciplinary design project that illustrates the application of previous engineering science and design related courses. The project will be done by teams of students with individuals concentrating their participation in their own engineering discipline. The project topic will be from the offshore oil and gas engineering industry. Lectures will be scheduled as required. This is the Term 7 project and if the scope of the project is such that it needs to continue, then the student will have the option to continue the same project in term 8 (in ENGI", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Offshore Oil and Gas Engineering Project I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7650"
+        }, 
+        "ENGI-1336": {
+            "PR": "ENGI 5713 , ENGI 6322", 
+            "courseDescription": "examines precipitation, snowmelt, infiltration, runoff and streamflow; statistical treatment of hydrologic data; hydrograph analysis and synthesis; evaporation; structure design floods; reservoir storage and flood routing; urban run-off and drainage.", 
+            "concurrent": [], 
+            "courseTitle": "Hydrology and Water Resources", 
+            "LH": "at least 6 hours per semester", 
+            "prerequisites": [
+                "ENGI-1290", 
+                "ENGI-1306"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7713"
+        }, 
+        "ENGI-1337": {
+            "PR": "ENGI 6713", 
+            "courseDescription": "examines the theory and application of steady gradually-varied flow in artificial and natural open channels together with an introduction to appropriate software; erosion protection and mobile-boundary hydraulics; problems with ice in rivers, the design of spillways, energy dissipaters, and culverts; physical scale models. There is an introduction to water hammer and surge tanks.", 
+            "concurrent": [], 
+            "courseTitle": "Hydrotechnical Engineering", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1310"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7716"
+        }, 
+        "ENGI-1334": {
+            "PR": "ENGI 6705 or approval of the appropriate Head of the Department", 
+            "courseDescription": "includes a review of basic concepts required for FEA, basics of stiffness formulation, direct stiffness method, displacement method, one dimensional elements, trusses and frames. Topics include 1-D fluid and heat transfer elements, automated analysis and modelling concepts, higher order elements, two dimensional elements - plane stress and plane strain, introduction to 3D and other types. - introduction to advanced topics and isoparametric formulation.", 
+            "concurrent": [], 
+            "courseTitle": "Finite Element Structural Analysis", 
+            "LH": "at least eight 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1308"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7706"
+        }, 
+        "ENGI-1335": {
+            "PR": "ENGI 5312", 
+            "courseDescription": "begins with an introduction to natural phenomena that cause loading and influence the design of marine structures. Topics include the interpretation and utilization of field data for the determination of design loads for wind, waves currents and ice and case studies of load analysis for the design of offshore structures in Atlantic Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Reliability and Environmental Loading on Offshore Structures", 
+            "prerequisites": [
+                "ENGI-1286"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7707"
+        }, 
+        "ENGI-1742": {
+            "courseDescription": "(same as the former ENGI 8003) presents fundamentals of naval architecture and design methodology for small craft. Emphasis is on recreational craft, with special emphasis on sailing vessels. Construction materials, scantlings, performance prediction and seaworthiness are covered. Design problems unique to small craft such as mast design, sail area determination and performance prediction are covered. Students will do a small craft design of their choice. Small weekly design studies will be required.", 
+            "CO": "ENGI 7035 or the former 6030", 
+            "concurrent": [], 
+            "courseTitle": "Small Craft Design", 
+            "prerequisites": [], 
+            "corequisites": [
+                "ENGI-1663"
+            ], 
+            "CR": "the former ENGI 8003", 
+            "courseNumber": "7003"
+        }, 
+        "ENGI-1700": {
+            "PR": "ENGI 4421", 
+            "courseDescription": "involves instrumentation and measurement techniques, sensors for motion and process control, data acquisition and signal conditioning; the design, conduct, and analysis of engineering, scientific, and numerical experiments; design of experiments: factorial design and analysis; and response surface methodology (RSM).", 
+            "concurrent": [], 
+            "courseTitle": "Instrumentation and Experimental Design", 
+            "LH": "five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1270"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7930"
+        }, 
+        "ENGI-1349": {
+            "PR": "ENGI 6861 , ENGI 6892", 
+            "courseDescription": "surveys parallel and distributed architectures and examines patterns of concurrent program design; correctness of concurrent programs: safety and liveness properties, proof of properties; synchronization using locks, semaphores, and monitors; communication using message passing and remote procedures; parallelization for high-performance computation and advanced topics such as scientific applications, distributed systems, model checking, and transaction processing.", 
+            "concurrent": [], 
+            "courseTitle": "Concurrent Programming", 
+            "prerequisites": [
+                "ENGI-1317", 
+                "ENGI-1320"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 8893", 
+            "courseNumber": "7894"
+        }, 
+        "ENGI-1348": {
+            "PR": "ENGI 5854 , ENGI 6871", 
+            "courseDescription": "begins with an introduction to communications systems components and a review of linear amplifiers. The course examines linear amplifier design and characteristics using s-parameters; power amplifiers; mixers; oscillators; modulator/demodulator circuits and subsystems; and the integration of subsystems into analog and digital communication systems.", 
+            "concurrent": [], 
+            "courseTitle": "Communications Electronics", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1295", 
+                "ENGI-1318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7855"
+        }, 
+        "ENGI-1343": {
+            "PR": "ENGI 6813", 
+            "courseDescription": "examines the fundamentals of electromagnetic radiation; potentials; small antennas and antenna parameters; thin linear wire antennas and antenna arrays; antenna impedance and ground effects; Friis transmission formula; and aperture antennas.", 
+            "concurrent": [], 
+            "courseTitle": "Antennas", 
+            "LH": "at least three 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1313"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7811"
+        }, 
+        "ENGI-1342": {
+            "PR": "ENGI 4102 , completion of Academic Term 6 of the Computer Engineering program", 
+            "courseDescription": "provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving a computer engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ENGI", 
+            "LC": "at least 10 lecture hours per semester", 
+            "concurrent": [], 
+            "courseTitle": "Computer Engineering Design Project I", 
+            "prerequisites": [
+                "ENGI-1268"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7800", 
+            "courseNumber": "7804", 
+            "OR": "weekly meetings with project supervisor"
+        }, 
+        "ENGI-1341": {
+            "PR": "ENGI 4102 , completion of Academic Term 6 of the Electrical Engineering program", 
+            "courseDescription": "provides an opportunity for senior students to integrate the knowledge that they have acquired through the junior terms and apply it to solving an electrical engineering design problem. Students work in small teams with the assistance of a faculty mentor to define an appropriate design problem and propose a method of solution to the problem. The project is continued in ENGI", 
+            "LC": "at least 10 lecture hours per semester", 
+            "concurrent": [], 
+            "courseTitle": "Electrical Engineering Design Project I", 
+            "prerequisites": [
+                "ENGI-1268"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 7800", 
+            "courseNumber": "7803", 
+            "OR": "weekly meetings with project supervisor"
+        }, 
+        "ENGI-1340": {
+            "PR": "completion of Academic Term 6 of the Civil Engineering program", 
+            "courseDescription": "includes an introduction to types of contracts, project delivery approaches, and prevailing contractual relationships. The course examines basic project management techniques for network planning and scheduling (CPM and PERT); principles of resource productivity databases, preliminary estimating, and detailed bid preparation; quantitative approaches for effective control of time, cost, resource, quality, and value of constructed facilities; use of computer software for scheduling, estimating, and control.", 
+            "concurrent": [], 
+            "courseTitle": "Project Planning and Control", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7748"
+        }, 
+        "ENGI-1347": {
+            "PR": "ENGI 6843", 
+            "courseDescription": "begins with an introduction to electric power systems. Topics include per unit quantities; transmission line parameters; modelling of power system components; single line diagrams; network equations formulation; bus impedance and admittance matrices; load flow analysis and control; design of reactive power compensation for power system performance enhancement; tap changing, auto and control transformers for power system application; economic dispatch and optimal power flow studies.", 
+            "concurrent": [], 
+            "courseTitle": "Power System Analysis", 
+            "LH": "at least six 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1314"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7844"
+        }, 
+        "ENGI-1346": {
+            "PR": "ENGI 5821", 
+            "courseDescription": "examines state space models for multi-input/output systems; observability, controllability; state feedback without and with integral controller structure, state observers; quadratic optimal regulator and tracking control strategies; discrete-time state equations; and an introduction to optimal control.", 
+            "concurrent": [], 
+            "courseTitle": "Control Systems II", 
+            "prerequisites": [
+                "ENGI-1294"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6825", 
+            "courseNumber": "7825"
+        }, 
+        "ENGI-1345": {
+            "PR": "ENGI 6871", 
+            "courseDescription": "examines sampling theory; the discrete Fourier transform; the efficient fast Fourier transform algorithm; elementary discrete-time signals; the discrete-time Fourier series; the discrete-time Fourier transform; discrete-time linear and time-invariant systems; linear constant-coefficient difference equations; the convolution sum; the z-transform and frequency response of discrete-time systems; an introduction to digital filter design techniques; and digital signal processing applications.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Digital Signal Processing", 
+            "prerequisites": [
+                "ENGI-1318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7824"
+        }, 
+        "ENGI-1344": {
+            "PR": "ENGI 3424 , ENGI 3821", 
+            "courseDescription": "examines vector calculus; Green&rsquo;s, Stokes&rsquo; and Gauss&rsquo; theorems; Maxwell&rsquo;s differential and integral equations; steady-state and time-varying aspects of Maxwell&rsquo;s equations; uniform plane wave propagation in various media; and applications of electromagnetics in communications.", 
+            "concurrent": [], 
+            "courseTitle": "Electromagnetics for Communications", 
+            "prerequisites": [
+                "ENGI-1254", 
+                "ENGI-1259"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7814"
+        }
+    }
+}

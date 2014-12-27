@@ -1,0 +1,119 @@
+{
+    "OCSC": {
+        "SCI-3670": {
+            "PR": "Biology 2060 , 2250", 
+            "courseDescription": "is an introduction to biotechnology and genetics as they are applied to aquaculture and fisheries. Topics covered include genetic variation; genetic structure of fish and shellfish populations; the genetic basis of aquaculture traits; finfish and shellfish genomic research; marker-assisted selection in aquaculture; manipulation of ploidy; genetic engineering in aquaculture; and techniques used to study the responses of aquatic animals to external stressors such as hypoxia, temperature stress, acidification, and pathogens.", 
+            "concurrent": [], 
+            "courseTitle": "Aquaculture and Fisheries Biotechnology", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0791"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3002"
+        }, 
+        "SCI-3574": {
+            "courseDescription": "is an introductory course covering the major ocean sciences (biology, chemistry, geology, physics) at a level sufficient for science majors but accessible to non-science majors. It explores phenomena occurring from the shoreline to the abyss and from equatorial to polar regions. It also examines principles of marine ecology as well as how the marine environment affects humans and vice versa. The course is offered in a blended format that combines face-to-face lectures and online interactive activities in the form of virtual oceanographic expeditions.", 
+            "LC": "1.5 hours per week", 
+            "concurrent": [], 
+            "courseTitle": "Exploration of the World Ocean", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000", 
+            "OR": "1.5 hours per week (online interactive activities)"
+        }, 
+        "SCI-3700": {
+            "PR": "Biology 2122 , Biology 2600 , and Biology 2900", 
+            "courseDescription": "(same as Biology", 
+            "LC": "either three hours of lecture and three hours of laboratory per week or a two-week intensive course that embodies equivalent instructional time", 
+            "concurrent": [
+                "SCI-1975"
+            ], 
+            "courseTitle": "Advanced Studies in Marine Animal Diversity", 
+            "LH": "either three hours of lecture and three hours of laboratory per week or a two-week intensive course that embodies equivalent instructional time", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0793", 
+                "SCI-0795"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4122", 
+            "courseNumber": "4122"
+        }, 
+        "SCI-3699": {
+            "PR": "Biology 2600 and 3050 , Statistics 2550 or equivalent", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-0818"
+            ], 
+            "courseTitle": "Aquatic Microbial Ecology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0793", 
+                "SCI-0799", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 3620 and the former Biology 3603", 
+            "courseNumber": "3620"
+        }, 
+        "SCI-3704": {
+            "PR": "any two first-year courses in Physics", 
+            "courseDescription": "(same as Physics", 
+            "concurrent": [
+                "SWGC-0845", 
+                "SCI-3675"
+            ], 
+            "courseTitle": "Introductory Physical Oceanography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Environmental Science 2371 , Physics 2300", 
+            "courseNumber": "2300"
+        }, 
+        "SCI-3703": {
+            "PR": "Earth Sciences 1000", 
+            "courseDescription": "(same as Earth Sciences", 
+            "concurrent": [
+                "SCI-3702"
+            ], 
+            "courseTitle": "Introductory Geological Oceanography", 
+            "prerequisites": [
+                "SCI-1148"
+            ], 
+            "corequisites": [], 
+            "CR": "Earth Sciences 2919", 
+            "courseNumber": "2200"
+        }, 
+        "SCI-3681": {
+            "PR": "Biology 2122 or Biology 3709 , Biology 2600 , Statistics 2550", 
+            "courseDescription": "is an in-depth study and application of methods routinely employed for data collection in underwater scientific research. Aspects covered include habitat mapping; installation and use of instrumentation; still and video camera techniques; planning and execution of surveys and experiments in major subtidal habitats; as well as data analysis and interpretation. Participants are trained in accordance with Memorial University of Newfoundland&rsquo;s Guide for Diving Safety and the Canadian Association for Underwater Science (CAUS) standards to meet the criteria for Scientific Diver I rating. This course is normally offered at the Bonne Bay Marine Station in a special 2-week session at the beginning or end of the Spring semester depending on station&rsquo;s availability.", 
+            "concurrent": [], 
+            "courseTitle": "Scientific Diving Methods", 
+            "prerequisites": [
+                "SCI-0787", 
+                "SCI-0820", 
+                "SCI-0793", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000", 
+            "OR": "The following documentation must be provided to the course instructor at least four months before the first day of the course. It must be in effect until at least the last day of the course. Submission of this documentation does not guarantee acceptance into the course. Aside from course prerequisites, acceptance will be based on successful completion, before the course begins, of a diving fitness and skills evaluation in a pool environment and demonstration of understanding of the MUN Diving Safety Manual, physics and physiology of diving, and use of recreational dive tables. Nationally recognized scuba diver certification with diver rescue and accident management techniques; diver medical examination by a licensed physician knowledgeable in diving medicine; First Aid (basic), CPR (basic), and DAN oxygen first aid for scuba diving injuries administration cards; DAN membership and insurance or medical insurance covering hyperbaric treatment; diver&rsquo;s log book with at least 12 dives in the last 12 months including one dive in the last six months and four dives in cold (&lt;10&deg;C) water; cold-water scuba diving equipment complete with proper hydrostatic/VIP service tags on diving cylinders and overhaul/service receipts on regulators and buoyancy compensator devices."
+        }, 
+        "SCI-3701": {
+            "PR": "Biology 2060 , Biology 2210 , and Biology 3401", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-0857"
+            ], 
+            "courseTitle": "Functional Biology of Fish", 
+            "prerequisites": [
+                "SCI-0779", 
+                "SCI-0789", 
+                "SCI-0809"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4601", 
+            "courseNumber": "4601"
+        }
+    }
+}

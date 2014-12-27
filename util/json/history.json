@@ -1,0 +1,1157 @@
+{
+    "HIST": {
+        "ARTS-7613": {
+            "courseDescription": "investigates the &lsquo;unsinkable ship&rsquo;, its passengers, crew and owners, and the dilemmas its loss has created for over a century. Students will examine how present-day understandings of the past are expressed in the multiple ways and diverse forms of treating the Titanic.", 
+            "concurrent": [], 
+            "courseTitle": "Titanic Histories", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3806"
+        }, 
+        "ARTS-6414": {
+            "PR": "HIST 4822 , admission to the Honours program", 
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [
+                "ARTS-6412"
+            ], 
+            "corequisites": [], 
+            "UL": "may not be used to meet the requirements of a Major in History without the prior written approval of the Head of the Department of History", 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-7502": {
+            "courseDescription": "examines the Canadian experience of war through case studies of the 1885 Rebellion, the Boer War, the two World Wars and the Korean War. Themes include operations, nation-building, social and ethnic conflict, gender and masculinity, and historical memory.", 
+            "concurrent": [], 
+            "courseTitle": "War and Society in Modern Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3641"
+        }, 
+        "ARTS-7500": {
+            "courseDescription": "examines the history of SubSaharan Africa from the eve of colonialism until the post-independent contemporary era.", 
+            "concurrent": [], 
+            "courseTitle": "Africa Since 1800", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3585"
+        }, 
+        "ARTS-7501": {
+            "courseDescription": "examines the struggle for empire and nationhood from the arrival of Europeans to the withdrawal of British forces from Canada in 1870. The course will take a comparative approach to examining war&rsquo;s effect on social, economic, and political developments in what is now Canada, focusing on specific conflicts and themes such as the struggle for empire, the military as an institution, gender, class, ethnicity, and memory.", 
+            "concurrent": [], 
+            "courseTitle": "War and Society in Colonial North America", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3640"
+        }, 
+        "ARTS-6299": {
+            "courseDescription": "is a study of the history of ancient India and/or China and/or Japan with emphasis on the way of life of the people, their customs, traditions, art and heritage.", 
+            "concurrent": [], 
+            "courseTitle": "Ancient Asian History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2031"
+        }, 
+        "ARTS-6298": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5679"
+            ], 
+            "courseTitle": "Ancient Near Eastern History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2025", 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-6352": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5599"
+            ], 
+            "courseTitle": "Aboriginal History to 1763", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3520 , the former Anthropology 3520", 
+            "courseNumber": "3520"
+        }, 
+        "ARTS-6353": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5600"
+            ], 
+            "courseTitle": "Aboriginal History From 1763", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3525 , the former Anthropology 3525", 
+            "courseNumber": "3525"
+        }, 
+        "ARTS-6354": {
+            "courseDescription": "(same as the former Anthropology 3584 and Archaeology", 
+            "concurrent": [
+                "ARTS-5604"
+            ], 
+            "courseTitle": "Historical Anthropology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 3584, Archaeology 3584", 
+            "courseNumber": "3535"
+        }, 
+        "ARTS-6291": {
+            "courseDescription": "is a thematic examination of European interaction with the North Atlantic and the Americas from the voyages of discovery to the independence movements of the Americas. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in the Age of Expansion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1010"
+        }, 
+        "ARTS-6359": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "A History of Human Rights", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3560"
+        }, 
+        "ARTS-6293": {
+            "courseDescription": "will examine some of the major themes in twentieth century world history after 1914. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Twentieth Century World History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1012"
+        }, 
+        "ARTS-6292": {
+            "courseDescription": "is a thematic examination of the political, economic, social and cultural developments in Europe and the wider world from the French Revolution to World War I. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Modern European History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1011"
+        }, 
+        "ARTS-6295": {
+            "courseDescription": "will examine several historical themes or problems in the history of the United States. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in United States History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1014"
+        }, 
+        "ARTS-6294": {
+            "courseDescription": "will examine the historical context for various contemporary problems being experienced by Canadians. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Canadian History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1013"
+        }, 
+        "ARTS-6296": {
+            "courseDescription": "introduces students to early modern western history (1500 - 1800) through the study of original texts. It will combine lectures on the historical background to the texts, discussion of them and analysis of their meanings in assigned essays. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Social and Cultural History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1015"
+        }, 
+        "ARTS-7494": {
+            "courseDescription": "examines the experiences of women in Newfoundland and Labrador with an emphasis on the nineteenth and twentieth centuries. It explores the interaction of women&rsquo;s lives and the province&rsquo;s social, political and economic history. Topics to be covered include work (paid and unpaid); childbearing and child rearing; immigration and emigration; political activity; and legal status.", 
+            "concurrent": [], 
+            "courseTitle": "Gendered History: Women in Newfoundland and Labrador", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3813"
+        }, 
+        "ARTS-7496": {
+            "courseDescription": "examines the political, economic and cultural processes of modern European and American imperialism and its historical antecedents.", 
+            "concurrent": [], 
+            "courseTitle": "Imperialism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4421"
+        }, 
+        "ARTS-7497": {
+            "PR": "Archaeology 1030", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-7481"
+            ], 
+            "courseTitle": "Historical Archaeology", 
+            "prerequisites": [
+                "ARTS-5580"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 3582 , the former Archaeology 2582, the former History 2582, the former History 3530", 
+            "courseNumber": "3582"
+        }, 
+        "ARTS-6325": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5884", 
+                "ARTS-6518", 
+                "ARTS-6750"
+            ], 
+            "courseTitle": "Medieval Books", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3002 , Medieval Studies 3000 , Religious Studies 3000", 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6324": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Women&rsquo;s History: The Gendered Past", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2760"
+        }, 
+        "ARTS-6327": {
+            "courseDescription": "are specialized studies in Ancient and Medieval history. Topics to be studied will be posted on the Department of History website.", 
+            "concurrent": [
+                "ARTS-6383"
+            ], 
+            "courseTitle": "Special Topics in Ancient and Medieval History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only one of HIST 3016 and HIST 3803", 
+            "courseNumber": "3011-3019"
+        }, 
+        "ARTS-6326": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "West to East: Aspects of the German Intellectual Influence on Russia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3005"
+        }, 
+        "ARTS-6321": {
+            "courseDescription": "examines changing understandings of disease causation and how the human body functions, the evolution of formal medical education, and the rise of medical institutions. Examples of fine art, literature, and popular culture will be integrated into lectures and seminars to help provide a comprehensive overview of what it has been like to be ill and well over the last three millennia.", 
+            "concurrent": [], 
+            "courseTitle": "Sickness and Health in Western Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2665"
+        }, 
+        "ARTS-6320": {
+            "courseDescription": "is a survey of the history of the United States of America since the Civil War.", 
+            "concurrent": [], 
+            "courseTitle": "History of the United States of America Since 1865", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3240", 
+            "courseNumber": "2610"
+        }, 
+        "ARTS-6329": {
+            "courseDescription": "examines the history of human relationships to the natural environment. The focus of the course is the history of environmental changes caused by humans, and the influence of the natural environment on human cultures and societies. Case studies will focus on issues with broad relevance to contemporary environmental issues such as energy use, the environmental impact of military conflict, species introductions, natural disasters, urban sustainability, ecological restoration, and the origins of environmentalism.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3030"
+        }, 
+        "ARTS-6328": {
+            "PR": "it is recommended, but not obligatory, that students should have successfully completed one of the following courses: the former Anthropology 2480, Folklore 1000 or the former 2000, HIST 2320 , History 2330 , Medieval Studies 2000 , Medieval Studies 2001 , Medieval Studies 2002", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5590", 
+                "ARTS-6021", 
+                "ARTS-6519"
+            ], 
+            "courseTitle": "Art, Architecture and Medieval Life", 
+            "prerequisites": [
+                "ARTS-6011", 
+                "ARTS-6311", 
+                "ARTS-6312", 
+                "ARTS-6515", 
+                "ARTS-6516", 
+                "ARTS-6517"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 3001 , Folklore 3001 , Medieval Studies 3001", 
+            "courseNumber": "3020"
+        }, 
+        "ARTS-6350": {
+            "courseDescription": "is a survey of Irish history from the mid-nineteenth century to the present.", 
+            "concurrent": [], 
+            "courseTitle": "History of Ireland Since the Great Famine", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3470", 
+            "courseNumber": "3490"
+        }, 
+        "ARTS-7458": {
+            "PR": "HIST 2210 or permission of the instructor", 
+            "courseDescription": "challenges the conventional wisdom that equality improved in post-war Canada, but declined from the 1970s onwards. It contrasts socio-economic experiences with those of gender, race, nation and sexual orientation. By so doing it raises complex questions about the historical dynamics of identity politics in the making of contemporary Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Inequality In Canada since 1945", 
+            "prerequisites": [
+                "ARTS-6308"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4253"
+        }, 
+        "ARTS-7459": {
+            "PR": "HIST 2200 or HIST 2210 or permission of the instructor", 
+            "courseDescription": "examines the historiographical debates on industrialisation in 19th century British North America by critically evaluating representative works by leading historians of English Canada and Quebec. It also introduces the problems and advantages of the historical sources most commonly used to understand industrialisation.", 
+            "concurrent": [], 
+            "courseTitle": "The Industrial Revolution in Canada", 
+            "prerequisites": [
+                "ARTS-6307", 
+                "ARTS-6308"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4255"
+        }, 
+        "ARTS-7450": {
+            "courseDescription": "examines theoretical and thematic approaches to the study of revolution. The class will study some of the major political revolutions of the twentieth century and also explore the causes and consequences of various social, cultural, and economic upheavals such as the student revolts of the 1960s and the sexual revolution. There will be a discussion on how the way in which historians have studied revolutions has changed during the past half century.", 
+            "concurrent": [], 
+            "courseTitle": "History of Modern Revolutions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3801"
+        }, 
+        "ARTS-7451": {
+            "courseDescription": "takes a global approach to the history of the First World War, emphasizing events on the battlefield and the effects of war on various societies.", 
+            "concurrent": [], 
+            "courseTitle": "World War I in Historical Perspective", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3807"
+        }, 
+        "ARTS-7452": {
+            "courseDescription": "examines a range of written and physical evidence for the interaction of religion and society in the late antique and early medieval world. This course will cover the broad topic of religion and society through an in-depth analysis of the historiography and material culture of the late antique and early medieval period.", 
+            "concurrent": [], 
+            "courseTitle": "Religion and Society in the Late Antique and Early Medieval Periods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4003"
+        }, 
+        "ARTS-7453": {
+            "courseDescription": "examines the origins of Muslim-Christian relations in the Middle East through an examination of the effect of the arrival of Islam on the communities of Iraq, Iran, and the Levant, as well as the Byzantine reaction to Islam.", 
+            "concurrent": [], 
+            "courseTitle": "Cultural Interaction in the Medieval Middle East", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-7454": {
+            "courseDescription": "surveys major philosophical, scientific, and popular ideas of nature in Canada and the United States during the nineteenth and twentieth centuries. Students will examine key historical manifestations of environmental thought such as romanticism, the wilderness idea, ecofeminism, deep ecology, and social ecology. Students will also be exposed to important voices from social groups who are often marginalized in environmental debates such as African-Americans, Aboriginal people, and the working class.", 
+            "concurrent": [], 
+            "courseTitle": "The History of Environmental Ideas in Canada and the United States", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4125"
+        }, 
+        "ARTS-7455": {
+            "courseDescription": "examines aspects of the history of the frontier in North America. The course will focus on major themes and debates in frontier history, including, but not limited to, the history of colonialism, settlement, and Aboriginal-settler relations.", 
+            "concurrent": [], 
+            "courseTitle": "The North American Frontier", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4212"
+        }, 
+        "ARTS-7456": {
+            "courseDescription": "examines the evolution of slavery and other forms of coerced labour in the early modern period.", 
+            "concurrent": [], 
+            "courseTitle": "Slavery and Resistance in the Atlantic World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4219"
+        }, 
+        "ARTS-7457": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "North American Aboriginal Peoples in Historical Perspective", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4222"
+        }, 
+        "ARTS-6337": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Women and the Law in Newfoundland History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6332": {
+            "courseDescription": "studies the growth of settlement and the manner in which a 'migratory' fishery carried on from England and Ireland changed into a 'sedentary' fishery carried on by residents of Newfoundland.", 
+            "concurrent": [], 
+            "courseTitle": "History of Newfoundland to 1815", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3110"
+        }, 
+        "ARTS-6333": {
+            "courseDescription": "examines the establishment and development of political institutions, changes in economic structure and the growth of populations.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Newfoundland Since 1815", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3120"
+        }, 
+        "ARTS-6290": {
+            "courseDescription": "will introduce students to the methodology of studying ancient and/or medieval history through a close examination of textual and material remains. The course will be taught around a particular theme and/or historical period each year. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Ancient and Medieval History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1009"
+        }, 
+        "ARTS-6339": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5694", 
+                "ARTS-6762"
+            ], 
+            "courseTitle": "Christianity and the Roman Empire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 3270 , Religious Studies 3270", 
+            "courseNumber": "3270"
+        }, 
+        "ARTS-6413": {
+            "PR": "permission of the Head of Department or delegate", 
+            "courseDescription": "are directed reading courses for selected Bachelor of Arts students.", 
+            "concurrent": [], 
+            "courseTitle": "Reading Courses", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4830-4850"
+        }, 
+        "ARTS-6412": {
+            "PR": "permission of the Head of Department", 
+            "courseDescription": "is a directed reading course for Honours and selected students. The readings will be chosen in such a way as to supplement a student's knowledge of his/her area of specialization and, where appropriate, to prepare the student for the honours essay. If a student intends to complete HIST 4999, a proposal for the honours essay will be a requirement of the course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading Course", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 4820", 
+            "UL": "may not be used to meet the requirements of a Major in History without the prior written approval of the Head of the Department of History", 
+            "courseNumber": "4822"
+        }, 
+        "ARTS-6411": {
+            "PR": "permission of the Head of Department", 
+            "courseDescription": "is a directed reading course for Honours and selected students including those intending to apply for graduate studies. Readings will be taken from a list of works by historians, or social theorists whose works are related to history.", 
+            "concurrent": [], 
+            "courseTitle": "Reading Course", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used to meet the requirements of a Major in History without the prior written approval of the Head of the Department of History", 
+            "courseNumber": "4821"
+        }, 
+        "ARTS-7483": {
+            "courseDescription": "(same as the former HIST 3060) is an examination of those major developments which have affected the nature and conduct of warfare in the period since 1789, with particular emphasis on the evolution of military thinking, the impact of technology on organization and planning, the role of air power, the civil-military relationship, professionalism in the armed forces, and the changing nature of warfare, the emergence of total war, global war, guerrilla warfare, and limited warfare.", 
+            "concurrent": [], 
+            "courseTitle": "History of War and Society from 1789 to the Present", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3060", 
+            "courseNumber": "2065"
+        }, 
+        "ARTS-6410": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6078"
+            ], 
+            "courseTitle": "Documents Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 4810", 
+            "courseNumber": "4810"
+        }, 
+        "ARTS-6302": {
+            "courseDescription": "same as Classics", 
+            "concurrent": [
+                "ARTS-5681"
+            ], 
+            "courseTitle": "History of the Roman Republic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2041 , the former Classics 2040, the former HIST 2040", 
+            "courseNumber": "2041"
+        }, 
+        "ARTS-6309": {
+            "courseDescription": "is an introduction to the main issues and problems in early modern European history with an emphasis on the political, social, economic and cultural developments from the sixteenth to the eighteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Early Modern European History, 1500-1789", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-6308": {
+            "courseDescription": "is a survey of Canadian history since Confederation.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2210"
+        }, 
+        "ARTS-6303": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5682"
+            ], 
+            "courseTitle": "History of the Roman Empire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2042 , the former Classics 2040, the former HIST 2040", 
+            "courseNumber": "2042"
+        }, 
+        "ARTS-7482": {
+            "courseDescription": "(same as the former HIST 3050) is a survey of major developments in the history of warfare from the earliest times to 1789 with particular emphasis on changes in the nature and conduct of warfare, the evolution of military thinking, the organization of military and naval forces, the impact of technological change, the emergence of professionalism, societies, and armed forces.", 
+            "concurrent": [], 
+            "courseTitle": "History of War and Society to 1789", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3050", 
+            "courseNumber": "2060"
+        }, 
+        "ARTS-6301": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5680"
+            ], 
+            "courseTitle": "History of Classical Greece", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2035", 
+            "courseNumber": "2035"
+        }, 
+        "ARTS-6300": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5678"
+            ], 
+            "courseTitle": "History of the Hellenistic World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 2020", 
+            "courseNumber": "2034"
+        }, 
+        "ARTS-6307": {
+            "courseDescription": "is a survey of Canadian History to Confederation, 1867.", 
+            "concurrent": [], 
+            "courseTitle": "Making Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2200"
+        }, 
+        "ARTS-6306": {
+            "courseDescription": "is a study of the places and people involved in maritime activities between Europe and Asia and in India, south-east Asia, China and Japan during the period of European expansion to the region.", 
+            "concurrent": [], 
+            "courseTitle": "Seafaring Places and Seafaring Peoples", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2130"
+        }, 
+        "ARTS-6305": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "North Atlantic History Since 1820", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2110"
+        }, 
+        "ARTS-7484": {
+            "courseDescription": "is a thematic examination of the complexities of gender and indigeneity from a global perspective, with particular emphasis on the gendered experiences of colonialism.", 
+            "concurrent": [], 
+            "courseTitle": "Gendered Indigenous History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3765"
+        }, 
+        "ARTS-6304": {
+            "courseDescription": "provides an introduction to the medieval Middle East (330-1453). Students will examine the Byzantine Empire, the Sasanian Empire, and the various Islamic Empires, as well as the minority groups living under these empires, including the Coptic, Armenian, and Syriac communities.", 
+            "concurrent": [], 
+            "courseTitle": "Medieval Middle East", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2050"
+        }, 
+        "ARTS-6319": {
+            "courseDescription": "is a survey of the history of the United States of America from its colonial origins to the end of the Civil War.", 
+            "concurrent": [], 
+            "courseTitle": "History of the United States of America to 1865", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3230", 
+            "courseNumber": "2600"
+        }, 
+        "ARTS-6314": {
+            "courseDescription": "(same as the former European Studies 2000, Political Science", 
+            "concurrent": [
+                "ARTS-6643"
+            ], 
+            "courseTitle": "Europe in the Twentieth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former European Studies 2000, Political Science 2990 , the former Political Science 2350", 
+            "courseNumber": "2350"
+        }, 
+        "ARTS-7495": {
+            "courseDescription": "examines the experiences of women and men and the construction of gender identities through themes such as sexuality, moral reform, immigration, racial/ethnic identity, indigeneity, and participation in the workforce.", 
+            "concurrent": [], 
+            "courseTitle": "Gender in Canadian History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3821"
+        }, 
+        "ARTS-6316": {
+            "courseDescription": "is a study of the world-wide impact of the main events and developments in the age of global interdependence.", 
+            "concurrent": [], 
+            "courseTitle": "The Twentieth Century I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3700", 
+            "courseNumber": "2500"
+        }, 
+        "ARTS-6317": {
+            "courseDescription": "is an historical analysis of the main issues in the contemporary world since 1945.", 
+            "concurrent": [], 
+            "courseTitle": "The Twentieth Century II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3710", 
+            "courseNumber": "2510"
+        }, 
+        "ARTS-6310": {
+            "courseDescription": "is a survey of the economic, social, political and cultural developments of Europe from 1789- 1914.", 
+            "concurrent": [], 
+            "courseTitle": "Europe in the Nineteenth Century, 1789-1914", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2310"
+        }, 
+        "ARTS-6311": {
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6516"
+            ], 
+            "courseTitle": "Medieval Europe to the Eleventh Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 2030, Medieval Studies 2001", 
+            "courseNumber": "2320"
+        }, 
+        "ARTS-6312": {
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6517"
+            ], 
+            "courseTitle": "Medieval Europe Since the Eleventh Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 2030, Medieval Studies 2002", 
+            "courseNumber": "2330"
+        }, 
+        "ARTS-6313": {
+            "PR": "at least 3 credit hours in History", 
+            "courseDescription": "examines the development of urban networks and the growth of specific towns and cities in early modern and modern Europe. We will also study how these centres were perceived, and the roles of public spaces and public festivals. Much of this course is devoted to examining the conditions found in urban centres and the impact on local inhabitants. The course concludes with a study of nineteenth century urban boosterism.", 
+            "concurrent": [], 
+            "courseTitle": "European Urban History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2340"
+        }, 
+        "ARTS-6383": {
+            "courseDescription": "is an analysis of developments leading to a contemporary issue or problem selected each year or semester. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Problems in Historical Perspective", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only one of HIST 3016 and HIST 3803", 
+            "courseNumber": "3800-3830 (Excluding 3801, 3806, 3807, 3813, 3821, 3822)"
+        }, 
+        "ARTS-6382": {
+            "courseDescription": "interprets narrative films as historical evidence to shed light on shifts in American culture and society during the second half of the twentieth century.", 
+            "concurrent": [], 
+            "courseTitle": "Reel American History: United States History through its Films Since WWII", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3795"
+        }, 
+        "ARTS-6381": {
+            "courseDescription": "interprets narrative films as historical evidence to shed light on shifts in American culture and society during the first half of the twentieth century.", 
+            "concurrent": [], 
+            "courseTitle": "Reel American History: United States History through its Films, 1895-1945", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3790"
+        }, 
+        "ARTS-6380": {
+            "PR": "at least 3 credit hours in history at the 2nd-year level, or permission of the instructors", 
+            "courseDescription": "focuses on the family in Europe from the middle ages to the early twentieth century. Topics examined will include: family structure, kinship, demography, sexuality, gender relations, child-rearing, attitudes towards the elderly and care of them, and the place of the family in the larger community.", 
+            "CO": "at least 3 credit hours in history at the 2nd-year level, or permission of the instructors", 
+            "concurrent": [], 
+            "courseTitle": "The European Family: The Age of Faith to the Welfare State", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3785"
+        }, 
+        "ARTS-6387": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Pre-Islamic Empires of Iran", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3925"
+        }, 
+        "ARTS-6386": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6053"
+            ], 
+            "courseTitle": "An Introduction to the History of Western Architecture Since the Renaissance", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 3870", 
+            "courseNumber": "3870"
+        }, 
+        "ARTS-6385": {
+            "courseDescription": "same as the former Anthropology 3860 and Folklore", 
+            "concurrent": [
+                "ARTS-6052"
+            ], 
+            "courseTitle": "Vernacular Architecture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 3860, Folklore 3860", 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-6384": {
+            "PR": "12 credit hours in History", 
+            "courseDescription": "is an introduction to the methods and practices of history in the modern era. This course is compulsory for Majors and Honours students, including those intending to apply for graduate studies.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 4801", 
+            "courseNumber": "3840"
+        }, 
+        "ARTS-6389": {
+            "PR": "there is no prerequisite for this course although History 2050 is strongly recommended", 
+            "courseDescription": "will introduce students to the history of Islamic society from its beginnings under Muhammad to the rise of the Ottomans and the fall of Constantinople in the fifteenth century. We will also discuss the non-Muslim communities which co-existed with the Muslim umma or community. Through the use of primary source material, students will be introduced to the types of historical sources available for Islamic history, as well as the problems associated with this evidence.", 
+            "concurrent": [], 
+            "courseTitle": "Islamic History to 1453", 
+            "prerequisites": [
+                "ARTS-6304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3935"
+        }, 
+        "ARTS-6388": {
+            "courseDescription": "will introduce students to the history of Byzantine society from its beginnings under Constantine to the fall of Constantinople to the Turks in 1453. In addition to the chronological history, students will also encounter several characteristics of Byzantine society, including religion, urbanization, and interaction with the Persian Empire.", 
+            "concurrent": [], 
+            "courseTitle": "Byzantine History to 1453", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3930"
+        }, 
+        "ARTS-7461": {
+            "PR": "HIST 2310 or HIST 2350 or permission of the instructor", 
+            "courseDescription": "introduces Marxist thought as a product of revolutionary struggles. Emphasis will be on the nature of the historical circumstances and the concrete problems people faced. Each week there will be a critical examination of selected works produced by and through these struggles.", 
+            "concurrent": [], 
+            "courseTitle": "Marx and Marxism", 
+            "prerequisites": [
+                "ARTS-6310", 
+                "ARTS-6314"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4419"
+        }, 
+        "ARTS-7460": {
+            "courseDescription": "examines various themes and topics in the military history of Canada, emphasizing the relationship between war and society.", 
+            "concurrent": [], 
+            "courseTitle": "War and Society in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4411"
+        }, 
+        "ARTS-7465": {
+            "courseDescription": "is a comparative survey of Indigenous experiences with colonialism in a global context from the sixteenth century onwards.", 
+            "concurrent": [], 
+            "courseTitle": "Indigenous Peoples and Colonialism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2800"
+        }, 
+        "ARTS-7464": {
+            "courseDescription": "is a comparative survey of the Transatlantic Slave Trade 1503-1851, from West African origins through the oceanic Middle Passage to the formation of slave societies in the Americas. This course examines processes of enslavement, commodification, shipboard resistance, sale and adaptation, and the international movement to abolish the slave trade.", 
+            "concurrent": [], 
+            "courseTitle": "The Atlantic Slave Trade", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2140"
+        }, 
+        "ARTS-7467": {
+            "PR": "any 2000, 3000, or 4000 level course in U.S. History or Film Studies", 
+            "courseDescription": "explores selected themes in the relationship between the American cinema and American national culture. Topics will vary from year to year, but may include the study of a particular period in U.S. film and history; an examination of how filmic representations of race, class, gender, and/or sexuality have changed over time in connection to broader historical shifts; or, the historical analysis of a particular genre as a way to understand shifting cultural and social values within the United States.", 
+            "concurrent": [], 
+            "courseTitle": "Topics in United States Film and History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-7466": {
+            "courseDescription": "examines the history of the Caribbean region in the period 1492-1848, addressing topics such as comparative labour systems, slave resistance, colonial societies, plantation landscapes, and environmental change.", 
+            "concurrent": [], 
+            "courseTitle": "The Early Modern Caribbean", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3590"
+        }, 
+        "ARTS-6369": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Death, Disease and Medical Care in Early Modern and Modern Europe", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3665"
+        }, 
+        "ARTS-6368": {
+            "courseDescription": "examines the change from the Aristotelian-Ptolemaic to the Newtonian world view with special emphasis on the work of Copernicus, Kepler, Galileo, Descartes and Newton.", 
+            "concurrent": [], 
+            "courseTitle": "The Scientific Revolution", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3660"
+        }, 
+        "ARTS-6360": {
+            "courseDescription": "is an examination of the peoples and states of the Middle East and their interaction with each other and with the great powers since the mid-nineteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "The Modern Middle East", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3570"
+        }, 
+        "ARTS-6363": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Industrial Revolutions of the Eighteenth and Nineteenth Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-6394": {
+            "courseDescription": "are specialized studies in the history of North America. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in North American History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4210-4229 (Excluding 4212, 4213, 4214, 4216, 4219, 4222)"
+        }, 
+        "ARTS-6395": {
+            "courseDescription": "are specialized studies in the history of Newfoundland to the mid-nineteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Newfoundland History I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4230"
+        }, 
+        "ARTS-6396": {
+            "courseDescription": "are specialized studies in the history of Newfoundland since the mid-nineteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Newfoundland History II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Political Science 4731", 
+            "courseNumber": "4231"
+        }, 
+        "ARTS-6397": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Newfoundland History III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4232"
+        }, 
+        "ARTS-6391": {
+            "courseDescription": "are specialized studies in Ancient and Medieval history. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Ancient and Medieval History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4000-4010 (Excluding 4003, 4009, 4010)"
+        }, 
+        "ARTS-6392": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History and Memory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6393": {
+            "courseDescription": "are specialized studies in the history of the North Atlantic. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in North Atlantic History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4110-4130 (Excluding 4125)"
+        }, 
+        "ARTS-6398": {
+            "courseDescription": "are specialized studies in Canadian history. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Canadian History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4240-4260 (Excluding 4253, 4255)"
+        }, 
+        "ARTS-6399": {
+            "courseDescription": "are specialized studies in the history of Europe. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in European History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4310-4330 (Excluding 4330)"
+        }, 
+        "ARTS-6379": {
+            "courseDescription": "uses a wide variety of primary and secondary sources to examine medieval women in their social, political, cultural, and religious contexts to understand women&rsquo;s lives in this important millennium of the European past.", 
+            "concurrent": [], 
+            "courseTitle": "Women in Medieval Europe, 500-1500", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3780"
+        }, 
+        "ARTS-6372": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "North Atlantic Seafaring Since 1850", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3690"
+        }, 
+        "ARTS-6370": {
+            "courseDescription": "is an examination of the rise of modern navies since 1650 that places navies and naval decisions within broader national and international political, economic and social contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Navies and Societies Since 1650", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former HIST 3822", 
+            "courseNumber": "3675"
+        }, 
+        "ARTS-6371": {
+            "courseDescription": "examines the maritime mercantile development of the countries on the Atlantic littoral, 1650-1850.", 
+            "concurrent": [], 
+            "courseTitle": "North Atlantic Seafaring to 1850", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3680"
+        }, 
+        "ARTS-6376": {
+            "courseDescription": "are selected studies in the history of modern ideas and society. Aspects to be studies will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Studies in Modern Social and Intellectual History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3740-3750 (Excluding 3747, 3748)"
+        }, 
+        "ARTS-6375": {
+            "courseDescription": "are available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in British History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729 (Excluding 3713, 3728)"
+        }, 
+        "ARTS-6404": {
+            "courseDescription": "are specialized studies in Social and Intellectual history. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Social and Intellectual History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4560-4570 (Excluding 4569, 4570)"
+        }, 
+        "ARTS-6405": {
+            "courseDescription": "are specialized studies in Maritime history. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Maritime History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4670-4690 (Excluding 4672)"
+        }, 
+        "ARTS-6406": {
+            "PR": "it is recommended that students have completed one course in Medieval History or Medieval Studies", 
+            "courseDescription": "will look at a variety of films set in the Middle Ages. This course will address questions such as how directors approach historical subject matter generally and the Middle Ages in particular; what subjects they choose, and how and why these change. This is a course not about film criticism, but about medievalism. This course will consist of viewing and discussion.", 
+            "concurrent": [], 
+            "courseTitle": "The Middle Ages on Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4695"
+        }, 
+        "ARTS-6400": {
+            "courseDescription": "are available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in European History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4360-4380"
+        }, 
+        "ARTS-6401": {
+            "courseDescription": "are specialized studies in historical problems. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Problems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4410-4430 (Excluding 4411, 4419, 4421)"
+        }, 
+        "ARTS-6402": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6074"
+            ], 
+            "courseTitle": "Oral History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 4480", 
+            "courseNumber": "4480"
+        }, 
+        "ARTS-6403": {
+            "courseDescription": "are specialized studies in Economic and Mercantile history. Aspects to be studied will be posted on the Department of History website.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Economic and Mercantile History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4520-4529"
+        }, 
+        "ARTS-7572": {
+            "courseDescription": "explores the content, methodology, and historiography of the history of medicine. Course readings reflect the broad sweep across time and geography of this field, but emphasize trends in Europe and North America during the last four centuries. Students will examine the evolution of intellectual problems that have occupied historians of medicine; explore the complexities specific to researching and writing medical history; and critique and identify differing historical genres, evidence, primary source materials, and methods.", 
+            "concurrent": [], 
+            "courseTitle": "History of Medicine Seminar", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4570"
+        }, 
+        "ARTS-6409": {
+            "PR": "permission of the Head of Department", 
+            "courseDescription": "is an introduction to the major historians and historiographical traditions of the West. This course is for Honours students and other selected students, including those intending to apply for graduate studies.", 
+            "concurrent": [], 
+            "courseTitle": "Historiography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used to meet the requirements of a Major in History without the prior written approval of the Head of the Department of History", 
+            "courseNumber": "4800"
+        }, 
+        "ARTS-7447": {
+            "courseDescription": "explores selected themes in U.S. cultural history. Topics will vary from year to year, but may include historical approaches to such popular art forms as vaudeville, amusements parks, film, popular music, comics, television, gaming, and spectator sports.", 
+            "concurrent": [], 
+            "courseTitle": "Topics in U.S. Cultural History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4216"
+        }, 
+        "ARTS-7446": {
+            "courseDescription": "explores selected themes in U.S.- Canadian relations. Beyond considering the more &lsquo;formal&rsquo; ties between Canada and the United States from a historical perspective, such as military and diplomatic interactions, this seminar examines social and cultural interrelationships.", 
+            "concurrent": [], 
+            "courseTitle": "Topics in U.S.-Canadian Relations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4213"
+        }, 
+        "ARTS-7445": {
+            "courseDescription": "examines medieval ideas of what happens at and after death, starting from the premise that such ideas have great influence upon how people live their daily lives. It will look at the theology of death, ideas of heaven, hell, and purgatory, as well as conceptions of death and the afterlife in the popular culture, architecture, literature, etc., of European Christendom.", 
+            "concurrent": [], 
+            "courseTitle": "Death and the Afterlife in the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4009"
+        }, 
+        "ARTS-7441": {
+            "courseDescription": "will examine selected themes and issues in North American Aboriginal history. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Themes in Aboriginal History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for more than two first-year courses in History", 
+            "UL": "only one first-year course may be used to meet the requirements of a major or minor. Up to two first-year History courses can be used as Arts electives and these courses qualify as research/writing courses.", 
+            "courseNumber": "1016"
+        }, 
+        "ARTS-7449": {
+            "PR": "students who have not previously studied history beyond first year should consult with the Instructor before registering for this course", 
+            "courseDescription": "explores how life stories studied as primary sources lead to a reassessment of historian's traditional assumptions and concerns in this course. Students will research and discuss the changing, and often ambivalent, relationship of people and the sea across three centuries of auto/biographical writing and story-telling.", 
+            "concurrent": [], 
+            "courseTitle": "Seafaring Lives: Sea-going Auto/Biography Since 1700", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4672"
+        }, 
+        "ARTS-7448": {
+            "PR": "a minimum of two second year History courses, or the permission of the instructor. Students who have not previously studied history beyond first year should consult with the Instructor before registering for this course.", 
+            "courseDescription": "designates an industrial, urban, ostensibly democratic, country in the period when Britain was dominant in the world. 'Victoria' and 'England' are the starting points, however, for a critical examination of those characteristics in this seminar course.", 
+            "concurrent": [], 
+            "courseTitle": "Aspects of Modern British History: Victorian England", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4330"
+        }, 
+        "ARTS-6349": {
+            "courseDescription": "is a survey of Irish history from Hugh O'Neill's submission to the English in 1603 to the mid-nineteenth century disaster of the Great Famine.", 
+            "concurrent": [], 
+            "courseTitle": "History of Ireland, 1603 to the Great Famine", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3480"
+        }, 
+        "ARTS-6348": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "British History Since 1714", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3460"
+        }, 
+        "ARTS-6347": {
+            "courseDescription": "examines a dynamic period of religious, cultural and political change.", 
+            "concurrent": [], 
+            "courseTitle": "Tudor and Stuart Britain, 1485-1714: Reformation, Renaissance, and Revolution", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3450"
+        }, 
+        "ARTS-6346": {
+            "courseDescription": "examines the key developments in British imperialism up until the transition to the new Commonwealth in the 1970s.", 
+            "concurrent": [], 
+            "courseTitle": "History of the British Empire and Commonwealth Since 1815", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3440"
+        }, 
+        "ARTS-6345": {
+            "courseDescription": "examines the history of German-speaking central Europe with special reference to the evolution of modern Germany since the mid-nineteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "German History II, Since the Mid-Nineteenth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3380"
+        }, 
+        "ARTS-6344": {
+            "courseDescription": "examines the history of the peoples and states of the Holy Roman Empire of the German nation and the Germanic Confederation with emphasis on the origins of modern Germany.", 
+            "concurrent": [], 
+            "courseTitle": "German History I, to the Mid-Nineteenth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3370"
+        }, 
+        "ARTS-6343": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Revolutionary and Soviet Russia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3360"
+        }
+    }
+}

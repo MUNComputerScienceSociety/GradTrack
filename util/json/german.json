@@ -1,0 +1,694 @@
+{
+    "GERM": {
+        "ARTS-6211": {
+            "courseDescription": "is intended to give beginners a basic knowledge of the spoken and written language and culture of the German-speaking countries.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary German I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former GERM 1002", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6236": {
+            "PR": "GERM 2011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the chief periods of German literature based on works of representative authors. A general survey from 1750 to the present.", 
+            "concurrent": [], 
+            "courseTitle": "Survey of German Literature II", 
+            "prerequisites": [
+                "ARTS-6216"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3901"
+        }, 
+        "ARTS-6235": {
+            "PR": "GERM 2011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the chief periods of German literature based on works of representative authors. A general survey from the earliest works to 1750.", 
+            "concurrent": [], 
+            "courseTitle": "Survey of German Literature I", 
+            "prerequisites": [
+                "ARTS-6216"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-6212": {
+            "PR": "GERM 1000", 
+            "courseDescription": "is a continuation of Elementary German I with the same basic text.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary German II", 
+            "prerequisites": [
+                "ARTS-6211"
+            ], 
+            "corequisites": [], 
+            "CR": "the former GERM 1003", 
+            "courseNumber": "1001"
+        }, 
+        "ARTS-6215": {
+            "PR": "GERM 1000 and GERM 1001 or equivalent", 
+            "courseDescription": "is a completion of the fundamentals of the German language, with a continued strong cultural component.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate German I", 
+            "prerequisites": [
+                "ARTS-6211", 
+                "ARTS-6212"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-6232": {
+            "PR": "GERM 3010 or consent of the Head of the Department", 
+            "courseDescription": "is a continuation of Advanced German I.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced German II", 
+            "prerequisites": [
+                "ARTS-6231"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3011"
+        }, 
+        "ARTS-6231": {
+            "PR": "GERM 2010 and 2011", 
+            "courseDescription": "aims at a high level of accomplishment in German pronunciation, composition and translation through practice in the spoken language, written exercises and the reading of more advanced literary material.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced German I", 
+            "prerequisites": [
+                "ARTS-6215", 
+                "ARTS-6216"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-6216": {
+            "PR": "GERM 2010 or consent of the Head of the Department", 
+            "courseDescription": "is a grammar review and introduction to literature.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate German II", 
+            "prerequisites": [
+                "ARTS-6215"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2011"
+        }, 
+        "ARTS-6219": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading German II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2031"
+        }, 
+        "ARTS-6218": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading German I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2030"
+        }, 
+        "ARTS-6269": {
+            "courseDescription": "is a study of selected works of Russian authors of the pre-revolutionary, Soviet and post- Soviet periods. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature in Translation: Twentieth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "2601"
+        }, 
+        "ARTS-6239": {
+            "courseDescription": "is a study of the works of some major modern German authors. Lectures and readings in English.", 
+            "concurrent": [], 
+            "courseTitle": "Modern German Literature in Translation I (Pre-1945)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3912"
+        }, 
+        "ARTS-6238": {
+            "courseDescription": "is a study of the legend of Faust's pact with the devil from the Middle Ages to the present in art, music and literature, and its influence on various cultures in both Europe and America. Lectures and readings in English.", 
+            "concurrent": [], 
+            "courseTitle": "Faust and the Magus Tradition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3911"
+        }, 
+        "ARTS-6234": {
+            "PR": "GERM 1001 and consent of the Head of the Department", 
+            "courseDescription": "aims to increase accuracy and fluency in written and spoken German with emphasis on grammar review.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Composition and Conversation", 
+            "prerequisites": [
+                "ARTS-6212"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3511", 
+            "OR": "includes a four week field school in Germany in August, which lengthens the time frame for the course by approximately two weeks"
+        }, 
+        "ARTS-6233": {
+            "PR": "GERM 1001 and consent of the Head of the Department", 
+            "courseDescription": "aims to increase accuracy and fluency in written and spoken German with emphasis on culture.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Composition and Culture", 
+            "prerequisites": [
+                "ARTS-6212"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3510", 
+            "OR": "includes a 4- week field school in Germany in August, which lengthens the time frame for the course by approximately two weeks"
+        }, 
+        "ARTS-6279": {
+            "courseDescription": "explores contemporary issues concerning the changes (artistic, political, cultural, economic) and sense of rediscovery in modern Russia in the context of works by present-day writers.", 
+            "concurrent": [], 
+            "courseTitle": "Post Perestroika Russia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3910"
+        }, 
+        "ARTS-6264": {
+            "courseDescription": "is designed to foster a reading knowledge of Russian relevant to professional, business or academic disciplines. It is intended for senior undergraduate or graduate students, as well as professional and business people. No previous knowledge of Russian is required.", 
+            "concurrent": [], 
+            "courseTitle": "Russian for Reading I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2030"
+        }, 
+        "ARTS-6281": {
+            "PR": "one of RUSS 2011 , 2511 , 3011 , or permission of the Head of the Department", 
+            "courseDescription": "is a study of major Russian authors, including Pushkin, Lermontov, and Gogol.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature of the Nineteenth Century I", 
+            "prerequisites": [
+                "ARTS-6263", 
+                "ARTS-6267", 
+                "ARTS-6275"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6265": {
+            "PR": "RUSS 1000 or 1001 , or permission of the Head of the Department", 
+            "courseDescription": "is a continuation of Russian for Reading I.", 
+            "concurrent": [], 
+            "courseTitle": "Russian for Reading II", 
+            "prerequisites": [
+                "ARTS-6260", 
+                "ARTS-6261"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2031"
+        }, 
+        "ARTS-6230": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6326", 
+                "ARTS-6273"
+            ], 
+            "courseTitle": "West to East: Aspects of the German Intellectual Influence on Russia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 3005 , Russian 3005", 
+            "courseNumber": "3005"
+        }, 
+        "ARTS-7612": {
+            "courseDescription": "focuses on the oeuvres of one or two directors, or a movement or era within Soviet Cinema. Students will examine films closely according to their artistic structures and historical contexts, applying a broad range of classic readings on film theory to help inform analysis.", 
+            "concurrent": [], 
+            "courseTitle": "Giants of Soviet Cinema", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4002"
+        }, 
+        "ARTS-6228": {
+            "courseDescription": "is an examination of East German cinema through its feature films addressing issues in the context of Germany's divided status and its split screen from 1946 to 1990.", 
+            "concurrent": [], 
+            "courseTitle": "DEFA The Cinema of East Germany", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3003"
+        }, 
+        "ARTS-6229": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in German Studies I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3004-3009"
+        }, 
+        "ARTS-6266": {
+            "courseDescription": "is an intensive course which focuses on improving vocabulary and fluency in speaking and writing Russian.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Composition and Conversation I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2510"
+        }, 
+        "ARTS-6267": {
+            "courseDescription": "is a continuation of RUSS", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Composition and Conversation II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2511"
+        }, 
+        "ARTS-6260": {
+            "courseDescription": "provides an introduction to Russian grammar and a basic knowledge of the spoken and written language.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Russian I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6261": {
+            "PR": "RUSS 1000 or equivalent", 
+            "courseDescription": "is a continuation of Elementary Russian I.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Russian II", 
+            "prerequisites": [
+                "ARTS-6260"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1001"
+        }, 
+        "ARTS-6248": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the leading exponents of nineteenth-century literature, including the background of Poetic Realism and Naturalism. Taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the 19th Century II", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4101"
+        }, 
+        "ARTS-6249": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "traces the important literary movements up to 1945, using a number of representative authors. Reading of selected dramas, novels, poems and short stories. This course is taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the Twentieth Century I", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-6220": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Composition and Conversation I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2510"
+        }, 
+        "ARTS-6221": {
+            "PR": "GERM 1001 and consent of the Head of the Department", 
+            "courseDescription": "is a continuation of Intermediate Composition and Conversation I.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Composition and Conversation II", 
+            "prerequisites": [
+                "ARTS-6212"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2511", 
+            "OR": "includes a 4- week field school in Germany in August, which lengthens the time frame for the course by approximately two weeks"
+        }, 
+        "ARTS-6222": {
+            "courseDescription": "is a study of the major cultural trends and movements of German-speaking Europe to the beginnings of the modern age. Lectures are given in English. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to German Culture I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2900"
+        }, 
+        "ARTS-6223": {
+            "courseDescription": "is a study of the major cultural trends and movements of German-speaking Europe in the modern age. Lectures are given in English. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to German Culture II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2901"
+        }, 
+        "ARTS-6242": {
+            "courseDescription": "examines German culture within the context of National Socialist era. Special attention will be focussed on how language, art and literature were used in National Socialist propaganda.", 
+            "concurrent": [], 
+            "courseTitle": "National Socialist Ideology and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3915"
+        }, 
+        "ARTS-6225": {
+            "courseDescription": "is a survey of German film from the beginnings to 1945.", 
+            "concurrent": [], 
+            "courseTitle": "German Film I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6226": {
+            "courseDescription": "is a survey of West German film from 1945 to 1990.", 
+            "concurrent": [], 
+            "courseTitle": "German Film II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-6227": {
+            "courseDescription": "is a study of German cinema from 1990 to the present. It addresses a number of issues that are clearly identified with a post-Wall, unified Germany, such as German unification itself, the new German comedy of the 1990's, the transnationalization of German cinema, the treatment of the Nazi and the Communist past, the rediscovery of the social as a narrative focus, and on the evolving cinematographic directions taken by contemporary German film. The movies are subtitled and lectures and readings are in English.", 
+            "concurrent": [], 
+            "courseTitle": "Post-Wall Cinema", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3002"
+        }, 
+        "ARTS-6262": {
+            "PR": "RUSS 1000 and 1001 or equivalent", 
+            "courseDescription": "continues RUSS", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Russian I", 
+            "prerequisites": [
+                "ARTS-6260", 
+                "ARTS-6261"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-6263": {
+            "PR": "RUSS 1000 and 1001 or equivalent", 
+            "courseDescription": "s a continuation of Intermediate Russian I.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Russian II", 
+            "prerequisites": [
+                "ARTS-6260", 
+                "ARTS-6261"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2011"
+        }, 
+        "ARTS-6278": {
+            "PR": "one of RUSS 2011 , 2511 , 3011 , or permission of the Head of the Department", 
+            "courseDescription": "is a continuation of RUSS", 
+            "concurrent": [], 
+            "courseTitle": "Survey of Russian Literature II", 
+            "prerequisites": [
+                "ARTS-6263", 
+                "ARTS-6267", 
+                "ARTS-6275"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3901"
+        }, 
+        "ARTS-6246": {
+            "PR": "GERM 4010 or consent of the Head of the Department.", 
+            "courseDescription": "is a continuation of Advanced Stylistics I. This course is taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Stylistics II", 
+            "prerequisites": [
+                "ARTS-6245"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4011"
+        }, 
+        "ARTS-6247": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the leading exponents of nineteenth-century literature, including the background of Romanticism and the young Germany movement. Taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the 19th Century I", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6282": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature of the Nineteenth Century II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4101"
+        }, 
+        "ARTS-6283": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature of the Twentieth Century I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-6280": {
+            "courseDescription": "will deal with topics as announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Russian", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4001-4010 (Excluding 4002)"
+        }, 
+        "ARTS-6276": {
+            "courseDescription": "is a study of masterpieces by representative Russian authors of poetry and prose with particular emphasis on stylistic characteristics of the authors studied and the evolution of the Russian literary language.", 
+            "concurrent": [], 
+            "courseTitle": "Post-Soviet Russia: Media and Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "3023"
+        }, 
+        "ARTS-6286": {
+            "courseDescription": "will deal with topics as announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Russian Studies II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4801"
+        }, 
+        "ARTS-6244": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the historical and cultural background of the eighteenth century, of Storm and Stress and Classicism. Reading and discussion of representative works with emphasis on Goethe and Schiller. Taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the Eighteenth Century II", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4001"
+        }, 
+        "ARTS-6284": {
+            "PR": "one of RUSS 2011 , 2511 , 3011 , or permission of the Head of the Department", 
+            "courseDescription": "is a study and analysis of texts by modern Russian writers.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature of the Twentieth Century II", 
+            "prerequisites": [
+                "ARTS-6263", 
+                "ARTS-6267", 
+                "ARTS-6275"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-6285": {
+            "courseDescription": "will deal with topics as announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Russian Studies I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4800"
+        }, 
+        "ARTS-6245": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "is specialized study of the more complex areas of German grammar, style, and idiomatic usage, involving intensive practice in composition and oral expression, and focussed on detailed work with contemporary cultural materials such as newspapers, television, and film. This course is taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Stylistics I", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-6268": {
+            "courseDescription": "is a study of selected works of Russian authors including Pushkin, Lermontov, Gogol, Turgenev, Tolstoy, Dostoyevsky, Chekhov. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Literature in Translation: Nineteenth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "2600"
+        }, 
+        "ARTS-6256": {
+            "courseDescription": "is the comprehensive examination required for honours students.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehensive Examination for Honours Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4998"
+        }, 
+        "ARTS-6243": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "is a study of the historical and cultural background of the eighteenth century, of Enlightenment and Storm and Stress. Reading and discussion of representative works with emphasis on Lessing, Goethe and Schiller. Taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the Eighteenth Century I", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-6273": {
+            "courseDescription": "(same German", 
+            "concurrent": [
+                "ARTS-6230", 
+                "ARTS-6326"
+            ], 
+            "courseTitle": "West to East: Aspects of the German Intellectual Influence on Russia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "German 3005 , History 3005", 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "3005"
+        }, 
+        "ARTS-6272": {
+            "courseDescription": "will deal with topics as announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Russian Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3000-3009 (Excluding 3005)"
+        }, 
+        "ARTS-6271": {
+            "courseDescription": "is a study of the evolution of Russian culture in the USSR and the post-Soviet period. Lectures include discussions of Soviet Russian art, music and film. Lectures are given in English. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Culture II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "2901"
+        }, 
+        "ARTS-6270": {
+            "courseDescription": "is a study of the evolution of Russian culture and Russian intellectual history up to 1917. Lectures include discussions of Russian art, music and film. Lectures are given in English. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Russian Culture I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used as part of the Faculty of Arts requirement of 6 credit hours in a second language", 
+            "courseNumber": "2900"
+        }, 
+        "ARTS-6277": {
+            "PR": "one of RUSS 2011 , 2511 , 3011 , or permission of the Head of the Department", 
+            "courseDescription": "is a study of masterpieces by representative Russian authors of poetry and prose with particular emphasis on stylistic characteristics of the authors studied and the evolution of the Russian literary language.", 
+            "concurrent": [], 
+            "courseTitle": "Survey of Russian Literature I", 
+            "prerequisites": [
+                "ARTS-6263", 
+                "ARTS-6267", 
+                "ARTS-6275"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-6240": {
+            "courseDescription": "is a study of the works of some major modern German authors. Lectures and readings in English.", 
+            "concurrent": [], 
+            "courseTitle": "Modern German Literature in Translation II (Post-1945)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3913"
+        }, 
+        "ARTS-6275": {
+            "PR": "RUSS 2010 and 2011", 
+            "courseDescription": "is a continuation of Advanced Russian I; emphasis is placed on advanced grammar and reading of selected texts from Russian short stores, magazines and newspapers.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Russian II", 
+            "prerequisites": [
+                "ARTS-6262", 
+                "ARTS-6263"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3011"
+        }, 
+        "ARTS-6274": {
+            "PR": "RUSS 2010 and 2011", 
+            "courseDescription": "is an advanced study of literary texts, grammar, composition and translation with practice in the spoken language.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Russian I", 
+            "prerequisites": [
+                "ARTS-6262", 
+                "ARTS-6263"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-6255": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in German Studies II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4802-4825"
+        }, 
+        "ARTS-6254": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Early Modern German Literature II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4401"
+        }, 
+        "ARTS-6257": {
+            "PR": "admission to the Honours program", 
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay for Honours Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-6241": {
+            "PR": "the former Women's Studies 2000 or permission of the Department Head", 
+            "courseDescription": "studies representative works by prominent German, Austrian, and Swiss women writers from the 19th-century to the present day, their place in German literary history, and the impact of their individual voices.", 
+            "concurrent": [], 
+            "courseTitle": "German Women Writers in English Translation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3914"
+        }, 
+        "ARTS-6251": {
+            "PR": "one of German 2011 , 2511 , 3011 or the consent of the Head of Department", 
+            "courseDescription": "is an introduction to the German language, literature and culture of the eleventh to fifteenth centuries: historical linguistics, Middle High German grammar and the court epic.", 
+            "concurrent": [], 
+            "courseTitle": "Middle High German Language and Literature I", 
+            "prerequisites": [
+                "ARTS-6216", 
+                "ARTS-6221", 
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "ARTS-6250": {
+            "PR": "GERM 3011 or the consent of the Head of Department", 
+            "courseDescription": "traces the important post 1945 literary movements, using a number of representative authors. Reading of selected dramas, novels, poems and short stories. This course is taught in German.", 
+            "concurrent": [], 
+            "courseTitle": "German Literature of the Twentieth Century II", 
+            "prerequisites": [
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-6253": {
+            "PR": "one of German 2011 , 2511 , 3011 or the consent of the Head of Department", 
+            "courseDescription": "is reading, interpretation and critical analysis of representative works of German literature written in the Age of Reformation and the early Baroque period.", 
+            "concurrent": [], 
+            "courseTitle": "Early Modern German Literature I", 
+            "prerequisites": [
+                "ARTS-6216", 
+                "ARTS-6221", 
+                "ARTS-6232"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-6252": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Middle High German Language and Literature II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }
+    }
+}

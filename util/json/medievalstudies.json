@@ -1,0 +1,146 @@
+{
+    "MST": {
+        "ARTS-6525": {
+            "PR": "MST 3000 or 3001 or permission of the instructor", 
+            "courseDescription": "are seminars on such general, interdisciplinary or comparative subjects as, e.g., Popular Culture in the Middle Ages, The Medieval Stage, The Medieval Court, The Religious Orders, Women in Medieval Society, Medieval Universities, Scholasticism, Dante's Divine Comedy, Medieval Historiography, Arthurian Romance, Jewish Medieval Communities, Muslim Art and Architecture and The Byzantine World.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Medieval Studies", 
+            "prerequisites": [
+                "ARTS-6518", 
+                "ARTS-6519"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000-4020"
+        }, 
+        "ARTS-6524": {
+            "courseDescription": "is available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Medieval Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729"
+        }, 
+        "ARTS-6523": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5886", 
+                "ARTS-6944"
+            ], 
+            "courseTitle": "Women Writers of the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3006 , the former MST 3351, Gender Studies 3001 , the former Women's Studies 3001", 
+            "courseNumber": "3006"
+        }, 
+        "ARTS-6522": {
+            "courseDescription": "(same as Philosophy", 
+            "concurrent": [
+                "ARTS-6569"
+            ], 
+            "courseTitle": "Medieval Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Philosophy 3760", 
+            "courseNumber": "3004"
+        }, 
+        "ARTS-6521": {
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6779"
+            ], 
+            "courseTitle": "Christian Thought in the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3560", 
+            "courseNumber": "3003"
+        }, 
+        "ARTS-6520": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore in Medieval Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3002"
+        }, 
+        "ARTS-6526": {
+            "courseDescription": "(same as Classics", 
+            "concurrent": [
+                "ARTS-5718"
+            ], 
+            "courseTitle": "Medieval Latin", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Classics 4202", 
+            "courseNumber": "4021"
+        }, 
+        "ARTS-6518": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5884", 
+                "ARTS-6325", 
+                "ARTS-6750"
+            ], 
+            "courseTitle": "Medieval Books", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3002 , History 3000 , Religious Studies 3000", 
+            "UL": "this course may be substituted for a Greek and Roman Studies course in both the Classics degree programs (Honours, Joint Honours and general degree) and the Greek and Roman Studies degree programs (Honours, Joint Honours and general degree)", 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6519": {
+            "PR": "MST 2000 , 2001 or 2002 or permission of the instructor. It is recommended, but not obligatory, that students should have successfully completed one of the following courses: Archaeology 2480 , Folklore 1000 or the former 2000, History 2320 , History 2330 , MST 2000 , MST 2001 , MST 2002", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5590", 
+                "ARTS-6021", 
+                "ARTS-6328"
+            ], 
+            "courseTitle": "Art, Architecture and Medieval Life", 
+            "prerequisites": [
+                "ARTS-6515", 
+                "ARTS-6516", 
+                "ARTS-6517", 
+                "ARTS-5583", 
+                "ARTS-6011", 
+                "ARTS-6311", 
+                "ARTS-6312", 
+                "ARTS-6515", 
+                "ARTS-6516", 
+                "ARTS-6517"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 3001 , Folklore 3001 , History 3020", 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-6516": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6311"
+            ], 
+            "courseTitle": "Medieval Europe to 1050", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2320", 
+            "courseNumber": "2001"
+        }, 
+        "ARTS-6517": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6312"
+            ], 
+            "courseTitle": "Medieval Europe, 1050 to the Reformation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2330", 
+            "courseNumber": "2002"
+        }, 
+        "ARTS-6515": {
+            "courseDescription": "will survey the formative cultures of the Middle Ages - Latin, Celtic, Arabic - as well as the rise of the new vernacular cultures, Germanic and Romance. Literary trends such as the reliance on authority, the emergence of national epic and the development of court literature will be studied. The course examines the interplay of all the arts - literature, music, art and architecture.", 
+            "concurrent": [], 
+            "courseTitle": "The Cultural Legacy of the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }
+    }
+}

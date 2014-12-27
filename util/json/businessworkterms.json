@@ -1,0 +1,28 @@
+{
+    "BUSI": {
+        "BUSI-0414": {
+            "courseDescription": "follows the successful completion of Academic Term 5. Students should have sufficient academic grounding and work experience to contribute in a positive manner to the management and problem-solving processes needed and practiced in the workplace. Students should become better acquainted with their discipline of study, should observe and appreciate the attitudes, responsibilities, and ethics normally expected of business managers and should exercise greater independence and responsibility in their assigned work.", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "599W"
+        }, 
+        "BUSI-0409": {
+            "courseDescription": "follows the successful completion of Academic Term 4. Students are expected to further develop and expand their knowledge and work-related skills and should be able to accept increased responsibility and challenge. In addition, students are expected to demonstrate an ability to deal with increasingly complex work- related concepts and problems. Students should conscientiously assess the various business opportunities relative to their individual interests", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499W"
+        }, 
+        "BUSI-0403": {
+            "courseDescription": "follows the successful completion of Academic Term 3. For most students, it represents their first professional work experience in a business environment and as such represents their first opportunity to evaluate their choice of pursuing a career in business administration. Students are expected to learn, develop and practice the high standards of behaviour and performance normally expected in the work environment. (A detailed description of each job is normally posted during the job competition.)", 
+            "concurrent": [], 
+            "courseTitle": "Work Term I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }
+    }
+}

@@ -1,0 +1,596 @@
+{
+    "PHAR": {
+        "PHAR-0285": {
+            "PR": "PHAR 4650", 
+            "courseDescription": "continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the third year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will participate in sessions that focus on ethical issues in pharmacy practice and communication with health care providers. Students will build on their patient assessment and pharmacist care skills to meet patients' drug-related needs in more complex patient scenarios and will use critical appraisal skills to respond to clinical questions. Scenarios will relate to the courses of study in the third year and draw on material studied in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 
+            "CO": "all Academic Term 6 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [
+                "PHAR-0284"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 4151", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4651", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0284": {
+            "courseDescription": "continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the third year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will participate in practice sessions necessary to develop an understanding of and skills required in patient assessment. Students will build on their pharmacist care skills to meet patients' drug-related needs in more complex patient scenarios, drug information skills to assess information needs, and medication preparation and dispensing skills to optimize safe and accurate medication delivery. Scenarios will relate to the courses of study in the third year and draw on material studies in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 
+            "CO": "all Academic Term 5 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHAR 4150", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4650", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0287": {
+            "courseDescription": "(same as the former PHAR 5150) continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the fourth year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will build on their pharmacist care skills to meet patients&rsquo; drug-related needs in patients with multiple drug related problems. Refinement of verbal and written communication skills will be focus. Scenarios will relate to the courses of study in the fourth year and draw on material studies in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 
+            "CO": "all Academic Term 7 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHAR 5150", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "5650", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0286": {
+            "PR": "PHAR 4505 or equivalent", 
+            "courseDescription": "(same as the former PHAR 5501) discusses the principles of critical appraisal and provides opportunities to apply these principles to critique and evaluate current medical literature. Students will be assigned to a tutorial group, which will meet twice during the semester to critically appraise at least two recently published studies. Emphasis will be placed on appropriate application of critical appraisal skills and group discussion of impact of study findings on clinical practice.", 
+            "CH": "1", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Research and Evaluation III", 
+            "prerequisites": [
+                "PHAR-0283"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 5501", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "5506", 
+            "OR": "tutorials 1 hour per week"
+        }, 
+        "PHAR-0281": {
+            "PR": "PHAR 2101 , 2102 , and 3301", 
+            "courseDescription": "discusses the principal roles of health systems and health policy with a special emphasis on pharmaceutical policy and its impact on the profession, the public and on the delivery of pharmaceutical care. The principles of health promotion and the role of the pharmacist will be discussed. Students will gain knowledge about health challenges facing society, how education affects health, the roles of the pharmacist in educating and promoting health to patients.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Patient Care II", 
+            "prerequisites": [
+                "PHAR-0132", 
+                "PHAR-0133", 
+                "PHAR-0150"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 4301 and the former 3501", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4302"
+        }, 
+        "PHAR-0280": {
+            "PR": "Medicine 4300 , PHAR 2202 and 3009", 
+            "courseDescription": "(same as the former PHAR 3206) is an introduction to biopharmaceutical and pharmacokinetic principles used in the selection, dosing, monitoring and evaluation of drug therapy. Application of these principles in evaluating drug literature and developing drug dosage regimens of selected classes of drugs for individual patients will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Pharmacokinetics", 
+            "prerequisites": [
+                "MED-0404", 
+                "PHAR-0137", 
+                "PHAR-0140"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 3206", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4201"
+        }, 
+        "PHAR-0283": {
+            "PR": "PHAR 4504 or equivalent", 
+            "courseDescription": "introduces students to principles of critical appraisal and provides opportunities to apply these principles to critique and evaluate current medical literature. Students will be assigned to a tutorial group, which will meet twice during the semester to critically appraise at least two recently published studies (journal club). Emphasis will be placed on appropriate application of critical appraisal skills and group discussion of impact of study findings on clinical practice. In addition, this course will also discuss drug utilization reviews and evaluations and the role of the pharmacist, as well as adverse drug event reporting and the role of the pharmacist.", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Research and Evaluation II", 
+            "prerequisites": [
+                "PHAR-0282"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 4502", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4505", 
+            "OR": "tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0282": {
+            "courseDescription": "introduces the biostatistical, pharmacoepidemiologic and pharmacoeconomic concepts and develops the skills necessary to the practice of research and evaluation methods in applied pharmacy. The understanding of such methods is an important prerequisite in the critical appraisal of the health literature and the undertaking of evidence-based clinical practice.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Research and Evaluation I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHAR 4501", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "4504"
+        }, 
+        "PHAR-0189": {
+            "PR": "PHAR 4402", 
+            "courseDescription": "is part in a series that looks at the therapeutic management of common diseases. Topics may include but are not restricted to endocrine, psychiatric, renal and cardiovascular disorders. For each disease state discussion will centre around several key issues including: the establishment of desired therapeutic outcomes; development of appropriate pharmacological and non-pharmacological therapeutic alternatives; factors to be considered to aid in the selection of an individualized therapeutic regimen; and the development of a monitoring plan to evaluate efficacy and safety.", 
+            "CH": "6", 
+            "LC": "6", 
+            "concurrent": [], 
+            "courseTitle": "Therapeutics III", 
+            "prerequisites": [
+                "PHAR-0170"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5401", 
+            "OR": "tutorials 2 hours per week"
+        }, 
+        "PHAR-0162": {
+            "PR": "successful completion of all courses in Academic Terms 5 &amp; 6 of the program", 
+            "courseDescription": "is a structured practice experience in community pharmacy after completion of the third year which will provide an opportunity for students to apply their technical skills and practice and participate in patient care activities. The practical experience is normally comprised of four weeks during May/June.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Structured Practice Experience III", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "403W"
+        }, 
+        "PHAR-0186": {
+            "courseDescription": "covers the toxicology and clinical management of toxicity associated with common medications.", 
+            "CH": "2", 
+            "CO": "PHAR 5401", 
+            "LC": "2", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Toxicology", 
+            "prerequisites": [], 
+            "corequisites": [
+                "PHAR-0189"
+            ], 
+            "courseNumber": "5301"
+        }, 
+        "PHAR-0187": {
+            "courseDescription": "focuses on pharmaceutical care considerations in special patient populations (e.g., geriatrics, neonates, pediatrics, pregnancy and lactation, critically ill, etc.). Implementation of pharmaceutical care in hospital, ambulatory and community practice settings will be discussed.", 
+            "CO": "PHAR 5401", 
+            "concurrent": [], 
+            "courseTitle": "Patient Care III", 
+            "prerequisites": [], 
+            "corequisites": [
+                "PHAR-0189"
+            ], 
+            "courseNumber": "5302", 
+            "OR": "tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0182": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutical Research", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "501A/B"
+        }, 
+        "PHAR-0180": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Hospital Pharmacy Administration", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5013"
+        }, 
+        "PHAR-0278": {
+            "courseDescription": "continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the second year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Pharmacy practice in the hospital setting will be a focus. Students will participate in sterile product preparation and practice drug information and pharmaceutical calculation skills relevant to hospital practice. Students will develop pharmacist care plans and will further develop their patient education skills. Scenarios will relate to the courses of study in the second year and draw on material studied in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 
+            "CO": "all Academic Term 3 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHAR 3150", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "3650", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0279": {
+            "PR": "PHAR 3650", 
+            "courseDescription": "continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the second year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will participate in practice sessions necessary to develop an understanding of and skills required in patient assessment and patient education related to patient self-care. Students will build on their pharmacist care skills to meet patients&rsquo; drug-related needs in uncomplicated patient scenarios and drug information skills to assess information needs. Scenarios will relate to the courses of study in the second year and draw on material studies in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 
+            "CO": "all Academic Term 4 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [
+                "PHAR-0278"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 3151", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "3651", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0128": {
+            "courseDescription": "presents a survey of human anatomy and physiology throughout the lifespan. It includes aspects of cytology and histology that form a foundation for the practice of pharmacy. Special emphasis is given to the skeletal, muscular, nervous and endocrine systems. The course will include both the vocabulary and concepts of anatomy and physiology with the overall goal being the understanding of the interrelationships and integration of all systems from the cell to whole organism.", 
+            "concurrent": [
+                "NURS-0384"
+            ], 
+            "courseTitle": "Anatomy and Physiology I", 
+            "LH": "2; attendance is required", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Nursing 1002", 
+            "courseNumber": "2002"
+        }, 
+        "PHAR-0129": {
+            "PR": "PHAR 2002", 
+            "courseDescription": "presents a survey of human anatomy and physiology throughout the lifespan. It includes aspects of cytology and histology that form a foundation for the practice of pharmacy. Special emphasis is given to the endocrine, circulatory, respiratory, urinary, digestive and reproductive systems. The course will include both the vocabulary and concepts of anatomy and physiology with the overall goal being the understanding of the interrelationships and integration of all systems from the cell to whole organism.", 
+            "concurrent": [
+                "NURS-0387"
+            ], 
+            "courseTitle": "Anatomy and Physiology II", 
+            "LH": "2; attendance is required", 
+            "prerequisites": [
+                "PHAR-0128"
+            ], 
+            "corequisites": [], 
+            "CR": "Nursing 1012", 
+            "courseNumber": "2003"
+        }, 
+        "PHAR-0275": {
+            "courseDescription": "provides an introduction to the skills necessary for pharmacy practice in order to meet the educational outcomes for the first year of the pharmacy program. This course is the first in a series of Pharmacy Skills courses, all of which require students to acquire and apply the knowledge, attitudes and skills necessary for the effective practice of the profession. Students will begin to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will apply basic knowledge and skills in drug information, technology, interpersonal communications and pharmacy legislation to simulated practice situations. Students will develop public communication skills through the completion of a professional communications program. Activities in this course will complement material covered in the concurrent course PHAR", 
+            "CO": "all Academic Term 1 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former PHAR 2150", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "2650", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0276": {
+            "PR": "PHAR 2101 and 2650", 
+            "courseDescription": "provides an introduction to the skills necessary for pharmacy practice in order to meet the education outcomes for the first year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Pharmacy practice in the community pharmacy setting will be a focus. Students will develop dispensing, drug information and pharmaceutical calculations skills relevant to community pharmacy practice. Students will begin developing their patient interaction and patient education skills. Activities in this course will complement material covered in the concurrent PHAR", 
+            "CO": "all Academic Term 2 Pharmacy courses", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Skills", 
+            "prerequisites": [
+                "PHAR-0132", 
+                "PHAR-0275"
+            ], 
+            "corequisites": [], 
+            "CR": "the former PHAR 2151", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "2651", 
+            "OR": "practical sessions 3 hours per week; tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0277": {
+            "PR": "PHAR 2004", 
+            "courseDescription": "(same as Biochemistry", 
+            "concurrent": [
+                "SCI-0720", 
+                "SCI-0842"
+            ], 
+            "courseTitle": "Immunology", 
+            "prerequisites": [
+                "PHAR-0130"
+            ], 
+            "corequisites": [], 
+            "CR": "Biochemistry 4105 , Biology 4200 , and the former PHAR 4105", 
+            "UL": "not applicable to the Bachelor of Science (Pharmacy) program for students admitted prior to Fall 2011", 
+            "courseNumber": "3006"
+        }, 
+        "PHAR-0148": {
+            "PR": "PHAR 2202", 
+            "courseDescription": "consists of several units. The standards of good manufacturing practice will be introduced. Characteristics, preparation, quality assurance and delivery systems for sterile products will be covered. The basic principles governing the application of radiation and radioactive compounds in medical diagnosis and therapy will be discussed. The status of current biotechnology-based pharmaceuticals and biotechnology related matters will be addressed.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutics III", 
+            "prerequisites": [
+                "PHAR-0137"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3205"
+        }, 
+        "PHAR-0142": {
+            "courseDescription": "examines the various types of micro-organisms (bacterial, viral, parasitic and fungal), the environment in which they are able to multiply and their relationship to human diseases. The classifications of their morphology, mode of reproduction and the metabolic process, the physiological and epidemiological principles of infectious diseases and their manifestations are discussed including the principles of immunization.", 
+            "concurrent": [], 
+            "courseTitle": "Microbiology of Infectious Diseases", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3103"
+        }, 
+        "PHAR-0143": {
+            "PR": "PHAR 2004 or Biochemistry 2101", 
+            "courseDescription": "covers the catabolism of carbohydrates, lipids and amino acids. Mitochondria, chloroplasts and ATP synthesis. Biosynthesis of carbohydrates and lipids. Metabolic specialization of differentiated cells and tissues. Integration of metabolism.", 
+            "concurrent": [
+                "SCI-0704"
+            ], 
+            "courseTitle": "General Biochemistry", 
+            "prerequisites": [
+                "PHAR-0130", 
+                "SCI-0692"
+            ], 
+            "corequisites": [], 
+            "CR": "Biochemistry 3106", 
+            "courseNumber": "3111", 
+            "OR": "tutorials as required"
+        }, 
+        "PHAR-0140": {
+            "PR": "Medicine 4300 or equivalent", 
+            "courseDescription": "explores topics in general pharmacology including drugs used in the treatment of inflammatory diseases, renal pharmacology, anticoagulant and antithrombotic drugs, antihyperlipidemics, drugs used in the treatment of anemia, and endocrine pharmacology.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacology", 
+            "prerequisites": [
+                "MED-0404"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3009"
+        }, 
+        "PHAR-0141": {
+            "PR": "successful completion of all courses in Academic Terms 3 &amp; 4 of the program.", 
+            "courseDescription": "is a structured practice experience in hospital pharmacy after completion of the second year which will provide an opportunity for students to apply their technical skills and introduce them to patient care activities. The practical experience is normally comprised of four weeks during May/June.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Structured Practice Experience II", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "302W"
+        }, 
+        "PHAR-0146": {
+            "PR": "Chemistry 2440 or Chemistry 2400 and 2401", 
+            "courseDescription": "presents topics covering the molecular basis of action, metabolism, and toxicity of drugs. It provides an orientation to medicinally important nuclei and their nomenclature, followed by principles of drug discovery and development. The relationship between molecular structure and biological action of drugs together with elementary molecular modelling, and theories related to receptors and drug action will be presented. Concepts of drug metabolism and the relevant metabolic pathways in relationship to drug inactivation and toxicity, along with the principles of drug latentiation and prodrugs is covered. The structures, selected physicochemical properties, mechanism of action, structure-activity relationships, toxic effects at molecular level, and metabolism of drugs including central nervous system.", 
+            "CO": "Medicine 4300 and PHAR 3003", 
+            "concurrent": [], 
+            "courseTitle": "Medicinal Chemistry I", 
+            "prerequisites": [
+                "SCI-0925", 
+                "SCI-0921", 
+                "SCI-0923"
+            ], 
+            "corequisites": [
+                "MED-0404", 
+                "PHAR-0139"
+            ], 
+            "courseNumber": "3203", 
+            "OR": "tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0147": {
+            "PR": "PHAR 3203", 
+            "courseDescription": "is a continuation of Pharmacy", 
+            "CO": "PHAR 3009", 
+            "concurrent": [], 
+            "courseTitle": "Medicinal Chemistry II", 
+            "prerequisites": [
+                "PHAR-0146"
+            ], 
+            "corequisites": [
+                "PHAR-0140"
+            ], 
+            "courseNumber": "3204", 
+            "OR": "tutorials 1 hour per week; attendance is required"
+        }, 
+        "PHAR-0169": {
+            "PR": "Medicine 4300 , PHAR 3006 and 3009", 
+            "courseDescription": "is a part of a series that looks at the therapeutic management of common diseases. Topics may include but are not restricted to infectious diseases, hematology/oncology, and dermatology. For each disease state discussion will centre around several key issues including: the establishment of desired therapeutic outcomes; development of appropriate pharmacological and non-pharmacological therapeutic alternatives; factors to be considered to aid in the selection of an individualized therapeutic regimen; and the development of a monitoring plan to evaluate efficacy and safety.", 
+            "CH": "6", 
+            "CO": "PHAR 4008 and 4201", 
+            "LC": "6", 
+            "concurrent": [], 
+            "courseTitle": "Therapeutics I", 
+            "prerequisites": [
+                "MED-0404", 
+                "PHAR-0277", 
+                "PHAR-0140"
+            ], 
+            "corequisites": [
+                "PHAR-0156", 
+                "PHAR-0280"
+            ], 
+            "courseNumber": "4401", 
+            "OR": "tutorials 2 hours per week; attendance is required"
+        }, 
+        "PHAR-0139": {
+            "PR": "PHAR 2003 or equivalent", 
+            "courseDescription": "examines the nature of disease, causes and effects, and alteration in structure and function of cells, inflammation, neoplasia, genetic and chromosomal diseases, healing and repair, stress and disease.", 
+            "concurrent": [], 
+            "courseTitle": "Pathophysiology", 
+            "prerequisites": [
+                "PHAR-0129"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3003"
+        }, 
+        "PHAR-0138": {
+            "PR": "Chemistry 1050 and 1051 or Chemistry 1200 and 1001 or equivalent", 
+            "courseDescription": "is designed to introduce some important techniques and methods of analysis in pharmaceutical sciences. The laboratory exercises consist of both non-instrumental and instrumental analytical techniques that are widely employed in the analysis of pharmaceuticals.", 
+            "CH": "2", 
+            "LC": "2", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutical Analysis", 
+            "LH": "3 hours every other week; attendance is required", 
+            "prerequisites": [
+                "SCI-0910", 
+                "SCI-2569", 
+                "SWGC-0644", 
+                "SWGC-0643"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2203"
+        }, 
+        "PHAR-0133": {
+            "courseDescription": "continues the introduction to the legal and professional framework of the practice of pharmacy. The course will focus on federal legislation that governs the practice of pharmacy, drug information, patient education and methods to deal with challenging patient behaviours. Students will be introduced to pharmaceutical care and begin to develop a pharmacist care plan. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available. The passing grade in this course is 70%, failing which the student may be required to withdraw from the program.", 
+            "CH": "2", 
+            "CO": "PHAR 2651", 
+            "LC": "2", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Practice II", 
+            "prerequisites": [], 
+            "corequisites": [
+                "PHAR-0276"
+            ], 
+            "courseNumber": "2102", 
+            "OR": "tutorials 2 hours per week; attendance is required"
+        }, 
+        "PHAR-0132": {
+            "courseDescription": "provides an introduction to the legal and professional framework of the practice of pharmacy. Pharmacy regulations in the dispensing of medications and provincial legislation that governs the practice of pharmacy will be the focus. Students will be introduced to core competencies of the profession including professionalism, interprofessionalism, pharmaceutical calculations, drug information and effective communication strategies for the provision of pharmacist care. Application of course content will occur in the concurrent course PHAR", 
+            "CO": "PHAR 2650", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Practice I", 
+            "prerequisites": [], 
+            "corequisites": [
+                "PHAR-0275"
+            ], 
+            "courseNumber": "2101"
+        }, 
+        "PHAR-0131": {
+            "PR": "successful completion of all courses in Academic Terms 1 &amp; 2 of the program", 
+            "courseDescription": "is a structured practice experience in community pharmacy after completion of the first year which will provide an opportunity for students to apply their technical skills and introduce them to patient care activities. The structured practice experience is normally comprised of four weeks during May/June.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Structured Practice Experience I", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "201W"
+        }, 
+        "PHAR-0130": {
+            "PR": "Chemistry 2400 and 2401 or Chemistry 2440", 
+            "courseDescription": "is an introduction to the major organic substances of living organisms, proteins, carbohydrates and lipids: their structure, analysis and biochemical function. Enzymes. Biochemistry of membranes: plasma membrane and specialized intracellular membranes. Biochemistry of selected differentiated cells.", 
+            "concurrent": [
+                "SCI-0692"
+            ], 
+            "courseTitle": "Introduction to Biochemistry", 
+            "prerequisites": [
+                "SCI-0921", 
+                "SCI-0923", 
+                "SCI-0925"
+            ], 
+            "corequisites": [], 
+            "CR": "Biochemistry 2101", 
+            "courseNumber": "2004", 
+            "OR": "tutorials as required"
+        }, 
+        "PHAR-0137": {
+            "PR": "PHAR 2201", 
+            "courseDescription": "is designed to provide the student with an understanding of pharmaceutical dosage forms and their applications. It applies the principles taught in Pharmaceutics I to understand the design and components of the different pharmaceutical preparations.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutics II", 
+            "LH": "3; attendance is required", 
+            "prerequisites": [
+                "PHAR-0136"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2202"
+        }, 
+        "PHAR-0136": {
+            "PR": "Mathematics 1000 and 1001 ; and Chemistry 1050 and 1051 , or Chemistry 1200 and 1001 , or equivalent", 
+            "courseDescription": "provides an insight into a number of physicochemical basics and explains them within a pharmaceutical context. The course provides the basic foundation necessary for the study of pharmaceutical dosage forms, pharmacokinetics and bio-pharmaceutics.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutics I", 
+            "LH": "3; attendance is required", 
+            "prerequisites": [
+                "SCI-1337", 
+                "SCI-1339", 
+                "SCI-0910", 
+                "SCI-2569", 
+                "SWGC-0644", 
+                "SWGC-0643"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2201"
+        }, 
+        "PHAR-0179": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutical Analysis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5012"
+        }, 
+        "PHAR-0178": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmaceutical Biotechnology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5011"
+        }, 
+        "PHAR-0177": {
+            "PR": "successful completion of all course requirements for the degree and Clear Promotion", 
+            "courseDescription": "provides experience in clinical practice. Students will participate as members of the health care team. They will be responsible for providing pharmaceutical care to patients. Activities will include attending patient care rounds, providing in-services and drug information, and participating in case presentations. The structured practice experience is comprised of two six week modules.", 
+            "CH": "18", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Structured Practice Experience IV", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "500X"
+        }, 
+        "PHAR-0150": {
+            "PR": "Medicine 4300", 
+            "courseDescription": "is an introductory course in patient care, especially in the areas of self-care and self-treatment and the role of the pharmacist. The regulatory environment of non-prescription products and the prevention and treatment of health conditions amenable to self-management will be discussed.", 
+            "CO": "PHAR 3009", 
+            "concurrent": [], 
+            "courseTitle": "Patient Care I", 
+            "prerequisites": [
+                "MED-0404"
+            ], 
+            "corequisites": [
+                "PHAR-0140"
+            ], 
+            "courseNumber": "3301"
+        }, 
+        "PHAR-0170": {
+            "PR": "PHAR 4401", 
+            "courseDescription": "is a part in a series that looks at the therapeutic management of common diseases. Topics may include but are not restricted to women&rsquo;s health, mens&rsquo; health, gastroenterology, musculoskeletal, neurological, respiratory disorders and transplantation. For each disease state discussion will centre around several key issues including: the establishment of desired therapeutic outcomes; development of appropriate pharmacological and non-pharmacological therapeutic alternatives; factors to be considered to aid in the selection of an individualized therapeutic regimen; and the development of a monitoring plan to evaluate efficacy and safety.", 
+            "CH": "6", 
+            "LC": "6", 
+            "concurrent": [], 
+            "courseTitle": "Therapeutics II", 
+            "prerequisites": [
+                "PHAR-0169"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4402", 
+            "OR": "tutorials 2 hours per week; attendance is required"
+        }, 
+        "PHAR-0173": {
+            "courseDescription": "introduces students to the basic principles of management as it relates to pharmacy practice. Topics will include human resources and financial management, marketing, strategic planning and the principles and issues associated with safe and appropriate drug distribution. These will be discussed from both a community and an institutional practice focus.", 
+            "concurrent": [], 
+            "courseTitle": "Pharmacy Administration", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4503"
+        }, 
+        "PHAR-0156": {
+            "PR": "Medicine 4300 , PHAR 3006 , 3009 , 3103 , 3203 and 3204", 
+            "courseDescription": "presents the principles of infectious diseases and cancer chemotherapy. Topics to be explored include molecular structure profiles in relation to mechanism of action, drug resistance, and toxicity of antimicrobial, antiviral, and antineoplastic agents. Antimicrobial activity/spectrum of activity of antibacterials, antifungals, antimalarial, antituberculosis, and antiviral/antiretroviral agents will be discussed. The classification and mechanism of action of cancer chemotherapeutic agents will be presented. Pharmacokinetic considerations, adverse effects/toxicity, and drug interactions will be explored for these agents.", 
+            "CH": "2", 
+            "CO": "PHAR 4401", 
+            "LC": "2", 
+            "concurrent": [], 
+            "courseTitle": "Chemotherapy", 
+            "prerequisites": [
+                "MED-0404", 
+                "PHAR-0277", 
+                "PHAR-0140", 
+                "PHAR-0142", 
+                "PHAR-0146", 
+                "PHAR-0147"
+            ], 
+            "corequisites": [
+                "PHAR-0169"
+            ], 
+            "courseNumber": "4008", 
+            "OR": "tutorials 1 hour per week"
+        }
+    }
+}

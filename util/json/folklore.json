@@ -1,0 +1,491 @@
+{
+    "FOLK": {
+        "ARTS-6059": {
+            "courseDescription": "is an introduction to the ways in which women shape and/or are shaped by traditional culture. Readings and lectures will explore roles and contributions of women as folklore collectors, examine representations of women in folklore forms, and analyse women's creation of their own traditions.", 
+            "concurrent": [], 
+            "courseTitle": "Women and Traditional Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3950"
+        }, 
+        "ARTS-6073": {
+            "courseDescription": "critically examines how physical space is transformed into cultural place through folklore. The study of region will be used to introduce scholarship on a number of issues central to contemporary folkloristics: sense of place, space and place analysis, space and place as theory, critical regionalism, nationalism and vernacular regionalisms. Students will learn how folklore and localization interact to counter fears and assumptions regarding globalization, homogenization, and the loss of local or regional identities.", 
+            "concurrent": [], 
+            "courseTitle": "Spaces and Places", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4470"
+        }, 
+        "ARTS-6053": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to the History of Western Architecture Since the Renaissance", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3870"
+        }, 
+        "ARTS-6052": {
+            "courseDescription": "same as Archaeology", 
+            "concurrent": [
+                "ARTS-5619", 
+                "ARTS-6385"
+            ], 
+            "courseTitle": "Vernacular Architecture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3860 , History 3860", 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-6051": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5618"
+            ], 
+            "courseTitle": "Material Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3850", 
+            "courseNumber": "3850"
+        }, 
+        "ARTS-6050": {
+            "courseDescription": "as a term embraces a variety of traditions which focus on dietary practices as well as the preparation and allocation of food. As an introduction to foodways, the course will begin by looking at a variety of regional foods. In addition, both historical and contemporary approaches to the supply, storage, preparation and serving of food will be considered. In fact, we will be looking, from both practical and theoretical perspectives, at the whole range of cookery and food habits - from the acquisition of raw materials to the allocation of portions.", 
+            "concurrent": [], 
+            "courseTitle": "Foodways", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3830"
+        }, 
+        "ARTS-6057": {
+            "courseDescription": "is an examination of the transitional processes involved in the development of folk societies to mass cultures with regard to folklore and the products of popular culture. In addition, sensory and technological media theories will be scrutinized and evaluated in conjunction with cultural comparisons of the qualities and functions of: folksong, disc recordings and the radio; folktales, television melodrama and popular film; folk art and popular \"techno-art\" forms.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore and Popular Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 2400", 
+            "courseNumber": "3930"
+        }, 
+        "ARTS-6056": {
+            "courseDescription": "familiarizes students with the function of Folklore in the educational process. Emphasis will be on cultural transmission and cultural learning inside and outside the K-12 classroom.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore and Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3920"
+        }, 
+        "ARTS-6055": {
+            "courseDescription": "concerns the development and role of tradition in occupational groups and work settings. Verbal and non-verbal codes including narratives, joking relationships, pranks, material culture, and labourlore will be examined in a variety of contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Traditions of Work", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3910"
+        }, 
+        "ARTS-6054": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Newfoundland and Labrador Vernacular Furnishings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-6075": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topic in Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4500-4520"
+        }, 
+        "ARTS-6017": {
+            "courseDescription": "(same as the former Anthropology 2300) is a survey of the full range of folklore in the province, with an emphasis on community and regional identity.", 
+            "concurrent": [], 
+            "courseTitle": "Newfoundland and Labrador Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 2300, the former FOLK 3420", 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-6077": {
+            "courseDescription": "will be offered as determined by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Reading Course", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4700-4715"
+        }, 
+        "ARTS-6076": {
+            "courseDescription": "will be determined by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Research in Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4600-4615"
+        }, 
+        "ARTS-6071": {
+            "PR": "completion of at least 24 credit hours of university course work", 
+            "courseDescription": "(same as the former Anthropology 4440, Music", 
+            "concurrent": [
+                "MUSIC-1017"
+            ], 
+            "courseTitle": "Music and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 4440, Music 4040 , the former Music 4440", 
+            "courseNumber": "4440"
+        }, 
+        "ARTS-6070": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "French Folklore in the New World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4420"
+        }, 
+        "ARTS-6019": {
+            "courseDescription": "(same as the former Anthropology 2500) focuses on the analysis of folk literature - narrative, poetry and song, drama, and speech from around the world - through textual, comparative and contextual methods.", 
+            "concurrent": [], 
+            "courseTitle": "Oral Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Anthropology 2500, the former English 3400, the former FOLK 3400, the former Sociology/Anthropology 3400", 
+            "courseNumber": "2500"
+        }, 
+        "ARTS-6018": {
+            "courseDescription": "examines the interweaving of traditional elements in the tangible and intangible cultural heritage of various cultures. These may include holiday customs, rites of passage, folk religion, home remedies, clothing, food and art.", 
+            "concurrent": [], 
+            "courseTitle": "Folklife Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 3500", 
+            "courseNumber": "2401"
+        }, 
+        "ARTS-6031": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topic in Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3601-3640 (Excluding 3606, 3612 and 3618)"
+        }, 
+        "ARTS-6030": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5609"
+            ], 
+            "courseTitle": "Collections Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3591", 
+            "courseNumber": "3591"
+        }, 
+        "ARTS-6033": {
+            "courseDescription": "provides an introduction to the study of one of the most rapidly expanding and exciting areas of folk narrative research. The course looks at the main features of the urban legend and the topics they cover. Examination is also made as to how, when, where and why stories of this type are used, including their incorporation into television programs, films and literature.", 
+            "concurrent": [], 
+            "courseTitle": "Urban Legend", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3612"
+        }, 
+        "ARTS-6032": {
+            "courseDescription": "focuses on the ethnography of belief systems. Students examine patterns of belief and the features of supernatural folklore.", 
+            "concurrent": [], 
+            "courseTitle": "Supernatural Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3606"
+        }, 
+        "ARTS-6013": {
+            "PR": "while there is no prerequisite for this course, students should note that they will need to take Folklore 1000 (or the former 2000) before they can advance to other courses", 
+            "courseDescription": "is an introduction to traditional expressive behaviour as cultural experience. Readings and lectures will explore the various meanings of \"culture\" from interdisciplinary perspectives and link the development of theoretical approaches to culture (evolutionary, materialist, particularist, psychological, semiotic, dramaturgic) to specific folkloric phenomena. Illustrations will derive primarily from children's folklore, material culture, and occupational folklife.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore and Culture", 
+            "prerequisites": [
+                "ARTS-6011"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1060"
+        }, 
+        "ARTS-6015": {
+            "PR": "it is strongly recommended that majors and minors take this course before taking 3000 and 4000 level courses", 
+            "courseDescription": "introduces the resources, tools and methods that folklorists use for primary and secondary research, including interviewing and participant observation. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore Research Methods", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2100"
+        }, 
+        "ARTS-6011": {
+            "courseDescription": "explores the role of tradition in communication, art and society. Reading assignments and audiovisual material will emphasize the use of folklore in context. Students will analyse traditions in their own lives through special assignments.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 2000", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6079": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore in the Community Context", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "400X"
+        }, 
+        "ARTS-6078": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6410"
+            ], 
+            "courseTitle": "Documents Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 4810", 
+            "courseNumber": "4810"
+        }, 
+        "ARTS-6072": {
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6798"
+            ], 
+            "courseTitle": "Folk Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 4460 , the former FOLK 4240", 
+            "courseNumber": "4460"
+        }, 
+        "ARTS-6068": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Traditional Culture of French-Newfoundlanders", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-6080": {
+            "courseDescription": "may be written or oral, or a combination of both.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Comprehensive Examination", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4998"
+        }, 
+        "ARTS-6081": {
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-6069": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore of France", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4410"
+        }, 
+        "ARTS-6049": {
+            "courseDescription": "provides an introduction to the study of the forms of British, European, and North American folk custom. Issues for discussion will include the diffusion, functions, maintenance and invention of calendar, seasonal, occupational, and life-cycle customs. As such, we will review much of the new scholarship which has shifted folkloristic attention from origins of customs to the analysis of custom as symbolic behaviour. Current work on the study of custom has examined, for example, the legitimation of class interests via traditional customs, the play of metaphor in festivals, and the symbolic statement of social obligations through life-cycle ritual.", 
+            "concurrent": [], 
+            "courseTitle": "Folk Custom", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 3600", 
+            "courseNumber": "3820"
+        }, 
+        "ARTS-6044": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Jazz and Blues: The Roots of Popular Music", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3618"
+        }, 
+        "ARTS-6045": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5612", 
+                "ARTS-5614"
+            ], 
+            "courseTitle": "Artifacts of Colonial America", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 3650 , Archaeology 3683 , the former Anthropology 3683", 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-6046": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Museums and Historic Sites", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3700"
+        }, 
+        "ARTS-6047": {
+            "courseDescription": "is available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Folklore", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729"
+        }, 
+        "ARTS-6016": {
+            "courseDescription": "(same as Sociology", 
+            "concurrent": [
+                "ARTS-6815"
+            ], 
+            "courseTitle": "Newfoundland Society and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Sociology 2230 , the former Sociology/Anthropology 2230, the former Anthropology 2230", 
+            "courseNumber": "2230"
+        }, 
+        "ARTS-6028": {
+            "courseDescription": "examines the role of play in the folklore of children and adults with particular attention to games, rhymes, proverbs and other small genres of wordplay.", 
+            "concurrent": [], 
+            "courseTitle": "Language and Play", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3450"
+        }, 
+        "ARTS-6029": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5914"
+            ], 
+            "courseTitle": "Folklore and Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3460 , the former English 4450, the former FOLK 4450", 
+            "courseNumber": "3460"
+        }, 
+        "ARTS-6063": {
+            "PR": "FOLK 2300", 
+            "courseDescription": "studies rural and urban Newfoundland and Labrador with specific reference to a culture in transition. Folklore is examined as one of the channels through which a people maintain, change and adapt various cultural patterns.", 
+            "concurrent": [], 
+            "courseTitle": "Studies in Newfoundland and Labrador Folklore", 
+            "prerequisites": [
+                "ARTS-6017"
+            ], 
+            "corequisites": [], 
+            "CR": "the former FOLK 3421", 
+            "courseNumber": "4310"
+        }, 
+        "ARTS-6060": {
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5621", 
+                "ARTS-6186"
+            ], 
+            "courseTitle": "Cultural Resource Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 4015 , Geography 4015", 
+            "courseNumber": "4015", 
+            "OR": "three hours of seminar per week"
+        }, 
+        "ARTS-6061": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History and Memory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6022": {
+            "courseDescription": "is a study of fictional folk narratives told worldwide. Students may be asked to read, collect, and/or analyze folktales.", 
+            "concurrent": [], 
+            "courseTitle": "Fictional Worlds: The Folktale", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 4200", 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6023": {
+            "courseDescription": "(same as Music", 
+            "concurrent": [
+                "MUSIC-0392"
+            ], 
+            "courseTitle": "Music, Song and Tradition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Music 3017 , the former FOLK 2430", 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6020": {
+            "courseDescription": "allows students to develop their skills in cultural documentation as they work within a team-based approach to record and analyse Memorial University&rsquo;s unofficial culture. Course readings cover ethnographic practices and issues as well as the dynamics of student and work culture. Through a series of hands on fieldwork assignments students engage in research, cultural description, analytic writing and presentation. In documenting local university culture, they learn about the variety, persistence, and flexibility of traditional culture as it lives in the present. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Ethnography of the University", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "ARTS-6021": {
+            "PR": "it is recommended, but not obligatory, that students should have successfully completed one of the following courses: Archaeology 2480, FOLK 1000 or the former 2000, History 2320 /Medieval Studies 2001 , History 2330 /Medieval Studies 2002 , Medieval Studies 2000", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5590", 
+                "ARTS-6328", 
+                "ARTS-6519"
+            ], 
+            "courseTitle": "Art, Architecture and Medieval Life", 
+            "prerequisites": [
+                "ARTS-6011", 
+                "ARTS-6311", 
+                "ARTS-6516", 
+                "ARTS-6312", 
+                "ARTS-6517", 
+                "ARTS-6515"
+            ], 
+            "corequisites": [], 
+            "CR": "Archaeology 3001 , History 3020 , and Medieval Studies 3001", 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-6026": {
+            "courseDescription": "examines how the body is socially constructed and how it is represented through folklore genres from narrative, to material culture and custom. It considers how culture is both inscribed on the body and how it is bodily performed.", 
+            "concurrent": [], 
+            "courseTitle": "Folklore of the Body", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 3611", 
+            "courseNumber": "3350"
+        }, 
+        "ARTS-6027": {
+            "courseDescription": "is 1) an introduction to the many ways that sexual identities are displayed, developed, and categorized through informal and everyday cultural performances, i.e., folklore; 2) a study of how such performances relate to various folklore genres, including folk language and narrative, music/song/ballad, material culture/space, and festival/ritual; and 3) an examination of how social power structures are (de)constructed and negotiated through folk processes involving sexuality/sexual identities.", 
+            "concurrent": [], 
+            "courseTitle": "Sex/Folklore/Power", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3360"
+        }, 
+        "ARTS-6024": {
+            "courseDescription": "examines traditional balladry (including subgenres such as tragic, comic, romantic, religious, and medieval ballads) in the contexts of transmission, function, performance, and aesthetics. Differences in dealing with written literature and the literature of tradition will also be addressed.", 
+            "concurrent": [], 
+            "courseTitle": "Song Worlds: The Ballad", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former FOLK 4445", 
+            "courseNumber": "3250"
+        }, 
+        "ARTS-6025": {
+            "courseDescription": "is a survey of traditional drama and its study with an emphasis on North America and Great Britain from social function, performance, and aesthetic perspectives.", 
+            "concurrent": [], 
+            "courseTitle": "Vernacular Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-6074": {
+            "courseDescription": "same as History", 
+            "concurrent": [
+                "ARTS-6402"
+            ], 
+            "courseTitle": "Oral History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 4480", 
+            "courseNumber": "4480"
+        }
+    }
+}

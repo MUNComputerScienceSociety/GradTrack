@@ -1,0 +1,269 @@
+{
+    "MED": {
+        "MED-0766": {
+            "courseDescription": "No description available.", 
+            "CH": "10", 
+            "concurrent": [], 
+            "courseTitle": "Obstetrics/Gynecology", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7250"
+        }, 
+        "MED-0767": {
+            "courseDescription": "No description available.", 
+            "CH": "12 (4 each)", 
+            "concurrent": [], 
+            "courseTitle": "Electives", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7260, 7261, 7263"
+        }, 
+        "MED-0764": {
+            "courseDescription": "No description available.", 
+            "CH": "10", 
+            "concurrent": [], 
+            "courseTitle": "Pediatrics", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7230"
+        }, 
+        "MED-0765": {
+            "courseDescription": "No description available.", 
+            "CH": "5", 
+            "concurrent": [], 
+            "courseTitle": "Rural Family Practice", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7240"
+        }, 
+        "MED-0762": {
+            "courseDescription": "No description available.", 
+            "CH": "10", 
+            "concurrent": [], 
+            "courseTitle": "Surgery", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7210"
+        }, 
+        "MED-0763": {
+            "courseDescription": "No description available.", 
+            "CH": "10", 
+            "concurrent": [], 
+            "courseTitle": "Psychiatry", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7220"
+        }, 
+        "MED-0761": {
+            "courseDescription": "No description available.", 
+            "CH": "15", 
+            "concurrent": [], 
+            "courseTitle": "Internal Medicine", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7200"
+        }, 
+        "MED-0389": {
+            "courseDescription": "No description available.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Clerkship Preparation Course", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7000"
+        }, 
+        "MED-0768": {
+            "courseDescription": "No description available.", 
+            "CH": "4-12", 
+            "concurrent": [], 
+            "courseTitle": "Selectives", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "CR": "students may not receive credit for MED 7273 and all of MED 7270, 7271 and 7272", 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7270-7273"
+        }, 
+        "MED-0769": {
+            "courseDescription": "No description available.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Integrated Basic, Community Health and Clinical Sciences", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not applicable to the M.D. program for students admitted Fall 2013 or later", 
+            "courseNumber": "7280"
+        }, 
+        "MED-0787": {
+            "courseDescription": "has students apply knowledge of reversible or modifiable health problems to chronic conditions for diagnosis and management of the patient.", 
+            "CH": "36", 
+            "concurrent": [], 
+            "courseTitle": "The Patient: Chronic Conditions", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7710"
+        }, 
+        "MED-0780": {
+            "courseDescription": "has students build on their knowledge of the normal structure and function of the body and analyze disruptions in health by exploring the pathophysiology of illnesses, their risk factors and risk prevention strategies.", 
+            "CH": "21", 
+            "concurrent": [], 
+            "courseTitle": "The Patient: Acute or Episodic Health Problems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "6750"
+        }, 
+        "MED-0781": {
+            "courseDescription": "has students develop clinical reasoning skills used in patient-centered care using focused interviewing, examination, and communication skills.", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Skills II", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "6760"
+        }, 
+        "MED-0782": {
+            "courseDescription": "has students apply concepts that encompass the non-medical expert CanMEDS roles of scholar, communicator, collaborator, advocate, manager and professional in the context of the patient&rsquo;s change in health status management and prevention.", 
+            "concurrent": [], 
+            "courseTitle": "Special Projects II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "6770"
+        }, 
+        "MED-0783": {
+            "courseDescription": "places students in physicians&rsquo; practices for two weeks to further experience interactions among patients, their family physician and the health care system when presenting with a change in health status.", 
+            "concurrent": [], 
+            "courseTitle": "Community Engagement II", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "6780"
+        }, 
+        "MED-0788": {
+            "courseDescription": "has students advance their assessment skills of patients who have chronic health issues. They will develop verbal and written communication skills required for patient-centered care.", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Skills III", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "7720"
+        }, 
+        "MED-0789": {
+            "courseDescription": "continues to develop student competencies in the non-Medical Expert CanMEDS roles introduced in previous special project courses.", 
+            "concurrent": [], 
+            "courseTitle": "Special Projects III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7730"
+        }, 
+        "MED-0773": {
+            "courseDescription": "introduces students to the structure and function of healthy people in all age groups in an integrated way. Students will learn in the context of a person as part of a family in a community. Students will begin to examine their future roles as professionals in our health care system.", 
+            "CH": "19", 
+            "concurrent": [], 
+            "courseTitle": "The Healthy Person", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5710"
+        }, 
+        "MED-0775": {
+            "courseDescription": "introduces students to concepts that encompass the non-medical expert CanMEDS roles of scholar, communicator, collaborator, advocate, manager and professional in the context of the healthy person, family and the physician within health care systems.", 
+            "concurrent": [], 
+            "courseTitle": "Special Projects I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5730"
+        }, 
+        "MED-0774": {
+            "courseDescription": "introduces students to the main elements of the medical interview and techniques of interviewing. Students will develop skills in examining healthy individuals within all age ranges. Communication and collaboration skills will be developed in the context of patient-centered care and working with other health care providers.", 
+            "concurrent": [], 
+            "courseTitle": "Clinical Skills I", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "5720"
+        }, 
+        "MED-0776": {
+            "courseDescription": "places students in community sites for two weeks to experience a variety of aspects of the health care system with various health agencies, a family physician, and other health care providers.", 
+            "concurrent": [], 
+            "courseTitle": "Community Engagement I", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "5740"
+        }, 
+        "MED-0797": {
+            "courseDescription": "enables students to be assigned to a physician, physician group or discipline for experiences that focus on following patients as they interact with the health care system.", 
+            "CH": "12", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Practice Integration", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "8740"
+        }, 
+        "MED-0796": {
+            "courseDescription": "are offered in two - four week blocks in approved areas of study for a maximum of twelve weeks.", 
+            "CH": "12", 
+            "concurrent": [], 
+            "courseTitle": "Electives", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "8730"
+        }, 
+        "MED-0795": {
+            "courseDescription": "provides students with opportunities to advance their procedural and clinical skills to promote patient safety and work effectively in team settings.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Procedural Competencies", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "8720"
+        }, 
+        "MED-0794": {
+            "courseDescription": "immerses students in the clinical environment through experiences in core disciplines including internal medicine, surgery, obstetrics and gynecology, rural family practice, paediatrics and psychiatry.", 
+            "CH": "56", 
+            "concurrent": [], 
+            "courseTitle": "Core Experiences", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "8710"
+        }, 
+        "MED-0790": {
+            "courseDescription": "introduces students to skills required to succeed in their clinical experiences to achieve a level of competency for Phase 4.", 
+            "concurrent": [], 
+            "courseTitle": "Phase 4 Preparation", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "7740"
+        }, 
+        "MED-0798": {
+            "courseDescription": "will focus on the transition to postgraduate training as a part of the continuum of medical education.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Practice Continuum", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "8750"
+        }
+    }
+}

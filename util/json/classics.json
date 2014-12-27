@@ -1,0 +1,728 @@
+{
+    "CLAS": {
+        "ARTS-5705": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Greek History and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-5723": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Epistolography", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4225"
+        }, 
+        "ARTS-5689": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6752"
+            ], 
+            "courseTitle": "Roman Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3020 , the former CLAS 3121, the former Religious Studies 3121", 
+            "courseNumber": "3020"
+        }, 
+        "ARTS-5688": {
+            "PR": "it is strongly recommended that majors and minors take this course before taking 3000 and 4000 level courses", 
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6751"
+            ], 
+            "courseTitle": "Greek Religion", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3010 , the former CLAS 3121, the former Religious Studies 3121", 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-5687": {
+            "courseDescription": "is an introduction to significant developments in ancient Greek and Roman science and technology with emphasis on interpreting the primary evidence, including written sources (in translation) and material remains, assessing the historical context, and considering the nature of advancements.", 
+            "concurrent": [], 
+            "courseTitle": "Science and Technology in the Ancient World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2900"
+        }, 
+        "ARTS-5658": {
+            "PR": "CLAS 2300", 
+            "courseDescription": "refines the skills developed in Intermediate Greek and applies them to selected readings of Greek authors.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Ancient Greek", 
+            "prerequisites": [
+                "ARTS-5656"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CLAS 2305", 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-5685": {
+            "courseDescription": "introduces students to Latin Literature from the Republican to the Late Antique Periods. Students will study epic poetry, drama and other genres typical of these periods. Students will also be introduced to important themes, methodologies and scholarship. This course may be offered as a research/writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Literature of Ancient Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former English 3111, the former Classics 3111", 
+            "courseNumber": "2500"
+        }, 
+        "ARTS-5684": {
+            "courseDescription": "introduces students to Greek Literature from the Archaic to the Imperial Periods. Students will study epic poetry, drama and other genres typical of these periods. Students will also be introduced to important themes, methodologies and scholarship. This course may be offered as a research/writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Literature of Ancient Greece", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Classics 3110, the former English 3110", 
+            "courseNumber": "2400"
+        }, 
+        "ARTS-5683": {
+            "courseDescription": "is an examination of the role of women in ancient Mediterranean civilizations from the perspectives of social and political history and culture. Critical assessments of relevant scholarship and methodologies will be included.", 
+            "concurrent": [], 
+            "courseTitle": "Women in the Ancient World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2055"
+        }, 
+        "ARTS-5682": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6303"
+            ], 
+            "courseTitle": "History of the Roman Empire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2042 , the former CLAS 2040, the former History 2040", 
+            "courseNumber": "2042"
+        }, 
+        "ARTS-5681": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6302"
+            ], 
+            "courseTitle": "History of the Roman Republic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2041 , the former CLAS 2040, the former History 2040", 
+            "courseNumber": "2041"
+        }, 
+        "ARTS-5673": {
+            "courseDescription": "is an introduction to some of the major myths of ancient Greece and Rome, with particular attention to the heroes. The myths will be studied with reference to their social and historical contexts, literary and artistic representations, and modern theories of interpretation.", 
+            "concurrent": [], 
+            "courseTitle": "Heroes in Classical Mythology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former CLAS 1050", 
+            "courseNumber": "1052"
+        }, 
+        "ARTS-5714": {
+            "courseDescription": "is an introduction to the grammar and syntax of Latin, with particular attention paid to the acquisition of basic skills in reading, composition, and aural comprehension.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Latin I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former CLAS 120A", 
+            "courseNumber": "1120"
+        }, 
+        "ARTS-5710": {
+            "courseDescription": "is a requirement of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-5700": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Bronze Age Archaeology of the Eastern Mediterranean", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3580"
+        }, 
+        "ARTS-5701": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "(same as Religious Studies", 
+            "concurrent": [
+                "ARTS-6781"
+            ], 
+            "courseTitle": "Ancient Myth and Cult", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Religious Studies 3600", 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-5654": {
+            "courseDescription": "is an introduction to the grammar and syntax of ancient Greek, with particular attention paid to the acquisition of basic skills in reading, composition, and aural comprehension.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Ancient Greek I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former CLAS 130B", 
+            "courseNumber": "1130"
+        }, 
+        "ARTS-5655": {
+            "PR": "CLAS 1130 or its equivalent", 
+            "courseDescription": "is a continuation of the work begun in Elementary Ancient Greek I.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Ancient Greek II", 
+            "prerequisites": [
+                "ARTS-5654"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CLAS 130B", 
+            "courseNumber": "1131"
+        }, 
+        "ARTS-5656": {
+            "PR": "CLAS 1131", 
+            "courseDescription": "is a continuation of the grammar, syntax, reading, and composition completed in the elementary program.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Ancient Greek", 
+            "prerequisites": [
+                "ARTS-5655"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-5657": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Readings in New Testament Greek", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2302"
+        }, 
+        "ARTS-5719": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Lyric Poetry", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4205"
+        }, 
+        "ARTS-5718": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6526"
+            ], 
+            "courseTitle": "Medieval Latin", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "CR": "Medieval Studies 4021", 
+            "courseNumber": "4202"
+        }, 
+        "ARTS-5678": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6300"
+            ], 
+            "courseTitle": "History of the Hellenistic World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2034", 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-5679": {
+            "courseDescription": "same as History", 
+            "concurrent": [
+                "ARTS-6298"
+            ], 
+            "courseTitle": "Introduction to Ancient History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2020", 
+            "courseNumber": "2025"
+        }, 
+        "ARTS-5676": {
+            "courseDescription": "is an introduction, through illustrated lectures, to the study of the art and architecture of Ancient Greece.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Art and Architecture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-5677": {
+            "courseDescription": "is an introduction, through illustrated lectures, to the study of the art and architecture of Ancient Rome.", 
+            "concurrent": [], 
+            "courseTitle": "Roman Art and Architecture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2015"
+        }, 
+        "ARTS-5674": {
+            "courseDescription": "is a general illustrated survey of the origins and evolution of Ancient Greek Civilization. The course introduces the student to Greek social and political institutions, religion and myth, and achievements in art, philosophy, science and literature, as well as the influence of Ancient Greece on the modern world. This course may be offered as a research/writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Greek Civilization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1100"
+        }, 
+        "ARTS-5675": {
+            "courseDescription": "is a general illustrated survey of the origins and evolution of Ancient Rome. The course introduces the student to social, political, and legal institutions, the growth of the Roman Empire, Roman art, literature, and religions, as well as Rome's pervasive influence in the modern world. This course may be offered as a research/writing course. Prior to registration a list of courses which may be used as a research/writing course will be posted on the website of the Faculty of Arts at", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Roman Civilization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1200"
+        }, 
+        "ARTS-5672": {
+            "courseDescription": "is an introduction to some of the major myths of ancient Greece and Rome, with particular attention to the gods. The myths will be studied with reference to their social and historical contexts, literary and artistic representations, and modern theories of interpretation.", 
+            "concurrent": [], 
+            "courseTitle": "Gods in Classical Mythology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former CLAS 1050", 
+            "courseNumber": "1051"
+        }, 
+        "ARTS-5659": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Tragedy", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "ARTS-5717": {
+            "PR": "CLAS 2200", 
+            "courseDescription": "refines the skills developed in Intermediate Latin, and applies them to selected readings of Latin authors.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Latin", 
+            "prerequisites": [
+                "ARTS-5716"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CLAS 2205", 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-7319": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Comedy", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4305"
+        }, 
+        "ARTS-5686": {
+            "courseDescription": "(same as Philosophy", 
+            "concurrent": [
+                "ARTS-6549"
+            ], 
+            "courseTitle": "History of Ancient Philosophy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Philosophy 2701", 
+            "courseNumber": "2701"
+        }, 
+        "ARTS-5728": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "will have authors and readings selected by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Latin Readings", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4265-4275"
+        }, 
+        "ARTS-5703": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is available only as part of the part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Classics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729"
+        }, 
+        "ARTS-5729": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Authors", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4291"
+        }, 
+        "ARTS-5690": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a study of relations between Greece and Persia from the foundation of the Persian Empire to the death of Alexander the Great.", 
+            "concurrent": [], 
+            "courseTitle": "Greece and Persia", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3030"
+        }, 
+        "ARTS-5691": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is an introduction to and examination of Socrates within the context of Athenian political, social, cultural, intellectual, and religious life, and against the background of the fifth-century enlightenment and the sophistic movement.", 
+            "concurrent": [], 
+            "courseTitle": "Socrates and Athens", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3040"
+        }, 
+        "ARTS-5692": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a course that examines the Age of Augustus (27 B.C. to A.D. 14) which witnessed not only Rome's greatest achievements in literature and art but also the replacement of republican government by a monarchy; this course, based on original sources, examines the period through its most powerful and influential figure.", 
+            "concurrent": [], 
+            "courseTitle": "Augustus and Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3050"
+        }, 
+        "ARTS-5693": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Early Christian Thought: The First Five Centuries", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-5694": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Christianity and the Roman Empire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3270"
+        }, 
+        "ARTS-5695": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a detailed examination of the tragic dramas of ancient Greece and Rome. A selection of plays by Aeschylus, Sophocles, Euripides and Seneca will be read in English translation. Topics to be discussed include the development of ancient tragedy, its literary, performative and thematic traditions, its representation of social and historical conditions, and its influence on later tragic drama.", 
+            "concurrent": [], 
+            "courseTitle": "Tragic Drama in Greece and Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Classics 2805", 
+            "courseNumber": "3405"
+        }, 
+        "ARTS-5696": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a detailed examination of the comic dramas of ancient Greece and Rome. A selection of plays by Aristophanes, Menander, Plautus and Terence will be read in English translation. Topics to be discussed include the development of ancient comedy, its literary and thematic traditions, its representation of social and historical context, and its influence on later comic drama.", 
+            "concurrent": [], 
+            "courseTitle": "Comic Drama in Greece and Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Classics 2810", 
+            "courseNumber": "3410"
+        }, 
+        "ARTS-5697": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "offers a detailed and in-depth study of the epic poetry of ancient Greece and Rome. The course will examine the poems of Homer, Apollonius of Rhodes and Virgil in English translation. Instructors may include additional poems. Topics to be discussed include the development of epic poetry, its literary traditions and its role in Greek and Roman society.", 
+            "concurrent": [], 
+            "courseTitle": "Epic Poetry in Greece and Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Classics 2060", 
+            "courseNumber": "3415"
+        }, 
+        "ARTS-5698": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a study of Greek and Roman poetry often conventionally termed &lsquo;lyric&rsquo;, including such genres as choral and solo songs, elegy, epigram, love poetry, and others. A selection of important works from Archaic Greece to Augustan Rome will be studied with reference to their social and literary contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Lyric Poetry in Greece and Rome", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3420"
+        }, 
+        "ARTS-5699": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "will have topics determined by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Classics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3500-3510"
+        }, 
+        "ARTS-5716": {
+            "PR": "CLAS 1121", 
+            "courseDescription": "is a continuation of the grammar, syntax, reading, and composition completed in the elementary program.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Latin", 
+            "prerequisites": [
+                "ARTS-5715"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2200"
+        }, 
+        "ARTS-5730": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "is a requirement of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-5680": {
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6301"
+            ], 
+            "courseTitle": "History of Classical Greece", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "History 2035", 
+            "courseNumber": "2035"
+        }, 
+        "ARTS-5721": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Orators", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4215"
+        }, 
+        "ARTS-5724": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Philosophical Authors", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4235"
+        }, 
+        "ARTS-5725": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Drama", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4240"
+        }, 
+        "ARTS-5726": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Elegiac Poetry", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4245"
+        }, 
+        "ARTS-5727": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Satire", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4250"
+        }, 
+        "ARTS-5720": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Historians", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "ARTS-5668": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "is a requirement of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-5708": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a seminar in Roman Literature and Culture.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Roman Literature and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4030"
+        }, 
+        "ARTS-5709": {
+            "PR": "permission of the instructor and the Head of the Department", 
+            "courseDescription": "will have topics announced by the Department and may include field studies in topography, Greek and Roman art and architecture, archaeology, and related areas, to be held in the Mediterranean and other regions of Graeco-Roman influence.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Greek and Roman Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100-4109"
+        }, 
+        "ARTS-5665": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "will have authors and readings selected by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Greek Readings", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4355-4365"
+        }, 
+        "ARTS-5664": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Philosophical Authors", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4340"
+        }, 
+        "ARTS-5667": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Special Authors", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4391"
+        }, 
+        "ARTS-5666": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Hellenistic Poetry", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4370"
+        }, 
+        "ARTS-5661": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Attic Orators", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4315"
+        }, 
+        "ARTS-5660": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Epic Poetry", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "ARTS-5663": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Historians", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4325"
+        }, 
+        "ARTS-5662": {
+            "PR": "CLAS 3300", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Greek Lyric Poetry", 
+            "prerequisites": [
+                "ARTS-5658"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4320"
+        }, 
+        "ARTS-5706": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a seminar in Roman History and Society.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Roman History and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-5715": {
+            "PR": "CLAS 1120 or its equivalent", 
+            "courseDescription": "is a continuation of the work begun in Elementary Latin I.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Latin II", 
+            "prerequisites": [
+                "ARTS-5714"
+            ], 
+            "corequisites": [], 
+            "CR": "the former CLAS 120B", 
+            "courseNumber": "1121"
+        }, 
+        "ARTS-5707": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "is a seminar in Greek Literature and Culture.", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Greek Literature and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4020"
+        }, 
+        "ARTS-5722": {
+            "PR": "CLAS 3200", 
+            "courseDescription": "No description available.", 
+            "concurrent": [], 
+            "courseTitle": "Latin Hexameter Poetry", 
+            "prerequisites": [
+                "ARTS-5717"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4220"
+        }, 
+        "ARTS-5704": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "examines the medical theories and practices of the ancient Greek and Roman world by taking account of ancient texts (in translation) as well as evidence from material culture, including art and architecture. Topics may include the relationship between science and medicine, concepts of health and illness, the role of the healer, practical applications, gender differentiation of patients, and legacy of ancient practices.", 
+            "concurrent": [], 
+            "courseTitle": "Greek and Roman Medicine", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-5702": {
+            "PR": "there is no prerequisite for this course but students are strongly advised to have completed at least one 1000- level or 2000-level Greek and Roman Studies course before registering in any 3000-level or higher Greek and Roman Studies course", 
+            "courseDescription": "examines the representation of the history and cultures of the ancient world in film. A selection of films will be studied and extensive reference will be made to the ancient evidence which informs them. The ancient world&rsquo;s impact on modern Western society will be considered together with the film industry&rsquo;s recasting of the ancient world in response to modern social and historical developments.", 
+            "concurrent": [], 
+            "courseTitle": "The Ancient World in Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3700"
+        }
+    }
+}

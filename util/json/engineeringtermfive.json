@@ -1,0 +1,286 @@
+{
+    "ENGI": {
+        "ENGI-1580": {
+            "PR": "ENGI 4602", 
+            "courseDescription": "covers diffusive as well as convective mass transfer, mass transfer correlations, and the application to absorption and dehumidification.", 
+            "concurrent": [], 
+            "courseTitle": "Mass Transfer", 
+            "LH": "at least seven 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1577"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5601"
+        }, 
+        "ENGI-1582": {
+            "PR": "ENGI 4621 , ENGI 4625", 
+            "courseDescription": "introduces the principles of unit operations, grouped into four sections: fluid mechanics, heat transfer, mass transfer and equilibrium stages, and operations involving particulate solids. It also includes design and operation fundamentals of unit operations: size reduction, filtration, evaporation, drying, crystallization, and humidification, and membrane separation.", 
+            "CO": "ENGI 5601", 
+            "concurrent": [], 
+            "courseTitle": "Process Equipment Design I", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1578", 
+                "ENGI-1579"
+            ], 
+            "corequisites": [
+                "ENGI-1580"
+            ], 
+            "courseNumber": "5671"
+        }, 
+        "ENGI-1296": {
+            "PR": "ENGI 3891 , ENGI 4862", 
+            "courseDescription": "includes concepts, language, tools, and issues pertaining to specification, modelling, analysis, simulation, testing and synthesis of digital systems, including PLD, FPGA, and ASIC devices. Industry standard CAD tools will be used in this course to facilitate system design and testing.", 
+            "concurrent": [], 
+            "courseTitle": "Digital Systems", 
+            "LH": "at least ten 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1261", 
+                "ENGI-1279"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5865"
+        }, 
+        "ENGI-1288": {
+            "PR": "ENGI 4425", 
+            "courseDescription": "examines numerical and analytical solutions of applied mathematical problems in Civil Engineering, problems with higher order ordinary differential equations, stiff equations, systems of ODE, Runge-Kutta methods, boundary value problems, applications of eigen value problems (numerical solutions), Fourier analysis, elliptic, parabolic and hyperbolic partial differential equations and their numerical solutions with engineering applications.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Mathematical Analysis", 
+            "prerequisites": [
+                "ENGI-1272"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5434"
+        }, 
+        "ENGI-1289": {
+            "PR": "ENGI 4312", 
+            "courseDescription": "begins with a review of concrete mix design. Topics include design methods and requirements, strength of rectangular sections in bending, balanced condition at ultimate strength with tension reinforcement, bending with both tension and compression reinforcement; serviceability, deflections, flexural crack control for beams and one-way slabs; shear strength, inclined cracking, and shear reinforcement; bond stress and development of reinforcement; T-sections in bending; members in compression and bending; length effects, lateral ties, spiral reinforcement and longitudinal bar placement.", 
+            "concurrent": [], 
+            "courseTitle": "Design of Concrete Structures", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5706"
+        }, 
+        "ENGI-1286": {
+            "PR": "ENGI 4312", 
+            "courseDescription": "begins with an introduction to earlier concepts then considers strain transformation; deflections of beams and shafts, energy methods; failure theories; buckling of columns and the inelastic behaviour of beams.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanics of Solids II", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5312"
+        }, 
+        "ENGI-1287": {
+            "PR": "Mathematics 1001 and ENGI 4823", 
+            "courseDescription": "includes basic concepts in probability, random variables, multiple random variables, descriptive statistics, random processes and selected applications for engineering.", 
+            "concurrent": [], 
+            "courseTitle": "Probability and Random Processes", 
+            "prerequisites": [
+                "SCI-1339", 
+                "ENGI-1276"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5420"
+        }, 
+        "ENGI-1284": {
+            "PR": "ENGI 4312", 
+            "courseDescription": "examines longitudinal strength, still water and wave bending moment, shear and bending moment curves, Smith Correction, section modulus calculation, torsion and racking forces; bulkhead and girder scantlings, portal frame analysis by moment distribution and energy method; finite element analysis and the use of Classification Society rules for design of midship section. Laboratory sessions cover use of analysis software to illustrate structural behaviour concepts.", 
+            "concurrent": [], 
+            "courseTitle": "Ship Structures I", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6002", 
+            "courseNumber": "5003"
+        }, 
+        "ENGI-1285": {
+            "PR": "ENGI 4020", 
+            "courseDescription": "is a second course in marine propellers and ship powering. Design and analysis of marine screw propellers and other propulsion devices are covered. Conventional and unconventional propulsion systems are introduced. Methods and philosophy of propeller design are included. Design of fixed-pitch propellers based on lifting line theory and the design of ducted propellers are emphasized. Design of other propulsion systems such as waterjets and sails is also incorporated.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Propulsion", 
+            "LH": "at least two 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1267"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6020", 
+            "courseNumber": "5020"
+        }, 
+        "ENGI-1291": {
+            "PR": "ENGI 4723", 
+            "courseDescription": "examines shear strength of soil, types of laboratory and in-situ soil tests; immediate and consolidation settlement of foundations; plastic equilibrium in soils; limit equilibrium method; earth retaining structures; introduction to bearing capacity theories; and stability of slopes. Relevant laboratory exercises and projects are also included.", 
+            "concurrent": [], 
+            "courseTitle": "Geotechnical Engineering II", 
+            "LH": "3", 
+            "prerequisites": [
+                "ENGI-1275"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 6723", 
+            "courseNumber": "5723"
+        }, 
+        "ENGI-1290": {
+            "PR": "ENGI 4425", 
+            "courseDescription": "examines fluid characteristics; fluid statics; buoyancy and stability; kinematics; pressure measurement; continuity, energy and momentum principles; energy and hydraulic grade lines; free jets; laminar and turbulent flow; dimensional analysis; drag on immersed bodies; flow measurement.", 
+            "concurrent": [], 
+            "courseTitle": "Fluid Mechanics", 
+            "LH": "at least five 1-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1272"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 4913", 
+            "courseNumber": "5713"
+        }, 
+        "ENGI-1293": {
+            "PR": "ENGI 3821 , ENGI 4430", 
+            "courseDescription": "includes a review of relevant vector calculus, including the divergence, gradient and curl operators in Cartesian, cylindrical and spherical coordinates, divergence theorem, Stokes' theorem, and Laplace's and Poisson's equations. Topics in electrostatics include Coulomb's law, potential and energy, conductors, dielectrics, capacitance and electric field boundary conditions. Topics for magnetism include the steady magnetic field, the Biot-Savart law, Amp&egrave;re's law, magnetic force, potential and magnetic materials and boundary conditions.", 
+            "concurrent": [], 
+            "courseTitle": "Basic Electromagnetics", 
+            "prerequisites": [
+                "ENGI-1259", 
+                "ENGI-1273"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5812", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1292": {
+            "PR": "ENGI 4841 , ENGI 4854 , ENGI 4862", 
+            "courseDescription": "students will work in pairs on small design projects that will require them to follow a hierarchy of design process which includes general product definition, specifications and requirements, functional block diagrams, definition of specification of functional blocks for circuit level synthesis and implementation, system integration, simulation or modelling, testing and verification. The small projects are designed to encourage and motivate students to learn and practise the process of design. The course will culminate in a large design project.", 
+            "CO": "ENGI 5821 , ENGI 5854", 
+            "LC": "at least 10 lecture hours per semester", 
+            "concurrent": [], 
+            "courseTitle": "Electrical Engineering Design", 
+            "prerequisites": [
+                "ENGI-1277", 
+                "ENGI-1278", 
+                "ENGI-1279"
+            ], 
+            "corequisites": [
+                "ENGI-1294", 
+                "ENGI-1295"
+            ], 
+            "courseNumber": "5800", 
+            "OR": "meetings with project supervisor as required"
+        }, 
+        "ENGI-1295": {
+            "PR": "ENGI 4823 , ENGI 4854", 
+            "courseDescription": "provides an introduction to circuits using operational amplifiers. Topics covered include operational amplifier configurations, analysis, and design; transient and frequency response of amplifier circuits; feedback amplifier analysis and design, stability and compensation techniques; noise and distortion in electronic circuits; analysis and design of data converters; and an introduction to analog filter design. CAD tools are used to illustrate the analysis and design of electronic circuits.", 
+            "concurrent": [], 
+            "courseTitle": "Electronic Circuits II", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1276", 
+                "ENGI-1278"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5854"
+        }, 
+        "ENGI-1696": {
+            "PR": "ENGI 1040 , ENGI 3424", 
+            "courseDescription": "(same as the former ENGI 4951) examines the dynamic behavior of mechanical, electrical, fluid, and thermal systems based on a lumped-parameter approach. Topics covered include modelling and analysis of dynamic systems; computer-aided modelling of mechanical systems with non-linear elements; transient and frequency response; Laplace transforms, transfer functions, and generalized impedances; applications of operational amplifiers, signal conditioning, and filtering; instrumentation for strain and temperature measurement.", 
+            "concurrent": [], 
+            "courseTitle": "Mechatronics I", 
+            "LH": "five 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1250", 
+                "ENGI-1254"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 4951", 
+            "courseNumber": "5952"
+        }, 
+        "ENGI-1659": {
+            "PR": "ENGI 4020 , Mathematics 2260 or the former Mathematics 3260", 
+            "courseDescription": "includes basic concepts in probability, random variables, multiple random variables, descriptive statistics. The random processes component reviews mathematics of functions; introduces system input-output relations of continuous-time systems; contrasts time vs frequency domain representations; introduces frequency response plots and the Fourier transform; includes selected applications for ocean engineering.", 
+            "concurrent": [], 
+            "courseTitle": "Stochastic Processes in Ocean Engineering", 
+            "prerequisites": [
+                "ENGI-1267", 
+                "SCI-3556"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5022", 
+            "OR": "tutorial one hour per week"
+        }, 
+        "ENGI-1294": {
+            "PR": "ENGI 4823", 
+            "courseDescription": "includes an introduction to control systems with a negative feedback; mathematical modelling and transfer functions of electromechanical systems; block diagram reduction and signal flow graphs; controller realization using op-amps; transient response analysis; Routh's stability criterion; basic control actions and response of control systems; root locus analysis and design; frequency response analysis; Bode diagram; gain and phase margins; compensator design in frequency domain; Nyquist stability criterion; A/D and D/A conversion, digital implementations of analog compensators; and an introduction to PID controller tuning methods.", 
+            "concurrent": [], 
+            "courseTitle": "Control Systems I", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1276"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5821"
+        }, 
+        "ENGI-1787": {
+            "PR": "ENGI 4901 , ENGI 4961", 
+            "courseDescription": "is a study of concepts involved in heat transfer. Topics include applications of continuity and energy equations, fundamentals of heat transfer, modes of heat transfer, conduction, convection and radiation heat transfer, boiling and condensation, evaporation, and heat exchanger analysis and design.", 
+            "concurrent": [
+                "ENGI-1321"
+            ], 
+            "courseTitle": "Process Heat Transfer", 
+            "LH": "at least one 3-hour session per semester", 
+            "prerequisites": [
+                "ENGI-1281", 
+                "ENGI-1786"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGI 6901", 
+            "courseNumber": "5602"
+        }, 
+        "ENGI-1300": {
+            "PR": "ENGI 4312", 
+            "courseDescription": "examines stresses due to combined loads, thin-walled pressure vessels, transformation of stresses and strains, principal stresses and strains (two and three dimensional stresses), Mohr's circle, theory failures, stress concentrations, energy methods, buckling of columns, thick-walled cylindrical pressure vessels, rotating disks, multi layered thick walled pressure vessels, shrink fits and contact stresses.", 
+            "concurrent": [
+                "ENGI-1286"
+            ], 
+            "courseTitle": "Advanced Mechanics of Deformable Solids", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1269"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGI 5312", 
+            "courseNumber": "5931"
+        }, 
+        "ENGI-1297": {
+            "PR": "ENGI 4892", 
+            "courseDescription": "examines the development process: requirement analysis, design, iterative development, design documentation; an introduction to the Unified Modelling Language: use cases, class diagrams and sequence diagrams; an introduction to software design patterns: creational patterns, structural patterns and behavioural patterns; object oriented, modular decomposition. The course includes a major design project.", 
+            "LC": "at least 15 lecture hours per semester", 
+            "concurrent": [], 
+            "courseTitle": "Software Design", 
+            "prerequisites": [
+                "ENGI-1280"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5895", 
+            "OR": "meetings with project supervisor as required"
+        }, 
+        "ENGI-1298": {
+            "PR": "ENGI 3911", 
+            "courseDescription": "examines aspects of chemical and physical processes and microscopic structure relevant to the production and use of engineering materials, focussing on metals, alloys, silicates, Portland cement, plastics and adhesives, composites, and wood. Topics include solid-state solutions and compounds, alloy structures, phase diagrams, reaction rates, solid-state transformations, polymerization, oxidation and corrosion, hardness, creep, fatigue, fracture toughness and visco-elastic deformation.", 
+            "concurrent": [], 
+            "courseTitle": "Chemistry and Physics of Engineering Materials II", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1263"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 3205", 
+            "courseNumber": "5911", 
+            "OR": "tutorial 1 hour per week"
+        }
+    }
+}

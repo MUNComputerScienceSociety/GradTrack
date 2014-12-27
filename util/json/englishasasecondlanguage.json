@@ -1,0 +1,20 @@
+{
+    "ENSL": {
+        "ARTS-6001": {
+            "courseDescription": "covers reading through a variety of types of texts, vocabulary development, writing development, and academic listening and note-taking skills. Students will be placed into appropriate sections following a placement test.", 
+            "concurrent": [], 
+            "courseTitle": "Core Intensive English Program", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "011F"
+        }, 
+        "ARTS-6002": {
+            "courseDescription": "includes development of speaking and listening abilities through a wide variety of tasks and communicative activities, including discussions, debates, conversation, role-plays, and presentations. Listening activities promote comprehension of rapid conversational English, while discussion topics enrich students' understanding of Canadian culture. Students will be placed into appropriate sections following a placement test.", 
+            "concurrent": [], 
+            "courseTitle": "Speaking, Listening, and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "012F"
+        }
+    }
+}

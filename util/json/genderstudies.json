@@ -1,0 +1,128 @@
+{
+    "GNDR": {
+        "ARTS-6949": {
+            "PR": "GNDR 3005 or the former WSTD 3005 or GNDR 3025", 
+            "courseDescription": "(same as the former WSTD 4000) is an interdisciplinary seminar in Gender Studies that identifies emerging debates in contemporary feminism and analyses complex and contentious issues and how they intersect and disrupt social constructions of gender.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Feminist Issues", 
+            "prerequisites": [
+                "ARTS-6946", 
+                "ARTS-7311"
+            ], 
+            "corequisites": [], 
+            "CR": "the former WSTD 4000", 
+            "courseNumber": "4000", 
+            "OR": "3 hour seminar per week"
+        }, 
+        "ARTS-6948": {
+            "courseDescription": "(same as the former WSTD 3710-3720) are available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Gender Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former WSTD 3710-3720", 
+            "courseNumber": "3710-3720"
+        }, 
+        "ARTS-6945": {
+            "courseDescription": "(same as the former WSTD 3002-3020 excluding 3004, 3005 and 3009) will have topics announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Gender Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former WSTD 3002-3020 excluding 3004, 3005 and 3009", 
+            "courseNumber": "3002-3020 (Excluding 3004, 3005 and 3009)"
+        }, 
+        "ARTS-6944": {
+            "courseDescription": "(same as English", 
+            "concurrent": [
+                "ARTS-5886", 
+                "ARTS-6523"
+            ], 
+            "courseTitle": "Women Writers in the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "English 3006 , Medieval Studies 3006 , the former Medieval Studies 3351, the former WSTD 3001", 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-6947": {
+            "PR": "GNDR 1000 or the former WSTD 1000 is required and GNDR 2005 or the former WSTD 2005 is recommended", 
+            "courseDescription": "(same as the former WSTD 3100) examines intersections of gender and health, recognising these to be politically shaped categories that have direct implications for individual&rsquo;s lives. This course considers the ways that particular conceptualizations of gender, health and well-being are shaped and challenged and considers the role of individuals, institutions and states in structuring opportunities and challenges related to health.", 
+            "concurrent": [
+                "ARTS-6885"
+            ], 
+            "courseTitle": "Gendered Politics of Health", 
+            "prerequisites": [
+                "ARTS-6941", 
+                "ARTS-6942"
+            ], 
+            "corequisites": [], 
+            "CR": "Sociology 4201 , the former WSTD 3100", 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6946": {
+            "PR": "either GNDR 1000 or the former WSTD 1000 or GNDR 2005 or the former WSTD 2005", 
+            "courseDescription": "(same as the former WSTD 3005) examines the development and dissemination of feminist thought through analyses of key texts and diverse media, and their connections to historical and contemporary debates within feminism.", 
+            "concurrent": [], 
+            "courseTitle": "Feminist Texts, Theories and Histories", 
+            "prerequisites": [
+                "ARTS-6941", 
+                "ARTS-6942"
+            ], 
+            "corequisites": [], 
+            "CR": "the former WSTD 3005", 
+            "courseNumber": "3005"
+        }, 
+        "ARTS-6941": {
+            "courseDescription": "(same as the former WSTD 1000) considers gender, gender studies and feminisms as areas of exploration from historical, contemporary, transnational and interdisciplinary perspectives. The aim of this course is to provide a critical framework for thinking about questions relating to gender and other forms of social difference.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Gender Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Women&rsquo;s Studies 1000, the former Women&rsquo;s Studies 2000", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6943": {
+            "courseDescription": "(same as the former WSTD 3000) familiarizes students with basic tools and research skills for feminist enquiry in Gender Studies research. As a requirement of this course, students may be asked to design and carry out a research project.", 
+            "concurrent": [], 
+            "courseTitle": "Research Methods in Gender Studies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former WSTD 3000", 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6942": {
+            "courseDescription": "(same as the former WSTD 2005) examines feminist scholarship about the construction of identities and difference in cultural discourses, representation and institutions. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Identities and Difference", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former WSTD 2005", 
+            "courseNumber": "2005"
+        }, 
+        "ARTS-6950": {
+            "PR": "GNDR 3005 or the former WSTD 3005 or GNDR 3025", 
+            "courseDescription": "(same as the former WSTD 4005) examines, in considerable depth and detail, connections between feminist theories and activism for social and political change. It examines how social movement activism, including feminism, is mobilized in different historical, cultural and national contexts.", 
+            "concurrent": [], 
+            "courseTitle": "Feminist Practices", 
+            "prerequisites": [
+                "ARTS-6946", 
+                "ARTS-7311"
+            ], 
+            "corequisites": [], 
+            "CR": "the former WSTD 4005", 
+            "courseNumber": "4005"
+        }, 
+        "ARTS-7311": {
+            "PR": "either GNDR 1000 or the former WSTD 1000 or GNDR 2005 or the former WSTD 2005", 
+            "courseDescription": "examines theories, themes and issues that have emerged from, and in response to, post-colonial studies in recent decades. This course focuses particularly on what this body of scholarship contributes to understandings of the roles of gender, race and sexuality in colonialism, as well the comprehension of current social and political realities.", 
+            "concurrent": [], 
+            "courseTitle": "Theories of Gender, Race and Post-Colonialism", 
+            "prerequisites": [
+                "ARTS-6941", 
+                "ARTS-6942"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3025"
+        }
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "ENGI": {
+        "ENGI-1259": {
+            "PR": "Mathematics 1001 , Mathematics 2050 , ENGI 1040", 
+            "courseDescription": "begins with a review of elementary circuits, then considers wye-delta transformation, bridge circuits; transient analysis of first- and second -order circuits; sinusoidal steady state analysis, phasor diagrams, maximum power transfer, frequency selective circuits (filters); and Laplace transforms in circuit analysis (transients, steady state, transfer function).", 
+            "CO": "ENGI 3424", 
+            "concurrent": [
+                "SCI-1597"
+            ], 
+            "courseTitle": "Circuit Analysis", 
+            "LH": "at least five 3-hour sessions per semester", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1356", 
+                "ENGI-1250"
+            ], 
+            "corequisites": [
+                "ENGI-1254"
+            ], 
+            "CR": "Physics 3550", 
+            "courseNumber": "3821", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1258": {
+            "courseDescription": "includes structure of metals and nonmetals; deformation of metals; strengthening mechanisms in metals; concrete and cementitious materials; admixtures; iron and steel; brick masonry; concrete masonry; mortar grout and plaster; reinforced masonry structures; wood and wood products. Relevant experiments are conducted.", 
+            "concurrent": [], 
+            "courseTitle": "Materials for Construction", 
+            "LH": "at least ten 3-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3731", 
+            "OR": "up to ten 1-hour tutorials per semester"
+        }, 
+        "ENGI-1262": {
+            "PR": "Mathematics 1001", 
+            "courseDescription": "is a macroscopic approach to heat, work, and energy; properties of pure substances; conservation of mass, energy for open and closed systems; thermal efficiency and coefficient of performance; second law of thermodynamics; and its corollaries; entropy; second law analysis of thermodynamic systems; second law efficiency.", 
+            "concurrent": [], 
+            "courseTitle": "Thermodynamics I", 
+            "prerequisites": [
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3901"
+        }, 
+        "ENGI-1263": {
+            "PR": "Chemistry 1050", 
+            "courseDescription": "is an introduction to the structure and properties of engineering materials, in particular materials, semiconductors, ceramics, glasses and polymers. Topics include a review of atomic bonding, discussion of basic crystalline and amorphous structures, point and line defects, and the role these structural features play in elastic and plastic deformations, yield, fracture, glass transition, thermal conductivity, thermal expansion, specific heat and electrical conductivity.", 
+            "concurrent": [], 
+            "courseTitle": "Chemistry and Physics of Engineering Materials I", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "SCI-0910"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 2205", 
+            "courseNumber": "3911", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1264": {
+            "PR": "ENGI 1010 , Mathematics 1001 , Mathematics 2050", 
+            "courseDescription": "includes kinematics and kinetics of particles using rectangular, normal/tangential and polar coordinates; relative motion using rotating axes; two-dimensional kinematics and kinetics of rigid bodies; force-acceleration, work-energy and impulse-momentum methods.", 
+            "concurrent": [], 
+            "courseTitle": "Dynamics", 
+            "prerequisites": [
+                "ENGI-1247", 
+                "SCI-1339", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 2313", 
+            "courseNumber": "3934", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1265": {
+            "courseDescription": "includes an overview of production: production strategies; dimensioning and tolerancing; basic material removal process; forming and shaping process; casting; molding, extrusion and joining processes; computer aided machining; new technologies.", 
+            "concurrent": [], 
+            "courseTitle": "Production Technology", 
+            "LH": "at least eight 3-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3941"
+        }, 
+        "ENGI-1261": {
+            "PR": "ENGI 1020", 
+            "courseDescription": "includes advanced procedural language programming; data structures, user defined types, pointers; modularization techniques, scope and data hiding; object-oriented programming; classes, objects and attributes; data encapsulation, member and non-member functions; overloading, methods and friend functions; inheritance, sub- and super-classes; templates.", 
+            "concurrent": [
+                "SCI-3684"
+            ], 
+            "courseTitle": "Advanced Programming", 
+            "LH": "at least nine 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1248"
+            ], 
+            "corequisites": [], 
+            "CR": "Computer Science 2510", 
+            "courseNumber": "3891"
+        }, 
+        "ENGI-1251": {
+            "courseDescription": "introduces design for ships and marine structures. Technology evolution in ship and offshore structures is reviewed, emphasizing service needs. Structural concepts, materials and construction methods are examined, including design for manufacturing. The design spiral and trade-offs between design characteristics are explored and modelling methods as tools in the design process are introduced. There is a minimum of six laboratory sessions including ship tours, a design project or research paper.", 
+            "concurrent": [], 
+            "courseTitle": "Ocean/Naval Design", 
+            "LH": "at least six 3-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3001"
+        }, 
+        "ENGI-1253": {
+            "courseDescription": "is a course that deals with issues associated with professional engineering practice. Topics will include workplace and professional ethics, public and workplace occupational health and safety including first-aid, equity, gender and diversity issues, and technical written, oral and visual communication.", 
+            "concurrent": [], 
+            "courseTitle": "The Engineering Workplace", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "3101"
+        }, 
+        "ENGI-1252": {
+            "PR": "ENGI 1010", 
+            "courseDescription": "is an introductory course to naval architecture and marine engineering. It discusses the basic principles of the statics of rigid floating or submerged structures. These include: ships, offshore platforms and submersibles. Methods of analysis of the hydrostatics, stability and trim, damage stability and the statics of mooring systems are introduced. Applications are also discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Ocean Engineering Hydrostatics", 
+            "LH": "at least nine 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1247"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3054"
+        }, 
+        "ENGI-1255": {
+            "PR": "Mathematics 1001 and 2050", 
+            "courseDescription": "includes sequences &amp; series, functions of a single parameter, conic sections, polar coordinates, partial differentiation, multiple integration, introduction to first order ordinary differential equations.", 
+            "CH": "4", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics for Civil Engineering I", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3425", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1254": {
+            "PR": "Mathematics 1001 , Mathematics 2050", 
+            "courseDescription": "includes ordinary differential equations of first order and first degree; linear ordinary differential equations of higher order, methods of undetermined coefficients and variation of parameters; applications to electric circuits and mass-spring systems; Laplace transforms; partial differentiation; convergence of series; Taylor and binomial series; remainder term; and an introduction to Fourier series.", 
+            "CH": "4", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Mathematics", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 2422", 
+            "courseNumber": "3424", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1257": {
+            "courseDescription": "includes plane surveying: distance, elevation, and angle measurements; horizontal and vertical curves; plane survey calculations; area and volume computations. Photogrammetry will be studied, including sensors and platforms, mathematics of photogrammetry; instruments and equipment, photogrammetric products, digital photogrammetry, remote sensing, and introduction to global positioning and geographical information systems (GIS). A surveying field school to introduce students to the use of surveying equipment and mapping will be held in the first two weeks of the term.", 
+            "concurrent": [], 
+            "courseTitle": "Surveying and Geomatics", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3703", 
+            "OR": "36-hour field school conducted during the first two weeks of the semester"
+        }, 
+        "ENGI-1256": {
+            "courseDescription": "is an introduction to basic concepts in Geology and Mining with emphasis on applications in Civil, Geological, Mining and Environmental Engineering through the use of case histories. It includes the study of rocks and minerals in selected field and laboratory exercises.", 
+            "concurrent": [], 
+            "courseTitle": "Earth Sciences for Civil Engineering", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3610"
+        }, 
+        "ENGI-1260": {
+            "PR": "ENGI 1040", 
+            "courseDescription": "includes number systems and Boolean algebra; minimization techniques for Boolean functions; basic combinational logic circuit analysis and design; flip-flops, state machine design and implementation; decoders, multiplexors, registers, counters; simple arithmetic and logic unit (ALU) algorithms; introduction to hardware description languages (VHDL) for logic component and circuit modelling.", 
+            "concurrent": [
+                "SCI-1058"
+            ], 
+            "courseTitle": "Digital Logic", 
+            "LH": "at least six 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1250"
+            ], 
+            "corequisites": [], 
+            "CR": "Computer Science 3723", 
+            "courseNumber": "3861", 
+            "OR": "up to eight tutorial sessions per semester"
+        }, 
+        "ENGI-1576": {
+            "courseDescription": "is an introductory course in process engineering, which comprises principles and the practical aspects of organic, inorganic and biochemical processes. It emphasizes the structure and properties of organic, inorganic, and bio-chemicals; process flow sheeting, process variable identification and production processes. The course uses extensive examples from industrial processes. In laboratory sessions students will use HYSYS and OLI software to study process characteristics.", 
+            "CO": "Chemistry 1051", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Process Engineering", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [
+                "SCI-2569"
+            ], 
+            "courseNumber": "3600"
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "LWSO": {
+        "ARTS-6429": {
+            "PR": "LWSO 1000 and at least 15 credit hours in courses applicable to the Law and Society major or minor", 
+            "courseDescription": "is an appreciation and understanding of those rules and activities termed legal which can be gained from a variety of disciplinary perspectives. The purpose of this seminar is to introduce students to the different ways in which law may be approached within the social sciences and humanities. The topic or topics to be discussed in a given semester will depend on the availability and participation of faculty from participating departments. Through seminar readings, discussions and research, students will gain a wider understanding of the role of law in society and of the diverse academic approaches for understanding it.", 
+            "concurrent": [], 
+            "courseTitle": "Multidisciplinary Perspectives on Law and Society", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-6430": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended.", 
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6397"
+            ], 
+            "courseTitle": "Development of Law in Newfoundland", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "CR": "History 4232 , former History 4214", 
+            "courseNumber": "4900"
+        }, 
+        "ARTS-6426": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended.", 
+            "courseDescription": "(same as History", 
+            "concurrent": [
+                "ARTS-6337"
+            ], 
+            "courseTitle": "Women and the Law in Newfoundland History", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "CR": "History 3200", 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6428": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended.", 
+            "courseDescription": "examines the origins, expansion, and changing character of organized crime in Canada from the early twentieth century to the present. Laws relating to criminal activity, law enforcement and available tools to combat organized crime are assessed according to the inherent problems of investigation, evidence, and litigation.", 
+            "concurrent": [], 
+            "courseTitle": "Organized Crime in Canada: National and Global Perspectives", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "ARTS-6427": {
+            "PR": "LWSO 1000", 
+            "courseDescription": "introduces students to the theory and practice of human rights. Course topics include: history; philosophy; and international and Canadian structures and provisions. The course includes an examination of selected areas of human rights, i.e. labour, women&rsquo;s and children&rsquo;s rights, and explores current and future applications of human rights.", 
+            "concurrent": [], 
+            "courseTitle": "Understanding Human Rights", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-7304": {
+            "courseDescription": "examines the nature and aims of democracy and contemporary issues related to social justice through a law and society perspective.", 
+            "concurrent": [], 
+            "courseTitle": "Law, Democracy and Social Justice", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-7305": {
+            "PR": "LWSO 1000", 
+            "courseDescription": "is an introduction to law in Canadian society and the role which it has played in societies past and present.", 
+            "concurrent": [], 
+            "courseTitle": "Law and Society in Canada", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-6424": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended.", 
+            "courseDescription": "looks at the interplay between law and status under the law, the course proceeds to look at some of the main legal issues affecting women today, such as workplace equality, family law and women and crime. This course provides students with the opportunity to study cases in depth and apply legal theory to current issues affecting Canadian women.", 
+            "concurrent": [], 
+            "courseTitle": "Women and Law in Canada", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3015"
+        }, 
+        "ARTS-6425": {
+            "PR": "LWSO 1000", 
+            "courseDescription": "provides students with a historical overview of the law of war. The course goes beyond the traditional legal definition of war as an armed conflict between states, and examines whether the law of war should be applied to terrorism and wars of national liberation. Topics include: just war theory, the legality of the various means of warfare, the treatment of protected people and places and the prosecution of war criminals.", 
+            "concurrent": [], 
+            "courseTitle": "Western Traditions of Law and War", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3016"
+        }, 
+        "ARTS-6431": {
+            "PR": "LWSO 1000", 
+            "courseDescription": "will have topics to be studied announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Law and Society", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4901-4909"
+        }, 
+        "ARTS-6423": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended.", 
+            "courseDescription": "traces the historical development of Aboriginal and Government relations in Newfoundland and Labrador. Topics include: the current legal and constitutional status of the Inuit, Indian and Metis people within the context of land claims, application of the Indian Act, access to programs and services, and federal/provincial relations.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal and Government Relations in Newfoundland and Labrador", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3014"
+        }, 
+        "ARTS-6420": {
+            "PR": "LWSO 1000", 
+            "courseDescription": "will have topics to be studied announced by the Program Co-ordinator.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Law and Society", 
+            "prerequisites": [
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3010-3019 (Excluding 3012, the former 3013, 3014, 3015 and 3016)"
+        }, 
+        "ARTS-6421": {
+            "PR": "LWSO 1000 . LWSO 2000 is recommended", 
+            "courseDescription": "traces the historical development of Aboriginal land and resource rights; colonial and Canadian law; and the Constitution of Canada as it relates to the Indian, Inuit and Metis people of Canada. The developing concept of Aboriginal law is presented within the context of the treaty process, Indian Act, contemporary land claims, the Canadian Constitution, and federal/provincial relations.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Peoples: Concepts of Land, the Law and the Constitution", 
+            "prerequisites": [
+                "ARTS-7304", 
+                "ARTS-7305"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3012"
+        }
+    }
+}

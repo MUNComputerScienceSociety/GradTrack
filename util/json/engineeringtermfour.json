@@ -1,0 +1,278 @@
+{
+    "ENGI": {
+        "ENGI-1282": {
+            "PR": "ENGI 3934", 
+            "courseDescription": "includes an overview of mechanisms within machines; graphical and analytical methods for position, velocity, and acceleration analysis of moving mechanisms; kinematics and kinetics of planar mechanisms; static and dynamic loads on mechanisms and an introduction to mechanism synthesis. There is an analysis project.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanisms and Machines", 
+            "prerequisites": [
+                "ENGI-1264"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 3933", 
+            "courseNumber": "4932", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1274": {
+            "PR": "completion of Term 3 of the Civil Engineering program", 
+            "courseDescription": "examines the nature and scope of environmental problems; concept of sustainable development; natural environmental hazards; introduction to ecology, microbiology and epidemiology; basic concepts of environmental quality parameters and standards; solid and hazardous wastes; atmospheric, noise, and water pollution, their measurements, and control.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Environmental Science and Engineering", 
+            "LH": "at least ten 3-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4717"
+        }, 
+        "ENGI-1578": {
+            "PR": "ENGI 3424", 
+            "courseDescription": "introduces numerical methods in chemical engineering processes, sets of linear algebraic equations, simultaneous non-linear equations, polynomial functions, numerical integration, numerical differentiation, higher order ordinary differential equations, stiff equations, Runge-Kutta methods, boundary value problems and applications of eigenvalue problems (numerical solutions). It provides applications of the methods to different aspects of process engineering such as reactor design, separation, process modeling, equipment design and analysis.", 
+            "CO": "ENGI 4625", 
+            "concurrent": [], 
+            "courseTitle": "Process Mathematical Methods", 
+            "LH": "3", 
+            "prerequisites": [
+                "ENGI-1254"
+            ], 
+            "corequisites": [
+                "ENGI-1579"
+            ], 
+            "courseNumber": "4621"
+        }, 
+        "ENGI-1579": {
+            "PR": "ENGI 3901", 
+            "courseDescription": "is an introduction to the analysis of chemical processes with an emphasis on mass and energy balances. Stoichiometric relationships, ideal and real gas behaviour are also covered. The course will help Process Engineering majors in their second year to develop a framework for the analysis of flow sheet problems and will present systematic approaches for manual and computer-aided solution of full scale balance problems.", 
+            "CO": "ENGI 4602", 
+            "concurrent": [], 
+            "courseTitle": "Process Engineering Calculations", 
+            "prerequisites": [
+                "ENGI-1262"
+            ], 
+            "corequisites": [
+                "ENGI-1577"
+            ], 
+            "courseNumber": "4625"
+        }, 
+        "ENGI-1266": {
+            "PR": "ENGI 3054", 
+            "courseDescription": "examines the phenomena resisting the motions of ships and some factors considered in the design of the marine screw propeller. The topics include the resistance due to friction, wave making, form appendage, wind and waves, squat, blockage, and shallow water effects, and also include the estimation of powering using methodical series and statistical methods. Topics considered in the design of the marine screw propeller include propeller theory, blade sections, blade strength, methodical series charts, efficiency elements, lifting line calculations, cavitation, and propellers in non-uniform flow.", 
+            "concurrent": [], 
+            "courseTitle": "Resistance and Propulsion", 
+            "LH": "3", 
+            "prerequisites": [
+                "ENGI-1252"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 5011", 
+            "courseNumber": "4011", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1267": {
+            "PR": "ENGI 3054", 
+            "courseDescription": "includes fluid statics; fluid flow phenomena, in general and in marine applications; control volume analysis of fluid motion; conservation of mass, momentum and energy; differential approach to flow analysis; head losses; applications of conservation laws; external vs. internal flow; dimensional analysis and scaling; fluid-structure interaction concepts; potential flow theory, lift and Kutta-Joukowski theorem; viscous flow, boundary layers and drag.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Fluid Dynamics", 
+            "LH": "at least four 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1252"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4020", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1268": {
+            "courseDescription": "is an introduction to the concepts in the determination of the economic feasibility of engineering projects; time value of money &ndash; interest rates, depreciation, annual, present and future worth analysis; benefit-cost analysis, tangible and intangible benefits and costs; economic risk and sensitivity analysis, economic optimization.", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Economics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4102"
+        }, 
+        "ENGI-1269": {
+            "PR": "ENGI 1010", 
+            "courseDescription": "examines force analysis of structures and structural components, free body diagrams of structure, components and section of a components, definition of a stress at point, stress notation, complementary property of shear stress, definition of strain, normal strain, shear strain, thermal strain, mechanical properties of materials, analysis of prismatic members due to axial, bending and torsion loading, analysis of beams, shear force and bending moment diagrams, combined loads; and the transformation of stresses and strains.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanics of Solids I", 
+            "LH": "at least four 1-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1247"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4312", 
+            "OR": "up to ten 1-hour tutorials per semester"
+        }, 
+        "ENGI-1275": {
+            "PR": "completion of Term 3 of the Civil Engineering program", 
+            "courseDescription": "begins with an introduction to soil as a three-phase material and examines physical and mechanical properties; structure; classification of soils; soil compaction; hydraulic properties; permeability; flow of water in soil; flownets; effective stress concept in soils; stresses in soils beneath loaded areas; and one-dimensional consolidation theory.", 
+            "concurrent": [], 
+            "courseTitle": "Geotechnical Engineering I", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4723", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1577": {
+            "PR": "ENGI 3901", 
+            "courseDescription": "extends the study started in ENGI", 
+            "concurrent": [
+                "SWGC-3096"
+            ], 
+            "courseTitle": "Process Engineering Thermodynamics", 
+            "prerequisites": [
+                "ENGI-1262"
+            ], 
+            "corequisites": [], 
+            "CR": "CHEM 2300 , the former CHEM 3300", 
+            "courseNumber": "4602"
+        }, 
+        "ENGI-1273": {
+            "PR": "ENGI 3424", 
+            "courseDescription": "includes parametric vector functions; polar curves; gradient, divergence and curl; multiple integration; vector calculus, theorems of Green, Stokes and Gauss; an introduction to partial differential equations; and application of advanced calculus to relevant engineering problems.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Calculus for Engineering", 
+            "prerequisites": [
+                "ENGI-1254"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 5432", 
+            "courseNumber": "4430", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1272": {
+            "PR": "ENGI 3425", 
+            "courseDescription": "examines the analytical solutions of ordinary differential equations of the first and higher orders and numerical methods: errors, round off and stability, solution to nonlinear equations, curve fitting and interpolation methods, numerical differentiation and integration.", 
+            "CH": "4", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics for Civil Engineering II", 
+            "prerequisites": [
+                "ENGI-1255"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 4422", 
+            "courseNumber": "4425", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1271": {
+            "PR": "Mathematics 2050", 
+            "courseDescription": "is an introduction to discrete mathematics including a selection of topics such as propositional logic, introductory predicate logic, mathematical reasoning, induction, sets, relations, functions, integers, graphs, trees, and models of computation.", 
+            "concurrent": [
+                "SCI-3062"
+            ], 
+            "courseTitle": "Discrete Mathematics for Computer Engineering", 
+            "prerequisites": [
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 3422, Mathematics 2320 , or the former Computer Science 2740", 
+            "courseNumber": "4424", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1270": {
+            "PR": "Mathematics 1001", 
+            "courseDescription": "includes probability, probability distributions, probability densities, sampling distribution, hypothesis testing, regression and correlation.", 
+            "concurrent": [
+                "SCI-1452"
+            ], 
+            "courseTitle": "Probability and Statistics", 
+            "prerequisites": [
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 3423, STAT 2550 , the former STAT 2510", 
+            "courseNumber": "4421", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1277": {
+            "PR": "ENGI 3424 , ENGI 3821", 
+            "courseDescription": "includes an introduction to fundamental principles of energy conversion; review of three-phase systems; magnetic fields and circuits; transformer models, performance and applications; basic concepts of rotating machines; performance and control of dc machines.", 
+            "concurrent": [], 
+            "courseTitle": "Electromechanical Devices", 
+            "LH": "at least six 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1254", 
+                "ENGI-1259"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 5842", 
+            "courseNumber": "4841", 
+            "OR": "up to ten tutorials per semester"
+        }, 
+        "ENGI-1280": {
+            "PR": "ENGI 3891", 
+            "courseDescription": "examines fundamental data structures; recursive structures and programming techniques; modularity and reusability; time complexity and efficient data structures; procedural abstraction; data abstraction and precise documentation of data structures.", 
+            "CO": "ENGI 4424", 
+            "concurrent": [], 
+            "courseTitle": "Data Structures", 
+            "prerequisites": [
+                "ENGI-1261"
+            ], 
+            "corequisites": [
+                "ENGI-1271"
+            ], 
+            "courseNumber": "4892", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1278": {
+            "PR": "ENGI 3821 , Physics 3000", 
+            "courseDescription": "provides an introduction to semiconductor electronic devices and circuits. Topics covered include internal structure of electronic devices; working principles, dc and small-signal models and analysis of p-n junction diodes, bipolar junction transistors and field effect transistors; introduction to digital electronics; differential and multistage amplifier circuits; internal circuits of operational amplifiers; output stages; practical applications of the devices to the design of power supplies, amplifiers and switching circuits. CAD tools are used to illustrate the analysis and design of electronic circuits.", 
+            "concurrent": [], 
+            "courseTitle": "Electronic Circuits I", 
+            "LH": "at least ten 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1259", 
+                "SCI-1826"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4854", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1276": {
+            "PR": "ENGI 3424 , ENGI 3821", 
+            "courseDescription": "begins with an introduction to systems and signals, and includes mechanical and electrical analogues; principles of linear superposition and time-invariance; definitions, properties, and use of the delta function; applications of complex variables and functions; impulse and step responses; input-output relations of continuous-time systems in terms of convolution and transfer functions; frequency response plots; the Fourier transform and applications; applications of Laplace transforms to filtering, communications, and controls.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Systems and Signals", 
+            "prerequisites": [
+                "ENGI-1254", 
+                "ENGI-1259"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4823", 
+            "OR": "tutorial 1 hour per week"
+        }, 
+        "ENGI-1279": {
+            "PR": "ENGI 3861", 
+            "courseDescription": "is a course on microprocessor architecture; assembly language programming: addressing modes, table look up; memory mapped devices; interfacing techniques: parallel, serial; timing control; analog input and output, and computer displays.", 
+            "concurrent": [], 
+            "courseTitle": "Microprocessors", 
+            "LH": "at least eight 3-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1260"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4862"
+        }, 
+        "ENGI-1281": {
+            "PR": "ENGI 3901", 
+            "courseDescription": "examines thermodynamic cycles: power and refrigeration applications; human comfort and air conditioning: mixture of gases and vapours, humidity, psychrometrics; chemically reacting mixtures and combustion.", 
+            "concurrent": [], 
+            "courseTitle": "Thermodynamics II", 
+            "LH": "at least two 2-hour sessions per semester", 
+            "prerequisites": [
+                "ENGI-1262"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4901"
+        }, 
+        "ENGI-1786": {
+            "courseDescription": "(same as the former ENGI 5961) examines fluid statics; fluid flow phenomena; control volume analysis; conservation of mass, momentum, and energy; Bernoulli equation; head losses, applications of conservation laws: flow measurement devices; pipe networks; momentum devices, dimensional analysis, boundary layer phenomena, lift and drag.", 
+            "concurrent": [], 
+            "courseTitle": "Fluid Mechanics I", 
+            "LH": "at least five 1-hour sessions per semester", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGI 4913, the former ENGI 5961", 
+            "courseNumber": "4961"
+        }
+    }
+}

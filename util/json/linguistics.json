@@ -1,0 +1,816 @@
+{
+    "LING": {
+        "ARTS-6457": {
+            "courseDescription": "(same as Philosophy", 
+            "concurrent": [
+                "ARTS-6537"
+            ], 
+            "courseTitle": "Philosophy of Language and Mind", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Philosophy 2300 , the former Linguistics 2710, the former Philosophy 2710", 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-6456": {
+            "courseDescription": "is an introduction to linguistic variation and language change in the English dialects and languages of Newfoundland and Labrador. Topics covered include the concept of variation within language, both regional and social; the chief causes of such variation, and some of its societal and educational consequences; a survey of the regional and social dialects of Newfoundland English, and their major features; an overview of languages in the province other than English, and their current situation. As a Research and Writing course, practical workshops and assignments focus on producing strong, academic writing and critical analysis/thinking skills necessary for undergraduate level research. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Language in Newfoundland and Labrador: An Introduction to Linguistic Variation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2210"
+        }, 
+        "ARTS-6455": {
+            "courseDescription": "is an introduction to the structure of words. This course presents methods of linguistic analysis through an in-depth study of English word origins. The French, Latin, and Greek origins of technical and scientific words are studied, together with the ways that these words may change in structure, sound, and meaning. The course will also provide an introduction to etymology, to writing systems and transliteration, and to the use of dictionaries.", 
+            "concurrent": [
+                "ARTS-6438"
+            ], 
+            "courseTitle": "The Wonder of Words", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may not be obtained for both LING 2105 and the former LING 1101, nor for both LING 1105 and LING 2105", 
+            "courseNumber": "2105"
+        }, 
+        "ARTS-6454": {
+            "courseDescription": "is an introduction to the sounds of speech, their description (phonetics), organization (phonology), and interactions with morphology (morphophonology). The patterns and regularities of language will be demonstrated through analysis of synchronic and diachronic data selected from English and other languages.", 
+            "concurrent": [
+                "ARTS-6437"
+            ], 
+            "courseTitle": "Introduction to Phonetics and Phonology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 1104", 
+            "courseNumber": "2104"
+        }, 
+        "ARTS-6453": {
+            "courseDescription": "is an introduction to the study of the meaningful components of words and sentences. This course will demonstrate the principles by which parts of words are organized into larger units (inflectional morphology and word-formation), and by which words pattern into phrases and sentences (syntax). Synchronic and diachronic data from English and several other languages will be analysed to illustrate how language is structured.", 
+            "concurrent": [
+                "ARTS-6436"
+            ], 
+            "courseTitle": "Introduction to Morphology and Syntax", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 1103", 
+            "courseNumber": "2103"
+        }, 
+        "ARTS-6452": {
+            "courseDescription": "is a general introduction to linguistic concepts which are important for understanding the nature of language, its change and its function for communication. Topics may include: languages as structured systems; the systematicity of language change; the classification of languages into families and their geographical distribution; language, the brain, and language disorders; the acquisition of language; and human versus animal communication.", 
+            "concurrent": [
+                "ARTS-6435"
+            ], 
+            "courseTitle": "Language and Communication", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 1100", 
+            "courseNumber": "2100"
+        }, 
+        "ARTS-6451": {
+            "courseDescription": "is an overview of the aboriginal languages of three language families of Eastern Canada: Eskimo-Aleut (Inuttitut) and Algonquian (Innu-aimun, Mi&egrave;kmaq, Passamaquoddy-Maliseet and Beothuk) and Iroquoian (Mohawk) with respect to both linguistic structure and current vitality. The history of language suppression and revitalization efforts, within the context of the larger issues of minority language attrition and maintenance, is also considered.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Languages of Eastern Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2060"
+        }, 
+        "ARTS-6450": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Mi'kmaq II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2041"
+        }, 
+        "ARTS-6479": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the instructor", 
+            "courseDescription": "(same as French", 
+            "concurrent": [
+                "ARTS-6968"
+            ], 
+            "courseTitle": "Phonology and Morphology of French", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "French 3310", 
+            "courseNumber": "3310"
+        }, 
+        "ARTS-6478": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the Head of the Department; Classics 1120 is strongly recommended", 
+            "courseDescription": "(same as French", 
+            "concurrent": [
+                "ARTS-6967"
+            ], 
+            "courseTitle": "History of the French Language", 
+            "prerequisites": [
+                "ARTS-5714"
+            ], 
+            "corequisites": [], 
+            "CR": "French 3302", 
+            "courseNumber": "3302"
+        }, 
+        "ARTS-6491": {
+            "PR": "LING 3155", 
+            "courseDescription": "will address current empirical and theoretical issues pertaining to the first language acquisition of phonology. From an empirical perspective, we will look at developmental patterns as well as variation or lack thereof among and between learners, within and across languages. From a theoretical perspective, we will address how theoretical frameworks can, and at times cannot, account for the variation observed. We will address how the language input provided by different languages can influence the learner&rsquo;s analysis of the phonology of this language during the course of acquisition. This influence will be both addressed in terms of grammatical learning and from the perspective of production patterns observed in the data.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Topics in Phonological Acquisition", 
+            "prerequisites": [
+                "ARTS-6473"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4151"
+        }, 
+        "ARTS-6490": {
+            "PR": "LING 3155", 
+            "courseDescription": "provides an evaluation of the theoretical aspects of first and second language acquisition. Theories about the role of linguistic principles, learnability and the role of linguistic input are discussed, in light of research on the acquisition of English and other languages.", 
+            "concurrent": [], 
+            "courseTitle": "Language Acquisition II", 
+            "prerequisites": [
+                "ARTS-6473"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4150"
+        }, 
+        "ARTS-6496": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The French Language in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "ARTS-6473": {
+            "PR": "LING 1103 or LING 2103 and LING 1104 or LING 2104", 
+            "courseDescription": "will examine a number of critical issues in the first and second language acquisition of syntax and phonology. Current generative approaches to first and second language acquisition will be covered, which will be exemplified with data from different languages. An introduction to phonological and syntactic speech disorders will also be offered.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Language Acquisition", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3155"
+        }, 
+        "ARTS-6459": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of the English Language from 1500 to Modern Times", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2401"
+        }, 
+        "ARTS-6458": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of the English Language to 1500", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2400"
+        }, 
+        "ARTS-6472": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Bilingualism: Linguistic, Cognitive and Educational Aspects", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-6499": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Etymology: History of English Words", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4403"
+        }, 
+        "ARTS-6501": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "English Dialectology II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4421"
+        }, 
+        "ARTS-6475": {
+            "PR": "LING 2210 , or third-year standing, or permission of the instructor", 
+            "courseDescription": "will provide a thorough grounding in the methods and theory underlying current approaches to language variation and change.", 
+            "concurrent": [], 
+            "courseTitle": "Language Variation and Change", 
+            "prerequisites": [
+                "ARTS-6456"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "ARTS-6474": {
+            "PR": "LING 1104 or LING 2104", 
+            "courseDescription": "will present the basic terms, concepts, and methods of Generative Phonology. Theoretical constructs surveyed will include distinctive feature theory and syllable structure. These constructs will be exemplified using phenomena observed in natural languages, including allophony, allomorphy, and processes such as assimilation and neutralization.", 
+            "concurrent": [], 
+            "courseTitle": "Generative Phonology", 
+            "prerequisites": [
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3201"
+        }, 
+        "ARTS-6471": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in the Acquisition of English and the Adult Learner", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3105"
+        }, 
+        "ARTS-6477": {
+            "PR": "LING 1100 or LING 2100 or Law and Society 1000", 
+            "courseDescription": "is an overview of the many relationships between linguistics and the judicial process. Topics to be covered include: the language of legal texts, trademark, copyright, treaties and contract law, and the Plain English movement; language use in legal settings (such as eyewitness testimony, jury instructions, and the language of lawyer-client interactions); the legal disadvantages which language may impose on speakers of minority languages and non-standard dialects; and the discipline of forensic linguistics (which deals with such issues as voice and authorship identification, and linguistic interpretation of evidence).", 
+            "concurrent": [], 
+            "courseTitle": "Linguistics and the Law", 
+            "prerequisites": [
+                "ARTS-6435", 
+                "ARTS-6452", 
+                "ARTS-7304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3220"
+        }, 
+        "ARTS-6489": {
+            "PR": "LING 3100", 
+            "courseDescription": "examines a particular topic or set of related topics which are selected by the instructor and which are important in contemporary generative theory. Readings will normally come from the primary literature. This course is usually offered in alternate years.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Generative Grammar", 
+            "prerequisites": [
+                "ARTS-6469"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4110"
+        }, 
+        "ARTS-6476": {
+            "PR": "LING 2210 or Gender Studies 1000", 
+            "courseDescription": "is an introduction to research and critical thinking on the relationship of language and gender to culture, power, construction of identity, performance, interaction, social networks, language change, sexuality, and language in the school and workplace.", 
+            "concurrent": [], 
+            "courseTitle": "Language and Gender", 
+            "prerequisites": [
+                "ARTS-6456", 
+                "ARTS-6941"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3212"
+        }, 
+        "ARTS-6494": {
+            "PR": "LING 2210", 
+            "courseDescription": "studies the detailed patterns of variation found in any given speech community, and factors which co-vary with them; the various theoretical models proposed to account for such variability. As their major assignment, students will complete a carefully restricted sociolinguistic project. This course is usually offered in alternate years.", 
+            "concurrent": [], 
+            "courseTitle": "Sociolinguistics", 
+            "prerequisites": [
+                "ARTS-6456"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "ARTS-6448": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Innu-aimun (Montagnais/Naskapi) II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2031"
+        }, 
+        "ARTS-6449": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Mi'kmaq I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2040"
+        }, 
+        "ARTS-6509": {
+            "PR": "permission of instructor", 
+            "courseDescription": "are courses that are open to advanced students wishing to do individual research in consultation with an advisor.", 
+            "concurrent": [], 
+            "courseTitle": "Independent Study", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4900-4901"
+        }, 
+        "ARTS-6508": {
+            "PR": "LING 4210", 
+            "courseDescription": "will have topics to be studied announced by the Department. This course introduces students to more advanced topics in core linguistic disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Linguistic Variation", 
+            "prerequisites": [
+                "ARTS-6494"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4754"
+        }, 
+        "ARTS-6492": {
+            "PR": "LING 3201", 
+            "courseDescription": "will familiarize students with current issues in phonological theory. Issues such as phonology in the lexicon, segmental and prosodic representations, the analysis of stress and tonal systems, as well as a comprehensive introduction to constraint-based approaches to phonology will be covered. Students will further develop their ability to analyse phonological data. This course is usually offered in alternate years.", 
+            "concurrent": [], 
+            "courseTitle": "Phonological Theory", 
+            "prerequisites": [
+                "ARTS-6474"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-6440": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading and Writing in Innu-aimun II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1531"
+        }, 
+        "ARTS-6441": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the Structure of Inuttitut I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-6442": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the Structure of Inuttitut II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2021"
+        }, 
+        "ARTS-6443": {
+            "PR": "LING 2020", 
+            "courseDescription": "reviews issues of oral Inuttitut. Topics included will be the primary role of oral language in communication, language, acquisition and language maintenance. The nature and significance of dialect differences will also be discussed. Different types of oral language will be examined, e.g. stories, newscasts, conversation. Students will study how oral language is used within modern Labrador society and whether language attitudes are reflected in this use. Students will also consider how best to teach oral Inuttitut and different ways to test for oral proficiency. This course is intended for fluent speakers of Inuttitut who are planning to complete the", 
+            "concurrent": [], 
+            "courseTitle": "Issues in Oral Inuttitut", 
+            "prerequisites": [
+                "ARTS-6441"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2022"
+        }, 
+        "ARTS-6444": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading and Writing in Inuttitut", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2023"
+        }, 
+        "ARTS-6445": {
+            "courseDescription": "introduces students to Inuttitut (Eskimo). Students will develop a working knowledge of basic vocabulary and grammar, as well as a number of linguistic concepts that will enable them to consult a wide range of reference books. A strong emphasis will be placed on oral skills. This course is intended for students who want to learn an Aboriginal language spoken in Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Inuttitut I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2025"
+        }, 
+        "ARTS-6446": {
+            "PR": "LING 2025", 
+            "courseDescription": "is a continuation of LING", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Inuttitut II", 
+            "prerequisites": [
+                "ARTS-6445"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2026"
+        }, 
+        "ARTS-6447": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Innu-aimun (Montagnais/Naskapi) I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2030"
+        }, 
+        "ARTS-6462": {
+            "PR": "LING 2700", 
+            "courseDescription": "is an introduction to Irish Gaelic II.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Irish Gaelic II", 
+            "prerequisites": [
+                "ARTS-6461"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2701"
+        }, 
+        "ARTS-6463": {
+            "courseDescription": "is an introduction to Japanese I.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2702"
+        }, 
+        "ARTS-6460": {
+            "courseDescription": "is an introduction to Uncommonly Taught Languages including the following:", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Linguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700-2720 (Excluding 2710)"
+        }, 
+        "ARTS-6461": {
+            "PR": "LING 2103 or LING 2104 is recommended", 
+            "courseDescription": "is an introduction to Irish Gaelic I.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Irish Gaelic I", 
+            "prerequisites": [
+                "ARTS-6453", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "ARTS-6466": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese IV", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2705"
+        }, 
+        "ARTS-6467": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese V", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2706"
+        }, 
+        "ARTS-6464": {
+            "PR": "LING 2702", 
+            "courseDescription": "is an introduction to Japanese II.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese II", 
+            "prerequisites": [
+                "ARTS-6463"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2703"
+        }, 
+        "ARTS-6465": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Japanese III", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2704"
+        }, 
+        "ARTS-6484": {
+            "PR": "LING 1100 or 2100", 
+            "courseDescription": "provides an introduction to the key issues surrounding the discussion of endangered languages. Causes, consequences, and efforts to reverse the process of decline (language revitalization or maintenance) are examined through consideration of case studies from around the world. Theoretical models developed to evaluate the current status and future prospects of endangered languages are also considered. The course is likely to include substantial discussion of the situation in Canada and the USA.", 
+            "concurrent": [], 
+            "courseTitle": "Language Endangerment and Revitalization", 
+            "prerequisites": [
+                "ARTS-6435", 
+                "ARTS-6452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3951"
+        }, 
+        "ARTS-6485": {
+            "PR": "LING 1103 or LING 2103 and LING 1104 or LING 2104 or the permission of the instructor and the Head of the Department.", 
+            "courseDescription": "will focus on the linguistic structure of certain languages, and are designed to provide senior students with the opportunity of being exposed to a substantial part of the grammar of a language other than those regularly offered in the Faculty of Arts. One course in this series will be offered each year, subject to availability of instructor.", 
+            "concurrent": [], 
+            "courseTitle": "No title available.", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4010-4091"
+        }, 
+        "ARTS-6468": {
+            "PR": "LING 1103 or LING 2103", 
+            "courseDescription": "studies the meaningful parts from which words are built by using restricted data from a variety of languages. Practical work on selected languages will illustrate the wide range of notions which acquire formal expression in grammatical systems. Although previous knowledge of the languages to be discussed is not necessary, an important aspect of the course will be practical experience in analysing phenomena which are foreign to English. Discussion of languages taught at this University will be balanced with analysis of limited data sets from more exotic languages. Comparison of the means by which smaller units are organized into words will make possible an elementary typology of the world's languages.", 
+            "concurrent": [], 
+            "courseTitle": "Morphological Analysis", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6469": {
+            "PR": "LING 1103 or LING 2103", 
+            "courseDescription": "is an introduction to a major contemporary approach to syntactic theory. Topics include phrase structure and constituency, case theory and agreement, principles of thematic role assignment, parametric variation, and the different types of syntactic movement.", 
+            "concurrent": [], 
+            "courseTitle": "Generative Syntax", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6480": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the instructor", 
+            "courseDescription": "(same as French", 
+            "concurrent": [
+                "ARTS-6969"
+            ], 
+            "courseTitle": "Introduction to General Linguistics: Aspects of French Linguistic Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "French 3311", 
+            "courseNumber": "3311"
+        }, 
+        "ARTS-6470": {
+            "PR": "LING 1104 or LING 2104", 
+            "courseDescription": "builds on the introduction to phonetics given in LING", 
+            "concurrent": [], 
+            "courseTitle": "Phonetics", 
+            "prerequisites": [
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3104"
+        }, 
+        "ARTS-6482": {
+            "PR": "LING 1103 or LING 2103 is required; LING 3000 and 3100 are recommended", 
+            "courseDescription": "is an introduction to the study of linguistic meaning. Word and sentence-level semantics, grammatical meaning, pragmatics, and logical aspects of meaning.", 
+            "concurrent": [], 
+            "courseTitle": "Semantics", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6468", 
+                "ARTS-6469"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3850"
+        }, 
+        "ARTS-6481": {
+            "PR": "LING 1103 or LING 2103 and LING 1104 or LING 2104", 
+            "courseDescription": "will focus on: Genetic relationships between languages; the comparative method; language change found in phonetics/ phonology, morphology and syntax; lexical and semantic change; the role of language and dialect contact; comparative and internal reconstruction; the typological and genetic classification of languages.", 
+            "concurrent": [], 
+            "courseTitle": "Historical Linguistics", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-6502": {
+            "PR": "LING 3000 or 3100 , and 3201 or permission of the instructor", 
+            "courseDescription": "is data collection and organization for an unfamiliar language in a simulated field situation, including methods of elicitation, data filing, preliminary analysis, and hypothesis formation and testing. In this course students will also learn to apply analytical skills developed in the core theoretical areas of phonetics/phonology, morphology, syntax and semantics. This course is usually offered in alternate years.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Field Methods", 
+            "prerequisites": [
+                "ARTS-6468", 
+                "ARTS-6469", 
+                "ARTS-6474"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "ARTS-6495": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "French Dialects, Patois and Argots", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }, 
+        "ARTS-6504": {
+            "PR": "LING 4201 or LING 4202", 
+            "courseDescription": "will have topics to be studied announced by the Department. This course introduces students to more advanced topics in core linguistic disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Phonology", 
+            "prerequisites": [
+                "ARTS-6492", 
+                "ARTS-6493"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4750"
+        }, 
+        "ARTS-6498": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Historical and Comparative Linguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-6487": {
+            "PR": "LING 1103 or LING 2103 and LING 1104 or LING 2104 or the permission of the instructor and the Head of the Department.", 
+            "courseDescription": "provides instruction about the grammar, pronunciation, and literary and/or oral tradition of a language which is not regularly taught", 
+            "concurrent": [
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485"
+            ], 
+            "courseTitle": "Linguistic Structure of an Uncommonly Taught Language", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "CR": "Except where an exemption is supplied by the Head of the Department, a student may not obtain credit for more than one course in the LING 4055-4059 series. Students may not obtain credit for any of the previously offered LING 4011 , 4060 , 4061 , 4065 , 4066 , 4070 , 4071 , 4080 , 4081 , 4090 , and 4091 in addition to a course in the LING 4055-4059 series.", 
+            "courseNumber": "4055-4059"
+        }, 
+        "ARTS-6483": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Linguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3950-3960 (Excluding 3951)"
+        }, 
+        "ARTS-6507": {
+            "PR": "LING 4150 or LING 4151", 
+            "courseDescription": "will have topics to be studied announced by the Department. This course introduces students to more advanced topics in core linguistic disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Acquisition", 
+            "prerequisites": [
+                "ARTS-6490", 
+                "ARTS-6491"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4753"
+        }, 
+        "ARTS-6503": {
+            "PR": "LING 1104 or 2104", 
+            "courseDescription": "examines some empirical methods of studying the different stages of 'the speech chain' which links speaker to hearer, with special emphasis on the acoustic and perceptual stages. The source-plus-filter theory of speech production. A survey of the range of natural articulations and their acoustic effects. Some competing theories of speech perception. Acoustic versus perceptual bases for phonological features.", 
+            "concurrent": [], 
+            "courseTitle": "Experimental Phonetics", 
+            "prerequisites": [
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "ARTS-6506": {
+            "PR": "LING 3850", 
+            "courseDescription": "will have topics to be studied announced by the Department. This course introduces students to more advanced topics in core linguistic disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Semantics", 
+            "prerequisites": [
+                "ARTS-6482"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4752"
+        }, 
+        "ARTS-6488": {
+            "PR": "LING 3000", 
+            "courseDescription": "is an analysis of a wide range of linguistic data in morphology and syntax. The course will focus on essential linguistic concepts in more than one theoretical framework, and on the nature of linguistic evidence. This course is usually offered in alternate years.", 
+            "concurrent": [], 
+            "courseTitle": "Morphosyntactic Analysis", 
+            "prerequisites": [
+                "ARTS-6468"
+            ], 
+            "corequisites": [], 
+            "CR": "the former LING 4001", 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6497": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "General Romance Linguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4350"
+        }, 
+        "ARTS-6486": {
+            "PR": "LING 1103 or LING 2103 and LING 1104 or LING 2104 or the permission of the instructor and the Head of the Department.", 
+            "courseDescription": "could study the following languages: Cree, Inuttitut (Inuktitut), Innu-aimun (Montagnais/Naskapi), etc.", 
+            "concurrent": [
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485", 
+                "ARTS-6485"
+            ], 
+            "courseTitle": "Linguistic Structure of a North American Aboriginal Language", 
+            "prerequisites": [
+                "ARTS-6436", 
+                "ARTS-6453", 
+                "ARTS-6437", 
+                "ARTS-6454"
+            ], 
+            "corequisites": [], 
+            "CR": "Except where an exemption is supplied by the Head of the Department, a student may not obtain credit for more than one course in the LING 4050-4054 series. Students may not obtain credit for any of the previously offered LING 4010 , 4020 , 4021 , 4030 , 4031 , 4040 , 4041 in addition to a course in the LING 4050-4054 series.", 
+            "courseNumber": "4050-4054"
+        }, 
+        "ARTS-6493": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Generative Phonology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4202"
+        }, 
+        "ARTS-6500": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "English Dialectology I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4420"
+        }, 
+        "ARTS-6439": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading and Writing in Innu-aimun I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1530"
+        }, 
+        "ARTS-6438": {
+            "courseDescription": "is an introduction to the structure of words. This course presents methods of linguistic analysis through an in-depth study of English word origins. The French, Latin and Greek origins of technical and scientific words are studied, together with the ways that these words may change in structure, sound, and meaning. The course will also provide an introduction to etymology, to writing systems and transliteration, and to the use of dictionaries.", 
+            "concurrent": [
+                "ARTS-6455", 
+                "ARTS-6455"
+            ], 
+            "courseTitle": "The Wonder of Words", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may not be obtained for both LING 2105 and the former LING 1101, nor for both LING 1105 and LING 2105", 
+            "courseNumber": "1105"
+        }, 
+        "ARTS-6435": {
+            "courseDescription": "is a general introduction to linguistic concepts which are important for understanding the nature of language, its change and its function for communication. Topics may include: languages as structured systems; the systematicity of language change; the classification of languages into families and their geographical distribution; language, the brain, and language disorders; the acquisition of language; and human versus animal communication.", 
+            "concurrent": [
+                "ARTS-6452"
+            ], 
+            "courseTitle": "Language and Communication", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 2100", 
+            "courseNumber": "1100"
+        }, 
+        "ARTS-6437": {
+            "courseDescription": "is an introduction to the sounds of speech, their description (phonetics), organization (phonology), and interactions with morphology (morphophonology). The synchronic and diachronic patterns and regularities of language will be demonstrated through analysis of data selected from English and other languages.", 
+            "concurrent": [
+                "ARTS-6454"
+            ], 
+            "courseTitle": "Introduction to Phonetics and Phonology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 2104", 
+            "courseNumber": "1104"
+        }, 
+        "ARTS-6436": {
+            "courseDescription": "is an introduction to the study of the meaningful components of words and sentences. This course will demonstrate the principles by which parts of words are organized into larger units (inflectional morphology and word-formation), and by which words pattern into phrases and sentences (syntax). Synchronic and diachronic data from English and several other languages will be analysed to illustrate how language is structured.", 
+            "concurrent": [
+                "ARTS-6453"
+            ], 
+            "courseTitle": "Introduction to Morphology and Syntax", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "LING 2103", 
+            "courseNumber": "1103"
+        }, 
+        "ARTS-6505": {
+            "PR": "LING 4100 or LING 4110", 
+            "courseDescription": "will have topics to be studied announced by the Department. This course introduces students to more advanced topics in core linguistic disciplines.", 
+            "concurrent": [], 
+            "courseTitle": "Selected Topics in Morpho-Syntax", 
+            "prerequisites": [
+                "ARTS-6488", 
+                "ARTS-6489"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4751"
+        }, 
+        "ARTS-6510": {
+            "PR": "permission of the instructor", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Linguistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4950-4960"
+        }, 
+        "ARTS-6511": {
+            "courseDescription": "is required as part of the honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }
+    }
+}

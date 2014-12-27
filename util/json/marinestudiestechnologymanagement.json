@@ -1,0 +1,180 @@
+{
+    "MSTM": {
+        "MARINE-0325": {
+            "courseDescription": "surveys technological entrepreneurship via examples of both successful and failed businesses in technological fields. By examining cases of entrepreneurship, this course will examine challenges and opportunities facing technological entrepreneurs.", 
+            "concurrent": [], 
+            "courseTitle": "Technological Entrepreneurship", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4015"
+        }, 
+        "MARINE-0338": {
+            "courseDescription": "introduces students to the area of operations management as it pertains to technology companies. Operations is generally considered the process by which an organization converts inputs such as labour and material into outputs such as goods or services. This course will examine how to manage the processes with a particular emphasis on operations in technology-based companies. Topics may include operations based strategy, processes and technology, capacity and facilities planning, and supply chain management.", 
+            "concurrent": [], 
+            "courseTitle": "Technical Operations Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4017"
+        }, 
+        "MARINE-0158": {
+            "courseDescription": "(formerly Technology 4050) will provide students with an understanding of the philosophy and concepts involved in the total quality approach to quality management. The course covers the various tools and techniques used in quality management as well as providing an overview of the role of management.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Quality Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Technology 4050", 
+            "courseNumber": "4050"
+        }, 
+        "MARINE-0227": {
+            "courseDescription": "will provide the opportunity for students to maintain technical currency through a review of recent advances in technology and their application to particular technical areas.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Technology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4070"
+        }, 
+        "MARINE-0311": {
+            "courseDescription": "is an introductory course to the management of Intellectual Property Rights (IPRs). This course will cover the philosophical rationale for intellectual property rights, its technical and legal considerations, its implications to the development of science and technology and its economic impact in society.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Intellectual Property and its Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4011"
+        }, 
+        "MARINE-0153": {
+            "courseDescription": "will introduce students to the requirements for the safe management of the marine environment. The course will introduce major environmental problems and identify the major threats to the marine environment. It will provide a working knowledge of these threats and consider the possible counter measures that may be employed by employees in the marine industry.", 
+            "concurrent": [], 
+            "courseTitle": "Marine Environmental Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4004"
+        }, 
+        "MARINE-0317": {
+            "courseDescription": "will help students critically examine technology and the environment and how the two are linked. Topics may include how technology is both the cause of and solution to many environmental problems, the greenhouse effect, renewable energy vs. fossil fuels, recycling vs. landfills, the efficiency paradox, geo-engineering, and other select current topics.", 
+            "concurrent": [], 
+            "courseTitle": "Technology and the Environment", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4014"
+        }, 
+        "MARINE-0156": {
+            "courseDescription": "(formerly Technology 4030) examines technology in the historical context and technology in the modern era. Students will discuss human insights, innovation, the interactions between development and technology transfer, ethics and professionalism and how to develop a technology value system.", 
+            "concurrent": [], 
+            "courseTitle": "Technology in the Human Context", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Technology 4030", 
+            "courseNumber": "4030"
+        }, 
+        "MARINE-0157": {
+            "courseDescription": "(formerly Technology 4040) will introduce the student to the interdisciplinary field of project management. The course covers the interpersonal skills necessary to successfully lead or work effectively within a project team as well as providing an overview of certain planning and scheduling tools and techniques necessary for the planning and monitoring of projects.", 
+            "concurrent": [], 
+            "courseTitle": "Project Management for Technologists", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Technology 4040", 
+            "courseNumber": "4040"
+        }, 
+        "MARINE-0154": {
+            "courseDescription": "(formerly Technology 4010) examines the effects of technology on the physical, socio-economic, historic, cultural and aesthetic environments. The course also addresses relevant legislation, the generation and evaluation of project/product alternatives, and the prediction, verification and mitigation of technological effects.", 
+            "concurrent": [], 
+            "courseTitle": "Assessment and Implementation of Technology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Technology 4010", 
+            "courseNumber": "4010"
+        }, 
+        "MARINE-0155": {
+            "courseDescription": "(formerly Technology 4020) provides an introduction to the economics of technological projects. Students will study the mathematics of money, cost composition, and project evaluation, including cost comparison. They will also learn to analyse projects for decision making, including risk assessment and replacement analysis. In addition, they will learn to use suitable criteria for project selection, and to conduct sensitivity analysis.", 
+            "concurrent": [
+                "ENGI-1268"
+            ], 
+            "courseTitle": "Economic Management for Technologists", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Engineering 4102 ; the former Technology 4020", 
+            "courseNumber": "4020"
+        }, 
+        "MARINE-0163": {
+            "PR": "MSTM 4001", 
+            "courseDescription": "will provide students with an understanding of financial statements, costs, revenues and financial performance of shipping companies as well as computing, voyage and annual cashflows. The course will develop an understanding of marine insurance and forecasting, and risk management.", 
+            "concurrent": [], 
+            "courseTitle": "The Business of Shipping", 
+            "prerequisites": [
+                "MARINE-0162"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4002"
+        }, 
+        "MARINE-0162": {
+            "courseDescription": "will provide students with knowledge of the economic shipping environment with respect to Canada. The course will develop an understanding of basic trade theory, patterns of trade and sea routes, commodities traded by sea, and the organizational structure of shipping companies.", 
+            "concurrent": [], 
+            "courseTitle": "The Organization and Issues of Shipping", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Engineering 8065; Maritime Studies 4001", 
+            "courseNumber": "4001"
+        }, 
+        "MARINE-0312": {
+            "courseDescription": "is an introduction to occupational health and safety issues in a technical/industrial context. Students will gain a knowledge and understanding of the legislative framework surrounding occupational health and safety, the assignment of responsibilities in the workplace, the management of occupational health and safety in the workplace and the importance of establishing a positive safety culture.", 
+            "concurrent": [], 
+            "courseTitle": "Occupational Health and Safety Legislation and Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4012"
+        }, 
+        "MARINE-0313": {
+            "courseDescription": "focuses on the emergence of technology-based companies with an emphasis on how we can implement methods to increase their organizational effectiveness. This course will concentrate on the integration of three basic frameworks that are integral to production and performance in the 21st century. It will introduce students to the concepts and processes materializing in a technological milieu. This course also deals with the study of technological economics, organizational progression, structural configurations and operations, and universal and contemporary approaches to organizational design. In addition it will examine the challenges of change that face highly dynamic industries: individual &amp; organizational change, technological change, and national &amp; global change. This course will also examine specialized topics in structure evolution for technology-based organizations with an emphasis on the need for adaptability, innovation &amp; global communications.", 
+            "concurrent": [], 
+            "courseTitle": "Structure and Functions of Technology-based Organizations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4013"
+        }, 
+        "MARINE-0326": {
+            "courseDescription": "will introduce students to TRIZ, a powerful set of tools and algorithms developed specifically for analyzing and solving technological problems. TRIZ was developed by people with a technical background for those with a technical background. While TRIZ was developed for inventing and solving technical problems, the tools and approaches can be used to understand and solve virtually any solvable problem.", 
+            "concurrent": [], 
+            "courseTitle": "Technological Problem Solving", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4016"
+        }, 
+        "MARINE-0164": {
+            "courseDescription": "will provide students with an understanding of how regulatory bodies and their legislation have evolved to affect the modern seafarer trading internationally. This course will develop an understanding of the various rules and regulations dealing with Classification, ISM, MAPROL, SOLAS and SIRE inspections which have to be dealt with on a daily basis at sea.", 
+            "concurrent": [], 
+            "courseTitle": "Trends and Issues in International Shipping", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4005"
+        }, 
+        "MARINE-0318": {
+            "courseDescription": "will provide a broad survey of practices critical to operating a technology-based business. Topics covered may include an introduction to technology management, historical developments in the management of technology, the functions of technology management, and select current topics that are relevant to operating technology-based businesses.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Technology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4090"
+        }, 
+        "MARINE-0159": {
+            "courseDescription": "will enhance the technical communication skills of students. The course content examines technical writing fundamentals; information gathering, analysis, and documentation; proposal preparation; technical document applications; technical report preparation; graphics preparation; and technical presentations. The course will provide students with the knowledge and skills necessary to develop proposals, reports, and presentations for technical projects.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Technical Communications", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4060"
+        }, 
+        "MARINE-0339": {
+            "PR": "MSTM 4060", 
+            "courseDescription": "(same as the former MSTM 4100 and 4200) is a two-semester linked course based on independent study of a problem involving the management of technology. The subject of study will be decided in consultation with the course instructor and must be approved by a committee. The student will identify a research topic in a specialty area, write a concept paper, develop a proposal and write a report.", 
+            "concurrent": [], 
+            "courseTitle": "Technical Project Report", 
+            "prerequisites": [
+                "MARINE-0159"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MSTM 4000, the former MSTM 4100, the former MSTM 4200, the former Technology 4000", 
+            "courseNumber": "410A and 410B", 
+            "OR": "must be completed within three consecutive semesters"
+        }
+    }
+}

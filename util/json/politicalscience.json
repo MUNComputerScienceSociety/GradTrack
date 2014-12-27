@@ -1,0 +1,720 @@
+{
+    "POSC": {
+        "ARTS-6660": {
+            "courseDescription": "is a study of political parties in liberal democracies. Attention is given to the origin and development of parties, how they organize, multiparty competition and what difference parties make. Political parties in Europe, the United States, and Canada are considered in a comparative context.", 
+            "concurrent": [], 
+            "courseTitle": "Political Parties", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3531", 
+            "courseNumber": "3390"
+        }, 
+        "ARTS-6661": {
+            "courseDescription": "is an examination of the relationship between public policy development in Canada and changes in the social and economic policy environment.", 
+            "concurrent": [], 
+            "courseTitle": "Public Policy in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 4790", 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-6648": {
+            "courseDescription": "is an introduction to international law concerned with the interaction of the political and legal systems. Topics discussed are sources, agreements, membership, recognition, territory, jurisdiction, immunities, state responsibility, and force and war.", 
+            "concurrent": [], 
+            "courseTitle": "International Law", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "ARTS-6649": {
+            "courseDescription": "examines the origins, structures and roles of international organizations as both &lsquo;arenas&rsquo; in which states pursue their interests and &lsquo;evidence&rsquo; of an embryonic international society. The focus will be primarily on the workings of the United Nations, especially its &lsquo;collective security&rsquo; function, and other regional security organizations.", 
+            "concurrent": [], 
+            "courseTitle": "International Organizations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3220"
+        }, 
+        "ARTS-6664": {
+            "courseDescription": "introduces students to major debates about the role of the state in Canadian economic development and public policy. Topics may include: the challenges of natural resource dependency, regionalism, globalization, and the relationship between Canada and the United States.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Political Economy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3751", 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-6665": {
+            "courseDescription": "examines how various political, social and economic forces have helped shape correctional policy and practice in Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Corrections Policy in Newfoundland and Labrador", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3791", 
+            "courseNumber": "3681"
+        }, 
+        "ARTS-6666": {
+            "courseDescription": "examines relationships between government in the Canadian federation ranging from high-profile disputes to efficient diplomacy. This course reviews longstanding intergovernmental stresses such as the constitution, legislative powers, legal matters, sub-state nationalism (e.g., Quebec, Newfoundland, Labrador) and wealth distribution.", 
+            "concurrent": [], 
+            "courseTitle": "Federalism in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3710", 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-6667": {
+            "courseDescription": "explores executive institutions and the roles of political actors, such as prime ministers, premiers and ministers, in addressing and shaping important political issues in Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Political Executive in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 2711", 
+            "courseNumber": "3810"
+        }, 
+        "ARTS-6642": {
+            "courseDescription": "is an introduction to the structure and operations of institutions of Canadian government and the nature of political actors. Topics to be examined may include the constitution, federalism, parliament, political parties, political culture and elections.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Canadian Politics and Government", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 2710", 
+            "courseNumber": "2800"
+        }, 
+        "ARTS-6643": {
+            "courseDescription": "is a pre-Harlow course which examines the social, economic and political history of Europe from World War I to the present. It examines the shift from war and depression to peace and prosperity. Examining the rise and demise of fascism and communism, postwar reconstruction, and Europe&rsquo;s changing position in the world, this course explores the interplay between domestic and international politics and Europe&rsquo;s position in the international order. This course is recommended for Political Science students considering a Harlow semester, exchange programs in Europe, or further courses in European politics.", 
+            "concurrent": [
+                "ARTS-6314"
+            ], 
+            "courseTitle": "Europe in the Twentieth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former European Studies 2000, History 2350 , the former POSC 2350", 
+            "courseNumber": "2990"
+        }, 
+        "ARTS-6640": {
+            "courseDescription": "is an introduction to comparative politics and techniques of comparative analysis across political jurisdictions. This course focuses on the differences between, and similarities among, a variety of countries and systems of government.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Comparative Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-6641": {
+            "courseDescription": "outlines major concepts in, and issues relating to, the fields of public policy and administration.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Public Policy and Administration", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3540", 
+            "courseNumber": "2600"
+        }, 
+        "ARTS-6646": {
+            "courseDescription": "examines selected political theory from Tocqueville to the present. The theme of the course is the crisis in liberal democratic theory.", 
+            "concurrent": [], 
+            "courseTitle": "Political Theory from Tocqueville to Present", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3110"
+        }, 
+        "ARTS-6647": {
+            "courseDescription": "examines feminist scholarship that has challenged previously accepted notions in political theory, including definitions of politics itself, the distinctions between public and private, the nature of citizenship, and the roles of women in civil society. This course considers different ways of looking at power and political culture in modern societies, examining theses such as gender and democracy, race and class, poverty and welfare, sexuality and morality.", 
+            "concurrent": [], 
+            "courseTitle": "Feminist Political Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3140"
+        }, 
+        "ARTS-6644": {
+            "PR": "POSC 2010 or 9 credit hours in Political Science; enrollment in the Political Science Honours, Major or Minor program", 
+            "courseDescription": "is an introduction to basic concepts in the scientific approach to studying politics, and provides students with the fundamental skills for conducting empirical research using both qualitative and quantitative methods. These skills include how to construct a research project, and how to collect and analyze information.", 
+            "concurrent": [], 
+            "courseTitle": "Empirical Methods in Political Science", 
+            "prerequisites": [
+                "ARTS-6637"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-6645": {
+            "courseDescription": "examines selected political theory from Plato to Rousseau. The theme of the course is the development of liberal democratic theory.", 
+            "concurrent": [], 
+            "courseTitle": "Political Theory from Plato to Rousseau", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6663": {
+            "courseDescription": "reviews traditional theories about law, discuss their inadequacies, and consider the benefits of a policy-oriented approach to the study of the role of law in society. The concept of law as a process of authoritative decision will be used to examine the function of the judicial authority.", 
+            "concurrent": [], 
+            "courseTitle": "Law and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3521", 
+            "courseNumber": "3620"
+        }, 
+        "ARTS-6704": {
+            "PR": "POSC 2800 and a POSC 38xx course, or POSC 3880 , or the instructor's permission", 
+            "courseDescription": "requires students to participate in advanced research projects dealing with selected aspects of the politics of Newfoundland and Labrador. Topics to be considered may include the legislature and the executive, the civil service, interest groups, parties, elections and political recruitment.", 
+            "concurrent": [], 
+            "courseTitle": "Research in Newfoundland and Labrador Politics", 
+            "prerequisites": [
+                "ARTS-6642", 
+                "ARTS-6671"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4780", 
+            "courseNumber": "4880"
+        }, 
+        "ARTS-6700": {
+            "PR": "POSC 2600 and a POSC 36xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines the political economy of Canada&rsquo;s human and natural resources, such as labour, energy, fisheries, forestry, mining, and water. The political consequences of natural resource dependency on the environment and Aboriginals are also discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Public Policy in Resource Dependent Economies", 
+            "prerequisites": [
+                "ARTS-6641"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4731", 
+            "courseNumber": "4650"
+        }, 
+        "ARTS-6699": {
+            "PR": "POSC 2600 and a POSC 36xx course, or POSC 3600 , or the instructor&rsquo;s permission", 
+            "courseDescription": "is a survey of the major frameworks for the study of public policy, including decision-making theories. The course examines different stages in the policy-making process, such as policy initiation, priorities planning, choice of governing instruments, implementation and evaluation in relation to the objective and normative factors in Canadian policy environment, key institutions, dominant interests, and political leadership.", 
+            "concurrent": [], 
+            "courseTitle": "Policy Analysis", 
+            "prerequisites": [
+                "ARTS-6641", 
+                "ARTS-6661"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 3730", 
+            "courseNumber": "4630"
+        }, 
+        "ARTS-6698": {
+            "PR": "a minimum 60 credit hours, including at least 15 credit hours in Political Science courses with a minimum 70% average, and permission of the instructor", 
+            "courseDescription": "provides career-related policy work experience with government, a political party, a non-governmental organization, a union, or another employer involved in public affairs. Job placements are for twelve weeks at eight hours per week and are typically unpaid. Class meetings and course work are required. Admission is selective and competitive. Details are available on the Department's website at", 
+            "concurrent": [
+                "ARTS-6711"
+            ], 
+            "courseTitle": "Public Policy Work Internship", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "POSC 460W , the former POSC 4000", 
+            "courseNumber": "4600"
+        }, 
+        "ARTS-6695": {
+            "PR": "POSC 2300 and a POSC 33xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines protest and movement politics, insurgent and counter-insurgent politics, terrorism, and revolution.", 
+            "concurrent": [], 
+            "courseTitle": "Contentious Politics - Protest, Violence and Terrorism", 
+            "prerequisites": [
+                "ARTS-6640"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4740", 
+            "courseNumber": "4360"
+        }, 
+        "ARTS-6694": {
+            "PR": "2300 and a POSC 33xx course, or POSC 3140 or 3340 , or the instructor&rsquo;s permission", 
+            "courseDescription": "focuses on the gender gap in both political behaviour and participation. Focusing primarily on Canada and the United States, this course assesses patterns of involvement in political institutions, and examines differences between men&rsquo;s and women&rsquo;s political attitudes.", 
+            "concurrent": [], 
+            "courseTitle": "Women and Mass Politics", 
+            "prerequisites": [
+                "ARTS-6640", 
+                "ARTS-6647", 
+                "ARTS-6658"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4503", 
+            "courseNumber": "4340"
+        }, 
+        "ARTS-6672": {
+            "courseDescription": "is an examination of the theory, structure and operation of local governments in Canada, with particular emphasis on Newfoundland and Labrador. Recent proposals for reform and the politics of implementing regional government and financial reorganization will be examined.", 
+            "concurrent": [], 
+            "courseTitle": "Municipal Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3790", 
+            "courseNumber": "3890"
+        }, 
+        "ARTS-6696": {
+            "PR": "POSC 2300 and a POSC 33xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "is a comparative study of the conditions necessary to develop and sustain democratic regimes and the circumstances under which transitions to democracy succeed or fail. The course will examine theoretical materials and apply them to recent and historical transitions to democratic rule.", 
+            "concurrent": [], 
+            "courseTitle": "Democracy and Democratization", 
+            "prerequisites": [
+                "ARTS-6640"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4301", 
+            "courseNumber": "4370"
+        }, 
+        "ARTS-6675": {
+            "PR": "enrollment in the Honours program and permission of the Head of the Department", 
+            "courseDescription": "develops independent research and writing skills through regular meetings with a research supervisor, the preparation of an approved research proposal, and the completion of a high quality draft of at least one section of the Honours essay. Students are expected to follow the Department&rsquo;s &ldquo;Guidelines Governing Honours Essays&rdquo;. Prior to enrolling, and ideally a semester in advance, students should contact the Head of the Department to identify a potential supervisor.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 4950", 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-6690": {
+            "PR": "POSC 2200 and a POSC 32xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines current political and public policy challenges from a political economy perspective. Topics may include globalization, major trade disputes, currency and debt crises, economic development and global environmental problems.", 
+            "concurrent": [], 
+            "courseTitle": "Controversies in Political Economy", 
+            "prerequisites": [
+                "ARTS-6639"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4350", 
+            "courseNumber": "4255"
+        }, 
+        "ARTS-6693": {
+            "PR": "any POSC course at the 2000 level or higher, or the instructor&rsquo;s permission", 
+            "courseDescription": "studies the role of both the public and political institutions in affecting political and policy outcomes. Topics will address the nature of political institutions, public demands, and evidence regarding how interests are facilitated through the political process.", 
+            "concurrent": [], 
+            "courseTitle": "Comparative Political Representation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 4313", 
+            "courseNumber": "4330"
+        }, 
+        "ARTS-6692": {
+            "PR": "POSC 2300 and a POSC 33xx course, or POSC 3800 , or the instructor&rsquo;s permission", 
+            "courseDescription": "examines theories of federalism along with the development and operation of federalism in selected nation states.", 
+            "concurrent": [], 
+            "courseTitle": "Comparative Federalism", 
+            "prerequisites": [
+                "ARTS-6640", 
+                "ARTS-6666"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "ARTS-6668": {
+            "courseDescription": "uses a casebook approach to examine critical issues of Canadian constitutional law. The development of the Canadian Constitution and processes of judicial review, as well as the legal development of federalism and protection of civil rights, are examined in detail.", 
+            "concurrent": [], 
+            "courseTitle": "Constitutional Law in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3720", 
+            "courseNumber": "3820"
+        }, 
+        "ARTS-6639": {
+            "courseDescription": "is an examination of the \"building blocks\" of international politics including determinants, means, processes and ends. Emphasis is on the post-1945 period.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to International Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2200"
+        }, 
+        "ARTS-6638": {
+            "courseDescription": "is a survey of the most important political thinkers and schools of political thought. The course will ordinarily cover major political thinkers and include a selection of contemporary political ideologies.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Political Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 2000", 
+            "courseNumber": "2100"
+        }, 
+        "ARTS-6669": {
+            "courseDescription": "is an introductory course in Aboriginal governance. It examines Aboriginal culture and traditions, the variety of Aboriginal governments and governing traditions, and Aboriginal and treaty rights. Public policy issues surrounding categories of Aboriginal peoples, intergovernmental relations affecting them, and the role and significance of Aboriginal political organizations and actions are explored.", 
+            "concurrent": [], 
+            "courseTitle": "Aboriginal Government and Politics in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3830"
+        }, 
+        "ARTS-6637": {
+            "PR": "POSC 1000", 
+            "courseDescription": "provides an overview of the research and analysis skills used in Political Science. Students can expect to learn about library research, electronic data gathering, and the elements of strong essay writing which can be applied across disciplines in the social sciences. The &ldquo;political&rdquo; content will vary by instructor and will address more specific topics than those ordinarily covered in 2000-level Political Science courses. This course qualifies as a Research/Writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Research and Writing in Political Science", 
+            "prerequisites": [
+                "ARTS-6634"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-6636": {
+            "courseDescription": "explores some of the world&rsquo;s most pressing and interesting political issues. This course profiles important political problems, such as a power struggle within a particular country, a controversial topic that affects an entire continent, or a major crisis that has implications for inhabitants around the world. Suitable for students in all disciplines who have an interest in international politics.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in World Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1020"
+        }, 
+        "ARTS-6635": {
+            "courseDescription": "explores some of Canada&rsquo;s most pressing and interesting political issues. This course profiles important political problems facing federal and provincial politicians and society. Suitable for students in all disciplines who have an interest in Canadian politics and who wish to develop a basic awareness of Canadian government.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in Canadian Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1010"
+        }, 
+        "ARTS-6634": {
+            "courseDescription": "is an introduction to basic concepts in the study of politics, power, law, public policy and government, touching on major areas of political ideologies, institutions, and current domestic and international political issues. Suitable for students in all disciplines seeking an introduction to Political Science.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Politics and Government", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6659": {
+            "courseDescription": "looks at the measurement and formation of political attitudes, factors affecting attitude stability and change, and the distribution of opinion in society. Emphasizes public opinion and voting behaviour in the United States and Canada during campaigns and interelection periods.", 
+            "concurrent": [], 
+            "courseTitle": "Public Opinion and Voting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3510", 
+            "courseNumber": "3350"
+        }, 
+        "ARTS-6658": {
+            "courseDescription": "examines the role of women in the political process in comparative context. Topics may include the political socialization, organization, and recruitment of women; voting behaviour; and the organization of governmental institutions as a response to the concerns of women.", 
+            "concurrent": [], 
+            "courseTitle": "Women and Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3340"
+        }, 
+        "ARTS-6674": {
+            "courseDescription": "is offered only at the Harlow (England) campus and explore selected facets of the politics of contemporary Europe. Typical themes include the European Union and its member-states, asylum and immigration, social and economic policy, foreign policy and the position of Europe in the international system. For further information about the Harlow semester consult the Department or the Faculty of Arts.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in European Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit restrictions will be designated on a course-by-course basis", 
+            "courseNumber": "3980-3999"
+        }, 
+        "ARTS-6651": {
+            "courseDescription": "is an introduction to the analysis of foreign policy, with special reference to domestic and international constraints, capabilities and ideology.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Foreign Policy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3200, the former POSC 3760", 
+            "courseNumber": "3280"
+        }, 
+        "ARTS-6650": {
+            "courseDescription": "studies the interaction between world politics and international economics. Major theoretical debates regarding globalization and multinational corporations are covered, as well as current topics such as: the politics of the global monetary and financial order, international trade, foreign investment and debt, international development, and environmental issues.", 
+            "concurrent": [], 
+            "courseTitle": "International Political Economy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3250"
+        }, 
+        "ARTS-6653": {
+            "courseDescription": "is a comparative study of government and politics in selected states of Western Europe. Emphasis will be on parties, institutions, and policy-making, particularly the ways in which states manage their economies.", 
+            "concurrent": [], 
+            "courseTitle": "European Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-6652": {
+            "courseDescription": "examines political concepts and government policies related to security contexts, such as the displacement of citizens, food supply issues, energy, information flows, war and/or the environment.", 
+            "concurrent": [], 
+            "courseTitle": "Human Security", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3391", 
+            "courseNumber": "3290"
+        }, 
+        "ARTS-6655": {
+            "courseDescription": "examines the governmental process in the United States including the role of parties and interest groups. This course will also consider select contemporary problems.", 
+            "concurrent": [], 
+            "courseTitle": "American Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3310"
+        }, 
+        "ARTS-6654": {
+            "courseDescription": "introduces students to the politics of the Republic of Ireland. Topics covered include the historical origins of the state, the political influence of the Roman Catholic Church, the evolution of political institutions, as well as the evolving relationship with Northern Ireland, Europe and the world.", 
+            "concurrent": [], 
+            "courseTitle": "Irish Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3305"
+        }, 
+        "ARTS-6657": {
+            "courseDescription": "analyzes the history and development of political change in a selection of South Asian states with a focus on the contemporary challenges that they face in a globalized political environment.", 
+            "concurrent": [], 
+            "courseTitle": "South Asian Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3420", 
+            "courseNumber": "3325"
+        }, 
+        "ARTS-6656": {
+            "courseDescription": "is an analysis of the forces influencing politics in contemporary Latin America with particular emphasis being given to those factors promoting political change. No prior knowledge of Latin America is assumed.", 
+            "concurrent": [], 
+            "courseTitle": "Latin American Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3430", 
+            "courseNumber": "3315"
+        }, 
+        "ARTS-6702": {
+            "PR": "POSC 2800 and a POSC 38xx course, or POSC 3350 , 3390 , or 3860 , or the instructor's permission", 
+            "courseDescription": "is an examination of election campaigns and electoral systems in the Canadian political system, with an emphasis on candidates, parties, voters, electioneering activities and campaign regulations.", 
+            "concurrent": [], 
+            "courseTitle": "Elections in Canada", 
+            "prerequisites": [
+                "ARTS-6642", 
+                "ARTS-6659", 
+                "ARTS-6660", 
+                "ARTS-6676"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 3700", 
+            "courseNumber": "4860"
+        }, 
+        "ARTS-6703": {
+            "PR": "POSC 2800 and a POSC 38xx course, or POSC 3800 or 3870 , or the instructor's permission", 
+            "courseDescription": "is an examination of the economic, social, and institutional determinants of regionalism and the ways in which these forces have shaped decision-making in Canada. Emphasis on the various models and frameworks used to study regionalism.", 
+            "concurrent": [], 
+            "courseTitle": "Regionalism in Canada", 
+            "prerequisites": [
+                "ARTS-6642", 
+                "ARTS-6666", 
+                "ARTS-6670"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4750", 
+            "courseNumber": "4870"
+        }, 
+        "ARTS-6676": {
+            "courseDescription": "draws upon communications theory to analyze major political problems and processes. Specific attention is given to Canadian politics in the news and to various print, broadcast and online media.", 
+            "concurrent": [], 
+            "courseTitle": "Media and Politics in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3511", 
+            "courseNumber": "3860"
+        }, 
+        "ARTS-6671": {
+            "courseDescription": "is a study of the political process in Newfoundland and Labrador. Topics may include electoral behaviour and attitudes, the party system, leadership styles, the consequences of federalism, and public administration.", 
+            "concurrent": [], 
+            "courseTitle": "Newfoundland and Labrador Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3780", 
+            "courseNumber": "3880"
+        }, 
+        "ARTS-6670": {
+            "courseDescription": "is a comparative study of politics in selected Canadian provinces and territories. Consequences of varying historical and cultural contexts will be examined with special attention to parties and movements, leadership styles, and orientations to the Canadian federation.", 
+            "concurrent": [], 
+            "courseTitle": "Provincial Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3770", 
+            "courseNumber": "3870"
+        }, 
+        "ARTS-6710": {
+            "PR": "enrollment in the Political Science Co-operative Education Program (PSCE) , 27 POSC credit hours; POSC 260W ; a minimum overall average of 65% and a minimum average of 70% in POSC courses; and permission of the designated faculty member", 
+            "courseDescription": "building on their first work term placement students will further develop their knowledge and work-related skills in a position that entails increased responsibility and challenge. Students are expected to demonstrate an ability to deal with increasingly complex work-related concepts and problems.", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 2", 
+            "prerequisites": [
+                "ARTS-6709"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "360W"
+        }, 
+        "ARTS-6691": {
+            "PR": "POSC 2200 or a POSC 31xx course, or POSC 3310 , or the instructor&rsquo;s permission", 
+            "courseDescription": "reviews the structures, process and major foreign policy perspectives of the United States of America in a global context.", 
+            "concurrent": [], 
+            "courseTitle": "American Foreign Policy", 
+            "prerequisites": [
+                "ARTS-6639", 
+                "ARTS-6655"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 3200", 
+            "courseNumber": "4280"
+        }, 
+        "ARTS-6662": {
+            "courseDescription": "is an introduction to public administration, history of the public service in Canada, an examination of the structure and functioning of contemporary federal and provincial governments. Topics covered include cabinet organization, financial and personnel management, collective bargaining, and bilingualism.", 
+            "concurrent": [], 
+            "courseTitle": "Public Administration in Canada", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former POSC 3741", 
+            "courseNumber": "3610"
+        }, 
+        "ARTS-6688": {
+            "PR": "POSC 2200 and a POSC 32xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines the major theories used to understand world politics and international conflict, such as constructivism, feminism, game theory, historical structuralism, liberalism, and realism. These are explored through classic readings in international relations and case studies.", 
+            "concurrent": [], 
+            "courseTitle": "Theories of International Relations", 
+            "prerequisites": [
+                "ARTS-6639"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4230"
+        }, 
+        "ARTS-6689": {
+            "PR": "POSC 2200 and a POSC 32xx course, or POSC 3300 , or the instructor&rsquo;s permission", 
+            "courseDescription": "is an examination of the European Community as an emergent transnational form of governance. The course will consider the origins of the Community, the operation of its institutions, its transformation from Common Market to European Union, and the ways in which EC politics impinges on national-level politics.", 
+            "concurrent": [], 
+            "courseTitle": "The European Union", 
+            "prerequisites": [
+                "ARTS-6639", 
+                "ARTS-6653"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 3291", 
+            "courseNumber": "4250"
+        }, 
+        "ARTS-6673": {
+            "courseDescription": "will have topics announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Political Science", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit restrictions will be designated on a course-by-course basis", 
+            "courseNumber": "3900-3979"
+        }, 
+        "ARTS-6687": {
+            "PR": "POSC 2200 and a POSC 32xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines the evolution of global norms of human rights and consequences for the structures of the international system, international civil society, and the international political process.", 
+            "concurrent": [], 
+            "courseTitle": "Human Rights and International Politics", 
+            "prerequisites": [
+                "ARTS-6639"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4215"
+        }, 
+        "ARTS-6684": {
+            "PR": "POSC 2100 or a POSC 31xx course, or the instructor's permission", 
+            "courseDescription": "examines significant debates in the contemporary scholarship on democratic theory, such as the relationship between democratic decision-making and individual liberty; who \"the people&rdquo; are in democratic states and how they make their will known; whether democracy depends upon a sense of collective identity; and whether democracy is inherently exclusionary.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Democratic Theory", 
+            "prerequisites": [
+                "ARTS-6638"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4120"
+        }, 
+        "ARTS-6685": {
+            "PR": "POSC 2200 and a POSC 32xx course, or POSC 3210 , or the instructor&rsquo;s permission", 
+            "courseDescription": "is a research seminar on contemporary Canadian legal problems. Each semester will focus on one problem, such as Northern sovereignty, pollution, fishing zones or control of the sea.", 
+            "concurrent": [], 
+            "courseTitle": "International Law and Politics", 
+            "prerequisites": [
+                "ARTS-6639", 
+                "ARTS-6648"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-6682": {
+            "PR": "POSC 2100 or a POSC 31xx course, or the instructor's permission", 
+            "courseDescription": "is an introduction to the interpretation of political texts. Features historical and hermeneutical approaches to the study of Political Science.", 
+            "concurrent": [], 
+            "courseTitle": "Approaches to Political Theory", 
+            "prerequisites": [
+                "ARTS-6638"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6683": {
+            "PR": "POSC 2100 or a POSC 31xx course, or the instructor's permission", 
+            "courseDescription": "examines discourses on multiculturalism in contemporary political theory from a normative perspective. Focuses on the justice and equality frameworks within which multiculturalism is understood, and the challenges arising from pluralism in democratic societies.", 
+            "concurrent": [], 
+            "courseTitle": "Multicultural Citizenship", 
+            "prerequisites": [
+                "ARTS-6638"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4110"
+        }, 
+        "ARTS-6701": {
+            "PR": "POSC 2600 and a POSC 36xx course, or POSC 3600 or 3880 , or the instructor&rsquo;s permission", 
+            "courseDescription": "is a study of public policy in Newfoundland and Labrador. Examines the formation, implementation and impact of policies in one or more of the following areas: fisheries, resources, industrial development, agriculture, social policy.", 
+            "concurrent": [], 
+            "courseTitle": "Public Policy in Newfoundland and Labrador", 
+            "prerequisites": [
+                "ARTS-6641", 
+                "ARTS-6661", 
+                "ARTS-6671"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4730", 
+            "courseNumber": "4680"
+        }, 
+        "ARTS-6677": {
+            "PR": "completion of POSC 4010 with a minimum grade of 70%", 
+            "courseDescription": "builds on skills developed in POSC", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay II", 
+            "prerequisites": [
+                "ARTS-6675"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4951", 
+            "courseNumber": "4011"
+        }, 
+        "ARTS-6686": {
+            "PR": "POSC 2200 and a POSC 32xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "examines the evolution of arms control and considers the consequences of success and failure.", 
+            "concurrent": [], 
+            "courseTitle": "Arms Control and Proliferation", 
+            "prerequisites": [
+                "ARTS-6639"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "ARTS-6705": {
+            "PR": "will be designated on a course-by-course basis", 
+            "courseDescription": "will have a seminar topic announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Political Science", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "will be designated on a course-by-course basis", 
+            "courseNumber": "4900-4990 (Excluding 4950 and 4951)"
+        }, 
+        "ARTS-6711": {
+            "PR": "enrollment in the Political Science Co-operative Education Program (PSCE) ; a minimum third-year standing and 33 POSC credit hours; POSC 360W ; a minimum overall average of 65% and a minimum average of 70% in POSC courses; and permission of the designated faculty member.", 
+            "courseDescription": "building on their previous work term placements and Political Science course knowledge students will be assigned to a highly challenging position. They should have sufficient academic grounding and work experience to contribute in a positive manner to the problem-solving and management processes needed and practiced in the work environment. Students should become better acquainted with their discipline of study; should observe and appreciate the attitudes, responsibilities and ethics normally expected of professionals; and should exercise greater independence and responsibility in their assigned work functions.", 
+            "concurrent": [
+                "ARTS-6698"
+            ], 
+            "courseTitle": "Work Term 3", 
+            "prerequisites": [
+                "ARTS-6710"
+            ], 
+            "corequisites": [], 
+            "CR": "POSC 4600", 
+            "courseNumber": "460W"
+        }, 
+        "ARTS-6697": {
+            "PR": "POSC 2300 and a POSC 33xx course, or the instructor&rsquo;s permission", 
+            "courseDescription": "considers the practical and theoretical issues that affect the chances of the over five billion inhabitants of the developing world to secure democratic governance and material well-being.", 
+            "concurrent": [], 
+            "courseTitle": "The Developing World", 
+            "prerequisites": [
+                "ARTS-6640"
+            ], 
+            "corequisites": [], 
+            "CR": "the former POSC 4450", 
+            "courseNumber": "4380"
+        }, 
+        "ARTS-6709": {
+            "PR": "enrollment in the Political Science Co-operative Education Program (PSCE) ; 18 POSC credit hours; a minimum overall average of 65% and a minimum average of 70% in POSC courses; and permission of the designated faculty member. A candidate for a Political Science Honours or Major who completed a minimum of 18 credit hours in Political Science prior to September 2011 and who is not pursuing the co-op option may apply to enroll in POSC 260W. Priority will be given to PSCE students.", 
+            "courseDescription": "for most students this represents their first work experience in a professional environment. They are expected to learn, develop and practice the high standards of behaviour normally expected in the workplace. They are normally required to attend seminars on professional development.", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 1", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "260W", 
+            "OR": "Professional development seminars, delivered by Co-operative Education Services Centre (CESC), are presented in the previous semester to introduce and prepare the student for participation in the subsequent work terms. Topics may include, among others; r&eacute;sum&eacute; preparation; interview training; work term evaluation; preparation of reflective essays; career planning employment seeking skills; self-employment; ethics and professional concepts; behavioural requirements in the workplace; assertiveness in the workplace; and industrial safety."
+        }
+    }
+}

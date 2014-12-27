@@ -1,0 +1,952 @@
+{
+    "FREN": {
+        "ARTS-6989": {
+            "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
+            "courseDescription": "are advanced courses on specialized topics in French language. Subjects to be treated will be announced each year by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in French language", 
+            "prerequisites": [
+                "ARTS-6962", 
+                "ARTS-6963", 
+                "ARTS-6964", 
+                "ARTS-6965"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4120-4129"
+        }, 
+        "ARTS-6988": {
+            "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
+            "courseDescription": "is an introduction to principles and methods of translation from French to English and English to French. Comparative stylistics of French and English.", 
+            "concurrent": [], 
+            "courseTitle": "Translation and Comparative Stylistics", 
+            "prerequisites": [
+                "ARTS-6962", 
+                "ARTS-6963", 
+                "ARTS-6964", 
+                "ARTS-6965"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4101"
+        }, 
+        "ARTS-6095": {
+            "PR": "FREN 1501 with a grade of at least 60% or by permission of the Head of the Department. Students may not register concurrently for more than one of FREN 1500 , 1501 and 1502 except with the permission of the Head of the Department. Very well-prepared students may apply to the Department for permission to enter 1502 directly.", 
+            "courseDescription": "is one of three consecutive credit courses in French language at the first-year university level, offering a complete overview of basic oral and written French.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory University French III", 
+            "LH": "two additional hours of language laboratory work or conversation class, or both", 
+            "prerequisites": [
+                "ARTS-6093", 
+                "ARTS-6091", 
+                "ARTS-6093"
+            ], 
+            "corequisites": [], 
+            "CR": "the former FREN 1051", 
+            "courseNumber": "1502"
+        }, 
+        "ARTS-6093": {
+            "PR": "High School FREN 3200 or permission of the Head of the Department. Ex-immersion students should consult the Head of the Department before registering for this course. Students may not register concurrently for more than one of FREN 1500 , 1501 and 1502 except with the permission of the Head of the Department.", 
+            "courseDescription": "is one of three consecutive credit courses in French language at the first-year university level, offering a complete overview of basic oral and written French. New students may choose to register initially in FREN", 
+            "concurrent": [], 
+            "courseTitle": "Introductory University French II", 
+            "LH": "two additional hours of language laboratory work or conversation class, or both", 
+            "prerequisites": [
+                "ARTS-6091", 
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "CR": "the former FREN 1050", 
+            "courseNumber": "1501"
+        }, 
+        "ARTS-6091": {
+            "PR": "students may not register concurrently for more than one of FREN 1500, 1501 and 1502 except with the permission of the Head of the Department.", 
+            "courseDescription": "is a course for beginners and for students whose background in French is very weak. Students with a strong background in high-school French should bypass 1500 and begin their University study with", 
+            "concurrent": [], 
+            "courseTitle": "Introductory University French I", 
+            "LH": "two additional hours of language laboratory work or conversation class, or both", 
+            "prerequisites": [
+                "ARTS-6093", 
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "CR": "the former FREN 1010 or the former FREN 1011", 
+            "UL": "permission to register for this course will not be given to students who have completed Fran&ccedil;ais 3202 (High School French immersion)", 
+            "courseNumber": "1500"
+        }, 
+        "ARTS-6981": {
+            "PR": "admission to the Canadian Third Year Program in Nice and French 3507", 
+            "courseDescription": "is a required course of Session II of the", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French Studies at Nice (II)", 
+            "prerequisites": [
+                "ARTS-6980"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3508"
+        }, 
+        "ARTS-6980": {
+            "PR": "admission to the Canadian Third Year Program in Nice and 15 credit hours in French at the 2000 level, or permission of the Head of the Department", 
+            "courseDescription": "is a required course of Session I of the", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French Studies at Nice (I)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3507"
+        }, 
+        "ARTS-6983": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is an introduction to the culture of Quebec. Practice in oral and written French.", 
+            "concurrent": [], 
+            "courseTitle": "Quebec Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3651"
+        }, 
+        "ARTS-6982": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is an introduction to the culture of France. Practice in oral and written French.", 
+            "concurrent": [], 
+            "courseTitle": "French Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-6985": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "studies the role, the diversity of the French language, its status and challenges in the French-speaking world outside France and Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Francophone World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3654"
+        }, 
+        "ARTS-6984": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is an introduction to the culture of French-speaking regions of Canada other than Quebec. Practice in oral and written French.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Francophone Culture Outside Quebec", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3653"
+        }, 
+        "ARTS-6987": {
+            "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
+            "courseDescription": "is an intensive review of the stylistics of written French, including levels of expression and composition of texts with a Francophone audience in mind (correspondence, reports, etc.). Advanced oral practice.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French Expression", 
+            "prerequisites": [
+                "ARTS-6962", 
+                "ARTS-6963", 
+                "ARTS-6964", 
+                "ARTS-6965"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6986": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "examines a cultural aspect of the Francophone world through an interdisciplinary approach in order to better understand the dynamics at work.", 
+            "concurrent": [], 
+            "courseTitle": "Interdisciplinary Topics in French Civilization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3800"
+        }, 
+        "ARTS-6130": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Nineteenth Century Spanish Novel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4200"
+        }, 
+        "ARTS-6127": {
+            "PR": "SPAN 2001 or equivalent but may vary with each new course", 
+            "courseDescription": "will have the particulars available on the Departmental website.", 
+            "CO": "SPAN 2001 or equivalent but may vary with each new course", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Spanish-language Culture", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [
+                "ARTS-6109"
+            ], 
+            "CR": "currently not applicable but may vary with each new course", 
+            "courseNumber": "3850-3859"
+        }, 
+        "ARTS-6118": {
+            "PR": "SPAN 2001 or equivalent, or permission of the Head of the Department", 
+            "courseDescription": "explores Latin-American culture and civilization from pre-Columbian times to the present. Particular attention will be paid to issues of colonization, identity and to the background of the various independence and revolutionary movements in the region.", 
+            "concurrent": [], 
+            "courseTitle": "Latin-American Culture and Civilization", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3401"
+        }, 
+        "ARTS-6119": {
+            "PR": "SPAN 2001 or equivalent, or permission of the Head of the Department", 
+            "courseDescription": "is a survey course on the development of Latin-American literature from pre-Columbian times to the Modernism movement.", 
+            "concurrent": [], 
+            "courseTitle": "Latin-American Literature I", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-6134": {
+            "courseDescription": "is a study of the characteristics of theatre, its literary and performative aspects, and its relationship to history, culture and society.", 
+            "CO": "Spanish 2001 and any 3000-level Spanish course or equivalent, or permission of the Head of the Department", 
+            "concurrent": [], 
+            "courseTitle": "Modern Latin-American Drama", 
+            "prerequisites": [], 
+            "corequisites": [
+                "ARTS-6109"
+            ], 
+            "courseNumber": "4502"
+        }, 
+        "ARTS-6135": {
+            "courseDescription": "is an exploration of 20th century Latin-American poetry and the complex relationship between its social and poetic components. Among the topics to be studied are subjectivity, authority and gender. The course includes Latino-Canadian poets.", 
+            "CO": "Spanish 2001 and any 3000-level Spanish course or equivalent, or permission of the Head of the Department", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Latin-American Poetry", 
+            "prerequisites": [], 
+            "corequisites": [
+                "ARTS-6109"
+            ], 
+            "courseNumber": "4503"
+        }, 
+        "ARTS-6136": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Oral and Written Spanish Composition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "ARTS-6126": {
+            "PR": "SPAN 2001 or equivalent but may vary with each new course", 
+            "courseDescription": "will have the particulars available on the Departmental website.", 
+            "CO": "SPAN 2001 or equivalent but may vary with each new course", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Spanish-language Literature", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [
+                "ARTS-6109"
+            ], 
+            "CR": "currently not applicable but may vary with each new course", 
+            "courseNumber": "3800-3809"
+        }, 
+        "ARTS-6138": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Reading Course in Spanish", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4800"
+        }, 
+        "ARTS-6113": {
+            "PR": "SPAN 2001", 
+            "courseDescription": "is a general introduction to the historical and cultural background and development of sixteenth and seventeenth century Spanish prose literature through study of Lazarillo de Tormes, Don Quijote and El Busc&oacute;n. Special emphasis is given to the picaresque novel and on the originality of Cervantes and the creation of the first truly \"modern\" novel.", 
+            "concurrent": [], 
+            "courseTitle": "Spanish Literature of the Golden Age", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3101"
+        }, 
+        "ARTS-6110": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Spanish Literature of the 18th and 19th Century I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3000"
+        }, 
+        "ARTS-6116": {
+            "PR": "SPAN 2001 or equivalent, or permission of the Head of the Department.", 
+            "courseDescription": "is a study of selected (subtitled) films by representative film-makers from the Hispanic world. Emphasis will be placed on the cultural and social issues explored in the films and the historical context in which they emerge.", 
+            "concurrent": [], 
+            "courseTitle": "Hispanic Cinema and Culture", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "UL": "not acceptable towards the second language requirement for the completion of the Bachelor of Arts degree", 
+            "courseNumber": "3300"
+        }, 
+        "ARTS-6117": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Spanish Civilization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "ARTS-6114": {
+            "PR": "SPAN 2001", 
+            "courseDescription": "is a general survey of Spanish literary works of the twentieth century, with a detailed study of representative authors.", 
+            "concurrent": [], 
+            "courseTitle": "Spanish Literature 20th Century", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6974": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "pays particular attention to the literatures of French Canada and France.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to Prose Literature in French", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-6975": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "pays particular attention to the literatures of French Canada and France.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to Drama in French", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3501"
+        }, 
+        "ARTS-6976": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "pays particular attention to the literatures of French Canada and France.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to Poetry in French", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3502"
+        }, 
+        "ARTS-6977": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is the study of a particular theme or of interrelated themes in selected French-language texts.", 
+            "concurrent": [], 
+            "courseTitle": "Study of Theme", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3503"
+        }, 
+        "ARTS-6958": {
+            "PR": "FREN 1502 or equivalent", 
+            "courseDescription": "is a practical introduction to French phonetics, including the International Phonetic Alphabet and phonetic transcription as well as corrective phonetics.", 
+            "concurrent": [], 
+            "courseTitle": "Phonetics", 
+            "prerequisites": [
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2300", 
+            "OR": "may be offered in accelerated format outside the regular semester or session timeframe when being delivered as part of the Frecker Summer Program"
+        }, 
+        "ARTS-6959": {
+            "PR": "FREN 1502 or equivalent", 
+            "courseDescription": "will explore reading strategies in a variety of narrative and descriptive readings in French. This course will normally be taught in French.", 
+            "concurrent": [], 
+            "courseTitle": "Grammar and Reading", 
+            "prerequisites": [
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2601"
+        }, 
+        "ARTS-6956": {
+            "PR": "primarily intended for students who completed immersion programs or with permission of the Head of the Department. FREN 2159 and 2160 are courses designed for former French immersion students as well as others with exceptional backgrounds in French, and are intended as an alternative to the 1500 , 1501 , 1502 , 2100 , 2101 sequence.", 
+            "courseDescription": "is primarily intended to build on the language skills acquired by students in immersion programs. Development of reading, writing, listening and speaking ability through practical oral and written exercises. Other qualified students may register with the permission of the Head of Department.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French for First-year Students I", 
+            "prerequisites": [
+                "ARTS-6957", 
+                "ARTS-6091", 
+                "ARTS-6093", 
+                "ARTS-6095", 
+                "ARTS-7035", 
+                "ARTS-6955"
+            ], 
+            "corequisites": [], 
+            "UL": "this course does not satisfy the requirements of the Major and Minor programs in French", 
+            "courseNumber": "2159"
+        }, 
+        "ARTS-6957": {
+            "PR": "FREN 2159 and 2160 are courses designed for former French immersion students as well as others with exceptional backgrounds in French, and are intended as an alternative to the 1500 , 1501 , 1502 , 2100 , 2101 sequence.", 
+            "courseDescription": "is an intensive review of French grammar with oral and written practice. Particular attention will be paid to ensuring precision in language use in both oral and written forms and to eradicating anglicisms.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced French for First-year Students II", 
+            "prerequisites": [
+                "ARTS-6956", 
+                "ARTS-6091", 
+                "ARTS-6093", 
+                "ARTS-6095", 
+                "ARTS-7035", 
+                "ARTS-6955"
+            ], 
+            "corequisites": [], 
+            "UL": "this course does not satisfy the requirements of the Major and Minor programs in French", 
+            "courseNumber": "2160"
+        }, 
+        "ARTS-6955": {
+            "PR": "FREN 2100", 
+            "courseDescription": "is further work in composition, grammar and oral skills.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate French II", 
+            "prerequisites": [
+                "ARTS-7035"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2101"
+        }, 
+        "ARTS-6978": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is the study of one or more literary periods through selected French-language texts.", 
+            "concurrent": [], 
+            "courseTitle": "Literary History", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3504"
+        }, 
+        "ARTS-6979": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is a survey course designed to acquaint students with the major productions and trends in French cinema. The course is taught in French, and films screened will not necessarily have English subtitles. It is therefore recommended that students have a good aural comprehension of French.", 
+            "concurrent": [], 
+            "courseTitle": "French Cinema", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3506"
+        }, 
+        "ARTS-6144": {
+            "courseDescription": "is a graduate service course.", 
+            "concurrent": [], 
+            "courseTitle": "Reading in Spanish", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "6900"
+        }, 
+        "ARTS-6133": {
+            "courseDescription": "will examine the genesis and development of this groundbreaking movement from its beginnings in 1885 to its transformation into the avant-garde movement in the first decades of the 20th Century.", 
+            "CO": "Spanish 2001 and any 3000-level Spanish course or equivalent, or permission of the Head of the Department", 
+            "concurrent": [], 
+            "courseTitle": "Modernism in Latin-American Literature", 
+            "prerequisites": [], 
+            "corequisites": [
+                "ARTS-6109"
+            ], 
+            "courseNumber": "4501"
+        }, 
+        "ARTS-6121": {
+            "PR": "SPAN 2001 or equivalent, or permission of the Head of the Department", 
+            "courseDescription": "is a survey course on general characteristics and history of the short story. Emphasis will be placed on close reading of stories from different geographical areas, such as Mexico, Cuba, Argentina, Colombia, and the U.S.", 
+            "concurrent": [], 
+            "courseTitle": "Latin-American Short Story", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3502"
+        }, 
+        "ARTS-7035": {
+            "PR": "FREN 1502 with a grade of at least 60%", 
+            "courseDescription": "is a course on composition, grammar and practice in oral skills.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate French I", 
+            "prerequisites": [
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2100"
+        }, 
+        "ARTS-6131": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Spanish Novel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-7669": {
+            "PR": "SPAN 2000 and 2005 , or equivalent, or permission from the Head of the Department", 
+            "courseDescription": "is a continuation of SPAN", 
+            "CO": "SPAN 1001", 
+            "concurrent": [], 
+            "courseTitle": "Business and Culture II", 
+            "prerequisites": [
+                "ARTS-6108", 
+                "ARTS-7668"
+            ], 
+            "corequisites": [
+                "ARTS-6107"
+            ], 
+            "courseNumber": "2006"
+        }, 
+        "ARTS-7668": {
+            "PR": "SPAN 1001 , or equivalent, or permission from the Head of the Department", 
+            "courseDescription": "is an intermediate course that focuses on communication skills in Spanish (listening, speaking, reading and writing) as well as on the acquisition of intercultural competence to use Spanish in business-oriented situations. This course is open to native or near-native speakers.", 
+            "CO": "SPAN 2000", 
+            "concurrent": [], 
+            "courseTitle": "Business and Culture I", 
+            "prerequisites": [
+                "ARTS-6107"
+            ], 
+            "corequisites": [
+                "ARTS-6108"
+            ], 
+            "courseNumber": "2005"
+        }, 
+        "ARTS-6998": {
+            "PR": "two of: FREN 3500 , 3501 , 3502 , 3503 , 3504 , 3506 , 3507 , 3508 or one course in that series with a grade of 80% or above", 
+            "courseDescription": "is a study of a genre from French-language literature of different periods to be chosen among other literary and popular genres such as: essay, tract, manifesto; memoirs, diary, autobiography; personal writing, fantasy, best sellers, detective novel, spy novel, science fiction, etc.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Genre II", 
+            "prerequisites": [
+                "ARTS-6974", 
+                "ARTS-6975", 
+                "ARTS-6976", 
+                "ARTS-6977", 
+                "ARTS-6978", 
+                "ARTS-6979", 
+                "ARTS-6980", 
+                "ARTS-6981"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4640"
+        }, 
+        "ARTS-6999": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Criticism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4650"
+        }, 
+        "ARTS-6992": {
+            "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
+            "courseDescription": "deals with the identity of French Newfoundlanders. It will examine the historical context that lead to the emergence of a distinct identity, contacts between Newfoundland and France and the origin of francophone communities on the West coast. The traditional ways of life, folklore and traditions of these communities and their evolutions during the 20th century will also be studied.", 
+            "concurrent": [], 
+            "courseTitle": "Traditional Culture of French-Newfoundlanders", 
+            "prerequisites": [
+                "ARTS-6962", 
+                "ARTS-6963", 
+                "ARTS-6964", 
+                "ARTS-6965"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-6120": {
+            "PR": "SPAN 2001 or equivalent, or permission of the Head of the Department", 
+            "courseDescription": "is a survey of major trends in Latin-American literature since Modernismo and analysis of selected works of prose, poetry and drama.", 
+            "concurrent": [], 
+            "courseTitle": "Latin-American Literature II", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3501"
+        }, 
+        "ARTS-6996": {
+            "PR": "two of: FREN 3500 , 3501 , 3502 , 3503 , 3504 , 3506 , 3507 , 3508 or one course in that series with a grade of 80% or above", 
+            "courseDescription": "is French literary history through the study of a movement or trend in literature since realism: realism, naturalism, symbolism, surrealism, existentialism, feminism, postmodernism, the absurd, nouveau roman, roman du terroir, etc.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Movement II", 
+            "prerequisites": [
+                "ARTS-6974", 
+                "ARTS-6975", 
+                "ARTS-6976", 
+                "ARTS-6977", 
+                "ARTS-6978", 
+                "ARTS-6979", 
+                "ARTS-6980", 
+                "ARTS-6981"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4620"
+        }, 
+        "ARTS-6997": {
+            "PR": "two of: FREN 3500 , 3501 , 3502 , 3503 , 3504 , 3506 , 3507 , 3508 or one course in that series with a grade of 80% or above", 
+            "courseDescription": "is a study of a genre from French-literature of different periods to be chosen among the traditional or canonical forms (poetry, narrative fiction, theatre): poem, epic, novel, short story, novella tragedy, comedy, drama.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Genre I", 
+            "prerequisites": [
+                "ARTS-6974", 
+                "ARTS-6975", 
+                "ARTS-6976", 
+                "ARTS-6977", 
+                "ARTS-6978", 
+                "ARTS-6979", 
+                "ARTS-6980", 
+                "ARTS-6981"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4630"
+        }, 
+        "ARTS-6995": {
+            "PR": "two of: FREN 3500 , 3501 , 3502 , 3503 , 3504 , 3506 , 3507 , 3508 or one course in that series with a grade of 80% or above", 
+            "courseDescription": "is French literary history through the study of a movement or trend in literature up to romanticism: courtoisie, libertinage, libre pens&eacute;e (free thought), the baroque, humanism, classicism, romanticism, etc.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Movement I", 
+            "prerequisites": [
+                "ARTS-6974", 
+                "ARTS-6975", 
+                "ARTS-6976", 
+                "ARTS-6977", 
+                "ARTS-6978", 
+                "ARTS-6979", 
+                "ARTS-6980", 
+                "ARTS-6981"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4610"
+        }, 
+        "ARTS-6109": {
+            "PR": "SPAN 2000", 
+            "courseDescription": "is a continuation of Intermediate Spanish I.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Spanish II", 
+            "prerequisites": [
+                "ARTS-6108"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2001"
+        }, 
+        "ARTS-6108": {
+            "PR": "SPAN 1001", 
+            "courseDescription": "is a continuation of the basic grammar, reading, and oral Spanish completed in the elementary program.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Spanish I", 
+            "prerequisites": [
+                "ARTS-6107"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-6141": {
+            "PR": "SPAN 1001 or permission of the Head of the Department. Offered only in the context of a study-abroad program in a Spanish speaking country.", 
+            "courseDescription": "will focus on hispanic literary and cultural studies at the intermediate level and in an intensive immersion setting.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Hispanic Cultural and Literary Studies", 
+            "prerequisites": [
+                "ARTS-6107"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-6140": {
+            "PR": "SPAN 1001 or permission of the Head of the Department. Offered only in the context of a study-abroad program in a Spanish speaking country.", 
+            "courseDescription": "will emphasize the development of aural comprehension and oral expression in Spanish in an intensive immersion setting. The course will also include work on written expression and comprehension.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Spanish Language Studies", 
+            "prerequisites": [
+                "ARTS-6107"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-6143": {
+            "PR": "SPAN 2001 or permission of the Head of the Department. Offered only in the context of a study-abroad program in a Spanish speaking country.", 
+            "courseDescription": "will be similar to SPAN", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Hispanic Cultural and Literary Studies", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3020"
+        }, 
+        "ARTS-6142": {
+            "PR": "SPAN 2001 or permission of the Head of the Department. Offered only in the context of a study-abroad program in a Spanish speaking country.", 
+            "courseDescription": "will be similar to SPAN", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Spanish Language Studies", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3010"
+        }, 
+        "ARTS-6101": {
+            "PR": "ITAL 1000", 
+            "courseDescription": "is a continuation of Elementary Italian I.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Italian II", 
+            "LH": "1", 
+            "prerequisites": [
+                "ARTS-6100"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1001"
+        }, 
+        "ARTS-6100": {
+            "courseDescription": "is for beginners in Italian. Introduction to the fundamentals of Italian grammar, with particular attention to the acquisition of basic skills in oral and written communication.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Italian I", 
+            "LH": "1", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6125": {
+            "PR": "SPAN 3700", 
+            "courseDescription": "is a continuation of Advanced Spanish I.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Spanish II", 
+            "prerequisites": [
+                "ARTS-6124"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3701"
+        }, 
+        "ARTS-6124": {
+            "PR": "SPAN 2001", 
+            "courseDescription": "covers oral Spanish, composition and reading of contemporary literary materials; phonetics.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Spanish I", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3700"
+        }, 
+        "ARTS-6123": {
+            "PR": "SPAN 2001", 
+            "courseDescription": "is a study of representative works of Spanish-American literature of the twentieth century.", 
+            "concurrent": [], 
+            "courseTitle": "Latin-American Literature 20th Century II", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3601"
+        }, 
+        "ARTS-6122": {
+            "PR": "SPAN 2001", 
+            "courseDescription": "is a study of representative works of Latin-American literature of the twentieth century.", 
+            "concurrent": [], 
+            "courseTitle": "Latin American Literature 20th Century I", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-6107": {
+            "PR": "SPAN 1000", 
+            "courseDescription": "is a continuation of Elementary Spanish I.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Spanish II", 
+            "prerequisites": [
+                "ARTS-6106"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1001"
+        }, 
+        "ARTS-6106": {
+            "courseDescription": "is an introductory course, grammar, reading and oral Spanish.", 
+            "concurrent": [], 
+            "courseTitle": "Elementary Spanish I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6963": {
+            "PR": "FREN 3100", 
+            "courseDescription": "examines role and function of the parts of speech in French; semantic enrichment (synonymy, polysemy); tropes and figures of speech. Grammatical and stylistic textual analysis with special emphasis on these phenomena. Vocabulary enrichment.", 
+            "concurrent": [], 
+            "courseTitle": "Stylistics and Textual Analysis", 
+            "prerequisites": [
+                "ARTS-6962"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3101"
+        }, 
+        "ARTS-6962": {
+            "PR": "FREN 2101 and 9 additional credit hours in French at the second-year level, or permission of the Head of the Department", 
+            "courseDescription": "is a revision of the French noun and verb systems (morphology, number, gender, tense, aspect, mood, voice). Grammatical and stylistic textual analysis with special emphasis on the use of verbs in French. Vocabulary enrichment.", 
+            "concurrent": [], 
+            "courseTitle": "Grammar and Textual Analysis", 
+            "prerequisites": [
+                "ARTS-6955"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-6961": {
+            "PR": "FREN 1502 or equivalent. Students who have obtained less than 70% in 1051 are, however, advised to complete FREN 2100 before attempting this course.", 
+            "courseDescription": "places emphasis on oral comprehension and expression.", 
+            "concurrent": [], 
+            "courseTitle": "A Survey of Francophone Cultures", 
+            "prerequisites": [
+                "ARTS-6095", 
+                "ARTS-7035"
+            ], 
+            "corequisites": [], 
+            "CR": "the former FREN 2500", 
+            "courseNumber": "2900", 
+            "OR": "may be offered in accelerated format outside the regular semester or session timeframe when being delivered as part of the Frecker Summer Program"
+        }, 
+        "ARTS-6960": {
+            "PR": "FREN 1502 or equivalent", 
+            "courseDescription": "will explore reading strategies in a variety of readings in FREN intended to inform or persuade. This course will normally be taught in French.", 
+            "concurrent": [], 
+            "courseTitle": "Reading Practice", 
+            "prerequisites": [
+                "ARTS-6095"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2602"
+        }, 
+        "ARTS-6967": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the Head of the Department; Classics 1120 is strongly recommended", 
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6478"
+            ], 
+            "courseTitle": "History of the French Language", 
+            "prerequisites": [
+                "ARTS-5714"
+            ], 
+            "corequisites": [], 
+            "CR": "Linguistics 3302", 
+            "courseNumber": "3302"
+        }, 
+        "ARTS-6966": {
+            "PR": "15 credit hours in French at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "is convincing and arguing in French. The course will be structured by rhetoric: memory, invention, disposition, elocution, diction. Various oral exercises.", 
+            "concurrent": [], 
+            "courseTitle": "Rhetoric and Public Speaking", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3300", 
+            "OR": "two and a half hours of instruction plus one 50-minute period of conversation class per week"
+        }, 
+        "ARTS-6965": {
+            "PR": "admission to the Canadian Third Year Program in Nice and French 3102 , or permission of the Head of the Department", 
+            "courseDescription": "is a required course of Session II of the Canadian Third Year Program in Nice. The content of this course will be the continuation of the language course offered during the previous semester.", 
+            "concurrent": [], 
+            "courseTitle": "French Language Studies at Nice (II)", 
+            "prerequisites": [
+                "ARTS-6964"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3103"
+        }, 
+        "ARTS-6964": {
+            "PR": "admission to the Canadian Third Year Program in Nice , 15 credit hours in French at the 2000 level, or permission of the Head of the Department", 
+            "courseDescription": "is a required course of Session I of the Canadian Third Year Program in Nice. The content of this course will be the equivalent of a language course at the third year level.", 
+            "concurrent": [], 
+            "courseTitle": "French Language Studies at Nice (I)", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3102"
+        }, 
+        "ARTS-6969": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the instructor", 
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6480"
+            ], 
+            "courseTitle": "Introduction to General Linguistics: Aspects of French Linguistic Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Linguistics 3311", 
+            "courseNumber": "3311"
+        }, 
+        "ARTS-6968": {
+            "PR": "15 credit hours in French and/or Linguistics at the 2000 level or permission of the Head of the Department", 
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6479"
+            ], 
+            "courseTitle": "Phonology and Morphology of French", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Linguistics 3310", 
+            "courseNumber": "3310"
+        }, 
+        "ARTS-6132": {
+            "PR": "Spanish 2001 and any 3000-level Spanish course or equivalent, or permission of the Head of the Department", 
+            "courseDescription": "examines a cross-section of literary currents in 20th century Latin-American narrative prose fiction. The complex interplay of myth and reality is examined in, for example, the novel of the revolution, La novela de la tierra, La novela de dictador, La novela femenina and La novela testimonial.", 
+            "concurrent": [], 
+            "courseTitle": "Twentieth Century Latin-American Novel", 
+            "prerequisites": [
+                "ARTS-6109"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "ARTS-7004": {
+            "PR": "completion of FREN 4900 with a minimum grade of 70%", 
+            "courseDescription": "under the direction of their assigned supervisors, students will complete the writing of their honours essay. Students are expected to meet regularly with their supervisors.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay II", 
+            "prerequisites": [
+                "ARTS-7003"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-7003": {
+            "PR": "admission to the honours program in French and permission of the Head of Department", 
+            "courseDescription": "under the direction of their assigned supervisors, students will select an honours essay topic, prepare a research proposal, and submit a draft of at least one section of the honours essay. Students are expected to meet regularly with their supervisors.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4900"
+        }, 
+        "ARTS-7002": {
+            "PR": "two of: FREN 3500 , 3501 , 3502 , 3503 , 3504 , 3506 , 3507 , 3508 or one course in that series with a grade of 80% or above", 
+            "courseDescription": "are advanced courses on specialized topics in literature written in French. Subjects to be treated will be announced each year by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special topics in French-language Literature", 
+            "prerequisites": [
+                "ARTS-6974", 
+                "ARTS-6975", 
+                "ARTS-6976", 
+                "ARTS-6977", 
+                "ARTS-6978", 
+                "ARTS-6979", 
+                "ARTS-6980", 
+                "ARTS-6981"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4820-4829"
+        }, 
+        "ARTS-7001": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Literary Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4660"
+        }, 
+        "ARTS-7000": {
+            "PR": "FREN 3100 , 3101 and one other third-year French course", 
+            "courseDescription": "are advanced courses on specialized topics in Francophone culture. Subjects to be treated will be announced each year by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Francophone Culture", 
+            "prerequisites": [
+                "ARTS-6962", 
+                "ARTS-6963"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4651-4659"
+        }, 
+        "ARTS-6128": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Medieval Spanish Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }
+    }
+}

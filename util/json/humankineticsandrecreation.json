@@ -1,0 +1,888 @@
+{
+    "HKR": {
+        "HKR-0423": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Principles and Practices of Social Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4515"
+        }, 
+        "HKR-0418": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Evaluation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "HKR-0527": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Human Motor and Perceptual Motor Disorders", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "HKR-0582": {
+            "courseDescription": "provides the student with an opportunity to develop the skills to become a competent practitioner utilizing the therapeutic recreation process, assessment, treatment planning, implementation/facilitation and evaluation. This practical experience will be carried out under the supervision of an approved Therapeutic Recreation professional. The internship will consist of 14-16 full-time consecutive weeks (35-40 hours per week for a minimum total of 560 hours). This course will normally be taken in the students&rsquo; last co-op work term placement or last semester of their degree program.", 
+            "concurrent": [
+                "HKR-0391", 
+                "HKR-0415", 
+                "HKR-0444"
+            ], 
+            "courseTitle": "Internship in Therapeutic Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 299W , HKR 399W , HKR 499W", 
+            "courseNumber": "4785"
+        }, 
+        "HKR-0427": {
+            "courseDescription": "focuses on need, selection, training, and supervision of leaders in recreation. Certification, standards and professional organizations. Evaluation of leadership materials and methods used. Practical exposure to roles of both leader and supervisor through seminar and related fieldwork.", 
+            "concurrent": [], 
+            "courseTitle": "Leadership and Supervision in Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4555"
+        }, 
+        "HKR-0416": {
+            "PR": "HKR 2210 , HKR 3220", 
+            "courseDescription": "includes outdoor activities such as winter travel methods emphasizing cross-country skiing, snowshoeing, navigational skills, winter survival/camping, and overnight winter camping. A number of teaching methods may be employed and emphasis will be placed on the language and practice of the conceptual approach. Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Winter Outdoor Activities and Leadership", 
+            "prerequisites": [
+                "HKR-0377", 
+                "HKR-0395"
+            ], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "HKR-0415": {
+            "PR": "HKR 1123 and successful completion of 299W", 
+            "courseDescription": "offers an opportunity for students to further expand and develop professional knowledge and skills, while demonstrating the ability to accept increased responsibility and challenge in the work place. A student is expected to demonstrate competence in written communication skills through the maintenance of a personal job diary and the submission of a formal report demonstrating the student's ability to effectively gather, analyse, organize, and present information regarding a specific aspect of the work term position.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 2", 
+            "prerequisites": [
+                "HKR-0370", 
+                "HKR-0391"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }, 
+        "HKR-0401": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Health Issues II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3350"
+        }, 
+        "HKR-0422": {
+            "PR": "HKR 2585 and HKR 2505", 
+            "courseDescription": "is designed to provide students with the knowledge and skills required to facilitate leisure education interventions designed to bring about desired changes in the leisure behaviour of individuals. The course will address the following three broad areas: a) concepts and models of leisure education; b) content related to specific skills required for leisure involvement (leisure awareness, social skills development, friendship development, stress management, assertiveness, decision making, etc.) and c) instructional and interactional techniques used in leisure education.", 
+            "concurrent": [], 
+            "courseTitle": "Leisure Education in Therapeutic Recreation Settings", 
+            "prerequisites": [
+                "HKR-0387", 
+                "HKR-0384"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4485"
+        }, 
+        "HKR-0376": {
+            "courseDescription": "introduces the basic administrative functions in a work setting in physical education and/or recreation. The laboratory sessions will assist students to develop skill in the basic computer applications relevant to these functions.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Organization and Administration", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2100"
+        }, 
+        "HKR-0377": {
+            "courseDescription": "employs the conceptual approach to teaching physical activity and facilitated through various forms of dance (e.g., creative, folk). Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Movement Concepts", 
+            "LH": "as scheduled", 
+            "prerequisites": [], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "2210"
+        }, 
+        "HKR-0374": {
+            "courseDescription": "gives an overview of the various models, principles, and theories used to explain and predict ways in which athletes and exercisers conduct themselves in various sport settings. Selected intervention techniques to enhance performance will be presented.", 
+            "concurrent": [], 
+            "courseTitle": "Enhancing Performance in Physical Activity", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2004"
+        }, 
+        "HKR-0375": {
+            "PR": "Psychology 1000 and 1001", 
+            "courseDescription": "is designed to provide students with an introduction to stress and to explore the relationship between exercise, fitness and physical activity and stress management. It describes how to reorganize one's life by presenting a systematic analysis of stress and coping mechanisms appropriate to different stages of life. The stress coping mechanisms will be presented with an emphasis on application. Completion of this course does not qualify students as stress management counsellors. Students interested in this field are advised to contact the Department of Psychology for information on careers in counselling.", 
+            "CO": "Psychology 1000 and 1001", 
+            "concurrent": [], 
+            "courseTitle": "Personal Stress Management", 
+            "prerequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "corequisites": [
+                "SCI-1706", 
+                "SCI-2566"
+            ], 
+            "courseNumber": "2005"
+        }, 
+        "HKR-0372": {
+            "PR": "admission to the Bachelor of Education (Primary/Elementary) offered by the Faculty of Education", 
+            "courseDescription": "provides students a general overview of the role that physical education and active living play in the overall development of primary and elementary students, and in the creation of positive learning environment in schools. This course is intended for students in the primary/elementary program offered by the Faculty of Education.", 
+            "concurrent": [
+                "HKR-0371"
+            ], 
+            "courseTitle": "Introduction to Physical Education for Education Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 2000", 
+            "UL": "not applicable towards any of the degrees offered by the School", 
+            "courseNumber": "2001"
+        }, 
+        "HKR-0373": {
+            "courseDescription": "introduces the various methods, principles, and theories used to coach developing athletes in various sport settings. Factors such as the coach's role, planning, analysing and developing skills, sport safety, and physical preparation will be presented with an emphasis on attaining competency in these areas.", 
+            "concurrent": [], 
+            "courseTitle": "Coaching", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2002"
+        }, 
+        "HKR-0370": {
+            "courseDescription": "are offered during the Fall semester prior to a student's first work term. These seminars introduce the co-operative education process and prepare the student for work terms. These seminars are graded PAS or FAL based on attendance and participation.", 
+            "CH": "0", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Professional Development Seminars", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "1123"
+        }, 
+        "HKR-0371": {
+            "courseDescription": "introduces the philosophical, scientific, socio-cultural, historical concepts, and influences in kinesiology, physical education, and recreation.", 
+            "concurrent": [
+                "HKR-0372"
+            ], 
+            "courseTitle": "Introduction to Kinesiology, Physical Education and Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 2001", 
+            "courseNumber": "2000"
+        }, 
+        "HKR-0444": {
+            "PR": "HKR 1123 and successful completion of 399W", 
+            "courseDescription": "offers an opportunity for students, who have sufficient academic grounding and work experience, to exercise greater independence and responsibility in their assigned work. A student must demonstrate a high level of competency in communications skills through the submission of a formal report on a topic related to the work term or through a formal presentation on an aspect of the work term using the latest in computer technology and applications.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 3", 
+            "prerequisites": [
+                "HKR-0370", 
+                "HKR-0415"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "499W"
+        }, 
+        "HKR-0429": {
+            "courseDescription": "explores contemporary trends and issues identified by governments and recreation practitioners and the way in which these issues influence the delivery of leisure services.", 
+            "concurrent": [
+                "HKR-0436"
+            ], 
+            "courseTitle": "Recreation Ethics, Issues and Trends", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 4685", 
+            "courseNumber": "4575"
+        }, 
+        "HKR-0440": {
+            "PR": "HKR 2703 , 3320 , and Physics 1020", 
+            "courseDescription": "focuses on the contrast between biomechanical analyses of workplace tasks and athletic movement. Students will conduct a detailed biomechanical analysis of a given movement, in the workplace or for a given sport, with regard to both the probability of injury and optimization of performance.", 
+            "concurrent": [], 
+            "courseTitle": "Occupational Ergonomics and Sport Biomechanics", 
+            "LH": "2", 
+            "prerequisites": [
+                "HKR-0390", 
+                "HKR-0398", 
+                "SCI-1576"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4703"
+        }, 
+        "HKR-0433": {
+            "PR": "a minimum of 80% in HKR 4600 , and one of Statistics 2500 or Statistics 2550", 
+            "courseDescription": "is a detailed study for honours students in Kinesiology, Physical Education and Recreation, directed by a faculty member of the School, of a selected topic in the field of kinesiology, physical education or recreation.", 
+            "concurrent": [], 
+            "courseTitle": "Research Project", 
+            "prerequisites": [
+                "HKR-0431", 
+                "SCI-3079", 
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4610"
+        }, 
+        "HKR-0378": {
+            "PR": "HKR 2210", 
+            "courseDescription": "may employ a number of teaching methods. Emphasis will be placed on the language and practice of the conceptual approach. Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Gymnastics and Aquatics", 
+            "LH": "as scheduled", 
+            "prerequisites": [
+                "HKR-0377"
+            ], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "2220"
+        }, 
+        "HKR-0379": {
+            "courseDescription": "is an introductory study of human growth and developmental factors and their influence on the learning of motor skills.", 
+            "concurrent": [], 
+            "courseTitle": "Growth and Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2300"
+        }, 
+        "HKR-0394": {
+            "PR": "HKR 2210", 
+            "courseDescription": "covers activities such as volleyball, tennis, badminton, plus a selection of other net &amp; wall games. A number of teaching methods may be employed and emphasis will be placed on the language and practice of the conceptual approach. Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Group Exercise, Net/Wall and Health Related Fitness", 
+            "LH": "as scheduled", 
+            "prerequisites": [
+                "HKR-0377"
+            ], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "HKR-0395": {
+            "PR": "HKR 2210 , HKR 3210", 
+            "courseDescription": "covers activities such as golf, archery, softball, and track and field. Outdoor activities include canoeing, orienteering, lightweight camping, over-night canoe trip, and introduction to rock climbing. A number of teaching methods may be employed and emphasis will be placed on the language and practice of the conceptual approach. Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Summer Outdoor Activities and Target/Striking Activities", 
+            "LH": "as scheduled", 
+            "prerequisites": [
+                "HKR-0377", 
+                "HKR-0394"
+            ], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "3220"
+        }, 
+        "HKR-0396": {
+            "PR": "HKR 2300", 
+            "courseDescription": "gives an overview of motor learning and performance variables and their application to the teaching of physical skills, and will investigate motor control issues related to skill instruction.", 
+            "concurrent": [], 
+            "courseTitle": "Motor Learning", 
+            "prerequisites": [
+                "HKR-0379"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "HKR-0397": {
+            "PR": "HKR 2310 and 2320 ; or Biochemistry 311A and 311B ; or Nursing 1002 and 1012 ; or the former Pharmacy 3201 and 3202", 
+            "courseDescription": "covers the physiological responses of the metabolic, neuromuscular, and cardiorespiratory systems at rest and during acute and chronic activity.", 
+            "concurrent": [], 
+            "courseTitle": "Physiology of Exercise", 
+            "LH": "3", 
+            "prerequisites": [
+                "HKR-0380", 
+                "HKR-0381", 
+                "SCI-0708", 
+                "SCI-0708", 
+                "NURS-0384", 
+                "NURS-0387"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3310"
+        }, 
+        "HKR-0390": {
+            "PR": "HKR 2310 , Chemistry 1010 and 1011 or Chemistry 1050 and 1051", 
+            "courseDescription": "is an introduction to the field of human factors, the field that studies aspects of human movement, health, safety, and performance in the workplace. This will include an introduction to the methods of detection, evaluation, and the physiological changes arising from hazards (e.g. inappropriate levels of noise, vibration, and illumination) in the workplace. The course will also examine overuse injuries in workplace studied in the context of basic biomechanics and function of the musculo-skeletal system.", 
+            "CO": "HKR 2320 and Physics 1020", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Human Factors", 
+            "prerequisites": [
+                "HKR-0380", 
+                "SCI-0908", 
+                "SCI-2568", 
+                "SCI-0910", 
+                "SCI-2569"
+            ], 
+            "corequisites": [
+                "HKR-0381", 
+                "SCI-1576"
+            ], 
+            "courseNumber": "2703"
+        }, 
+        "HKR-0391": {
+            "PR": "HKR 1123", 
+            "courseDescription": "offers an opportunity for students to learn, develop, and practice high standards of professional behaviour and performance in the work environment. A student is required to submit a personal job diary and a work term report which should, at a minimum, reflect a clear understanding of job events and work place expectations and show reasonable competence in written communication skills.", 
+            "CH": "0", 
+            "LC": "0", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 1", 
+            "prerequisites": [
+                "HKR-0370"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "299W"
+        }, 
+        "HKR-0392": {
+            "PR": "HKR 2002", 
+            "courseDescription": "is an advanced study of the various methods, principles, and theories used to coach athletes in various sport settings. Topics such as planning, the coach's role, analysing, and developing skills, mental training, physical preparation, and development of a personal coaching plan will be studied with an emphasis on attaining competency in these areas. Practical coaching experience is a required component of the course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Coaching", 
+            "LH": "3 Students will participate in practical coaching situations from which coaching journals will be developed for course evaluation.", 
+            "prerequisites": [
+                "HKR-0373"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3002"
+        }, 
+        "HKR-0393": {
+            "PR": "HKR 2000 , 2210 , 2300 , 2310 , 2320 and 3340", 
+            "courseDescription": "gives an overview, through a blend of theory and practical experience, of curriculum development and teaching methods as they apply to primary/elementary level physical education", 
+            "CH": "6", 
+            "CO": "HKR 3300", 
+            "concurrent": [], 
+            "courseTitle": "Curriculum Development and Teaching Methods", 
+            "LH": "9", 
+            "prerequisites": [
+                "HKR-0371", 
+                "HKR-0377", 
+                "HKR-0379", 
+                "HKR-0380", 
+                "HKR-0381", 
+                "HKR-0400"
+            ], 
+            "corequisites": [
+                "HKR-0396"
+            ], 
+            "courseNumber": "3110"
+        }, 
+        "HKR-0408": {
+            "PR": "HKR 2000", 
+            "courseDescription": "introduces recreation and sport delivery systems in Newfoundland and Canada. The course will examine the various agencies that administer recreation and sport at municipal, provincial, and national levels.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Recreation Delivery Systems", 
+            "prerequisites": [
+                "HKR-0371"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3525"
+        }, 
+        "HKR-0409": {
+            "courseDescription": "provides students with an opportunity for in-depth study of legal issues related to the operation of leisure services and facilities. Issues of tort and contract liability, employment related legal aspects, human rights and freedoms, and administrative procedures involved in property acquisition, law enforcement, and risk management are the topics of this course.", 
+            "concurrent": [], 
+            "courseTitle": "Legal Aspects of Leisure and Recreation Services", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3535"
+        }, 
+        "HKR-0430": {
+            "courseDescription": "provides opportunities for in-depth study of financing leisure services in a variety of settings. The primary learning objectives are to achieve an understanding of revenue sources, financial management, and budgeting, the concepts of equity from a justice, social, and economic perspective, and the ability to use various techniques in the allocation of resources, the pricing of services, and ascertaining the costs of providing services.", 
+            "concurrent": [], 
+            "courseTitle": "Financing Recreation Services", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4585"
+        }, 
+        "HKR-0414": {
+            "courseDescription": "provides students with an opportunity to examine, understand and appreciate critically the influences of gender on leisure. The student will be expected to analyse, synthesize, and evaluate a wide range of historical, cultural, philosophical, and socio-psychological issues that have shaped the nature and scope of participation in leisure.", 
+            "concurrent": [], 
+            "courseTitle": "Gender and Leisure", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3595"
+        }, 
+        "HKR-0398": {
+            "PR": "HKR 2310 It is strongly recommended that students successfully complete Physics 1020 prior to enrolling in this course", 
+            "courseDescription": "is the analysis of human movement; the mechanics of motion and the general application of kinesiology.", 
+            "CO": "HKR 2320", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Biomechanics", 
+            "LH": "2", 
+            "prerequisites": [
+                "HKR-0380", 
+                "SCI-1576"
+            ], 
+            "corequisites": [
+                "HKR-0381"
+            ], 
+            "courseNumber": "3320"
+        }, 
+        "HKR-0399": {
+            "courseDescription": "covers issues in personal and community health related to infectious illness, degenerative illness, heredity, and nutrition.", 
+            "concurrent": [], 
+            "courseTitle": "Health Issues I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3330"
+        }, 
+        "HKR-0428": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Recreation Promotion and Marketing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4565"
+        }, 
+        "HKR-0426": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Facility Planning, Design and Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4545"
+        }, 
+        "HKR-0581": {
+            "courseDescription": "introduces various theoretical perspectives on community organization and development, as well as methods available to the therapeutic recreation practitioner to facilitate the development of recreation services in communities. Various issues such as poverty, ethnicity, and disability will be addressed. This course employs an ecological perspective in examining therapeutic recreation service delivery which involves community residents and groups in recreation program decision-making and implementation. The interconnectedness between leisure education, recreation and health and community development is discussed.", 
+            "concurrent": [
+                "HKR-0413"
+            ], 
+            "courseTitle": "Community Development and Recreation in Therapeutic Recreation Settings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 3575", 
+            "courseNumber": "3785"
+        }, 
+        "HKR-0580": {
+            "PR": "HKR 2585", 
+            "courseDescription": "presents an overview of current practices, philosophies, and issues related to recreation and leisure for persons with disabilities. Knowledge and understanding of various disabling conditions and needs of persons with disabilities from a therapeutic recreation perspective. Students will focus on communication skills necessary to carry out these tasks successfully. This requires the ability to actively listen, document with correct terminology, and interpret data to plan for treatment services.", 
+            "concurrent": [
+                "HKR-0400"
+            ], 
+            "courseTitle": "Assessment and Documentation in Therapeutic Recreation", 
+            "prerequisites": [
+                "HKR-0387"
+            ], 
+            "corequisites": [], 
+            "CR": "HKR 3340", 
+            "courseNumber": "3685"
+        }, 
+        "HKR-0410": {
+            "PR": "HKR 2505 or HKR 3220", 
+            "courseDescription": "acquaints students with the breadth, depth, and scope of outdoor recreation leadership including a detailed examination of theories, principles, and practices. The course provides opportunities for individual students to develop, practice, and receive feedback on their outdoor leadership skills. The course includes a required field experience in outdoor recreation leadership.", 
+            "concurrent": [], 
+            "courseTitle": "Outdoor Recreation Leadership", 
+            "prerequisites": [
+                "HKR-0384", 
+                "HKR-0395"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3545"
+        }, 
+        "HKR-0441": {
+            "courseDescription": "requires approval of Dean of the School and the course instructor. Permission to register must be obtained in the term preceding enrolment.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Study", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4720"
+        }, 
+        "HKR-0442": {
+            "courseDescription": "requires approval of Dean of the School and the course instructor. Permission to register must be obtained in the term preceding enrolment.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Study", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4910"
+        }, 
+        "HKR-0438": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Physiology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4701"
+        }, 
+        "HKR-0532": {
+            "courseDescription": "provides students with a social, political, economic, environmental, and cultural perspective on health and health inequalities. A concentrated look at contemporary health issues using the social determinants of health model will equip students with critical skills necessary to consider health issues beyond physical pathologies.", 
+            "concurrent": [], 
+            "courseTitle": "Social Determinants of Health and Physical Activity", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "HKR-0413": {
+            "courseDescription": "introduces various theoretical perspectives on community organization and development, as well as methods available to the recreation practitioner to facilitate the development of recreation services in communities. This course examines, in particular, recreation services delivery which involves community residents and groups in recreation program decision-making and implementation.", 
+            "concurrent": [
+                "HKR-0581"
+            ], 
+            "courseTitle": "Community Development and Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 3785", 
+            "courseNumber": "3575"
+        }, 
+        "HKR-0436": {
+            "PR": "HKR 2505 and HKR 2585", 
+            "courseDescription": "is designed to facilitate an in-depth exploration and analysis of philosophical issues and interdisciplinary theories and to discuss how they relate to therapeutic recreation practice and research. The course will be conducted as a seminar and students will be responsible for reading course materials and leading discussions on various topics. The ultimate goal of the course is to prepare the student to enter the profession confident in his/her ability to provide exemplary TR services.", 
+            "concurrent": [
+                "HKR-0429"
+            ], 
+            "courseTitle": "Professional Issues in Therapeutic Recreation", 
+            "prerequisites": [
+                "HKR-0384", 
+                "HKR-0387"
+            ], 
+            "corequisites": [], 
+            "CR": "HKR 4575", 
+            "courseNumber": "4685"
+        }, 
+        "HKR-0421": {
+            "PR": "successful completion of a minimum of 78 credit hours", 
+            "courseDescription": "explores, through research and discussion, trends and issues basic to the profession including areas in physical education, health, fitness, and lifestyle industries.", 
+            "concurrent": [], 
+            "courseTitle": "Issues", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4420"
+        }, 
+        "HKR-0369": {
+            "courseDescription": "is an introduction to resistance training exercises, programs, and principles. This will necessitate both theoretical classes and practical laboratories that will involve testing and participation in resistance training activities. A portion of the assessment will also be based on regular attendance (at student convenience) for another hour of resistance training per week certified by the attending fitness consultant.", 
+            "concurrent": [
+                "HKR-0555"
+            ], 
+            "courseTitle": "Resistance Training for Health and Activity", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 2340 ; the former HKR 4320", 
+            "UL": "not applicable towards any of the kinesiology or physical education degrees offered by the School", 
+            "courseNumber": "1001"
+        }, 
+        "HKR-0368": {
+            "courseDescription": "is an introduction to the concepts of fitness and wellness, and the relationships among physical activity, fitness, wellness, quality of life, and longevity.", 
+            "concurrent": [], 
+            "courseTitle": "Fitness and Wellness", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not applicable towards any of the degrees offered by the School", 
+            "courseNumber": "1000"
+        }, 
+        "HKR-0420": {
+            "courseDescription": "introduces the psychological factors that influence participation in sport, exercise, physical activity and recreation and the psychological effects derived from participation.", 
+            "concurrent": [], 
+            "courseTitle": "Social Psychology of Sport, Physical Activity and Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4330"
+        }, 
+        "HKR-0425": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Camp Administration and Programming", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4535"
+        }, 
+        "HKR-0531": {
+            "courseDescription": "is designed to provide students with general overview of the anatomy and physiology of the human body. Students will explore skeletal, muscular, neural and cardiorespiratory systems in addition to a very brief introduction to cell structure and &lsquo;cellular&rsquo; muscle function.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Anatomy and Physiology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 2310, HKR 2320", 
+            "UL": "not applicable towards any of the kinesiology or physical education degrees offered by the School", 
+            "courseNumber": "2311"
+        }, 
+        "HKR-0402": {
+            "PR": "HKR 2310 and a Basic First Aid Course", 
+            "courseDescription": "is a basic introduction to the field of athletic therapy and sports medicine. The content focuses on the prevention and care of sports injuries and covers topics such as preventive screening, safe environments, on the spot assessment and First Aid, legal responsibility, and supportive taping/wrapping.", 
+            "concurrent": [], 
+            "courseTitle": "Care and Prevention of Athletic Injuries", 
+            "prerequisites": [
+                "HKR-0380"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3360"
+        }, 
+        "HKR-0411": {
+            "courseDescription": "gives an overview of outdoor recreation practices in Newfoundland and Canada. This course will examine the management of resources, conservation education and practices, and development for public use or exclusion; legislation related to management of risk; viability of facilities; national and provincial agencies; private commercial ventures; and future trends in management. Management strategies will form a major part of the course.", 
+            "concurrent": [], 
+            "courseTitle": "Outdoor Recreation Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3555"
+        }, 
+        "HKR-0439": {
+            "PR": "HKR 3310", 
+            "courseDescription": "prepares students to acquire the knowledge necessary to understand, analyse, and integrate information and experiences related to physiological adaptations occurring with acute and chronic activity and disuse.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Exercise Physiology", 
+            "LH": "2", 
+            "prerequisites": [
+                "HKR-0397"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4702"
+        }, 
+        "HKR-0417": {
+            "PR": "HKR 2210", 
+            "courseDescription": "includes activities such as soccer and rugby, basketball, ice hockey, water polo, team handball and other territorial games. A number of teaching methods may be employed and emphasis will be placed on the language and practice of the conceptual approach. Concepts, skills, and strategies will be emphasized.", 
+            "LC": "as scheduled", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activities Course: Territorial Games", 
+            "LH": "as scheduled", 
+            "prerequisites": [
+                "HKR-0377"
+            ], 
+            "AR": "attendance is required. Students who are absent more than six class hours may be required to withdraw from the course and will receive a letter grade of DRF and a numeric grade of 0", 
+            "corequisites": [], 
+            "courseNumber": "4220"
+        }, 
+        "HKR-0403": {
+            "courseDescription": "(same as Sociology", 
+            "concurrent": [
+                "ARTS-6853"
+            ], 
+            "courseTitle": "Sociology of Sport", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Sociology 3410", 
+            "courseNumber": "3410"
+        }, 
+        "HKR-0555": {
+            "courseDescription": "(formerly HKR 4320) prepares professionals in the administrative, interpretive, instructional, interpersonal, and pedagogic competencies required for and associated with fitness testing, prescription, teaching, and leadership.", 
+            "concurrent": [
+                "HKR-0369"
+            ], 
+            "courseTitle": "Fitness Leadership", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 1001 , the former HKR 4320", 
+            "courseNumber": "2340"
+        }, 
+        "HKR-0431": {
+            "PR": "Statistics 2550 or equivalent", 
+            "courseDescription": "introduces research methodologies currently employed in kinesiology, physical education or recreation.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Research", 
+            "prerequisites": [
+                "SCI-1452"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4600"
+        }, 
+        "HKR-0404": {
+            "PR": "HKR 2585 and HKR 2505", 
+            "courseDescription": "focuses on issues related to the delivery of therapeutic recreation services. In particular, the following topics will be addressed: documentation in therapeutic recreation; client assessment issues; therapeutic recreation program planning (identifying client needs, selecting appropriate interventions, task and activity analysis, planning change-oriented programs, writing behavioural objectives, etc.); program and client evaluation; written plans of operation.", 
+            "concurrent": [], 
+            "courseTitle": "Therapeutic Recreation Service Delivery", 
+            "prerequisites": [
+                "HKR-0387", 
+                "HKR-0384"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3485"
+        }, 
+        "HKR-0455": {
+            "courseDescription": "provides a minimum standard for outdoor professionals, guides and instructors who work in a wilderness setting. Course content extends beyond urban-based first aid programs to include elements inherent in leading groups in the outdoors and guiding wilderness adventures. Special emphasis is placed on prevention of injuries, accident scene management, leadership, leader responsibility and liability, advanced first aid kits, wound management and managing the trauma victim. CPR is included in this course.", 
+            "concurrent": [], 
+            "courseTitle": "Wilderness First Aid for Outdoor Leaders", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3221"
+        }, 
+        "HKR-0432": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Research Methods in Recreation and Leisure II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4605"
+        }, 
+        "HKR-0435": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Multicultural Perspectives of Recreation and Leisure", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4635"
+        }, 
+        "HKR-0434": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Theoretical Perspectives of Recreation and Leisure", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4625"
+        }, 
+        "HKR-0437": {
+            "PR": "HKR 2340", 
+            "courseDescription": "prepares students to assess, prescribe, demonstrate, supervise, educate, and counsel apparently healthy individuals across the lifespan on information related to physical activity/exercise, fitness and health. The successful completion of this course will allow students to apply for a certification as a Professional Fitness and Lifestyle Consultant from the Canadian Society of Exercise Physiology.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Fitness Training and Assessment", 
+            "LH": "2", 
+            "prerequisites": [
+                "HKR-0555"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4700"
+        }, 
+        "HKR-0405": {
+            "courseDescription": "provides students with an opportunity to examine, understand and appreciate critically the influences of gender to the areas of sport and physical activity. The student will be expected to analyse, synthesize, and evaluate a wide range of historical, cultural, philosophical, and socio-psychological issues that have shaped the nature and scope of participation in sport and physical activity.", 
+            "concurrent": [], 
+            "courseTitle": "Gender in Sport and Physical Activity", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3490"
+        }, 
+        "HKR-0387": {
+            "courseDescription": "is designed to examine a variety of aspects of therapeutic recreation from both a practical and theoretical perspective. Topics will include the history, philosophies, and theories underlying therapeutic recreation, therapeutic recreation models, essential skills for the therapeutic recreationist and ethical considerations for therapeutic recreation. Diverse groups (e.g. adults, youth, disadvantaged and disabled) and settings (e.g. community, schools, institutions, and workplace) suitable for therapeutic recreation will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Foundations of Therapeutic Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2585"
+        }, 
+        "HKR-0386": {
+            "PR": "HKR 2505", 
+            "courseDescription": "gives an overview of the foundational principles of outdoor education and recreation as they pertain to philosophy, wilderness ethics, professional preparation, movement through wildlands, environmental hazards, navigation, and safety. Students will participate in a sampling of outdoor education and recreation activities during the course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Outdoor Recreation and Education", 
+            "prerequisites": [
+                "HKR-0384"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2545"
+        }, 
+        "HKR-0385": {
+            "courseDescription": "introduces the personality and social factors that shape how people experience leisure. Course materials will focus on life cycle theory, intrinsic and extrinsic motivation, perceived freedom, constraints theory, and other social psychological theory related to leisure.", 
+            "concurrent": [], 
+            "courseTitle": "Social Psychology of Leisure", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2515"
+        }, 
+        "HKR-0384": {
+            "courseDescription": "introduces the student to a variety of methodologies, skills, and materials for planning, developing, implementing, and evaluating professional recreation programs for diverse populations in a variety of settings.", 
+            "concurrent": [], 
+            "courseTitle": "Recreation Programming and Evaluation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2505"
+        }, 
+        "HKR-0383": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Doping in Sport", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2420"
+        }, 
+        "HKR-0382": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Historical and Comparative Physical Education", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2410"
+        }, 
+        "HKR-0381": {
+            "courseDescription": "is a study of bodily functions with emphasis of selected systems (endocrine, neural, muscular, cardiovascular, respiratory).", 
+            "concurrent": [], 
+            "courseTitle": "Primary Human Physiology", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2320"
+        }, 
+        "HKR-0380": {
+            "courseDescription": "is a study of the structure of the human body with emphasis on selected systems (endocrine, neural, muscular, skeletal, cardiovascular, respiratory).", 
+            "concurrent": [], 
+            "courseTitle": "Human Anatomy", 
+            "LH": "2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2310"
+        }, 
+        "HKR-0407": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Outdoor Recreation and Persons with Disabilities", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3515"
+        }, 
+        "HKR-0389": {
+            "courseDescription": "explores the relationship between physical activity, obesity, and morbidity. Emphasis will be placed on the incidence and prevalence of obesity, environmental and genetic factors affecting obesity, and mechanisms of weight and body composition modification.", 
+            "concurrent": [], 
+            "courseTitle": "Physical Activity, Obesity, and Weight Control", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2601"
+        }, 
+        "HKR-0388": {
+            "courseDescription": "(same as Biochemistry", 
+            "concurrent": [
+                "SCI-0694"
+            ], 
+            "courseTitle": "Introduction to Human Nutrition", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Biochemistry 2600", 
+            "courseNumber": "2600"
+        }, 
+        "HKR-0443": {
+            "courseDescription": "requires approval of Dean of the School and the course instructor. Permission to register must be obtained in the term preceding enrolment.", 
+            "concurrent": [], 
+            "courseTitle": "Directed Study", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4915"
+        }, 
+        "HKR-0412": {
+            "courseDescription": "examines behavioural factors influencing tourism; promotion of commercial recreation attractions, provincial strategies in travel and tourism, problems of leisure travel, stability of entrepreneurial ventures in tourism, and research and planning strategies relevant to commercial ventures.", 
+            "concurrent": [], 
+            "courseTitle": "Tourism/Commercial Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3565"
+        }, 
+        "HKR-0400": {
+            "courseDescription": "presents an overview of current practices, philosophies, and issues related to physical activity and recreation for persons with disabilities. Knowledge and understanding of various disabling conditions and consequent needs of persons with disabilities, including health, safety and fitness, and how these needs may be met in terms of physical activity will be emphasized.", 
+            "concurrent": [
+                "HKR-0580"
+            ], 
+            "courseTitle": "Adapted Physical Activity", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "HKR 3685", 
+            "courseNumber": "3340"
+        }, 
+        "HKR-0424": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Planning for Recreation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4525"
+        }, 
+        "HKR-0406": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Adventure Programming", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3505"
+        }
+    }
+}

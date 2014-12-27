@@ -1,0 +1,29 @@
+{
+    "BUSI": {
+        "BUSI-1226": {
+            "courseDescription": "provides full introductory coverage of both financial and managerial accounting. The course focuses on the most widely used accounting theory and practice.", 
+            "concurrent": [
+                "BUSI-0296", 
+                "BUSI-0302"
+            ], 
+            "courseTitle": "Introductory Accounting for Non-Business Students", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "BUSI 1101 or BUSI 2101", 
+            "UL": "may not be used to fulfil any of the requirements of any of the programs of the Faculty of Business Administration including the minor, certificate, diploma and degrees", 
+            "courseNumber": "2102"
+        }, 
+        "BUSI-0286": {
+            "courseDescription": "focuses on the development of written and oral communication skills critical in the workplace. The common communications media are reviewed with emphasis on electronic and written correspondence. Students learn how to prepare comprehensive analytical reports including proposal writing. Attention is also given to building confidence in delivering oral presentations and preparing appropriate employment packages. A highly interactive design encourages student practice and participation.", 
+            "concurrent": [
+                "BUSI-1228"
+            ], 
+            "courseTitle": "Business Communications", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "BUSI 2010", 
+            "UL": "may not be used to fulfil any of the requirements of any of the programs of the Faculty of Business Administration including the minor, diploma and degrees", 
+            "courseNumber": "2000"
+        }
+    }
+}

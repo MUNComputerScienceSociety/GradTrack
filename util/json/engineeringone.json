@@ -1,0 +1,58 @@
+{
+    "ENGI": {
+        "ENGI-1250": {
+            "PR": "Level III Physics or Physics 1051 (which may be taken concurrently) and Mathematics 1000 (which may be taken concurrently).", 
+            "courseDescription": "is offered in two serial modules, including laboratory and workshop practice, and a team project to expose students to the concept of system integration involving electrical and mechanical systems. The electrical module provides an introduction to dc circuits, with an analysis of dc circuits used in control, measurement and instrumentation systems. The mechanism module provides an introduction to machine components such as belts, pulleys, gears, and simple linkages. The laboratory and workshop component introduces students to hands-on practice in basic laboratory instruments, tools and safety procedures. A team project involves the construction, assembly and testing of a simple mechanism.", 
+            "concurrent": [], 
+            "courseTitle": "Mechanisms and Electric Circuits", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1815", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1040"
+        }, 
+        "ENGI-1248": {
+            "PR": "eligibility to register for Mathematics 1000", 
+            "courseDescription": "is an introduction to algorithmic problem solving techniques and computer programming, including basic program control structures (sequence, call, branch, loop) and data representations, functional decomposition, and design by contract. Exercises and examples are drawn from a variety of engineering disciplines and are implemented using a standard modern programming language.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Programming", 
+            "LH": "at least four 2-hour sessions per semester", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "the former ENGI 2420", 
+            "courseNumber": "1020"
+        }, 
+        "ENGI-1249": {
+            "PR": "eligibility to register for Mathematics 1000", 
+            "courseDescription": "provides two complementary competencies. Firstly, it provides an introduction to the fundamentals of graphic communication, including orthographic projections, three dimensional pictorials, sectioning and dimensioning. Both sketching and CAD are utilized. Secondly, the course introduces students to standard design methodologies. The graphics and design competencies are reinforced through lab and project exercises.", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Graphics and Design", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1030"
+        }, 
+        "ENGI-1247": {
+            "PR": "Level III Physics or Physics 1020 or equivalent", 
+            "courseDescription": "is the first course in Engineering mechanics. Forces and moments are described with vector algebra, leading to a description of the equilibrium conditions for particles and solid bodies. The importance of free body diagrams is highlighted. This knowledge is then applied to the analysis of trusses, frames and machines. Additional topics include an examination of friction and the concepts of centre of force, centroids and second moments of area.", 
+            "CO": "Mathematics 1000", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Statics", 
+            "prerequisites": [
+                "SCI-1576"
+            ], 
+            "corequisites": [
+                "SCI-1337"
+            ], 
+            "CR": "the former ENGI 1313", 
+            "courseNumber": "1010", 
+            "OR": "tutorial 1 hour per week"
+        }
+    }
+}

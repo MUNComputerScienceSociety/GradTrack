@@ -1,0 +1,44 @@
+{
+    "MED": {
+        "MED-0404": {
+            "PR": "Medicine 310A/B or Biochemistry 311A/B , or Pharmacy 2002 / 2003 or the former Pharmacy 3201/3202.", 
+            "courseDescription": "deals with the general principles of pharmacology (dose-response relationship, drug-receptor interaction, absorption, distribution, metabolism, excretion of drugs), and drugs that affect neuromuscular and autonomic neurotransmission, the cardiovascular, gastrointestinal, and central nervous systems, and autacoids/prostanoids.", 
+            "CO": "Biochemistry 3106 or Pharmacy 3111", 
+            "concurrent": [
+                "SCI-0726"
+            ], 
+            "courseTitle": "Introduction to General and Autonomic Pharmacology", 
+            "LH": "to be specified", 
+            "prerequisites": [
+                "MED-0403", 
+                "SCI-0708", 
+                "PHAR-0128", 
+                "PHAR-0129"
+            ], 
+            "corequisites": [
+                "SCI-0704", 
+                "PHAR-0143"
+            ], 
+            "CR": "Biochemistry 4220", 
+            "courseNumber": "4300"
+        }, 
+        "MED-0403": {
+            "PR": "Biochemistry 2101", 
+            "courseDescription": "covers the properties of nerve and muscle cells, the special senses, blood and body fluids, and the nervous, cardiovascular, digestive, immune, respiratory, urinary, endocrine and reproductive systems. Integration of the body's systems in maintaining homeostasis is emphasized. Priority for entry into this course is given to Biochemistry, Nutrition, Dietetics, and other students who are interested in experimental science.", 
+            "CO": "Biochemistry 2101", 
+            "concurrent": [
+                "SCI-0708"
+            ], 
+            "courseTitle": "and 310B Human Physiology", 
+            "LH": "to be specified", 
+            "prerequisites": [
+                "SCI-0692"
+            ], 
+            "corequisites": [
+                "SCI-0692"
+            ], 
+            "CR": "Biochemistry 311A/B and Medicine 310A/B", 
+            "courseNumber": "310A"
+        }
+    }
+}

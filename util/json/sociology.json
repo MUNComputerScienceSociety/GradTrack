@@ -1,0 +1,614 @@
+{
+    "SOCI": {
+        "ARTS-6865": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "(same as Anthropology", 
+            "concurrent": [
+                "ARTS-7025"
+            ], 
+            "courseTitle": "Social and Cultural Aspects of Health and Illness", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "Anthropology 4071 , the former Sociology/Anthropology 4071", 
+            "courseNumber": "4071"
+        }, 
+        "ARTS-6884": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Sociology", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4200-4220 (Excluding 4201, 4204, 4212 and 4213)"
+        }, 
+        "ARTS-6885": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "is a seminar course that critically examines how gender structures risk factors and health outcomes and shapes how we experience and understand bodies and minds in relation to health and risk. Topics may include transgender and transsexual health, masculinities and femininities, the body, mental health, leisure and sport, the health care system, and occupational health and safety.", 
+            "concurrent": [
+                "ARTS-6947"
+            ], 
+            "courseTitle": "The Sociology of Gender, Health and Risk", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "Gender Studies 3100", 
+            "courseNumber": "4201"
+        }, 
+        "ARTS-7737": {
+            "courseDescription": "introduces students to sociological models for understanding the phenomenon of &ldquo;crime.&rdquo; As a background for developing theory, this course will familiarize students with the problems inherent in defining what it is we mean by &ldquo;crime.&rdquo; Once the underlying premises of the theories are tackled, students critically examine each theoretical perspective with a focus on assessing the validity of the approach, and how the theory works to guide public policy.", 
+            "CO": "SOCI 1000", 
+            "concurrent": [], 
+            "courseTitle": "Criminological Inquiry", 
+            "prerequisites": [], 
+            "corequisites": [
+                "ARTS-6808"
+            ], 
+            "courseNumber": "2300"
+        }, 
+        "ARTS-7736": {
+            "PR": "6 credit hours in Sociology. Enrollment priority will be given to students who have declared a Sociology Major and/or the Criminology certificate program.", 
+            "courseDescription": "covers an array of theoretical and empirical developments in sociology and criminology that cross boundaries within the diverse systems of criminal justice, the community and society more broadly. Special emphases will be placed on the experiences of those in the criminal justice system - as victims, offenders, and professionals - and theories of desistance, as well as the intersection of gender with race, ethnicity and class.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Topics in Criminology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4080"
+        }, 
+        "ARTS-6888": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "is a seminar course focusing on theoretical and empirical explanations of how development processes affect gender inequality and relations between men and women. The course provides students an understanding of how the theories, actors, and ongoing challenges of development interact with and work to shape socially constructed gender relations in a global perspective. Special attention is paid to how globalization influences gender in the development context.", 
+            "concurrent": [], 
+            "courseTitle": "Gender and Development", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "the former SOCI 4204", 
+            "courseNumber": "4230"
+        }, 
+        "ARTS-7503": {
+            "courseDescription": "introduces students to contemporary sociological approaches to the study of the relationship between human and non-human animals.", 
+            "concurrent": [], 
+            "courseTitle": "Animals and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2290"
+        }, 
+        "ARTS-6889": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "is a senior-level seminar course that focuses on the interaction between sociological research and theory on the one hand and government policymaking and implementation on the other with respect to social and economic development in Newfoundland and Labrador.", 
+            "concurrent": [], 
+            "courseTitle": "Development Issues and Policies in Newfoundland and Labrador", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4240"
+        }, 
+        "ARTS-6863": {
+            "PR": "SOCI 3040 and 3041", 
+            "courseDescription": "provides more advanced undergraduate-level study and practice in a variety of qualitative and quantitative sociological research methods. It will cover stages from conceptualization to empirical studies. The seminar format may include lectures, discussion and a range of research methods exercises.", 
+            "concurrent": [], 
+            "courseTitle": "Investigative Methods in Sociological Research", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6825"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4040"
+        }, 
+        "ARTS-6853": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as Human Kinetics and Recreation", 
+            "concurrent": [
+                "HKR-0403"
+            ], 
+            "courseTitle": "Sociology of Sport", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "Human Kinetics and Recreation 3410", 
+            "courseNumber": "3410"
+        }, 
+        "ARTS-6817": {
+            "courseDescription": "is a sociological analysis of contemporary world issues and social problems.", 
+            "concurrent": [], 
+            "courseTitle": "Changing World", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2250"
+        }, 
+        "ARTS-6851": {
+            "PR": "SOCI 1000 or the former 2000, and SOCI 3290", 
+            "courseDescription": "provides an introduction to the sociological perspectives on our system of formal social control (police, courts, corrections). Special attention is directed at how social structure and social inequality (class, ethnicity and race, gender) influence criminal justice decisions. Topics discussed include public opinion on crime and criminal justice, offenders and victims in the system, consensus and conflict in the creation of criminal law, finding a delicate balance between police powers for crime control and democratic rights, types of sentencing options and rationales, and the dual and conflicting goals of prisons and alternatives to incarceration.", 
+            "concurrent": [], 
+            "courseTitle": "Criminal Justice", 
+            "prerequisites": [
+                "ARTS-6808", 
+                "ARTS-6844"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3395"
+        }, 
+        "ARTS-6857": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as Anthropology", 
+            "concurrent": [
+                "ARTS-7022"
+            ], 
+            "courseTitle": "New Media Methods in Social Research", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "Anthropology 3630 , the former Sociology/Anthropology 3630", 
+            "courseNumber": "3630"
+        }, 
+        "ARTS-6852": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "explores the social construction of youth and reviews major theoretical approaches to the study of youth within Western Society. The course examines youth in relation to culture and identity, place and space, social inequalities, and social institutions.", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Youth", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3400"
+        }, 
+        "ARTS-6830": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as the former Sociology/Anthropology 3140 and the former Anthropology 3140) examines the major social movements that have driven social changes related to gender equality, social justice, human rights, and the environment. The course asks why people become involved in social movements, and what factors contribute to movement success. The course also examines social movements&rsquo; use of mass media and new media technologies as tools for reaching the public and provoking social and cultural transformation.", 
+            "concurrent": [], 
+            "courseTitle": "Social Movements", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "Sociology/Anthropology 3140, the former Anthropology 3140", 
+            "courseNumber": "3140"
+        }, 
+        "ARTS-6875": {
+            "PR": "SOCI 3040 , SOCI 3150 and 3 additional credit hours in Sociology courses at the 3000 level, or permission of the course instructor", 
+            "courseDescription": "examines the social forces that drive environmental degradation and responses to environmental issues. The course explores how environmental issues, such as climate change, fisheries collapse, or deforestation, are intertwined with systems of social power and inequality. Through this course, students will learn how a sociological perspective helps address the causes and potential solutions for environmental problems and conflicts.", 
+            "CO": "SOCI 3040 , SOCI 3150 and 3 additional credit hours in Sociology courses at the 3000 level, or permission of the course instructor", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Sociology", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "courseNumber": "4104"
+        }, 
+        "ARTS-6874": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "is advanced analysis from a sociological perspective of issues pertaining to specific social institutions.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Institutional Analysis", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4100-4109 (Excluding 4100, 4104 and 4107)"
+        }, 
+        "ARTS-6859": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "will explore problems of development in post-Soviet countries, examining them in a broader context of modernization. 'Catch-up' modernization gives rise to a set of problems related to institutional importation, e,g., a gap between formal and informal institutions. These problems exist in Russia as well as in a number of other less-developed countries.", 
+            "concurrent": [], 
+            "courseTitle": "Post-Soviet Transformations", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3710"
+        }, 
+        "ARTS-6876": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "(same as the former Women's Studies 4107) is an advanced seminar which provides an interdisciplinary survey of the effects of technology on women's lives. Topics could include: The historical development of domestic technology; changes in workplace technology and their impact on women; assessing technologies from a feminist perspective; the design of technological systems; biomedical and reproductive technologies; information technologies; biotechnology; development in architecture and design; women, development, and technology; women and weapons technology; women and ecology; future technological change and women's lives. The course will combine seminar discussions of reading with films, workplace tours and guest speakers.", 
+            "concurrent": [], 
+            "courseTitle": "Women and Technological Change", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Women's Studies 3009, the former Women's Studies 4107", 
+            "courseNumber": "4107"
+        }, 
+        "ARTS-6871": {
+            "PR": "SOCI 3040 , 3150 , 3420 or permission of the instructor", 
+            "courseDescription": "(same as the former Sociology/Anthropology 4092 and the former Anthropology 4092) is a seminar which will develop the material covered In SOCI", 
+            "concurrent": [], 
+            "courseTitle": "Gender and Social Theory", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831", 
+                "ARTS-6854"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 4092, the former Anthropology 4092", 
+            "courseNumber": "4092"
+        }, 
+        "ARTS-6815": {
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6016"
+            ], 
+            "courseTitle": "Newfoundland Society and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 2230 , the former Sociology/Anthropology 2230, the former Anthropology 2230", 
+            "courseNumber": "2230"
+        }, 
+        "ARTS-6873": {
+            "courseDescription": "is a part-time, one-semester internship course, and is normally an unpaid supervised field placement for academically strong sociology majors. The goal is to help give students basic skills required for employment in nonprofit organizations in the social services and arts management.", 
+            "concurrent": [], 
+            "courseTitle": "Internship", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "six hours per week of worksite activities over a period of eight weeks as well as classroom instruction during part of the term", 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-6872": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "will have the content announced when offered.", 
+            "concurrent": [], 
+            "courseTitle": "Special Areas in Sociology", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4093-4099 (Excluding 4096)"
+        }, 
+        "ARTS-6831": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "is an introduction to the work of major 19th and early 20th-century social theorists including Marx, Durkheim, Weber and Freud.", 
+            "concurrent": [], 
+            "courseTitle": "Classical Social Theory", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3150"
+        }, 
+        "ARTS-6816": {
+            "courseDescription": "(same as the former Sociology/Anthropology 2240 and the former Anthropology 2240) is a descriptive and analytic approach to the development of Canadian society and culture.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Society and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 2240, the former Anthropology 2240", 
+            "courseNumber": "2240"
+        }, 
+        "ARTS-6833": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "examines the nature of minority group status in society and various examples of minority groups in past and present societies, reviews theoretical perspectives on minority groups, and explores various aspects of the relationship between minority groups and the rest of society.", 
+            "concurrent": [], 
+            "courseTitle": "Minority Groups", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former SOCI 3304", 
+            "courseNumber": "3180"
+        }, 
+        "ARTS-6832": {
+            "PR": "SOCI 1000 or the former 2000, and SOCI 3150", 
+            "courseDescription": "is an exploration of selected topics from issues in contemporary social theory, including theories of feminism, the state, the environment, culture, organization, and communication.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Social Theory", 
+            "prerequisites": [
+                "ARTS-6808", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3160"
+        }, 
+        "ARTS-6813": {
+            "courseDescription": "(same as the former Sociology/Anthropology 2210 and the former Anthropology 2210) is an examination of verbal and non-verbal systems of communication, and the influence of language on human cognition.", 
+            "concurrent": [], 
+            "courseTitle": "Communication and Culture", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 2210, the former Anthropology 2210", 
+            "courseNumber": "2210"
+        }, 
+        "ARTS-6834": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "is an Introduction to demography, the scientific study of human populations, their size and composition, and the processes by which they change over time: nuptially, fertility, mortality, and migration. Includes analyses of past and present Newfoundland populations.", 
+            "concurrent": [], 
+            "courseTitle": "Population", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-6811": {
+            "courseDescription": "is an examination of the role of technology in society. Topics may include the emergence of modern technological society, the impact of new technologies on social organization and culture, and the institutionalization of science and the production of scientific knowledge. The course also explores the ideological functions of science and technology in advanced industrial societies as well as the question of \"the domination of nature\".", 
+            "concurrent": [], 
+            "courseTitle": "Technology and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2120"
+        }, 
+        "ARTS-6810": {
+            "courseDescription": "as its principle task, explores different links that exist between economy and society. Emphasis will be put on embeddedness of economic processes in a broader social context. Several approaches to the study of the embeddedness will be discussed: economic sociology, institutional economics, law and economics, and others. Do we really live in a network society, where the most important thing is to &lsquo;get connected&rsquo;? How important is it to trust people in everyday life and to what extent? What role do power and coercion play in our everyday lives? The course will provide guidelines for finding tentative answers to these questions.", 
+            "concurrent": [], 
+            "courseTitle": "Economy and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2110"
+        }, 
+        "ARTS-6819": {
+            "courseDescription": "(same as the former Sociology/Anthropology 2270 and the former Anthropology 2270) is a comparative and historical perspective on the family as a social institution, the range of variation in its structure and the determinants of its development.", 
+            "concurrent": [], 
+            "courseTitle": "Families", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 2270, the former Anthropology 2270", 
+            "courseNumber": "2270"
+        }, 
+        "ARTS-6844": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "examines major sociological theories and methodological techniques central to the study of deviance and crime. The distribution, attributes and explanations of a variety of forms of deviance are examined, which may include violence, sexual deviance, delinquency, addiction, mental disorder, theft, organized crime, political deviance and corporate deviance.", 
+            "concurrent": [], 
+            "courseTitle": "Deviance", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3290"
+        }, 
+        "ARTS-6886": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "is a seminar course that focuses on the role policing plays in society, the social, economic, and political factors that shape policing services, and the policies that may be implemented to strengthen policing in the future. The popular view of the police role, detective myths and effectiveness, community policing, police socialization, policing special types of problems, police misconduct, and the expansion of private policing are considered.", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Policing", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4212"
+        }, 
+        "ARTS-6845": {
+            "courseDescription": "will have a topic of current interest and importance, announced by the Department for each term, such as racial and ethnic relations, sociology of religion, art, politics, language, conflict, stratification, knowledge, selected social problems.", 
+            "concurrent": [], 
+            "courseTitle": "Sociological Specialties", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3300-3313"
+        }, 
+        "ARTS-6836": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as the former Sociology/Anthropology 3220 and the former Anthropology 3220) is an historical and comparative perspective on the cultural and social organization of work, its determinants and human implications.", 
+            "concurrent": [], 
+            "courseTitle": "Work and Society", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3220, the former Anthropology 3220", 
+            "courseNumber": "3220"
+        }, 
+        "ARTS-6891": {
+            "courseDescription": "is a part of the honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Essay", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4995"
+        }, 
+        "ARTS-6887": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "explores the socially constructed nature of sexuality, and examines how concepts of sexuality are used in the current North American context as well as across different times and cultures. The course explores sex and sexuality in connection to community and identity, social problems, social control, and political resistance.", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Sexuality", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4213"
+        }, 
+        "ARTS-6808": {
+            "courseDescription": "is an introduction to the concepts, principles, and topics of Sociology. This course is a prerequisite to most departmental courses.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Sociology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former SOCI 2000", 
+            "courseNumber": "1000"
+        }, 
+        "ARTS-6809": {
+            "courseDescription": "introduces the subject of social inequality and stratification, examines social inequality in historical perspective, reviews major theories about social inequality, and considers key social developments in contemporary societies in the area of social inequality.", 
+            "concurrent": [], 
+            "courseTitle": "Social Inequality", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2100"
+        }, 
+        "ARTS-6847": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as the former Sociology/Anthropology 3317 and the former Anthropology 3317) is an examination of the sociology of the Western oil industry and of the social and cultural implications of oil activities for those regions in which they occur. Particular attention will be paid to North Atlantic societies: Scotland. Norway, and Atlantic Canada.", 
+            "concurrent": [], 
+            "courseTitle": "Oil and Society", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3317, the former Anthropology 3317", 
+            "courseNumber": "3317"
+        }, 
+        "ARTS-6868": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "(same as the former Sociology/Anthropology 4074 and the former Anthropology 4074) is about ritual and ceremony, as both analytic and descriptive concepts, in both industrial states and subsistence-oriented societies. Topics examined could include: the universality of ritual and ceremony; essential differences between ritual and ceremony; their relative importance in non-industrialised and industrialised societies; the place of symbolism in ritual and ceremony; and the relationship between ritual, ceremony, religion and the sacred.", 
+            "concurrent": [], 
+            "courseTitle": "Ritual and Ceremony", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 4074, the former Anthropology 4074", 
+            "courseNumber": "4074"
+        }, 
+        "ARTS-6843": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as Anthropology", 
+            "concurrent": [
+                "ARTS-7021"
+            ], 
+            "courseTitle": "Social and Economic Development", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "Anthropology 3260 , the former Sociology/Anthropology 3260", 
+            "courseNumber": "3260"
+        }, 
+        "ARTS-6870": {
+            "PR": "SOCI 3040 and 3150", 
+            "courseDescription": "(same as the former Sociology/Anthropology 4091 and the former Anthropology 4091) is an advanced seminar which will consider some selected topics dealing with the petroleum industry and its implications for economic development and social change. A comparative approach will be taken, using material from developed, underdeveloped and intermediate regions of the world.", 
+            "concurrent": [], 
+            "courseTitle": "Oil and Development", 
+            "prerequisites": [
+                "ARTS-6824", 
+                "ARTS-6831"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 4091, the former Anthropology 4091", 
+            "courseNumber": "4091"
+        }, 
+        "ARTS-6854": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "provides a comprehensive introduction to the major themes, theories and research questions addressed by sociologists studying &lsquo;gender&rsquo;. The economic, social, cultural and political aspects of gender formations, in comparative Canadian and transnational contexts, will be examined.", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Gender", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3420"
+        }, 
+        "ARTS-6848": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as the former Sociology/Anthropology 3318 and the former Anthropology 3318) is an Introduction to the study of aging from a social and cultural perspective. Distinctions between the biological and social elements of the aging process will be examined. The overview of social and cultural gerontology Includes social, economic and political influences on later life, as well as the culture-based needs and aspirations of the aged.", 
+            "concurrent": [], 
+            "courseTitle": "Culture and Aging", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3318, the former Anthropology 3318", 
+            "courseNumber": "3318"
+        }, 
+        "ARTS-6849": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "(same as the former Sociology/Anthropology 3320 and the former Anthropology 3320) is an examination of the recourse to violence as a recurring phenomenon in social and political movements. Consideration will be given to problems of classifying and explaining various forms of \"terrorism\", and to discussing their consequences for society.", 
+            "concurrent": [], 
+            "courseTitle": "Terrorism and Society", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Sociology/Anthropology 3320, the former Anthropology 3320", 
+            "courseNumber": "3320"
+        }, 
+        "ARTS-6861": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "is a comparative examination of major contemporary sociological texts on the relationship between culture, broadly understood as symbolic systems, and social structure", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Culture", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3731"
+        }, 
+        "ARTS-6823": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "is an introduction to the sociological foundations of political life. Topics to be examined include voting behaviour, comparative power systems, ideologies, mass movements, parties, voluntary associations, and bureaucracies. Attention is given to the concepts of class, status, command, power, authority, and legitimacy.", 
+            "concurrent": [], 
+            "courseTitle": "Political Sociology", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Political Science 3030", 
+            "courseNumber": "3030"
+        }, 
+        "ARTS-6824": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "provides elementary familiarization with the study of sociology. To this end various strategies for posing and answering sociologically grounded questions will be explored. We take you 'behind the scenes' of the research process to provide basic research skills and strengthen your capacity to critically read and evaluate the research-based writing of others.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the Methods of Sociological Research", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3040"
+        }, 
+        "ARTS-6825": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "develops and elaborates upon work introduced in SOCI", 
+            "CO": "SOCI 3040", 
+            "concurrent": [], 
+            "courseTitle": "Theory and Practice of Sociological Research", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [
+                "ARTS-6824"
+            ], 
+            "courseNumber": "3041"
+        }, 
+        "ARTS-7029": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Studies in Terror and Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4077"
+        }, 
+        "ARTS-6828": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "examines sociological perspectives on social psychology: the physiological and psychological basis of sign and symbol use, the context and emergence of self, identity, role, encounters, social relationships, altercasting.", 
+            "concurrent": [], 
+            "courseTitle": "Social Psychology", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3120"
+        }, 
+        "ARTS-6829": {
+            "PR": "SOCI 1000 or the former 2000", 
+            "courseDescription": "provides a critical overview of the major social and cultural aspects of modern gambling in terms of leisure, work and economic development, social inequality, health and illness, deviance and crime, and policy. Special attention is directed at the promotion of modern gambling by the state (lotteries, casinos, video lottery terminals, slot machines, and horse racing).", 
+            "concurrent": [], 
+            "courseTitle": "Sociology of Gambling", 
+            "prerequisites": [
+                "ARTS-6808"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3130"
+        }
+    }
+}

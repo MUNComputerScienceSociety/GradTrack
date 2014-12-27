@@ -1,0 +1,1440 @@
+{
+    "ENGL": {
+        "ARTS-8134": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Nineteenth-Century Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3302"
+        }, 
+        "ARTS-5849": {
+            "courseDescription": "is an introduction to the work of major authors by detailed study of selected texts. There is an emphasis on the various skills of essay writing. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [
+                "SWGC-0735"
+            ], 
+            "courseTitle": "Major Writers to 1800", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 2005", 
+            "courseNumber": "2000"
+        }, 
+        "ARTS-5848": {
+            "PR": "ENGL 1000 or 1080", 
+            "courseDescription": "is an examination of prose texts such as essays, articles and reviews. Students write for different purposes and audiences. Emphasis is placed on critical reading and writing: analysing texts, framing and using questions, constructing essays, organizing paragraphs, conducting research, quoting and documenting, revising and editing.", 
+            "concurrent": [
+                "ARTS-5840", 
+                "ARTS-5842"
+            ], 
+            "courseTitle": "Critical Reading and Writing II (Context, Substance, Style)", 
+            "prerequisites": [
+                "SWGC-0728", 
+                "ARTS-5844"
+            ], 
+            "corequisites": [], 
+            "CR": "ENGL 1020 , ENGL 1030 . Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1110"
+        }, 
+        "ARTS-5948": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of late eighteenth- and early nineteenth-century texts in their social, political, and cultural contexts, with particular focus on the first generation of Romantic writers.", 
+            "concurrent": [], 
+            "courseTitle": "British Romanticism I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4050"
+        }, 
+        "ARTS-5949": {
+            "courseDescription": "is a study of late eighteenth- and early nineteenth-century texts in their social, political, and cultural contexts, with particular focus on the second generation of Romantic writers.", 
+            "concurrent": [], 
+            "courseTitle": "British Romanticism II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4051"
+        }, 
+        "ARTS-5944": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "focuses on the prose and poetry of representative authors of the period and provides a critical overview of the literary, historical, social, political, and religious context.", 
+            "concurrent": [], 
+            "courseTitle": "Seventeenth-Century English Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4030"
+        }, 
+        "ARTS-5946": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of selected works by such authors as Dryden, Swift, Pope, Fielding, and Lady Mary Wortley Montagu.", 
+            "concurrent": [], 
+            "courseTitle": "Restoration and Early Eighteenth-Century British Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4040"
+        }, 
+        "ARTS-5947": {
+            "courseDescription": "is a study of selected works by such authors as Boswell, Burney, Johnson, Smollett, and Sterne.", 
+            "concurrent": [], 
+            "courseTitle": "Later Eighteenth-Century British Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4041"
+        }, 
+        "ARTS-5940": {
+            "courseDescription": "permits students to analyse and practice reviewing of three kinds: (a) performance; (b) film, TV, video; c) books.", 
+            "concurrent": [], 
+            "courseTitle": "Reviewing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3920"
+        }, 
+        "ARTS-5941": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of European thought and culture as they affect the history and development of English literature from the Middle Ages to the eighteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "English Literature and History of Ideas I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4000"
+        }, 
+        "ARTS-5942": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of European thought and culture as they affect the history and development of English literature from the eighteenth century to the present.", 
+            "concurrent": [], 
+            "courseTitle": "English Literature and the History of Ideas II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4001"
+        }, 
+        "ARTS-5943": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "focuses on the prose and poetry of representative authors of the period and provides a critical overview of the literary, historical, social, political, and religious context.", 
+            "concurrent": [], 
+            "courseTitle": "Sixteenth-Century English Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4010"
+        }, 
+        "ARTS-5951": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of selected works by such writers as Thackeray, Gaskell, George Eliot, Arnold, and the Rossettis.", 
+            "concurrent": [], 
+            "courseTitle": "Victorian Literature II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4061"
+        }, 
+        "ARTS-5950": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of selected works by such writers as Carlyle, Dickens, Tennyson, the Brownings, and the Bront&euml;s.", 
+            "concurrent": [], 
+            "courseTitle": "Victorian Literature I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4060"
+        }, 
+        "ARTS-5939": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Professional Writing Online", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3914"
+        }, 
+        "ARTS-5938": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Write to Speak", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3913"
+        }, 
+        "ARTS-5931": {
+            "PR": "Normally, admission to this course will be based on the instructor's evaluation of the student's writing. Class size will be limited.", 
+            "courseDescription": "is conducted as a seminar using models of contemporary writing and the students' own work. Each student will be required to submit work regularly.", 
+            "concurrent": [
+                "ARTS-5932", 
+                "SWGC-0801"
+            ], 
+            "courseTitle": "Introduction to Creative Writing: Fiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only two of ENGL 3900, 3901 , and 3905", 
+            "courseNumber": "3900"
+        }, 
+        "ARTS-5930": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3840-3870 (Excluding 3844)"
+        }, 
+        "ARTS-5933": {
+            "PR": "the regular prerequisites for 3000-level offerings, plus submission of a portfolio specified by the instructor and permission of the instructor", 
+            "courseDescription": "is conducted as a seminar using models of contemporary dramatic writing and the students&rsquo; own work. Each student will be required to submit work regularly.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Creative Writing: Playwrighting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 3842", 
+            "courseNumber": "3902"
+        }, 
+        "ARTS-5932": {
+            "PR": "Normally, admission to this course will be based on the instructor's evaluation of the student's writing. Class size will be limited.", 
+            "courseDescription": "is conducted as a seminar using models of contemporary writing and the students' own work. Each student will be required to submit work regularly.", 
+            "concurrent": [
+                "ARTS-5931", 
+                "SWGC-0801"
+            ], 
+            "courseTitle": "Introduction to Creative Writing: Poetry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only two of ENGL 3900 , 3901, and 3905", 
+            "courseNumber": "3901"
+        }, 
+        "ARTS-5935": {
+            "courseDescription": "will permit students to learn to draft and edit short investigative pieces; and they complete an article or essay, and an investigative project that attends to ethics guidelines, research, documentation, interviewing protocols, and writing and editing for a specific context. The course is conducted as a seminar using the students&rsquo; own work. Each student will be required to submit work regularly. Some work may be done collaboratively.", 
+            "concurrent": [], 
+            "courseTitle": "Investigative Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3910"
+        }, 
+        "ARTS-5934": {
+            "PR": "the regular prerequisites for 3000-level offerings, plus submission of a portfolio specified by the instructor and permission of the instructor", 
+            "courseDescription": "is conducted as a seminar using models of contemporary writing and the students&rsquo; own work. Each student will be required to submit work regularly.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Creative Writing: Nonfiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3903"
+        }, 
+        "ARTS-5937": {
+            "courseDescription": "uses models from early ballads to contemporary hits and near-misses as a basis for students&rsquo; own work. Guest songwriters will be invited to meet with students to discuss their compositions. Students will analyse song lyrics, write their own songs and collaborate on a major class project. The ability to sing or play a musical instrument or to read or write sheet music, while desirable, is not required.", 
+            "concurrent": [], 
+            "courseTitle": "Songwriting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3912"
+        }, 
+        "ARTS-5936": {
+            "courseDescription": "uses models of contemporary satire as a basis for students&rsquo; own work. Guest satirists will be invited to meet with students who will write satirical sketches, articles and/or plays based on their own experiences in response to current affairs and topical items of interest. Students will engage in at least one collaborative project.", 
+            "concurrent": [], 
+            "courseTitle": "Writing Satire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3911"
+        }, 
+        "ARTS-5838": {
+            "courseDescription": "is a non-credit course designed for students whose first language is other than English and whose knowledge and use of English do not meet the standards for entry into the regular first-year English courses.", 
+            "CH": "0", 
+            "LC": "4 hours of lecture plus one hour conversation class", 
+            "concurrent": [], 
+            "courseTitle": "Foundation English", 
+            "LH": "1", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "102F"
+        }, 
+        "ARTS-5845": {
+            "PR": "ENGL 1000 or 1020 or 1030 or 1080", 
+            "courseDescription": "is a study of such forms as the novel, the novella, the story sequence. Emphasis is placed on critical reading and writing: analysing texts, framing and using questions, constructing essays, organizing paragraphs, conducting research, quoting and documenting, revising and editing.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Reading and Writing II (Fiction)", 
+            "prerequisites": [
+                "SWGC-0728", 
+                "ARTS-5840", 
+                "ARTS-5842", 
+                "ARTS-5844"
+            ], 
+            "corequisites": [], 
+            "CR": "Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1101"
+        }, 
+        "ARTS-5844": {
+            "courseDescription": "is an introduction to such literary forms as poetry, short fiction, drama, and the essay. Emphasis is placed on critical reading and writing: analysing texts, framing and using questions, constructing essays, organizing paragraphs, quoting and documenting, revising and editing.", 
+            "concurrent": [
+                "SWGC-0728"
+            ], 
+            "courseTitle": "Critical Reading and Writing I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 1000 . Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1080"
+        }, 
+        "ARTS-5847": {
+            "PR": "ENGL 1000 or 1020 or 1030 or 1080", 
+            "courseDescription": "is a study of poetry. Emphasis is placed on critical reading and writing: analysing texts, framing and using questions, constructing essays, organizing paragraphs, conducting research, quoting and documenting, revising and editing.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Reading and Writing II (Poetry)", 
+            "prerequisites": [
+                "SWGC-0728", 
+                "ARTS-5840", 
+                "ARTS-5842", 
+                "ARTS-5844"
+            ], 
+            "corequisites": [], 
+            "CR": "Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1103"
+        }, 
+        "ARTS-5929": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a course setting women writers in the context of literary history.", 
+            "concurrent": [
+                "SWGC-0793", 
+                "SWGC-0799"
+            ], 
+            "courseTitle": "Women Writers", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 2805 , 3810", 
+            "courseNumber": "3830"
+        }, 
+        "ARTS-5841": {
+            "PR": "ENGL 1020", 
+            "courseDescription": "develops skills in critical reading and writing of academic English, with emphasis on research and writing syntheses from sources, for non-native English-speaking students.", 
+            "concurrent": [], 
+            "courseTitle": "Writing for Second Language Students II", 
+            "prerequisites": [
+                "ARTS-5840"
+            ], 
+            "corequisites": [], 
+            "CR": "Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1021"
+        }, 
+        "ARTS-5840": {
+            "PR": "Admission to this course will be determined on the basis of the departmental English Placement Test or successful completion of ENGL 102F .", 
+            "courseDescription": "is an introduction to the use of English with emphasis on composition for non-native English-speaking students. This course is for students whose first language is not English and who have passed", 
+            "concurrent": [
+                "ARTS-5842", 
+                "ARTS-5848"
+            ], 
+            "courseTitle": "Writing for Second Language Students I", 
+            "prerequisites": [
+                "ARTS-5838"
+            ], 
+            "corequisites": [], 
+            "CR": "English 1030 , ENGL 1110 . Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "courseNumber": "1020"
+        }, 
+        "ARTS-5843": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Prose Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1031"
+        }, 
+        "ARTS-5842": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1030"
+        }, 
+        "ARTS-5922": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3811-3830 (Excluding 3813, 3816, 3817, 3819 and 3830)"
+        }, 
+        "ARTS-5923": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Theories of National Cinema", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3813"
+        }, 
+        "ARTS-5921": {
+            "courseDescription": "is available only as part of the", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in English", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3710-3729"
+        }, 
+        "ARTS-5926": {
+            "PR": "ENGL 3350 and 3351 ; admission priority will be given to students in Diploma in Performance and Communications Media .", 
+            "courseDescription": "is an introduction to the principles of acting for the camera through lecture, discussion and studio work.", 
+            "concurrent": [], 
+            "courseTitle": "Television", 
+            "prerequisites": [
+                "ARTS-5913", 
+                "ARTS-5924"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3816"
+        }, 
+        "ARTS-5927": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "draws on a variety of writing to examine questions related to the study of gender. Possible topics may include the changing constructions of gender and the intersections of gender with race, class, nationality and sexuality. This course may qualify as a research and writing course for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "Writing and Gender II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3817"
+        }, 
+        "ARTS-5924": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is an introduction to the fundamentals and vocabulary of design, lighting and stagecraft and film/ video craft, including sound, properties, etc.", 
+            "concurrent": [], 
+            "courseTitle": "The Physical Stage and Video Technique", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3351", 
+            "OR": "three hours of workshops"
+        }, 
+        "ARTS-7487": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Medieval Language and Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4605-4615"
+        }, 
+        "ARTS-7486": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in American Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4275-4285"
+        }, 
+        "ARTS-7485": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in American Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3265-3275"
+        }, 
+        "ARTS-5997": {
+            "PR": "completion of the six courses in the program, with an overall average of 65% in these courses.", 
+            "courseDescription": "is a 6 credit hour course which has students, upon completion of the courses in the", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Instructional Field Placement in Professional Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "can be used for credit towards the Diploma in Professional Writing", 
+            "courseNumber": "5200"
+        }, 
+        "ARTS-5995": {
+            "PR": "ENGL 3350 , 3351 , 3816 , 4400 , 4401 , 4402 , with an overall average of 65% in these courses. Restricted to students in the Diploma in Performance and Communications Media . Admission is by application to the Program Co-ordinator, normally at least three months before the beginning of the placement, and is limited to students who at the time of admission have completed the six courses listed above with an overall average of at least 65% and who already hold a first degree or are in their final year of a degree program as confirmed by the Office of the Registrar.", 
+            "courseDescription": "is a 6 credit hour course which occurs upon completion of course work in the", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Instructional Field Placement", 
+            "prerequisites": [
+                "ARTS-5913", 
+                "ARTS-5924", 
+                "ARTS-5926", 
+                "ARTS-5966", 
+                "ARTS-5967", 
+                "ARTS-5968"
+            ], 
+            "corequisites": [], 
+            "UL": "can be used for credit only towards the Diploma in Performance and Communications Media", 
+            "courseNumber": "5000"
+        }, 
+        "ARTS-5994": {
+            "courseDescription": "is required as part of the Honours program.", 
+            "concurrent": [], 
+            "courseTitle": "Essay for Honours Candidates", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4999"
+        }, 
+        "ARTS-5993": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Creative Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4920-4930"
+        }, 
+        "ARTS-5992": {
+            "PR": "Normally, students will (a) be enrolled in the Diploma in Professional Writing and (b) have successfully completed at least two of the following: ENGL 3001 , 3817 , 3903 (or other course designated Creative Writing), 3910 , 3920 . Normally, admission to this course will be based on the instructor&rsquo;s evaluation of the student&rsquo;s writing. Class size will be limited.", 
+            "courseDescription": "is editing for the workplace: An intensive course in drafting and editing. Students will be expected to work both individually and collaboratively.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Editing", 
+            "prerequisites": [
+                "ARTS-5883", 
+                "ARTS-5927", 
+                "ARTS-5934", 
+                "ARTS-5935", 
+                "ARTS-5940"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4914"
+        }, 
+        "ARTS-5991": {
+            "PR": "successful completion of at least one Creative Writing course at the 3000-level, plus submission of a portfolio specified by the instructor and permission of the instructor", 
+            "courseDescription": "is conducted as a seminar using models of contemporary writing and the students&rsquo; own work. Each student will be required to submit work regularly.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Creative Writing: Nonfiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4913"
+        }, 
+        "ARTS-5990": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Creative Writing: Playwrighting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4912"
+        }, 
+        "ARTS-5856": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Comprehension, Writing and Prose Style II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2020"
+        }, 
+        "ARTS-5854": {
+            "courseDescription": "requires students to analyze published essays for their aims, strategies, and discourses. Students practice writing as a process of discovery in the context of a learning community: for instance identifying questions to explore, free-writing, finding a focus, drafting, peer-editing, revising, editing. Each student produces a portfolio of revised, edited work. This course qualifies as a Research/Writing Course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Professional Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2010"
+        }, 
+        "ARTS-5855": {
+            "courseDescription": "(same as Music", 
+            "concurrent": [
+                "MUSIC-0374", 
+                "MUSIC-0388"
+            ], 
+            "courseTitle": "Twentieth Century Musicals", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Music 2013 and Music 3007", 
+            "UL": "cannot be taken for credit by students enrolled in the Bachelor of Music program", 
+            "courseNumber": "2013"
+        }, 
+        "ARTS-5852": {
+            "courseDescription": "is a study of poetry, which aims to increase the students critical understanding and appreciation of poetry, conducted through an examination of a wide variety of kinds and techniques.", 
+            "concurrent": [], 
+            "courseTitle": "Poetry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2003"
+        }, 
+        "ARTS-5853": {
+            "courseDescription": "is a study of short fiction which aims to give the students an appreciation of the short story as a literary form. The course will deal with the nature, history and development of short fiction by considering a variety of authors and stories.", 
+            "concurrent": [], 
+            "courseTitle": "Short Fiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2004"
+        }, 
+        "ARTS-5850": {
+            "courseDescription": "is an introduction to the work of major authors by detailed study of selected texts. There is an emphasis on the various skills of essay writing. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [
+                "SWGC-0738"
+            ], 
+            "courseTitle": "Major Writers from 1800", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 2007", 
+            "courseNumber": "2001"
+        }, 
+        "ARTS-5918": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Structure of Modern English: Phonology and Morphology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3650"
+        }, 
+        "ARTS-5917": {
+            "courseDescription": "is a study of representative poems.", 
+            "concurrent": [], 
+            "courseTitle": "Chaucer", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "ARTS-5915": {
+            "PR": "successful completion of two 2000-level English courses", 
+            "courseDescription": "introduces students to the basic elements of Old English grammar and vocabulary through the practice of translating one or more texts from Old English into modern English and the study of the Old English corpus in modern translations.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Old English Language and Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 250A/B", 
+            "courseNumber": "3500"
+        }, 
+        "ARTS-5914": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "(same as Folklore", 
+            "concurrent": [
+                "ARTS-6029"
+            ], 
+            "courseTitle": "Folklore and Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Folklore 3460 , the former ENGL 4450, and the former Folklore 4450", 
+            "courseNumber": "3460"
+        }, 
+        "ARTS-5913": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is an introduction to principles of directing and acting, through lectures, discussion and stage production.", 
+            "concurrent": [], 
+            "courseTitle": "Theatre", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3350", 
+            "OR": "3 hours of workshops"
+        }, 
+        "ARTS-5912": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "English Literature and Medical Humanities", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3333"
+        }, 
+        "ARTS-5910": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of works by dramatists from a range of periods.", 
+            "concurrent": [
+                "SWGC-0767"
+            ], 
+            "courseTitle": "American Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 4308", 
+            "courseNumber": "3260"
+        }, 
+        "ARTS-5958": {
+            "PR": "ENGL 3200 or 3201", 
+            "courseDescription": "is an advanced course focusing on such plays as", 
+            "concurrent": [], 
+            "courseTitle": "Shakespeare's Roman and Greek Plays", 
+            "prerequisites": [
+                "ARTS-5908", 
+                "ARTS-5909"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4211"
+        }, 
+        "ARTS-5988": {
+            "PR": "completion of ENGL 3900 with a grade of 70 or higher and submission of a portfolio and permission of the instructor.", 
+            "courseDescription": "is a seminar for students who wish to write publishable literary fiction. Class size will be limited. Students will be expected to produce at least 15,000 words during the semester. Regular participation is also required.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Creative Writing: Fiction", 
+            "prerequisites": [
+                "ARTS-5931"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4910"
+        }, 
+        "ARTS-5989": {
+            "PR": "normally, admission to this course will be based on the instructor's evaluation of the student's writing and on the achievement of a minimum grade of 70% in ENGL 3901 or ENGL 3900", 
+            "courseDescription": "uses models of contemporary writing and the students' own work. This course is designed to develop further the technical skill of those students who have reached a high level of achievement in the introductory creative writing course in poetry, English 3901 (or who have a body of work of exceptional accomplishment) and to help them move towards publication in literary journals and chapbooks.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Creative Writing: Poetry", 
+            "prerequisites": [
+                "ARTS-5932", 
+                "ARTS-5931"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4911"
+        }, 
+        "ARTS-5980": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of representative literary utopias and dystopias, both classic and modern.", 
+            "concurrent": [], 
+            "courseTitle": "Utopias and Dystopias in Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4817"
+        }, 
+        "ARTS-5981": {
+            "PR": "completion of 3 credit hours chosen from courses at the 2000 or 3000 level in Canadian Literature, or permission of the instructor", 
+            "courseDescription": "is a study of some of the main concepts in Canadian culture up to World War II as they affect the history and development of Canadian Literature.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Literature: Imagining Worlds", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4821"
+        }, 
+        "ARTS-5982": {
+            "PR": "completion of 3 credit hours chosen from courses at the 2000 or 3000 level in Canadian Literature, or permission of the instructor", 
+            "courseDescription": "is a study of some of the main concepts in Canadian culture since World War II as they affect the history and development of Canadian Literature.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Literature: Making it New", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4822"
+        }, 
+        "ARTS-5983": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a seminar course in contemporary Canadian poetry. Students will have the opportunity to study collections by six English Canadian contemporary poets - not just new work by established older writers, but also first collections by younger writers. The work of poets from across Canada will be chosen.", 
+            "concurrent": [
+                "SWGC-0781"
+            ], 
+            "courseTitle": "Contemporary Canadian Poetry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 3148", 
+            "courseNumber": "4850"
+        }, 
+        "ARTS-5984": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "will examine Canada&rsquo;s early exploration and travel literature and show how it has shaped our contemporary fiction. Early texts may be studied from an anthology of exploration writings, such as Germaine Warkentin's Canadian Exploration Literature: An Anthology. Several contemporary novels will also be studied and may include Wayne Johnston's The Navigator of New York and John Steffler's The Afterlife of George Cartwright.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Exploration Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4851"
+        }, 
+        "ARTS-5985": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Canadian Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4852-4860"
+        }, 
+        "ARTS-5986": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is an introduction to bibliographical and textual studies to 1800. Areas covered may include the book as a material object; the history of the book; manuscripts; the spread of printing; the hand-press period; editing of texts; the evolution of the library; origins of intellectual property; freedom of the press; aspects of literary detection, forgery and plagiarism.", 
+            "concurrent": [], 
+            "courseTitle": "Book History and Print Culture I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4900"
+        }, 
+        "ARTS-5987": {
+            "courseDescription": "is an introduction to bibliographical and textual studies from 1800 to the present day. Areas covered may include the book as a material object; the history of the book; machine-press period; industrialization of printing; globalization of the book trade; intellectual property and copyright; electronic book; digital literacy; digital literatures.", 
+            "concurrent": [], 
+            "courseTitle": "Book History and Print Culture II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4901"
+        }, 
+        "ARTS-5869": {
+            "courseDescription": "is a study of representative American novels of the twentieth century, including such authors as James, Dreiser, Fitzgerald, Hemingway, Faulkner, Hurston, Morrison, Pynchon, DeLillo and Silko.", 
+            "concurrent": [], 
+            "courseTitle": "The Twentieth-Century American Novel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 2201", 
+            "courseNumber": "2213"
+        }, 
+        "ARTS-5868": {
+            "courseDescription": "is a survey of representative texts from 1900-2000.", 
+            "concurrent": [], 
+            "courseTitle": "The Twentieth-Century British Novel", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 2201", 
+            "courseNumber": "2212"
+        }, 
+        "ARTS-5863": {
+            "courseDescription": "introduces students to the significant body of contemporary literature written in English that stands outside the dominant British/North American canon. Authors addressed include writers of global significance such as Achebe, Rushdie, Coetzee, Walcott, Kincaid and Desai. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to World Literature in English", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2122"
+        }, 
+        "ARTS-5867": {
+            "courseDescription": "is a survey of representative texts from 1800-1900. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "The English Novel from 1800-1900", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 2200", 
+            "courseNumber": "2211"
+        }, 
+        "ARTS-5866": {
+            "courseDescription": "will introduce Aboriginal literature in a social, political and historical context. Beginning with the oral tradition (songs, narratives, legends, and orations), it will focus on different works by North American Aboriginal writers: poetry, drama, short stories and novels.", 
+            "concurrent": [], 
+            "courseTitle": "North American Aboriginal Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2160"
+        }, 
+        "ARTS-5865": {
+            "courseDescription": "is a study of fiction of Canadian writers since the 1970s.", 
+            "concurrent": [], 
+            "courseTitle": "New Canadian Fiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2151"
+        }, 
+        "ARTS-5864": {
+            "courseDescription": "is a study of representative Canadian fiction since 1930, including such authors as Ross, Buckler, Davies, Laurence, Atwood, Ondaatje and Findley.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Canadian Fiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2150"
+        }, 
+        "ARTS-5900": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "offers a broad overview of post-colonial studies in English. The course provides an introduction to key ideas in the field and a study of representative texts.", 
+            "concurrent": [], 
+            "courseTitle": "Empire and After: Introduction to Post-Colonial Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3160"
+        }, 
+        "ARTS-5901": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "focuses on contemporary writing by established Australian authors. It pays particular attention to the after effects of colonialism and the formulation of national identities.", 
+            "concurrent": [], 
+            "courseTitle": "Australian Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3161"
+        }, 
+        "ARTS-5902": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Irish Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3171"
+        }, 
+        "ARTS-5903": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "focuses on major Irish poets, mainly of the twentieth century.", 
+            "concurrent": [], 
+            "courseTitle": "Irish Poetry", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3172"
+        }, 
+        "ARTS-5904": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Irish Prose", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3173"
+        }, 
+        "ARTS-5905": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "focuses on major Irish writers in at least two genres.", 
+            "concurrent": [], 
+            "courseTitle": "Irish Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3175"
+        }, 
+        "ARTS-5906": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Drama of the Restoration and Eighteenth Century", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3181"
+        }, 
+        "ARTS-5907": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of representative Scottish poetry and prose from the eighteenth to the twenty-first century including selected works by such writers as Boswell, Burns, Hogg, Scott, Stevenson, Spark, and Rankin.", 
+            "concurrent": [], 
+            "courseTitle": "Scottish Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3190"
+        }, 
+        "ARTS-5908": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of tragedies and romances such as", 
+            "concurrent": [], 
+            "courseTitle": "Shakespeare", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3200"
+        }, 
+        "ARTS-5909": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of comedies and histories such as", 
+            "concurrent": [], 
+            "courseTitle": "Shakespeare", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3201"
+        }, 
+        "ARTS-5959": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a course on representative fiction, prose and poetry, including works by such authors as Edwards, Cooper, Hawthorne, Melville, Thoreau, Emerson, Poe, Whitman and Dickinson.", 
+            "concurrent": [], 
+            "courseTitle": "American Literature to 1880", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4251"
+        }, 
+        "ARTS-5878": {
+            "courseDescription": "introduces the literary sub-genres of science fiction and fantasy. It examines the traditional canonical backgrounds from which popular literatures derive, studies the formulaic patterns and explores the place of science fiction and fantasy in popular culture.", 
+            "concurrent": [], 
+            "courseTitle": "Science Fiction and Fantasy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2811"
+        }, 
+        "ARTS-5879": {
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2812-2820 (Excluding 2813 and 2815)"
+        }, 
+        "ARTS-5874": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of the English Language from 1500 to Modern Times", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2401"
+        }, 
+        "ARTS-5875": {
+            "courseDescription": "is a study of the language and literature of the later medieval period, excluding Chaucer.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Middle English", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2600"
+        }, 
+        "ARTS-5877": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Writing and Gender I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "ARTS-5870": {
+            "courseDescription": "is a study of representative American fiction of the nineteenth century including works by such authors as Poe, Hawthorne, Melville, Stowe, Twain and Chopin. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [], 
+            "courseTitle": "Nineteenth-Century American Fiction", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 2215", 
+            "courseNumber": "2214"
+        }, 
+        "ARTS-5872": {
+            "courseDescription": "is a practical introduction to the descriptive study of the English language with emphasis on syntax.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Modern English Structures", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2390"
+        }, 
+        "ARTS-5873": {
+            "PR": "ENGL 2390 or Linguistics 2103", 
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6458"
+            ], 
+            "courseTitle": "History of the English Language to 1500", 
+            "prerequisites": [
+                "ARTS-5872", 
+                "ARTS-6453"
+            ], 
+            "corequisites": [], 
+            "CR": "Linguistics 2400", 
+            "courseNumber": "2400"
+        }, 
+        "ARTS-5975": {
+            "PR": "two 3000-level English courses. ENGL 2600 or 3600 is recommended.", 
+            "courseDescription": "is an in-depth study of some of the major writers of the fourteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Chaucer and His Contemporaries", 
+            "prerequisites": [
+                "ARTS-5875", 
+                "ARTS-5917"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4600"
+        }, 
+        "ARTS-5976": {
+            "PR": "successful completion of two 3000-level English courses", 
+            "courseDescription": "is a study of representative texts of the medieval romance genre from the twelfth to the fifteenth century.", 
+            "concurrent": [], 
+            "courseTitle": "Medieval Romance Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4601"
+        }, 
+        "ARTS-5971": {
+            "PR": "ENGL 4420 and successful completion of two third-year English courses", 
+            "courseDescription": "(same as Linguistics", 
+            "concurrent": [
+                "ARTS-6501"
+            ], 
+            "courseTitle": "English Dialectology II", 
+            "prerequisites": [
+                "ARTS-5970"
+            ], 
+            "corequisites": [], 
+            "CR": "Linguistics 4421", 
+            "courseNumber": "4421"
+        }, 
+        "ARTS-5970": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "English Dialectology I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4420"
+        }, 
+        "ARTS-5973": {
+            "PR": "ENGL 3500 and one other 3000-level English course", 
+            "courseDescription": "is a detailed study of one or more major texts in Old English, depending on student interest.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Old English Language and Literature", 
+            "prerequisites": [
+                "ARTS-5915"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4500"
+        }, 
+        "ARTS-5972": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Stylistics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4422"
+        }, 
+        "ARTS-5851": {
+            "courseDescription": "is a survey of drama from the Greeks to the present day. Some sections of this course may qualify as Research/Writing courses for the B.A.", 
+            "concurrent": [
+                "SWGC-0752", 
+                "SWGC-0754"
+            ], 
+            "courseTitle": "Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 2350 , 2351", 
+            "courseNumber": "2002"
+        }, 
+        "ARTS-5979": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "will have topics to be studied announced by the Department.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4810-4819 (Excluding 4817)"
+        }, 
+        "ARTS-7301": {
+            "courseDescription": "introduces students to the field of visual culture and familiarizes them with both the vocabulary and the methodologies to examine images critically.", 
+            "concurrent": [], 
+            "courseTitle": "Poetics of the Image", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2813"
+        }, 
+        "ARTS-7303": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "will examine the development of science fiction from its beginnings to the present day. It will consider some of the major authors, theories, forms and concerns that have been the focus of the genre.", 
+            "concurrent": [], 
+            "courseTitle": "Science Fiction - The Golden Age and Beyond", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3844"
+        }, 
+        "ARTS-5881": {
+            "courseDescription": "is designed to introduce students to the medium of film. It is aimed at marking a shift from the natural enjoyment of movies to a critical understanding and to modes of film practice. Focus will be on the elements of film as components of cinematic style and meaning and on various approaches to the study of film.", 
+            "concurrent": [], 
+            "courseTitle": "What is Film", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2850"
+        }, 
+        "ARTS-5880": {
+            "courseDescription": "is an introduction to the study of contemporary theory and criticism with an emphasis on its application in the reading of literary texts.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Literary Theory and Criticism", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2815"
+        }, 
+        "ARTS-5883": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of satire from classical times, examining major forms of satiric expression such as the monologue, the parody and the long narrative.", 
+            "concurrent": [], 
+            "courseTitle": "Satire", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3001"
+        }, 
+        "ARTS-5882": {
+            "courseDescription": "is concerned with developing visual literacy skills, while also providing terminology and theory necessary to critically engage film. Special attention is paid to film form, historical/social contexts for the production and reception of visual images, and the roles that progressive reproduction technologies, spectatorship, and seeing play in understanding our contemporary world through and beyond visual culture.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Film Form and Film Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2851"
+        }, 
+        "ARTS-5884": {
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6518", 
+                "ARTS-6325", 
+                "ARTS-6750"
+            ], 
+            "courseTitle": "Medieval Books", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Medieval Studies 3000 , History 3000 , Religious Studies 3000", 
+            "courseNumber": "3002"
+        }, 
+        "ARTS-5887": {
+            "courseDescription": "is a study of the development of pre-Shakespearean drama, including representative cycle plays, morality plays, moral interludes, comedies, tragedies, folk plays, and royal entries.", 
+            "concurrent": [], 
+            "courseTitle": "Medieval and Tudor Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3021"
+        }, 
+        "ARTS-5886": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "(same as Medieval Studies", 
+            "concurrent": [
+                "ARTS-6523", 
+                "ARTS-6944"
+            ], 
+            "courseTitle": "Women Writers of the Middle Ages", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Medieval Studies 3006 and Gender Studies 3001", 
+            "courseNumber": "3006"
+        }, 
+        "ARTS-5889": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "explores in detail a wide range of poetry, using one or more of a variety of methods, contemporary and traditional, designed to lead an understanding of the thematic and technical of individual poems.", 
+            "concurrent": [], 
+            "courseTitle": "The Poem Close Up", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3100"
+        }, 
+        "ARTS-5888": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of the development of English drama (excluding Shakespeare) from 1580 to 1642.", 
+            "concurrent": [
+                "SWGC-0769"
+            ], 
+            "courseTitle": "English Renaissance Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 4317", 
+            "courseNumber": "3022"
+        }, 
+        "ARTS-5966": {
+            "PR": "ENGL 3350 and 3351 or permission of the instructor, in consultation with the Head of the Department", 
+            "courseDescription": "is the analysis, production plans and execution of selected projects.", 
+            "concurrent": [], 
+            "courseTitle": "Directing", 
+            "prerequisites": [
+                "ARTS-5913", 
+                "ARTS-5924"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "ARTS-5967": {
+            "PR": "ENGL 3350 and 3351 or permission of the instructor, in consultation with the Head of the Department", 
+            "courseDescription": "is a full semester working with a selected play, to culminate in public performance. Students will be required to participate fully in all aspects of the production, except direction, which will be the responsibility of the instructor.", 
+            "concurrent": [], 
+            "courseTitle": "Producing the Play", 
+            "prerequisites": [
+                "ARTS-5913", 
+                "ARTS-5924"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4401"
+        }, 
+        "ARTS-5964": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "examines representative twentieth-century plays from the traditions of expressionism, surrealism, and the theatre of the absurd.", 
+            "concurrent": [], 
+            "courseTitle": "Modern Drama II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }, 
+        "ARTS-5965": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of representative dramatic works of contemporary British drama.", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary British Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4302"
+        }, 
+        "ARTS-5962": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of representative writers of the period, such as Stevens, Lowell, Wilbur, Plath, McCullers, Bellow, Malamud.", 
+            "concurrent": [
+                "SWGC-0796", 
+                "ARTS-5960", 
+                "ARTS-5961"
+            ], 
+            "courseTitle": "American Literature Since 1945", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only three of ENGL 3215 , 4260 , 4261 , and 4270", 
+            "courseNumber": "4270"
+        }, 
+        "ARTS-5963": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "examines representative plays from Ibsen to the present day, principally of the realist tradition.", 
+            "concurrent": [
+                "SWGC-0760"
+            ], 
+            "courseTitle": "Modern Drama I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 3275", 
+            "courseNumber": "4300"
+        }, 
+        "ARTS-5960": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "traces the development of American literature from the closing of the frontier to the beginning of the Depression through the study of such writers as Adams, James, Crane, Dreiser, Cather, Robinson and Frost.", 
+            "concurrent": [
+                "SWGC-0796", 
+                "ARTS-5961", 
+                "ARTS-5962"
+            ], 
+            "courseTitle": "American Literature from 1880 to 1928", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only three of ENGL 3215 , 4260, 4261 , and 4270", 
+            "courseNumber": "4260"
+        }, 
+        "ARTS-5961": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "concentrates on the study of American fiction, drama and poetry in the period between the two World Wars. The course includes such writers as Hemingway, Faulkner, Fitzgerald, O'Neill, Stevens, Cummings and Hart Crane.", 
+            "concurrent": [
+                "SWGC-0796", 
+                "ARTS-5960", 
+                "ARTS-5962"
+            ], 
+            "courseTitle": "American Literature from 1928 to 1945", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "credit may be obtained for only three of ENGL 3215 , 4260 , 4261, and 4270", 
+            "courseNumber": "4261"
+        }, 
+        "ARTS-5968": {
+            "PR": "ENGL 3350 , 3351 , and 3816 . Admission priority will be given to students in the  Diploma in Performance and Communications Media .", 
+            "courseDescription": "is a full semester working on a selected project, to culminate in the creation of a completed video. Students, working in groups established by the Program Co-ordinator, will be required to participate in all aspects of production.", 
+            "concurrent": [], 
+            "courseTitle": "Producing the Documentary", 
+            "prerequisites": [
+                "ARTS-5913", 
+                "ARTS-5924", 
+                "ARTS-5926"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4402"
+        }, 
+        "ARTS-5969": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Etymology-History of English Words", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4403"
+        }, 
+        "ARTS-5928": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "offers an introduction to the Gothic mode in a selection of texts from the eighteenth century to the present. Topics covered may include the Gothic&rsquo;s recurrent themes of sin, sex, violence, and religion; its subversive response to dominant cultures and historical contexts; and its philosophical roots in sensibility, horror, and the sublime.", 
+            "concurrent": [], 
+            "courseTitle": "The Gothic", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3819"
+        }, 
+        "ARTS-5892": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Comedy", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3121"
+        }, 
+        "ARTS-5893": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of eighteenth-century English novels by such authors as Burney, Defoe, Fielding, Manley, Richardson, Sterne and Smollett.", 
+            "concurrent": [], 
+            "courseTitle": "The English Novel to 1800", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ENGL 2210", 
+            "courseNumber": "3130"
+        }, 
+        "ARTS-5890": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Issues in the Acquisition of English and the Adult Learner", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3105"
+        }, 
+        "ARTS-5846": {
+            "PR": "ENGL 1000 or 1020 or 1030 or 1080", 
+            "courseDescription": "is a study of drama. Emphasis is place on critical reading and writing: analysing texts, framing and using questions, constructing essays, organizing paragraphs, conducting research, quoting and documenting, revising and editing.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Reading and Writing II (Drama)", 
+            "prerequisites": [
+                "SWGC-0728", 
+                "ARTS-5840", 
+                "ARTS-5842", 
+                "ARTS-5844"
+            ], 
+            "corequisites": [], 
+            "CR": "Students may not receive credit for more than 6 credit hours in first-year courses in English (this includes unspecified first-year transfer credits).", 
+            "UL": "may not be used instead of ENGL 2002 as a prerequisite for entry into the Theatre-Drama specialization within the Major.", 
+            "courseNumber": "1102"
+        }, 
+        "ARTS-5896": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of Newfoundland literature with emphasis on representative writers since 1900.", 
+            "concurrent": [
+                "SWGC-0776"
+            ], 
+            "courseTitle": "Newfoundland Literature", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 2155", 
+            "courseNumber": "3155"
+        }, 
+        "ARTS-5897": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "Drama is a study of a number of representative plays which illustrate the development of modern drama and theatre in Canada.", 
+            "concurrent": [
+                "SWGC-0783"
+            ], 
+            "courseTitle": "Modern Canadian Drama", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 4307", 
+            "courseNumber": "3156"
+        }, 
+        "ARTS-5894": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of the development of Canadian literature from its beginnings to the end of World War I.", 
+            "concurrent": [
+                "SWGC-0779", 
+                "SWGC-0780"
+            ], 
+            "courseTitle": "Canadian Literature to 1918", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 3145 , 3147 , or the former 3150", 
+            "courseNumber": "3152"
+        }, 
+        "ARTS-5895": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Canadian Literature, 1918-1945", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3153"
+        }, 
+        "ARTS-5953": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of representative texts from 1920-1945 in their social, historical, and cultural contexts.", 
+            "concurrent": [], 
+            "courseTitle": "British Modernisms", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4071"
+        }, 
+        "ARTS-5952": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of late nineteenth- and early twentieth-century texts in their social, historical, and cultural contexts.", 
+            "concurrent": [], 
+            "courseTitle": "British Literature: Decadence and After", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4070"
+        }, 
+        "ARTS-5898": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of the development of Canadian literature from 1945 to 1970.", 
+            "concurrent": [
+                "SWGC-0781"
+            ], 
+            "courseTitle": "Canadian Literature 1945-1970", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 3148 , the former ENGL 3146, the former ENGL 3151, the former ENGL 3154", 
+            "courseNumber": "3157"
+        }, 
+        "ARTS-5899": {
+            "PR": "successful completion of two second-year English courses", 
+            "courseDescription": "is a study of recent developments in Canadian literature.", 
+            "concurrent": [
+                "SWGC-0781"
+            ], 
+            "courseTitle": "Canadian Literature 1970 to the Present", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 3148 , the former ENGL 3146, the former ENGL 3151, the former ENGL 3154", 
+            "courseNumber": "3158"
+        }, 
+        "ARTS-5957": {
+            "PR": "ENGL 3200 or 3201", 
+            "courseDescription": "is an advanced course focusing on such plays as", 
+            "concurrent": [], 
+            "courseTitle": "Shakespeare's English History Plays", 
+            "prerequisites": [
+                "ARTS-5908", 
+                "ARTS-5909"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4210"
+        }, 
+        "ARTS-5956": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a survey of critical approaches to literature in the twentieth century. Students are advised to take this course towards the end of their program.", 
+            "concurrent": [
+                "SWGC-0746"
+            ], 
+            "courseTitle": "Critical Theory II", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "ENGL 4105", 
+            "courseNumber": "4101"
+        }, 
+        "ARTS-5955": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a survey of critical approaches to literature, from Plato to the end of the nineteenth century. Students are advised to take this course towards the end of their program.", 
+            "concurrent": [], 
+            "courseTitle": "Critical Theory I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "ARTS-5954": {
+            "PR": "successful completion of two third-year English courses", 
+            "courseDescription": "is a study of representative texts from World War II to the present in their social, historical, and cultural contexts.", 
+            "concurrent": [], 
+            "courseTitle": "British Postmodern Literature and Beyond", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4080"
+        }
+    }
+}

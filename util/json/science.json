@@ -1,0 +1,58 @@
+{
+    "SCI": {
+        "SCI-2570": {
+            "courseDescription": "(formerly Science 115B) is an introduction to some concepts in the Physical and Life Sciences. This course is primarily intended for the non-science major (Bachelor of Arts; Bachelor of Education (Primary/Elementary)).", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Physical and Life Sciences", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Science 115B", 
+            "UL": "not acceptable as a prerequisite for 2000 level courses in Physics, Chemistry, Biology, Geography or Earth Sciences", 
+            "courseNumber": "1151"
+        }, 
+        "SCI-2557": {
+            "courseDescription": "is a liberal science course for Arts students, which reflects the way scientists think and work through historical, philosophical and social considerations of the environment we live in. Typical course content includes: the concepts of matter, motion and energy; the chemical basis for life and the interdependence of organisms; and the abundance and distribution of the Earth's natural resources.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Science I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may not be used to fulfill any of the Science course requirements for the Honours and General Degrees in Science", 
+            "courseNumber": "1000"
+        }, 
+        "SCI-2558": {
+            "PR": "Science 1000", 
+            "courseDescription": "is continuation of Science", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Science II", 
+            "prerequisites": [
+                "SCI-2557"
+            ], 
+            "corequisites": [], 
+            "UL": "may not be used to fulfill any of the Science course requirements for the Honours and General Degrees in Science", 
+            "courseNumber": "1001"
+        }, 
+        "SCI-2560": {
+            "courseDescription": "(formerly Science 115A) is an introduction to some concepts in the Physical and Life Sciences. This course is primarily intended for the non-science major (Bachelor of Arts; Bachelor of Education (Primary/Elementary)).", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Physical and Life Sciences", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Science 115A", 
+            "UL": "not acceptable as a prerequisite for 2000 level courses in Physics, Chemistry, Biology, Geography or Earth Sciences", 
+            "courseNumber": "1150"
+        }, 
+        "SCI-2562": {
+            "PR": "permission of the Dean of Science", 
+            "courseDescription": "will be available only to students attending Memorial University of Newfoundland as part of a formal exchange agreement, memorandum of understanding, or other special arrangement. This course will normally be offered twice a year, from March to August and September to February.", 
+            "CH": "3 - 15, to be determined for each offering by the Dean in consultation with the appropriate Head of Department or Co-ordinator", 
+            "concurrent": [], 
+            "courseTitle": "Exchange Programs in Science", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may be repeated for credit once", 
+            "courseNumber": "5998"
+        }
+    }
+}

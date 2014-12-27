@@ -1,0 +1,1132 @@
+{
+    "BUSI": {
+        "BUSI-0346": {
+            "PR": "BUSI 1101 , BUSI 1600 , and BUSI 2210", 
+            "courseDescription": "(formerly BUSI 5030 and BUSI 7030) covers the business creation process from the idea conception stage to the launch stage. Students learn how to search for, screen and evaluate opportunities, and to plan and assemble the required resources, including the preparation of an actual business plan. Alternatives to new venture creation, such as purchasing an existing business and purchasing a franchise, are also explored. Extensive group work is required.", 
+            "concurrent": [], 
+            "courseTitle": "New Venture Creation", 
+            "prerequisites": [
+                "BUSI-0296", 
+                "BUSI-0300", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 5030, the former BUSI 7030", 
+            "courseNumber": "5600"
+        }, 
+        "BUSI-0344": {
+            "PR": "Economics 2010 and Economics 2020", 
+            "courseDescription": "(formerly BUSI 5100) recognizes the large role played by government in our society. Sources and uses of government funds at the federal, provincial and local levels will be covered. Intergovernmental fiscal problems will be examined with special emphasis on various incentive programs available to business from the three levels of government.", 
+            "concurrent": [], 
+            "courseTitle": "Public Finance", 
+            "prerequisites": [
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 5100", 
+            "courseNumber": "5530"
+        }, 
+        "BUSI-0298": {
+            "PR": "English 1110 or 1021 , BUSI 1000", 
+            "courseDescription": "introduces students to the concepts, analyses, and activities that comprise marketing strategy, and provides practice in assessing and solving strategic problems in marketing. The course is also a foundation for BUSI", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Marketing Strategy", 
+            "prerequisites": [
+                "ARTS-5848", 
+                "ARTS-5841", 
+                "BUSI-0294"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 1201 or BUSI 2201 or BUSI 3200", 
+            "courseNumber": "1210"
+        }, 
+        "BUSI-0340": {
+            "PR": "BUSI 2400 or the former BUSI 4401", 
+            "courseDescription": "include the simplex and revised simplex algorithms, sensitivity analysis and duality, goal optimization, advanced formulation of 0/1 models, branch and bound algorithm, network models: assignment, transportation, transshipment, shortest path, critical path, minimal spanning tree, and maximal flow.", 
+            "concurrent": [], 
+            "courseTitle": "Linear Optimization and Extensions II: Algorithms", 
+            "prerequisites": [
+                "BUSI-1229"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5402"
+        }, 
+        "BUSI-0294": {
+            "courseDescription": "(formerly BUSI 2001) introduces the basics of business and business corporations in society, in a real-world relevant manner. Particular attention is given to societal stakeholders and to corporations' internal business processes and management functions. Major emphases include corporate social responsibilities and management ethics, and these are recurring themes in other topics such as technology, globalization and people in organizations. The course is a combination of textbook theory and guided learning activities and assignments based on finding and integrating real-world information.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Business in Society", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former BUSI 2001", 
+            "courseNumber": "1000"
+        }, 
+        "BUSI-0296": {
+            "courseDescription": "emphasize the concepts and issues of introductory financial accounting as they relate to the Canadian conceptual framework, and will also address the strengths and weaknesses of financial reporting at an introductory level. The student will be introduced to the accounting process and analysis of the balance sheet, income statement, and the statement of changes in financial position.", 
+            "concurrent": [
+                "BUSI-1226"
+            ], 
+            "courseTitle": "Principles of Accounting", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "BUSI 2102 , the former BUSI 3100, the former BUSI 2100", 
+            "courseNumber": "1101"
+        }, 
+        "BUSI-1229": {
+            "PR": "Mathematics 1000", 
+            "courseDescription": "provides an introduction to: spreadsheet modeling; linear optimization and the related topics of integer, assignment, and transportation models; and decision analysis including payoff matrices, decision trees, and Bayesian revision. All topics will be taught within the context of business applications.", 
+            "CO": "Statistics 2500", 
+            "concurrent": [], 
+            "courseTitle": "Decision Modeling", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [
+                "SCI-3079"
+            ], 
+            "CR": "the former BUSI 4401", 
+            "courseNumber": "2400"
+        }, 
+        "BUSI-0348": {
+            "PR": "BUSI 3700", 
+            "courseDescription": "provides students with the skills to identify business problems which may be solved using information technology, determine requirements for information systems (IS) solutions, and develop detailed designs which form the basis for implementing systems. Topics may include: role of the user in systems development, systems development life cycle, requirements analysis and conceptual modelling, structured analysis and design, and trends in systems development methodologies. The importance of CASE tools in modern systems development will be emphasized through hands-on exercises.", 
+            "concurrent": [], 
+            "courseTitle": "Information Systems Analysis and Design", 
+            "prerequisites": [
+                "BUSI-0313"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5700"
+        }, 
+        "BUSI-0349": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Information Systems Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "5701"
+        }, 
+        "BUSI-0342": {
+            "PR": "BUSI 4500 or the former BUSI 4110", 
+            "courseDescription": "(formerly BUSI 7140) is an extension of BUSI", 
+            "concurrent": [], 
+            "courseTitle": "Financial Management II", 
+            "prerequisites": [
+                "BUSI-0321"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 5140, the former BUSI 7140", 
+            "courseNumber": "5500"
+        }, 
+        "BUSI-0595": {
+            "PR": "BUSI 4000", 
+            "courseDescription": "develops the skills a business student must have in understanding the laws and regulations that exist and relate to international business decision making. The course will equip students with a knowledge and understanding of laws and regulations that currently prevail in international business operations.", 
+            "concurrent": [], 
+            "courseTitle": "International Business Law", 
+            "prerequisites": [
+                "BUSI-0316"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6040"
+        }, 
+        "BUSI-0594": {
+            "PR": "BUSI 4320", 
+            "courseDescription": "develops the skills a business student must have in understanding the processes and practices of international human resource management (IHRM) for a successful managerial career. The course will equip students with a solid knowledge and understanding of human resource functions and practices that currently prevail in global/international business operations.", 
+            "concurrent": [], 
+            "courseTitle": "International Human Resources Management", 
+            "prerequisites": [
+                "BUSI-0318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6311"
+        }, 
+        "BUSI-1228": {
+            "PR": "BUSI 1000 , and English 1110 or 1021", 
+            "courseDescription": "introduces students to research, writing, and reporting processes in business. Through ongoing, multi-stage evaluation, students learn the fundamentals of business research, including analytical thinking and proposal writing involving research using secondary sources. A key focus is the writing process, including grammar, punctuation, structure, flow, and format in common business communications media. Students also develop their oral presentation competence by presenting the results of their research. A highly interactive design encourages student practice and participation.", 
+            "concurrent": [
+                "BUSI-0286"
+            ], 
+            "courseTitle": "Business Research and Writing", 
+            "prerequisites": [
+                "BUSI-0294", 
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "CR": "BUSI 2000", 
+            "courseNumber": "2010"
+        }, 
+        "BUSI-1513": {
+            "courseDescription": "develops students&rsquo; ability to design and refine on-line personal brands and display brands through social media channels.", 
+            "concurrent": [], 
+            "courseTitle": "Personal and Business Branding with Social Media", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6004, the former BUSI 6042, and the former BUSI 6240", 
+            "courseNumber": "2220"
+        }, 
+        "BUSI-1514": {
+            "PR": "BUSI 2010 , BUSI 3210 and any of: BUSI 2210 (the former BUSI 2201 or BUSI 3200)", 
+            "courseDescription": "(same as the former BUSI 7220 and the former BUSI 7250) presents a comprehensive view of business markets, including industrial, institutional, and government markets. There is a balanced focus on strategy development and implementation. Particular attention is given to organizational buying behaviour, relationship management, global competitiveness, and the marketing of new high technology products and services.", 
+            "concurrent": [], 
+            "courseTitle": "Business and Industrial Marketing", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 7220, the former BUSI 7250", 
+            "courseNumber": "5250"
+        }, 
+        "BUSI-1515": {
+            "PR": "BUSI 2010 , BUSI 3210 , BUSI 5220 , BUSI 5250 , the former BUSI 7250, and any of: BUSI 2210 , the former BUSI 2201 or the former BUSI 3200", 
+            "courseDescription": "(same as the former BUSI 6218) is the evolution and integration of marketing ideas, data, technology, and organizational factors. Relying on the integration of people, processes, and marketing capabilities and facilitated by information technology, effective CRM optimizes the identification, acquisition, growth, and retention of desired customers. The history of CRM and the benefits and challenges of its implementation in business and consumer markets are addressed. The course culminates in the student's creation of a CRM strategic plan.", 
+            "concurrent": [], 
+            "courseTitle": "Customer Relationship Management (CRM)", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0877", 
+                "BUSI-1514", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6218", 
+            "courseNumber": "7218"
+        }, 
+        "BUSI-1516": {
+            "PR": "BUSI 6100 with a grade of at least 60%, BUSI 6110 with a grade of at least 60%, BUSI 6120 with a grade of at least 60%, BUSI 6130 with a grade of at least 60%", 
+            "courseDescription": "is a capstone course designed to prepare students to pursue a Canadian professional accounting designation. Students will be introduced to foreign currency transactions and translation, corporate income tax issues, and integrated case analysis and will further develop financial reporting, income tax, and auditing competencies.", 
+            "CO": "BUSI 7120", 
+            "concurrent": [], 
+            "courseTitle": "Accounting Capstone", 
+            "prerequisites": [
+                "BUSI-0352", 
+                "BUSI-0353", 
+                "BUSI-0354", 
+                "BUSI-0355"
+            ], 
+            "corequisites": [
+                "BUSI-0376"
+            ], 
+            "courseNumber": "7125"
+        }, 
+        "BUSI-0355": {
+            "PR": "either BUSI 6100 with a grade of at least 60% or BUSI 6110 with a grade of at least 60%", 
+            "courseDescription": "introduces the student to the practice of auditing and to stress the auditor's decision-making process when determining the nature and amount of evidence the auditor should accumulate. Specific topics to be covered include the auditor's legal liability, materiality, internal control, transaction cycles, and audit of information processed through electronic data processing systems.", 
+            "concurrent": [], 
+            "courseTitle": "Auditing", 
+            "prerequisites": [
+                "BUSI-0352", 
+                "BUSI-0353"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6130"
+        }, 
+        "BUSI-1163": {
+            "courseDescription": "will have the topics to be studied announced by the Faculty.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics Courses", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "6041-6060"
+        }, 
+        "BUSI-1164": {
+            "PR": "BUSI 4320", 
+            "courseDescription": "exposes students, through a variety of methods including lecture, discussion, case analysis, research, and the development of a detailed training program, to many topics in the area of human resource management training; including: needs analysis, training design, on and off-the-job training methods, technology and training, training implementation and delivery, transfer of training, and training evaluation.", 
+            "concurrent": [], 
+            "courseTitle": "Human Resource Management Training", 
+            "prerequisites": [
+                "BUSI-0318"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6021", 
+            "courseNumber": "7315"
+        }, 
+        "BUSI-1230": {
+            "PR": "BUSI 1000 , and English 1110 or 1021", 
+            "courseDescription": "introduces techniques for understanding and modelling business processes and implementing them in modern enterprise systems. Course work will be project-based; students will create small-scale business applications, including web-based applications, using current design and development methodologies and tools.", 
+            "concurrent": [], 
+            "courseTitle": "Modeling and Implementing Business Processes", 
+            "prerequisites": [
+                "BUSI-0294", 
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2710"
+        }, 
+        "BUSI-0351": {
+            "PR": "BUSI 3700 , BUSI 4050 , BUSI 4320 , BUSI 4500 , and BUSI 5301", 
+            "courseDescription": "is designed to explore the strategic management of technology and innovation for improving competitiveness and for business development. This will include market-strategy-technology connections, and technical innovation/new product development processes. Technology and technical innovation are viewed as fundamental to strategic competitiveness and business development as important elements of the management of strategic change in the business firm. In approaching technical innovation as strategic implementation, business environmental, organizational capability, human resources and management factors will be discussed.", 
+            "concurrent": [], 
+            "courseTitle": "Strategic Management of Technology and Innovation", 
+            "prerequisites": [
+                "BUSI-0313", 
+                "BUSI-1232", 
+                "BUSI-0318", 
+                "BUSI-0321", 
+                "BUSI-1491"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6010"
+        }, 
+        "BUSI-1234": {
+            "PR": "BUSI 3700", 
+            "courseDescription": "(formerly BUSI 6027) examines business concepts, social issues, and technology issues related to e-commerce, as well as providing an introduction to current practices, opportunities and challenges in implementing e-commerce solutions. Topics include: business models associated with web-based commerce; security, privacy, and intellectual property issues; payment and distribution systems; internet marketing; and strategic and planning issues.", 
+            "concurrent": [], 
+            "courseTitle": "Business Models and Strategy of Electronic Commerce", 
+            "prerequisites": [
+                "BUSI-0313"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6027", 
+            "courseNumber": "5702"
+        }, 
+        "BUSI-1236": {
+            "PR": "BUSI 1000 , Economics 2010 and Economics 2020", 
+            "courseDescription": "(formerly BUSI 7302) is designed to introduce students to the issues of international business: these are the processes of cultural confrontation and compromise; the problems of competitive sovereignty involving multinational corporations and the governments of host societies; the organization, structure, operation and control of diverse international businesses; and, finally, the role of multinational enterprise as a catalyst in economic development and resource employment, in particular, the North-South context. The relevance of international business as an area of study to the Canadian economy is discussed. The course is both conceptual and empirical in content.", 
+            "concurrent": [], 
+            "courseTitle": "International Business", 
+            "prerequisites": [
+                "BUSI-0294", 
+                "ARTS-5759", 
+                "ARTS-5761"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 7302", 
+            "courseNumber": "5302"
+        }, 
+        "BUSI-0378": {
+            "PR": "BUSI 5160 with a grade of at least 60%", 
+            "courseDescription": "introduces the student to an in-depth study of advanced qualitative and quantitative methodology available to the managerial accountant. The application of mathematical models and behavioural theories to realistic challenges faced by various fiscal entities will be stressed. Class instruction will include the use of cases and rely heavily on a multidisciplinary approach towards solving the unstructured problem.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Topics in Managerial Accounting", 
+            "prerequisites": [
+                "BUSI-0335"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7160"
+        }, 
+        "BUSI-0373": {
+            "PR": "BUSI 3700 or the former BUSI 6300", 
+            "courseDescription": "examines issues of managing information systems and technology. Topics may include: success and failure in IS implementation, IS planning, economics of IS, telecommunications and network management, and legal and ethical issues.", 
+            "concurrent": [], 
+            "courseTitle": "Information Technology Management", 
+            "prerequisites": [
+                "BUSI-0313"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6701"
+        }, 
+        "BUSI-0372": {
+            "PR": "BUSI 3700 or the former BUSI 6300", 
+            "courseDescription": "is based on the premise that data is a valuable resource which needs to be managed effectively to provide accurate, complete, timely, relevant, and accessible information to support decision making. Topics may include: enterprise data modelling, logical database design, database management systems, query languages, transaction management and concurrent access, and security.", 
+            "concurrent": [], 
+            "courseTitle": "Data Management", 
+            "prerequisites": [
+                "BUSI-0313"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6700"
+        }, 
+        "BUSI-0370": {
+            "courseDescription": "(formerly BUSI 7031) explores the potential and constraints on efforts to foster small enterprise formation and expansion as a means to promote regional economic development. It critically examines government initiatives to promote small business as the panacea for depressed regional economies, and reviews changes in the global economy and the organization of production which may enhance small business competitiveness. Both Canadian and international cases are studied, with theoretical and empirical findings related to the Newfoundland context.", 
+            "concurrent": [], 
+            "courseTitle": "Small Enterprise and Regional Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6009, the former BUSI 7031", 
+            "courseNumber": "6610"
+        }, 
+        "BUSI-0377": {
+            "PR": "BUSI 6120", 
+            "courseDescription": "is designed to provide a detailed and comprehensive analysis of income taxation as well as sales taxation and customs duties and excise taxes. Information relating to the use of trusts, partnerships, and joint ventures will be included, as well as the use of various tax shelters and international tax implications in business planning. The concentration will be on how tax planning for both individuals and corporations can be a significant element in the regular decision-making process, especially for the private corporation.", 
+            "concurrent": [], 
+            "courseTitle": "Taxation II", 
+            "prerequisites": [
+                "BUSI-0354"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7150"
+        }, 
+        "BUSI-0376": {
+            "PR": "BUSI 6100 with a grade of at least 60% and BUSI 6110 with a grade of at least 60%", 
+            "courseDescription": "covers specific topics such as long-term investments, consolidated financial statements, joint ventures, segmented financial information, and fund accounting.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Financial Accounting", 
+            "prerequisites": [
+                "BUSI-0352", 
+                "BUSI-0353"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7120"
+        }, 
+        "BUSI-0375": {
+            "PR": "BUSI 6100 , BUSI 6110 , BUSI 6120 , and BUSI 6130", 
+            "courseDescription": "deals with the theoretical issues of specific topics such as the accounting standard setting process, the Canadian conceptual framework, assets, liabilities, revenues, expenses, not-for-profit organizations, related party transactions, and financial statement presentation and disclosure. Considerable emphasis will be given to emerging issues.", 
+            "concurrent": [], 
+            "courseTitle": "Accounting Theory", 
+            "prerequisites": [
+                "BUSI-0352", 
+                "BUSI-0353", 
+                "BUSI-0354", 
+                "BUSI-0355"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7110"
+        }, 
+        "BUSI-0374": {
+            "PR": "BUSI 5301", 
+            "courseDescription": "examines the inter-relationships among business, government, society and the environment. Topics include: the social-economic business system, business ideologies, social responsibilities of business, business ethics, stakehold and issues management, and selected current issues in business.", 
+            "concurrent": [], 
+            "courseTitle": "Business and Society", 
+            "prerequisites": [
+                "BUSI-1491"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7010"
+        }, 
+        "BUSI-0318": {
+            "PR": "BUSI 3310 or the former BUSI 2301", 
+            "courseDescription": "introduces the student to the design, operation and management of HRM processes, their evaluation, and their contribution to employee and organization effectiveness. The principal processes considered are staffing, development, employment relations, and compensation. Consideration of the influence of relevant organizational and external conditions on HRM is included. The course views the management of human resources as the joint responsibility of line and HRM managers.", 
+            "concurrent": [], 
+            "courseTitle": "Human Resource Management", 
+            "prerequisites": [
+                "BUSI-1231"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4320"
+        }, 
+        "BUSI-0311": {
+            "PR": "Statistics 2500 , and BUSI 2400 or the former BUSI 2401", 
+            "courseDescription": "teaches fundamental concepts, methods, tools, and techniques to understand, analyze, and effectively manage as well as improve operations in business organizations. The course covers operations competitiveness and strategy, productivity, forecasting, capacity planning, material requirements planning, waiting lines analysis, project management, inventory management, quality control and its improvement, and supply chain management.", 
+            "CO": "BUSI 2710", 
+            "concurrent": [], 
+            "courseTitle": "Operations Management", 
+            "prerequisites": [
+                "SCI-3079", 
+                "BUSI-1229"
+            ], 
+            "corequisites": [
+                "BUSI-1230"
+            ], 
+            "CR": "the former BUSI 5400", 
+            "courseNumber": "3401"
+        }, 
+        "BUSI-0313": {
+            "PR": "BUSI 1000 , and English 1110 or English 1021", 
+            "courseDescription": "examines the operational and strategic importance of information systems in organizations. Topics include: types of systems; business requirements and information systems planning; approaches to acquiring information systems; managing information systems resources; and ethics, security and privacy issues in information management.", 
+            "concurrent": [], 
+            "courseTitle": "Information Systems", 
+            "prerequisites": [
+                "BUSI-0294", 
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 3701", 
+            "courseNumber": "3700"
+        }, 
+        "BUSI-0315": {
+            "courseDescription": "(", 
+            "concurrent": [], 
+            "courseTitle": "Work Term I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "399W"
+        }, 
+        "BUSI-0316": {
+            "courseDescription": "(formerly BUSI 3000) is a course dealing with the law relating to certain aspects of business activity; includes introductory material on the nature of law and legal processes, together with a detailed study of certain aspects of the law of contract, examination of the general principles of the law of agency as they affect business operations; introduction to selected topics in company and partnership law.", 
+            "concurrent": [], 
+            "courseTitle": "Business Law I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former BUSI 3000", 
+            "courseNumber": "4000"
+        }, 
+        "BUSI-0879": {
+            "PR": "BUSI 2010 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "(formerly BUSI 6210) provides a theoretical background on the nature, role and principles of marketing communications; and develops analytical and decision-making skills in planning, executing, evaluating and controlling marketing communications campaigns.", 
+            "concurrent": [], 
+            "courseTitle": "Marketing Communications", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6210", 
+            "courseNumber": "5210"
+        }, 
+        "BUSI-0877": {
+            "PR": "Statistics 2500 , BUSI 2010 , BUSI 3210 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "(formerly BUSI 6200) is designed to acquaint the student with the use of marketing research as an aid to management. This is a comprehensive survey of the scope and methods of marketing research.", 
+            "concurrent": [], 
+            "courseTitle": "Marketing Research", 
+            "prerequisites": [
+                "SCI-3079", 
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6200", 
+            "courseNumber": "5220"
+        }, 
+        "BUSI-0368": {
+            "PR": "BUSI 4050 , BUSI 5301", 
+            "courseDescription": "introduces students to the nature of business consulting and the challenges associated with growth in small firms. The course draws upon knowledge from various functional areas and emphasizes complex and interdisciplinary applications of this knowledge in a real-world environment. Topics include models of the consulting process, problem diagnosis, managing the client relationship, research design, document preparation and ethics in consulting. Working in teams students will undertake a problem-solving project for a local organization. Students will not be permitted to register for the course after the first day of classes.", 
+            "concurrent": [], 
+            "courseTitle": "Small Business Consulting", 
+            "prerequisites": [
+                "BUSI-1232", 
+                "BUSI-1491"
+            ], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "courseNumber": "6605"
+        }, 
+        "BUSI-0364": {
+            "PR": "BUSI 4500 or the former BUSI 4110", 
+            "courseDescription": "(formerly BUSI 6140) is a study of investment securities, risks, markets and mechanics; an appraisal of the economy, the industry and the firm; and portfolio management for personal and institutional investments.", 
+            "concurrent": [], 
+            "courseTitle": "Investments", 
+            "prerequisites": [
+                "BUSI-0321"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6140", 
+            "courseNumber": "6510"
+        }, 
+        "BUSI-0366": {
+            "PR": "BUSI 4500 or the former BUSI 4110", 
+            "courseDescription": "examines the additional risks and profitable opportunities that arise for the firm when it extends its operations into international markets. Specific topics will include the determination of exchange rates, the international monetary system, balance of payments, the foreign exchange market, international money and capital markets, the parity conditions, accounting exposure, economic exposure, transactions exposure, political risk, and global financing. Knowledge of these topic areas will give further understanding with respect to operating within the constraints of the international marketplace.", 
+            "concurrent": [], 
+            "courseTitle": "International Finance", 
+            "prerequisites": [
+                "BUSI-0321"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6008, the former BUSI 6500", 
+            "courseNumber": "6550"
+        }, 
+        "BUSI-0360": {
+            "PR": "BUSI 3310 or the former BUSI 2301, and BUSI 5301", 
+            "courseDescription": "provides an opportunity for students to explore and to develop their interests in topics in a dynamic field. Topics will be selected according to current emphases in the organizational behaviour literature.", 
+            "concurrent": [], 
+            "courseTitle": "New Directions in Organizational Behaviour", 
+            "prerequisites": [
+                "BUSI-1231", 
+                "BUSI-1491"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6301"
+        }, 
+        "BUSI-0361": {
+            "PR": "BUSI 4320", 
+            "courseDescription": "reinforces the applied aspects of theory covered in BUSI", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Human Resource Management", 
+            "prerequisites": [
+                "BUSI-0318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6310"
+        }, 
+        "BUSI-0362": {
+            "PR": "BUSI 4330 or the former BUSI 3320", 
+            "courseDescription": "provides advanced level treatment of the field of industrial and labour relations in Canada, with primary emphasis on the labour-management relationship. Emphasis is placed on understanding recent problems/issues in industrial and labour relations and the range of options available for resolving these same problems. Topics examined may include: industrial relations theory; labour law reform; union growth and structure; management strategy; the role of third parties; workplace innovations; alternative dispute resolution mechanisms; union impact; public sector labour relations; comparative industrial relations; etc. Students may be exposed to various role playing exercises that are applicable to industrial and labour relations.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Labour Relations", 
+            "prerequisites": [
+                "BUSI-1233"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6320"
+        }, 
+        "BUSI-0363": {
+            "PR": "BUSI 5401 or BUSI 5402", 
+            "courseDescription": "provides advanced level treatment of special topic(s) in Management Science, such as, waiting lines, stochastic dominance, stochastic dynamic programming, etc. The topic(s) to be covered in any particular year will be chosen by the Instructor and may vary from year to year.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Management Science", 
+            "prerequisites": [
+                "BUSI-0338", 
+                "BUSI-0340"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6400"
+        }, 
+        "BUSI-1144": {
+            "PR": "BUSI 2010 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "is designed to acquaint students with Internet and other electronic based marketing efforts. It addresses the use of the Internet as a digital channel and communications medium.", 
+            "concurrent": [], 
+            "courseTitle": "Digital Marketing", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6004 and the former BUSI 6240", 
+            "courseNumber": "6241"
+        }, 
+        "BUSI-1491": {
+            "PR": "BUSI 3310 or the former BUSI 2301", 
+            "courseDescription": "(formerly BUSI 5300) focuses on the organization, its environment, and its subsystems. From providing a basic appreciation of the role and practice of research in organizations, study extends to measures of organizational effectiveness, determinants of structure and design, power and politics, intergroup conflicts and conflict resolution, and organizational development and change.", 
+            "concurrent": [], 
+            "courseTitle": "Organizational Theory", 
+            "prerequisites": [
+                "BUSI-1231"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 5300", 
+            "courseNumber": "5301"
+        }, 
+        "BUSI-1490": {
+            "PR": "BUSI 2010 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "(formerly BUSI 5200) deals with concepts related to factors which influence the purchase and consumption behaviour of individuals including culture, social class, reference groups, perception, learning, motivation, personality and lifestyle. The unique aspects of groups and organizational buyers will also be examined.", 
+            "concurrent": [], 
+            "courseTitle": "Consumer Behaviour", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 5200", 
+            "courseNumber": "3210"
+        }, 
+        "BUSI-1493": {
+            "PR": "BUSI 4050 , BUSI 4320 , and BUSI 4500", 
+            "courseDescription": "emphasizes concepts of strategic management and strategy in various contexts and situations covering corporations and businesses, and other institutions or organizations and their purposeful activities. Through in-depth analysis of reality-based situations and strategic issues, students will develop their contextual and situational orientation, and further develop their applied, investigative critical thinking and information search skills. Further, students will be expected to develop an applied ability in the contextual and situational analysis of corporations/businesses and institutions/purposeful activities, and in corresponding strategy formulation and planning for strategy implementation. Student learning activities may be based on published business cases, decision-making and group dynamics exercises, business simulation exercises, and information search projects. Learning outcomes also may include research and information search methodologies and information literacy, and good writing.", 
+            "CO": "BUSI 5301", 
+            "concurrent": [], 
+            "courseTitle": "Strategic Management 2", 
+            "prerequisites": [
+                "BUSI-1232", 
+                "BUSI-0318", 
+                "BUSI-0321"
+            ], 
+            "corequisites": [
+                "BUSI-1491"
+            ], 
+            "courseNumber": "7000"
+        }, 
+        "BUSI-1492": {
+            "courseDescription": "(", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "599W"
+        }, 
+        "BUSI-0302": {
+            "PR": "BUSI 1101", 
+            "courseDescription": "provides an overview of the use of financial data for managerial decision making. The student will be introduced to basic budgeting and analysis techniques for both service-oriented and manufacturing businesses.", 
+            "concurrent": [
+                "BUSI-1226"
+            ], 
+            "courseTitle": "Managerial Accounting", 
+            "prerequisites": [
+                "BUSI-0296"
+            ], 
+            "corequisites": [], 
+            "CR": "BUSI 2102 , the former BUSI 4100", 
+            "courseNumber": "2101"
+        }, 
+        "BUSI-0300": {
+            "PR": "BUSI 1000 , and English 1110 or 1021", 
+            "courseDescription": "is an introductory course designed to give students a broad understanding of the field of entrepreneurship and the role that entrepreneurship plays in society. Topics will include the nature and theories of entrepreneurship, the characteristics and behaviours of entrepreneurs, and the entrepreneurial process in small and large firms. Students will get to think and act in a creative manner, obtain exposure to local entrepreneurs, assess their potential for entrepreneurial careers and develop attitudes and skills that will be useful in any organization. The course is also useful for those who will be dealing with smaller firms in the context of larger organizations and for those who will be working for entrepreneurs.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Entrepreneurship", 
+            "prerequisites": [
+                "BUSI-0294", 
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1600"
+        }, 
+        "BUSI-0304": {
+            "PR": "BUSI 1210", 
+            "courseDescription": "introduces students to the concepts, analyses, and activities that comprise marketing tactics, and provides practice in making decisions about tactical problems in marketing. The course is also a foundation for advanced electives in marketing. Topics include: product management, pricing, marketing communications, channels of distribution, implementation, and budgeting.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Marketing Tactics", 
+            "prerequisites": [
+                "BUSI-0298"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 1201 or BUSI 2201 or BUSI 3200", 
+            "courseNumber": "2210"
+        }, 
+        "BUSI-0880": {
+            "PR": "BUSI 2010 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "(formerly BUSI 7210) provides an integrative examination of the activities involved in marketing goods and services directly to the ultimate consumer. Specifically, the following areas will be examined within a managerial framework: the evolution of retailing; retailing within the marketing channel; market analysis and planning; shopping behaviour; image and retail advertising; trading area and site analysis; store layout; shelf space utilization; merchandising; and the future prospects for retailing.", 
+            "concurrent": [], 
+            "courseTitle": "Retailing Management", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former 7210", 
+            "courseNumber": "6250"
+        }, 
+        "BUSI-0400": {
+            "PR": "BUSI 5700 , BUSI 6700 , and BUSI 6701", 
+            "courseDescription": "examines new developments and trends in information systems. The scope of the course includes: implications of emerging hardware and software technologies, emerging systems applications, and the state-of-the-art in IS management practice. Specific topics will change each year. Readings assigned from professional and academic journals will form the basis of class discussion.", 
+            "concurrent": [], 
+            "courseTitle": "Current Topics in Information Systems", 
+            "prerequisites": [
+                "BUSI-0348", 
+                "BUSI-0372", 
+                "BUSI-0373"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7701"
+        }, 
+        "BUSI-0490": {
+            "PR": "BUSI 4320", 
+            "courseDescription": "(formerly BUSI 6022) is a critical factor in creating high performance work systems. This course examines the role of selection in HRM, legal issues, measurement, selection criteria, job competencies, testing, and interviewing, and making the employment decision.", 
+            "concurrent": [], 
+            "courseTitle": "Employee Recruitment and Selection", 
+            "prerequisites": [
+                "BUSI-0318"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6022", 
+            "courseNumber": "6312"
+        }, 
+        "BUSI-0391": {
+            "PR": ": BUSI 5401 or BUSI 5402", 
+            "courseDescription": "emphasizes the use of simulation modeling technique to study and analyze management systems. Generally, simulation is considered as an experimental technique and is used in problem situations whose complexity precludes the use of analytical problem solving techniques. Topics to be covered include: simulation methodology, model building, developing and building simulation models, simulation languages, generation of random numbers, and simulating a business system. Computers and case studies will be used to study various applications of simulation in Business.", 
+            "concurrent": [], 
+            "courseTitle": "Simulation in Management", 
+            "prerequisites": [
+                "BUSI-0338", 
+                "BUSI-0340"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7400"
+        }, 
+        "BUSI-0390": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Organizational Development", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7330"
+        }, 
+        "BUSI-0392": {
+            "PR": "BUSI 5500", 
+            "courseDescription": "(formerly BUSI 7130) examines advanced developments in finance. Several topics will be selected, researched and discussed. These topics shall vary as financial practices change.", 
+            "CO": "BUSI 6510", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Finance", 
+            "prerequisites": [
+                "BUSI-0342"
+            ], 
+            "corequisites": [
+                "BUSI-0364"
+            ], 
+            "CR": "the former BUSI 7130", 
+            "courseNumber": "7500"
+        }, 
+        "BUSI-0394": {
+            "PR": "BUSI 6510 or the former BUSI 6140", 
+            "courseDescription": "(formerly BUSI 7170) is an extension of BUSI", 
+            "concurrent": [], 
+            "courseTitle": "Options and Futures", 
+            "prerequisites": [
+                "BUSI-0364"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 7170", 
+            "courseNumber": "7510"
+        }, 
+        "BUSI-0396": {
+            "PR": "BUSI 5600", 
+            "courseDescription": "(formerly BUSI 7032) endeavours to address recent research findings in various aspects of entrepreneurship. Students will have the opportunity to pursue issues in entrepreneurship development covering a wide range of topics using publications, journals and conference proceedings.", 
+            "concurrent": [], 
+            "courseTitle": "Current Topics in Entrepreneurship", 
+            "prerequisites": [
+                "BUSI-0346"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 7032", 
+            "courseNumber": "7600"
+        }, 
+        "BUSI-0399": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Strategic Information Systems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "7700"
+        }, 
+        "BUSI-0398": {
+            "PR": "BUSI 6120", 
+            "courseDescription": "is designed to provide students with a general knowledge base of the various tax and other regulatory issues that should be considered in starting a business. The role that tax plays in decision making will be examined as well as the types of corporate funding to establish a new business through government grants, conventional loans and tax credits as provided under the Income Tax Act. Alternative corporate structures will be examined as well as aspects of employee compensation and business valuations. Practical aspects of starting your own business, such as registration requirements, will also be examined.", 
+            "concurrent": [], 
+            "courseTitle": "Regulatory and Taxation Issues for Small Business", 
+            "prerequisites": [
+                "BUSI-0354"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7610"
+        }, 
+        "BUSI-1486": {
+            "PR": "BUSI 4330", 
+            "courseDescription": "(same as the former BUSI 6024) aims to place Canadian industrial relations in an international context by studying industrial relations in a number of different countries, bearing in mind the challenges faced by practitioners and policy makers arising from globalization and the information age. The review includes a selection of long established industrialized countries as well as later industrializing countries.", 
+            "concurrent": [], 
+            "courseTitle": "International Labour Relations", 
+            "prerequisites": [
+                "BUSI-1233"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6024", 
+            "courseNumber": "6330"
+        }, 
+        "BUSI-1487": {
+            "PR": "BUSI 5302", 
+            "courseDescription": "(same as the former BUSI 6012) examines corporate strategy and strategic management in enterprises whose interests extend across national boundaries. International business managers and consultants must be able to formulate business strategy in environments that are affected by different politics, cultures, laws, economics, among other factors. The adept international business strategist will have a competitive edge if able to be at home in looking at international issues through a multidisciplinary prism. This course strives to help students to develop such an edge by providing an opportunity to acquire the knowledge and skills necessary to understand and make strategic decisions in the international business environment.", 
+            "concurrent": [], 
+            "courseTitle": "International Strategic Management", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6012", 
+            "courseNumber": "7005"
+        }, 
+        "BUSI-0338": {
+            "PR": "BUSI 2400 or the former BUSI 4401", 
+            "courseDescription": "is more complex linear optimization models. Emphasis will be on formulation and computer-based sensitivity analysis, applications to other fields of business, cases in linear optimization and related fields.", 
+            "concurrent": [], 
+            "courseTitle": "Linear Optimization and Extensions I: Applications", 
+            "prerequisites": [
+                "BUSI-1229"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5401"
+        }, 
+        "BUSI-0335": {
+            "PR": "BUSI 2101 with a grade of at least 60%", 
+            "courseDescription": "(formerly BUSI 7100) deals with the use of accounting data for decision making. Topics covered include: cost estimation, pricing, joint costs, advanced variance analysis, total quality management, just-in-time, decentralization, transfer pricing, performance evaluations, activity based accounting, and backflush costing.", 
+            "concurrent": [], 
+            "courseTitle": "Cost Accounting", 
+            "prerequisites": [
+                "BUSI-0302"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 7100", 
+            "courseNumber": "5160"
+        }, 
+        "BUSI-0334": {
+            "PR": "BUSI 4000", 
+            "courseDescription": "is designed to show the student how principles of Law are applied to four areas of Business. The areas dealt with in this course are accounting/finance, marketing, personnel and production.", 
+            "concurrent": [], 
+            "courseTitle": "Business Law II", 
+            "prerequisites": [
+                "BUSI-0316"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5000"
+        }, 
+        "BUSI-1398": {
+            "PR": "BUSI 2010 , BUSI 3210 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "provides a detailed introduction to and application of the principles of personal selling. The course introduces the basic concepts of professional selling, including customer analysis, communication skills, effective openings and closings, and customer relations. Selling skills and concepts are developed through the extensive use of sales exercises, role-plays and presentations.", 
+            "concurrent": [], 
+            "courseTitle": "Professional Selling", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6220", 
+            "courseNumber": "5217"
+        }, 
+        "BUSI-1399": {
+            "PR": "BUSI 2010 , BUSI 3210 , BUSI 5217 and any of: BUSI 2210 or the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "examines the elements of an effective salesforce as a key component of the organization&rsquo;s total marketing effort. The course will apply theory relating to salesforce management from a manager&rsquo;s point of view. Topics include the sales process, the relationship between sales and marketing salesforce structure, territory design, use of technology to improve salesforce effectiveness, and issues in recruiting, selecting, training, motivating, compensating and retaining salespeople.", 
+            "concurrent": [], 
+            "courseTitle": "Salesforce Management", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-1398", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6220", 
+            "courseNumber": "6217"
+        }, 
+        "BUSI-0380": {
+            "PR": "BUSI 2010 , BUSI 3210 or the former BUSI 5200, BUSI 4500 , and BUSI 5220", 
+            "courseDescription": "is designed to integrate the principles, concepts and skills acquired in previous marketing courses and to enhance the student's analytical and decision-making capabilities with regard to developing marketing strategies. The course will focus on: market analysis, marketing planning, the strategic decisions to be made within the framework of the marketing mix (product, price, promotion, and distribution); and the control systems related to the marketing program. The use of market research and knowledge from other functional areas of the organization (accounting, finance, economics, etc.) will be considered throughout the course.", 
+            "concurrent": [], 
+            "courseTitle": "Marketing Management", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0321", 
+                "BUSI-0877"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7230"
+        }, 
+        "BUSI-0381": {
+            "PR": "BUSI 2010 , BUSI 3210 , BUSI 5220 and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "provides an understanding of the effects that the international dimension has upon the strategies and management of the marketing efforts of the firm. In particular, the student is introduced to the analysis techniques of the various environments that constitute a country analysis. Entry strategies are discussed with an emphasis upon the export process. Finally, the standardization/adaptation question is discussed in the context of each element of the marketing mix.", 
+            "concurrent": [], 
+            "courseTitle": "International Marketing", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0877", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 6001", 
+            "courseNumber": "7240"
+        }, 
+        "BUSI-0386": {
+            "PR": "BUSI 4320", 
+            "courseDescription": "seeks to integrate policies, procedures and methods covered in BUSI", 
+            "concurrent": [], 
+            "courseTitle": "Seminar in Human Resource Management", 
+            "prerequisites": [
+                "BUSI-0318"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7310"
+        }, 
+        "BUSI-0387": {
+            "PR": "BUSI 4000 and BUSI 4330", 
+            "courseDescription": "provides advanced coverage of the substantive and procedural rights of employers, unions and employees under collective agreements, and the means by which disputes over these rights are resolved through the grievance arbitration process. Topics examined include: the legal framework and place of grievance arbitration in the industrial relations system; the nature and scope of the arbitrator's role; preparation for and conduct of arbitration hearings; arbitral jurisprudence; alternative dispute resolution processes; and the development of a sound labour relations climate. Students will undertake extensive reviews of labour arbitration cases and will examine the impact of jurisprudence on the philosophy and practice of management in the private and public sectors. Students may be exposed to various role playing exercises that are applicable to industrial and labour relations.", 
+            "concurrent": [], 
+            "courseTitle": "Collective Agreement Administration and Arbitration", 
+            "prerequisites": [
+                "BUSI-0316", 
+                "BUSI-1233"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7320"
+        }, 
+        "BUSI-0388": {
+            "PR": "BUSI 6320", 
+            "courseDescription": "provides advanced level study of conflict in industrial relations, its determinants, the various institutional procedures used to deal with it, and the effectiveness of these same procedures. Topics examined include: theories of industrial conflict; the legal framework; union and employer strategies; interest dispute resolution; the right to strike and alternatives to same; the role and effectiveness of alternative forms of voluntary and compulsory third party assistance; etc. Students may be exposed to various role playing exercises that are applicable to industrial and labour relations.", 
+            "concurrent": [], 
+            "courseTitle": "Dispute Settlement in Labour Relations", 
+            "prerequisites": [
+                "BUSI-0362"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7321"
+        }, 
+        "BUSI-0389": {
+            "PR": "BUSI 4000 and BUSI 4330", 
+            "courseDescription": "provides an overview of laws regulating the employment relationship in Canada, including the common law, general employment and collective bargaining laws, and the Charter of Rights and Freedoms. Emphasis is placed on the law of collective bargaining in the private sector, including the acquisition and termination of bargaining rights, unfair labour practices, the duty to bargain, industrial conflict and the administration of the collective agreement.", 
+            "concurrent": [], 
+            "courseTitle": "Labour Law", 
+            "prerequisites": [
+                "BUSI-0316", 
+                "BUSI-1233"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7322"
+        }, 
+        "BUSI-0321": {
+            "PR": "BUSI 1101 , Statistics 2500 , and Economics 2010", 
+            "courseDescription": "is designed to introduce the student to the role of financial management in business, financial analysis techniques, working capital management, and long-term and short-term financing.", 
+            "concurrent": [], 
+            "courseTitle": "Financial Management I", 
+            "prerequisites": [
+                "BUSI-0296", 
+                "SCI-3079", 
+                "ARTS-5759"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 4110", 
+            "courseNumber": "4500"
+        }, 
+        "BUSI-0323": {
+            "courseDescription": "(", 
+            "concurrent": [], 
+            "courseTitle": "Business Methods in Practice I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "450W"
+        }, 
+        "BUSI-0324": {
+            "courseDescription": "(", 
+            "concurrent": [], 
+            "courseTitle": "Work Term 2", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "499W"
+        }, 
+        "BUSI-1404": {
+            "PR": "BUSI 3401 and BUSI 5401", 
+            "courseDescription": "introduces appropriate methodology and theory for selecting, planning and managing projects. This includes the project portfolio selection, the initial creation of a plan in terms of the breakdown of the tasks, construction of the relationships and dependencies inherent in any plan, and controlling the execution of the activities according to the plan as the project proceeds. Emphasis will be placed on resource allocation, leveling and management, critical path analysis, risk analysis, accounting for uncertainties and time-cost trade offs. The role of the project manager and project team as well as issues related to multi-project management will also be addressed.", 
+            "concurrent": [], 
+            "courseTitle": "Project Management", 
+            "prerequisites": [
+                "BUSI-0311", 
+                "BUSI-0338"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7410"
+        }, 
+        "BUSI-1405": {
+            "PR": "BUSI 3401 , BUSI 3700 , BUSI 5401", 
+            "courseDescription": "employs a logical, rigorous approach to studying the fundamentals of business processes. This approach is based on modeling business process and its flows, studying causal relationships between the business process and its performance, and formulation implications for managerial action by determining business process drivers and their impact on process management and performance. The focus is on business process flow, capability, productivity, variability, control, improvement, risk sharing and management, coordination and integration.", 
+            "concurrent": [], 
+            "courseTitle": "Managing Business Process Flows", 
+            "prerequisites": [
+                "BUSI-0311", 
+                "BUSI-0313", 
+                "BUSI-0338"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "7415"
+        }, 
+        "BUSI-1402": {
+            "PR": "BUSI 3401 , BUSI 5401 and BUSI 5402", 
+            "courseDescription": "will focus on transportation, location, procurement and distribution aspects of logistics management, within local and global settings. A number of classical and latest models related to the focus areas would be introduced, and some real-life case examples discussed. The focus is on modes of transportation, transportation management, facility location, procurement and supplier selection, distribution strategies, and global logistics.", 
+            "concurrent": [], 
+            "courseTitle": "Logistics Management", 
+            "prerequisites": [
+                "BUSI-0311", 
+                "BUSI-0338", 
+                "BUSI-0340"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6410"
+        }, 
+        "BUSI-1403": {
+            "courseDescription": "is about the management of the processes, assets, and flows of material and information required to satisfy customers&rsquo; demands. In this course, a few important supply chain drivers will be identified and investigated in details such as inventory, information and pricing. Those drivers determine the performance of a supply chain. The understanding of these key drivers and their inter-relationships with strategy and other functions of the company are really crucial in the management of any supply chain.", 
+            "CO": "BUSI 3401 and BUSI 3700", 
+            "concurrent": [], 
+            "courseTitle": "Supply Chain Management", 
+            "prerequisites": [], 
+            "corequisites": [
+                "BUSI-0311", 
+                "BUSI-0313"
+            ], 
+            "courseNumber": "6415"
+        }, 
+        "BUSI-1231": {
+            "PR": "English 1110 or 1021", 
+            "courseDescription": "(formerly BUSI 2301 and 4300) focuses on the study of individual and group processes in formal organizations. The student is introduced to the nature of work, the systematic approach to the study of behaviour, organizational roles and socialization, motivation, leadership, communication, and group dynamics.", 
+            "concurrent": [], 
+            "courseTitle": "Organizational Behaviour", 
+            "prerequisites": [
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 2301 and the former BUSI 4300", 
+            "courseNumber": "3310"
+        }, 
+        "BUSI-0354": {
+            "PR": "BUSI 1101 or the former BUSI 3100, and BUSI 4000", 
+            "courseDescription": "is a determination of the federal and provincial income tax liability of individuals including succession and estate planning for individuals, and legal form and structures under the Income Tax Act.", 
+            "concurrent": [], 
+            "courseTitle": "Taxation I", 
+            "prerequisites": [
+                "BUSI-0296", 
+                "BUSI-0316"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6120"
+        }, 
+        "BUSI-1233": {
+            "PR": "English 1110 or English 1021", 
+            "courseDescription": "(formerly BUSI 3320) provides an introduction to the field of industrial and labour relations in Canada, with primary emphasis on the labour-management relationship. Students will be introduced to the basic elements of an industrial relations system, including the participants, their roles and relationships, the social, economic, legal and political environment in which the participants interact, and the process and outcomes of collective bargaining. Students may be exposed to various role playing exercises that are applicable to industrial and labour relations.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Labour Relations", 
+            "prerequisites": [
+                "ARTS-5848", 
+                "ARTS-5841"
+            ], 
+            "corequisites": [], 
+            "CR": "the former BUSI 3320", 
+            "courseNumber": "4330"
+        }, 
+        "BUSI-1232": {
+            "PR": "BUSI 1600 , BUSI 2010 , BUSI 2101 , BUSI 2210 , BUSI 2400 , BUSI 3310 , BUSI 3401 , BUSI 3700", 
+            "courseDescription": "introduces students to the strategic management approach. The course builds upon the knowledge and concepts developed in Business", 
+            "CO": "BUSI 4000 and 4330", 
+            "concurrent": [], 
+            "courseTitle": "Strategic Management 1", 
+            "prerequisites": [
+                "BUSI-0300", 
+                "BUSI-1228", 
+                "BUSI-0302", 
+                "BUSI-0304", 
+                "BUSI-1229", 
+                "BUSI-1231", 
+                "BUSI-0311", 
+                "BUSI-0313"
+            ], 
+            "corequisites": [
+                "BUSI-0316", 
+                "BUSI-1233"
+            ], 
+            "courseNumber": "4050"
+        }, 
+        "BUSI-1235": {
+            "PR": "BUSI 3700", 
+            "courseDescription": "examines the use of information technology and related privacy, security, and ethical issues in the information age. Topics covered will include information and property rights and obligations; system quality; quality of life; accountability and system controls; behavioural factors that can lead to data loss; legal issues; and managerial responsibilities. The course examines these topics from individual, society, and business perspectives.", 
+            "concurrent": [], 
+            "courseTitle": "Information Security, Privacy, and Ethics", 
+            "prerequisites": [
+                "BUSI-0313"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "5703"
+        }, 
+        "BUSI-0350": {
+            "courseDescription": "will have the topics to be studied announced by the Faculty.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "6000-6029 (Excluding 6001, 6004, 6008, 6009, 6010, 6012, 6021, 6022, 6024 and 6027)"
+        }, 
+        "BUSI-0353": {
+            "PR": "BUSI 1101 with a grade of at least 60%", 
+            "courseDescription": "is designed to integrate the principles, concepts and skills acquired in previous accounting courses and to enhance the student's analytical and decision-making capabilities. The course will focus on specific topics related to deferred taxes, employee future benefits, shareholders' equity, and financial statement presentation. The skills acquired in earlier courses will be integrated for purposes of interpreting and analysing financial information.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Accounting II", 
+            "prerequisites": [
+                "BUSI-0296"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6110"
+        }, 
+        "BUSI-0352": {
+            "PR": "BUSI 1101 with a grade of at least 60%", 
+            "courseDescription": "continues the study of financial accounting by focussing on specific topics such as current assets, long-term investments, capital assets, intangibles, current liabilities, and long-term liabilities. Emerging issues in accounting will also be covered.", 
+            "concurrent": [], 
+            "courseTitle": "Intermediate Accounting I", 
+            "prerequisites": [
+                "BUSI-0296"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6100"
+        }, 
+        "BUSI-0359": {
+            "PR": "BUSI 2010 , BUSI 3210 , and any of: BUSI 2210 , the former BUSI 2201, the former BUSI 3200", 
+            "courseDescription": "is intended to examine the marketing of services and the role of services in supporting the marketing of tangible products. The distinction between the marketing of tangibles and intangibles will be stressed. The course will identify and examine the distinct issues which are encountered in the marketing of services and will explore appropriate strategies for implementing services marketing programs, primarily in services organizations, including health care, transportation, telecommunications, education, etc. Specifically, the course will examine in detail the role of people in delivering services, the importance of service quality as a strategic differentiating tool, and the importance of collaboration between marketing and human resources management in the delivery of services.", 
+            "concurrent": [], 
+            "courseTitle": "Services Marketing", 
+            "prerequisites": [
+                "BUSI-1228", 
+                "BUSI-1490", 
+                "BUSI-0304"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "6230"
+        }
+    }
+}

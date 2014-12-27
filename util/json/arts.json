@@ -1,0 +1,23 @@
+{
+    "ARTS": {
+        "ARTS-7312": {
+            "PR": "restricted to students with fewer than eighteen credit hours", 
+            "courseDescription": "introduces students to some of the processes, techniques and standards of university-level writing. Students will engage in the practices of pre-writing, drafting, revising and editing. An emphasis will be placed on using writing as a learning tool and on preparing and editing texts.", 
+            "concurrent": [], 
+            "courseTitle": "An Introduction to University Writing", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1500"
+        }, 
+        "ARTS-5644": {
+            "PR": "Admission to the Enhancing Academic Performance program.", 
+            "courseDescription": "is a learning seminar in which students and faculty use discussion, reciprocal feedback and co-investigation techniques to enhance the teaching and learning process in the study of Arts subjects. For course description see General Information, Student Affairs and Services, UCC2020: Applied Cognitive and Affective Learning Strategies for Undergraduate Students.", 
+            "concurrent": [], 
+            "courseTitle": "Enhancing Academic Performance", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former ARTS 1200", 
+            "courseNumber": "1250"
+        }
+    }
+}

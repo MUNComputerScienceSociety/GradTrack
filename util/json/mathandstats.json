@@ -1,0 +1,1088 @@
+{
+    "MATH": {
+        "SCI-1375": {
+            "PR": "MATH 2260 (or 3260 )", 
+            "courseDescription": "examines flows, stability, phase plane analysis, limit cycles, bifurcations, chaos, attractors, maps, fractals. Applications throughout.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Dynamical Systems", 
+            "prerequisites": [
+                "SCI-3556", 
+                "SWGC-1063"
+            ], 
+            "corequisites": [], 
+            "CR": "the former AMAT 3190", 
+            "courseNumber": "3100"
+        }, 
+        "SCI-1377": {
+            "PR": "MATH 3210", 
+            "courseDescription": "examines mapping by elementary functions, conformal mapping, applications of conformal mapping, Schwartz-Christoffel transformation, Poisson integral formula, poles and zeros, Laplace transforms and stability of systems, analytic continuation.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Complex Analysis", 
+            "prerequisites": [
+                "SCI-1383"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3111"
+        }, 
+        "SCI-2579": {
+            "courseDescription": "is a non-credit course intended for students of the B.N. (Collaborative) Program who have a weak background in mathematics and/or have not done mathematics in some years. The course enables students to master mathematical operations such as those involving whole numbers, fractions, decimals, percents, units of measurement, ratios and proportions.", 
+            "CH": "0", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics Skills Program for the B.N. (Collaborative) Program", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "102N"
+        }, 
+        "SCI-2572": {
+            "PR": "Mathematics 103F", 
+            "courseDescription": "is a non-credit course intended for those students who either have a weak background in mathematics or are returning to the subject after some years. The course enables students to master mathematical operations such as those involving number systems, algebraic and rational expressions, linear and rational equations, formulas, exponents, radicals, quadratic equations and logarithms.", 
+            "CH": "0", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics Skills Program", 
+            "prerequisites": [
+                "SCI-2594"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "104F"
+        }, 
+        "SCI-2571": {
+            "PR": "Mathematics 102F", 
+            "courseDescription": "is non-credit course intended for students who either have a weak background in mathematics or are returning to the subject after some years. The course enables students to master mathematical operations such as those involving rational expressions and equations, units of measurement, ratios and proportions, formulas, graphs of linear equations, systems of linear equations, basic geometry and trigonometry and number systems.", 
+            "CH": "0", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics Skills Program", 
+            "prerequisites": [
+                "SCI-1334"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "103F"
+        }, 
+        "SCI-1378": {
+            "PR": "MATH 2000 , MATH 2050 , and a computing course (Computer Science 1510 is recommended)", 
+            "courseDescription": "includes a discussion of round-off error, the solution of linear systems, iterative methods for nonlinear equations, interpolation and polynomial approximation, least squares approximation, fast Fourier transform, numerical differentiation and integration.", 
+            "concurrent": [
+                "SCI-1061"
+            ], 
+            "courseTitle": "Numerical Analysis I", 
+            "LH": "1.5", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1356", 
+                "SCI-1965"
+            ], 
+            "corequisites": [], 
+            "CR": "Computer Science 3731", 
+            "courseNumber": "3132"
+        }, 
+        "SCI-2270": {
+            "PR": "registration in an Honours or Joint Honours program in Applied Mathematics.", 
+            "courseDescription": "is a two-semester course that requires the student, with supervision by a member of the Department, to prepare a dissertation in an area of Applied Mathematics. In addition to a written project, a one hour presentation will be given by the student at the end of the second semester.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Applied Mathematics Honours Project", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former AMAT 4199", 
+            "courseNumber": "419A and 419B"
+        }, 
+        "SCI-3067": {
+            "PR": "MATH 2320", 
+            "courseDescription": "is an introduction to groups and group homomorphisms including cyclic groups, cosets, Lagrange's theorem, normal subgroups and quotient groups, introduction to rings and ring homomorphisms including ideals, prime and maximal ideals, quotient rings, integral domains and fields.", 
+            "concurrent": [], 
+            "courseTitle": "Abstract Algebra", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3320"
+        }, 
+        "SCI-3066": {
+            "PR": "MATH 2320", 
+            "courseDescription": "covers graphs and the four colour problem, orientable and non-orientable surfaces, triangulation, Euler characteristic, classification and colouring of compact surfaces, basic point-set topology, the fundamental group, including the fundamental groups of surfaces, knots, and the Wirtinger presentation of the knot group.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Geometric Topology", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3303"
+        }, 
+        "SCI-3065": {
+            "PR": "MATH 2320", 
+            "courseDescription": "is an introduction to Mathematical Logic, functions, equivalence relations, equipotence of sets, finite and infinite sets, countable and uncountable sets, Cantor's Theorem, Schroeder-Bernstein Theorem, ordered sets, introduction to cardinal and ordinal numbers, logical paradoxes, the axiom of choice.", 
+            "concurrent": [], 
+            "courseTitle": "Set Theory", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3300"
+        }, 
+        "SCI-3064": {
+            "PR": "MATH 3001", 
+            "courseDescription": "includes metric and normed spaces, completeness, examples of Banach spaces and complete metric spaces, bounded linear operators and their spectra, bounded linear functionals and conjugate spaces, the fundamental theorems for Banach spaces including the Hahn&ndash;Banach Theorem, topology including weak and weak* topologies, introduction to Hilbert spaces.", 
+            "concurrent": [], 
+            "courseTitle": "Functional Analysis", 
+            "prerequisites": [
+                "SCI-1364"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Pure Mathematics 4302", 
+            "courseNumber": "4001"
+        }, 
+        "SCI-3063": {
+            "PR": "MATH 3001", 
+            "courseDescription": "includes a review of the Riemann integral, functions of bounded variation, null sets and Lebesgue measure, the Cantor set, measurable sets and functions, the Lebesgue integral in R1 and R2, Fatou's lemma, Monotone and Dominated Convergence Theorems, Fubini's Theorem, an introduction to Lebesgue-Stieltjes measure and integration.", 
+            "concurrent": [], 
+            "courseTitle": "Lebesgue Integration", 
+            "prerequisites": [
+                "SCI-1364"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Pure Mathematics 4400", 
+            "courseNumber": "4000"
+        }, 
+        "SCI-3062": {
+            "PR": "MATH 1001 or 2050", 
+            "courseDescription": "covers basic concepts of mathematical reasoning, sets and set operations, functions, relations including equivalence relations and partial orders as illustrated through the notions of congruence and divisibility of integers, mathematical induction, principles of counting, permutations, combinations and the Binomial Theorem.", 
+            "concurrent": [
+                "ENGI-1271"
+            ], 
+            "courseTitle": "Discrete Mathematics", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Computer Science 2740 or the former Engineering 3422 or Engineering 4424", 
+            "courseNumber": "2320"
+        }, 
+        "SCI-3061": {
+            "PR": "admission to Applied or Pure Mathematics major and MATH 1001 and (Computer Science 1510 or 1710 or 2710 or 2602 ; or permission of the Head of Department)", 
+            "courseDescription": "is a project oriented course combining mathematical investigation and technical writing. By using computer programming, graphical and typesetting tools, students will explore mathematical concepts and will produce technical reports of professional quality. The latter will combine elements of writing and graphics to convey technical ideas in a clear and concise manner.", 
+            "concurrent": [], 
+            "courseTitle": "Technical Writing in Mathematics", 
+            "prerequisites": [
+                "SCI-1339", 
+                "SCI-1965", 
+                "SCI-1029", 
+                "SCI-1037", 
+                "SCI-1033"
+            ], 
+            "corequisites": [], 
+            "UL": "qualifies as a Research/Writing course in the Faculty of Arts", 
+            "courseNumber": "2130"
+        }, 
+        "SCI-3068": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Algebra", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3321"
+        }, 
+        "SCI-1388": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Functional Analysis", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4100"
+        }, 
+        "SCI-1389": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Stochastic Methods in Applied Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4102"
+        }, 
+        "SCI-1380": {
+            "PR": "MATH 2260 (or 3260 ) and 3202", 
+            "courseDescription": "examines power series solutions, method of Frobenius, Bessel functions, Legendre polynomials and others from classical Physics, systems of linear first order equations, fundamental matrix solution, numerical methods for initial value problems, existence and uniqueness of solutions.", 
+            "concurrent": [], 
+            "courseTitle": "Ordinary Differential Equations II", 
+            "prerequisites": [
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3161"
+        }, 
+        "SCI-1381": {
+            "PR": "MATH 2000 and 2050", 
+            "courseDescription": "deals with functions of several variables, Lagrange multipliers, vector valued functions, directional derivatives, gradient, divergence, curl, transformations, Jacobians, inverse and implicit function theorems, multiple integration including change of variables using polar, cylindrical and spherical co-ordinates, Green's theorem, Stokes' theorem, divergence theorem, line integrals, arc length.", 
+            "concurrent": [
+                "SCI-1602"
+            ], 
+            "courseTitle": "Vector Calculus", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "CR": "Physics 3810", 
+            "courseNumber": "3202"
+        }, 
+        "SCI-1383": {
+            "PR": "MATH 3000", 
+            "courseDescription": "examines complex numbers, analytic functions of a complex variable, differentiation of complex functions and the Cauchy-Riemann equations, complex integration, Cauchy's theorem, Taylor and Laurent series, residue theory and applications.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Complex Analysis", 
+            "prerequisites": [
+                "SCI-1362"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "SCI-1384": {
+            "PR": "MATH 2320", 
+            "courseDescription": "examines algorithms and complexity, definitions and basic properties of graphs, Eulerian and Hamiltonian chains, shortest path problems, graph colouring, planarity, trees, network flows, with emphasis on applications including scheduling problems, tournaments, and facilities design.", 
+            "concurrent": [], 
+            "courseTitle": "Applied Graph Theory", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Computer Science 2741", 
+            "courseNumber": "3240"
+        }, 
+        "SCI-1469": {
+            "PR": "STAT 3520", 
+            "courseDescription": "is an introduction to factorial experiments including mixed effects models, unbalanced data in factorial designs, two level and three level factorial experiments, blocking and confounding in factorial designs, fractional factorial experiments, unreplicated factorial experiments, response surface designs, robust parameter designs, nested and split plot designs.", 
+            "concurrent": [], 
+            "courseTitle": "Experimental Design II", 
+            "prerequisites": [
+                "SCI-1458"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4520"
+        }, 
+        "SCI-1468": {
+            "PR": "Mathematics 2051 , STAT 3411", 
+            "courseDescription": "covers multivariate normal distributions, quadratic forms of normal random variables, analysis of variance, multiple comparisons, distributions of quadratic forms, independence of quadratic forms, regression, distributions of order statistics, nonparametric statistics.", 
+            "concurrent": [], 
+            "courseTitle": "Statistical Inference II", 
+            "prerequisites": [
+                "SCI-1358", 
+                "SCI-1457"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4410"
+        }, 
+        "SCI-1460": {
+            "PR": "Mathematics 2050 and either STAT 3411 or both Mathematics 1001 and one of STAT 2501 or 2560 or the former 2511", 
+            "courseDescription": "covers inferences in linear regression analysis including estimation, confidence and prediction intervals, hypotheses testing and simultaneous inference; matrix approach to regression analysis, multiple linear regression, multicollinearity, model building and selection, polynomial regression, qualitative predictor variables.", 
+            "concurrent": [], 
+            "courseTitle": "Regression", 
+            "prerequisites": [
+                "SCI-1356", 
+                "SCI-1457", 
+                "SCI-1339", 
+                "SCI-1448", 
+                "SCI-1454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3521"
+        }, 
+        "SCI-1463": {
+            "PR": "either STAT 3411 or both Mathematics 1001 and one of STAT 2501 or 2560 or the former 2511", 
+            "courseDescription": "covers an introduction to reliability, parallel and series systems, standard parametric models, estimation of reliability, quality management systems, introduction to statistical process control, simple quality control tools, process control charts for variables and attributes, process capability, cumulative sum chart, exponentially weighted moving average chart, acceptance sampling plans, measurement system analysis, continuous improvement and six sigma methodology.", 
+            "concurrent": [], 
+            "courseTitle": "Reliability and Quality Control", 
+            "prerequisites": [
+                "SCI-1457", 
+                "SCI-1339", 
+                "SCI-1448", 
+                "SCI-1454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3570"
+        }, 
+        "SCI-1462": {
+            "PR": "either STAT 3411 or both Mathematics 1001 and one of STAT 2501 or 2560 or the former 2511", 
+            "courseDescription": "is an introduction to basic concepts of time series analysis such as stationarity and nonstationarity, components of time series, transformation of nonstationary series using regression, decomposition methods and differencing, autocovariance and autocorrelation functions, moving average (MA), autoregressive (AR), and ARMA representation of stationary time series including stationarity and invertibility conditions; partial autocorrelation function; properties of MA(q), AR(p) and ARMA(p, q) models, model identification, parameter estimation, model diagnostics and selection, forecasting, integrated ARMA process. Applications to real time series.", 
+            "concurrent": [], 
+            "courseTitle": "Time Series I", 
+            "prerequisites": [
+                "SCI-1457", 
+                "SCI-1339", 
+                "SCI-1448", 
+                "SCI-1454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3540"
+        }, 
+        "SCI-1467": {
+            "PR": "STAT 3410", 
+            "courseDescription": "covers the Poisson process, renewal theory, Markov chains, and some continuous state models including Brownian motion. Applications are considered in queuing, reliability, and inventory theory. Emphasis is on model building and probabilistic reasoning.", 
+            "concurrent": [
+                "SCI-1389"
+            ], 
+            "courseTitle": "Stochastic Processes", 
+            "prerequisites": [
+                "SCI-1456"
+            ], 
+            "corequisites": [], 
+            "CR": "Mathematics 4102", 
+            "courseNumber": "4402"
+        }, 
+        "SCI-1476": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Quantitative Methods in Biology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4581"
+        }, 
+        "SCI-2594": {
+            "PR": "Mathematics 102F and a recommendation by an MLC instructor resulting in approval by the MLC Director", 
+            "courseDescription": "is a non-credit course enabling students to master mathematics operations such as those involving algebraic and rational expressions, formulas, graphs, systems of linear equations, basic trigonometry and number systems. Mathematics", 
+            "CH": "0", 
+            "CO": "Mathematics 102F and a recommendation by an MLC instructor resulting in approval by the MLC Director", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics Skills Program/Finite Mathematics II", 
+            "LH": "three 50 minute classes and two 75 minute classes per week", 
+            "prerequisites": [
+                "SCI-1334"
+            ], 
+            "corequisites": [
+                "SCI-1334"
+            ], 
+            "courseNumber": "103F"
+        }, 
+        "SCI-1474": {
+            "PR": "STAT 3520 or 3521", 
+            "courseDescription": "is an analysis of cross-classified categorical data with or without explanatory variables, chi-square test, measures of association, multidimensional contingency tables, hypotheses of partial and conditional independence, log-linear models for Poisson, multinomial and product-multinomial sampling schemes, concept of ordinal categorical models, logit models, likelihood estimation, selection of suitable log-linear and logit models.", 
+            "concurrent": [], 
+            "courseTitle": "Categorical Data Analysis", 
+            "prerequisites": [
+                "SCI-1458", 
+                "SCI-1460"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4561"
+        }, 
+        "SCI-1480": {
+            "PR": "registration in an Honours or Joint Honours program in Statistics", 
+            "courseDescription": "is a directed reading course with Comprehensive examination.", 
+            "concurrent": [], 
+            "courseTitle": "Honours Comprehensive with Directed Readings", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4599"
+        }, 
+        "SCI-1399": {
+            "PR": "MATH 3100 , 3161 , 4160 , and a technical writing course offered by a Science department (MATH 2130 is recommended).", 
+            "courseDescription": "is intended to develop students' skills in mathematical modelling and competence in oral and written presentations. Case studies in modelling will be analysed. Students will develop a mathematical model and present it in both oral and report form.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Modelling", 
+            "prerequisites": [
+                "SCI-1375", 
+                "SCI-1380", 
+                "SCI-1394", 
+                "SCI-3061"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4190"
+        }, 
+        "SCI-1398": {
+            "PR": "Physics 3220 and either MATH 4160 or the former Physics 3821", 
+            "courseDescription": "(same as Physics", 
+            "concurrent": [
+                "SCI-1610"
+            ], 
+            "courseTitle": "Introduction to Fluid Dynamics", 
+            "prerequisites": [
+                "SCI-1590", 
+                "SCI-1394"
+            ], 
+            "corequisites": [], 
+            "CR": "Physics 4205", 
+            "courseNumber": "4180"
+        }, 
+        "SCI-1470": {
+            "PR": "STAT 3411", 
+            "courseDescription": "covers basic concepts, simple random sampling, unequal probability sampling and the Horvitz-Thompson principle, sufficiency, design and modelling in sampling, ratio and regression estimators, stratified and cluster sampling, methods for elusive and/or hard- to-detect populations.", 
+            "concurrent": [], 
+            "courseTitle": "Survey Sampling", 
+            "prerequisites": [
+                "SCI-1457"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4530"
+        }, 
+        "SCI-1393": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Mathematical Control Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4140"
+        }, 
+        "SCI-1392": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Numerical Optimization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4133"
+        }, 
+        "SCI-1391": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Optimization", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4132"
+        }, 
+        "SCI-1390": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Numerical Linear Algebra", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4131"
+        }, 
+        "SCI-1397": {
+            "PR": "MATH 4160", 
+            "courseDescription": "covers first order equations, Cauchy problems, Cauchy-Kowalewska theorem, second order equations, canonical forms, wave equations in higher dimensions, method of spherical means, Duhamel's principle, potential equation, Dirichlet and Neuman problem, Green's function and fundamental solution, potential theory, heat equation, Riemann's method of integration, method of plane and Riemann waves for systems of PDEs of the first order.", 
+            "concurrent": [], 
+            "courseTitle": "Partial Differential Equations II", 
+            "prerequisites": [
+                "SCI-1394"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4170"
+        }, 
+        "SCI-1396": {
+            "PR": "MATH 3132 and 4160", 
+            "courseDescription": "covers numerical solution of initial value problems for ordinary differential equations by single and multi-step methods, Runge-Kutta, and predictor-corrector; numerical solution of boundary value problems for ordinary differential equations by shooting methods, finite differences and spectral methods; numerical solution of partial differential equations by the method of lines, finite differences, finite volumes and finite elements.", 
+            "concurrent": [], 
+            "courseTitle": "Numerical Methods for Differential Equations", 
+            "prerequisites": [
+                "SCI-1378", 
+                "SCI-1394"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4162"
+        }, 
+        "SCI-1395": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Integral Equations", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4161"
+        }, 
+        "SCI-1394": {
+            "PR": "MATH 2260 (or 3260 ) and 3202", 
+            "courseDescription": "covers two point boundary value problems, Fourier series, Sturm-Liouville theory, canonical forms, classification and solution of linear second order partial differential equations in two independent variables, separation of variable, integral transform methods.", 
+            "concurrent": [], 
+            "courseTitle": "Partial Differential Equations I", 
+            "prerequisites": [
+                "SCI-3556", 
+                "SWGC-1063", 
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4160"
+        }, 
+        "SCI-1403": {
+            "PR": "permission of the Head of the Department", 
+            "courseDescription": "will have the topics to be studied announced by the Department. Consult the Department for a list of titles and information regarding availability.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Pure and Applied Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4280-4290"
+        }, 
+        "SCI-1402": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Differential and Integral Calculus on Manifolds", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4240"
+        }, 
+        "SCI-1401": {
+            "PR": "MATH 3202", 
+            "courseDescription": "covers both classical and modern differential geometry. It begins with the classical theory of curves and surfaces, including the Frenet-Serret relations, the fundamental theorem of space curves, curves on surfaces, the metric, the extrinsic curvature operator and Gaussian curvature. The modern section studies differentiable manifolds, tangent vectors as directional derivatives, one-forms and other tensors, the metric tensor, geodesics, connections and parallel transport, Riemann curvature and the Gauss-Codazzi equations.", 
+            "concurrent": [], 
+            "courseTitle": "Differential Geometry", 
+            "prerequisites": [
+                "SCI-1381"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4230"
+        }, 
+        "SCI-1339": {
+            "PR": "MATH 1000 or the former MATH 1081", 
+            "courseDescription": "is an introduction to integral calculus, including Riemann sums, techniques of integration and improper integrals. Applications include exponential growth and decay, areas between curves and volumes of solids of revolution.", 
+            "concurrent": [], 
+            "courseTitle": "Calculus II", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Engineering 1411 or the former Engineering 2413", 
+            "courseNumber": "1001"
+        }, 
+        "SCI-1334": {
+            "courseDescription": "is a non-credit course intended for students who either have a weak background in mathematics or are returning to the subject after some years. The course enables students to master mathematical operations such as those involving whole numbers, fractions, decimals, percents, integers, exponents, linear equations and algebraic expressions.", 
+            "CH": "0", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics Skills Program", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "102F"
+        }, 
+        "SCI-1337": {
+            "PR": "MATH 1090 or a combination of placement test and high school Mathematics scores acceptable to the Department", 
+            "courseDescription": "is an introduction to differential calculus, including algebraic, trigonometric, exponential, logarithmic, inverse trigonometric and hyperbolic functions. Applications include kinematics, related rates problems, curve sketching and optimization.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Calculus I", 
+            "prerequisites": [
+                "SCI-1352"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MATH 1081", 
+            "UL": "at most 9 credit hours in Mathematics will be given for courses completed from the following list subject to normal credit restrictions: Mathematics 1000, 1031 , 1050 , 1051 , the former 1080, the former 1081, 1090 , the former 1150 and 1151", 
+            "courseNumber": "1000"
+        }, 
+        "SCI-1432": {
+            "PR": "MATH 3320", 
+            "courseDescription": "examines permutation groups, Sylow theorems, normal series, solvable groups, solvability of polynomials by radicals, introduction to group representations.", 
+            "concurrent": [], 
+            "courseTitle": "Group Theory", 
+            "prerequisites": [
+                "SCI-3067"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4321"
+        }, 
+        "SCI-1433": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Galois Theory", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4331"
+        }, 
+        "SCI-1430": {
+            "PR": "MATH 3210", 
+            "courseDescription": "examines topology of", 
+            "concurrent": [], 
+            "courseTitle": "Complex Function Theory", 
+            "prerequisites": [
+                "SCI-1383"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "SCI-1431": {
+            "PR": "MATH 3320", 
+            "courseDescription": "examines factorization in integral domains, structure of finitely generated modules over a principal ideal domain with application to Abelian groups, nilpotent ideals and idempotents, chain conditions, the Wedderburn-Artin theorem.", 
+            "concurrent": [], 
+            "courseTitle": "Ring Theory", 
+            "prerequisites": [
+                "SCI-3067"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4320"
+        }, 
+        "SCI-1436": {
+            "PR": "MATH 3370", 
+            "courseDescription": "is continued fractions, an introduction to Diophantine approximations, selected Diophantine equations, the Dirichlet product of arithmetic functions, the quadratic reciprocity law, and factorization in quadratic domains.", 
+            "concurrent": [], 
+            "courseTitle": "Number Theory", 
+            "prerequisites": [
+                "SCI-3072"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4370"
+        }, 
+        "SCI-1437": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "History of Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4375"
+        }, 
+        "SCI-1434": {
+            "PR": "MATH 2000 and 3340", 
+            "courseDescription": "continues most of the topics started in", 
+            "concurrent": [], 
+            "courseTitle": "Combinatorial Analysis", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-3071"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4340"
+        }, 
+        "SCI-1435": {
+            "PR": "MATH 3320 or 3340", 
+            "courseDescription": "includes the study of finite fields, Latin squares, finite projective planes and balanced incomplete block designs.", 
+            "concurrent": [], 
+            "courseTitle": "Combinatorial Designs", 
+            "prerequisites": [
+                "SCI-3067", 
+                "SCI-3071"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4341"
+        }, 
+        "SCI-1438": {
+            "PR": "registration in an Honours or Joint Honours program in Pure Mathematics", 
+            "courseDescription": "requires the student, with supervision by a member of the department, to prepare a dissertation in an area of Pure Mathematics. Although original research by the student will not normally be expected, the student must show an ability and interest to learn and organize material independently. A one hour presentation at the end of the semester will be given by the student.", 
+            "concurrent": [], 
+            "courseTitle": "Pure Mathematics Dissertation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4399"
+        }, 
+        "SCI-1452": {
+            "PR": "Mathematics 1000 or the former 1081", 
+            "courseDescription": "is an introduction to basic statistics methods with an emphasis on applications to the sciences. Material includes descriptive statistics, elementary probability, binomial distribution, Poisson distribution, normal distribution, sampling distribution, estimation and hypothesis testing (both one and two sample cases), chi-square test, one way analysis of variance, correlation and simple linear regression.", 
+            "concurrent": [
+                "ENGI-1270", 
+                "SCI-3079", 
+                "SCI-1752", 
+                "SWGC-1130"
+            ], 
+            "courseTitle": "Statistics for Science Students", 
+            "LH": "one 90 minute lab per week. Statistical computer package will be used in the laboratory, but no prior computing experience is assumed.", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "Engineering 4421 , STAT 2500 , the former STAT 2510, Psychology 2910 , Psychology 2925 , and the former Psychology 2900", 
+            "courseNumber": "2550"
+        }, 
+        "SCI-1448": {
+            "PR": "STAT 2500 or the former 2510", 
+            "courseDescription": "covers power calculation and sample size determination, analysis of variance, multiple regression, nonparametric statistics, time series analysis, introduction to sampling techniques.", 
+            "concurrent": [
+                "SCI-1454", 
+                "SCI-1754", 
+                "SWGC-1132"
+            ], 
+            "courseTitle": "Further Statistics for Business and Arts Students", 
+            "LH": "one 90 minute lab per week. Statistical computer package will be used in the laboratory.", 
+            "prerequisites": [
+                "SCI-3079"
+            ], 
+            "corequisites": [], 
+            "CR": "STAT 2560 , the former 2511, Psychology 2911 , 2950 , and the former 2901", 
+            "courseNumber": "2501"
+        }, 
+        "SCI-1454": {
+            "PR": "STAT 1510 or 2500 or 2550 or the former 2510, Mathematics 1000 or the former 1081", 
+            "courseDescription": "(formerly STAT 2511) covers estimation and hypothesis testing in the two-sample and paired sample cases, one way and two way analysis of variance, simple and multiple linear regression, chi-square tests, non-parametric tests including sign test, Wilcoxon signed rank test and Wilcoxon rank test.", 
+            "concurrent": [
+                "SCI-1448", 
+                "SCI-1754", 
+                "SWGC-1132"
+            ], 
+            "courseTitle": "Further Statistics for Science Students", 
+            "LH": "one 90 minute lab per week. Statistical computer packages will be used in the laboratory, but no prior computing experienced is assumed.", 
+            "prerequisites": [
+                "SCI-3078", 
+                "SCI-3079", 
+                "SCI-1452", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "STAT 2501 , the former 2511, Psychology 2911 , 2950 , and the former 2901", 
+            "courseNumber": "2560"
+        }, 
+        "SCI-1456": {
+            "PR": "Mathematics 1001", 
+            "courseDescription": "covers basic probability concepts, combinatorial analysis, conditional probability, independence, random variables, distribution function, mathematical expectation, Chebyshev&rsquo;s inequality, distribution of two random variables, binomial and related distributions, Poisson, gamma, beta, normal, multivariate normal, student t and F distributions, transformations of random variables, convergence in probability, convergence in distribution, delta-method, moment-generating function technique, central limit theorem.", 
+            "concurrent": [], 
+            "courseTitle": "Probability and Statistics", 
+            "prerequisites": [
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3410", 
+            "OR": "one and a half hour tutorial period weekly"
+        }, 
+        "SCI-1457": {
+            "PR": "STAT 3410", 
+            "courseDescription": "examines sampling distributions, order statistics, confidence interval, hypotheses testing, chi-square tests, maximum likelihood estimation, maximum likelihood estimation, Rao-Cram&eacute;r inequality and efficiency, maximum likelihood tests, sufficiency, completeness and uniqueness, exponential class of distributions, likelihood ratio test and Neyman-Pearson lemma.", 
+            "concurrent": [], 
+            "courseTitle": "Statistical Inference I", 
+            "prerequisites": [
+                "SCI-1456"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3411", 
+            "OR": "one and a half hour tutorial period weekly"
+        }, 
+        "SCI-1458": {
+            "PR": "Mathematics 2050 and either STAT 3411 or both Mathematics 1001 and one of STAT 2501 or 2560 or the former 2511", 
+            "courseDescription": "is an introduction to basic concepts in experimental design, including principles of experimentation; single factor designs such as completely randomized designs; randomized block designs; Latin square designs; Graeco Latin square designs; multiple comparison tests; analysis of covariance; balanced incomplete block designs; factorial designs; fixed, random and mixed effects models.", 
+            "concurrent": [
+                "SCI-1774", 
+                "SWGC-1134"
+            ], 
+            "courseTitle": "Experimental Design I", 
+            "prerequisites": [
+                "SCI-1356", 
+                "SCI-1457", 
+                "SCI-1339", 
+                "SCI-1448", 
+                "SCI-1454"
+            ], 
+            "corequisites": [], 
+            "CR": "Psychology 3900 and 3950", 
+            "courseNumber": "3520"
+        }, 
+        "SCI-1347": {
+            "PR": "a combination of placement test and high school mathematics scores acceptable to the department or MATH 103F", 
+            "courseDescription": "covers topics which include elementary matrices, linear programming, elementary number theory, mathematical systems, and geometry.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Finite Mathematics II", 
+            "prerequisites": [
+                "SCI-2594"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MATH 1151", 
+            "UL": "At most 9 credit hours in Mathematics will be given for courses completed from the following list subject to normal credit restrictions: Mathematics 1000 , 1031 , 1050 , 1051, the former 1080, the former 1081, 1090 , the former 1150 and 1151. With the exception of those already admitted at the time of registration in this course to a Bachelor of Education program that requires this course, students who already have obtained credit for 6 or more Mathematics credit hours numbered 2000 or above are not permitted to register for this course nor can they receive credit for it.", 
+            "courseNumber": "1051"
+        }, 
+        "SCI-1341": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Problem Solving", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1031"
+        }, 
+        "SCI-1342": {
+            "PR": "a combination of placement test and high school mathematics scores acceptable to the department or MATH 103F", 
+            "courseDescription": "covers topics which include sets, logic, permutations, combinations and elementary probability.", 
+            "LC": "4", 
+            "concurrent": [], 
+            "courseTitle": "Finite Mathematics I", 
+            "prerequisites": [
+                "SCI-2594"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MATH 1150", 
+            "UL": "At most 9 credit hours in Mathematics will be given for courses completed from the following list subject to normal credit restrictions: Mathematics 1000 , 1031 , 1050, 1051 , the former 1080, the former 1081, 1090 , the former 1150 and 1151. With the exception of those already admitted at the time of registration in this course to a Bachelor of Education program that requires this course, students who already have obtained credit for 6 or more Mathematics credit hours numbered 2000 or above are not permitted to register for this course nor can they receive credit for it.", 
+            "courseNumber": "1050"
+        }, 
+        "SCI-3557": {
+            "PR": "MATH 2051 or 2320", 
+            "courseDescription": "is an introduction to Euclidean geometry of the plane. It covers the geometry of triangles and circles, including results such as the Euler line, the nine-point circle and Ceva&rsquo;s theorem. It also includes straight-edge and compass constructions, isometries of the plane, the three reflections theorem, and inversions on circles.", 
+            "concurrent": [
+                "SWGC-1066"
+            ], 
+            "courseTitle": "Euclidean Geometry", 
+            "prerequisites": [
+                "SCI-1358", 
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "CR": "MATH 3330", 
+            "courseNumber": "2330"
+        }, 
+        "SCI-3556": {
+            "PR": "MATH 2000", 
+            "courseDescription": "examines direction fields, equations of first order and first degree, higher order linear equations, variation of parameters, methods of undetermined coefficients, Laplace transforms, systems of differential equations. Applications include vibratory motion, satellite and rocket motion, pursuit problems, population models and chemical kinetics.", 
+            "concurrent": [
+                "SWGC-1063"
+            ], 
+            "courseTitle": "Ordinary Differential Equations I", 
+            "prerequisites": [
+                "SCI-1354"
+            ], 
+            "corequisites": [], 
+            "CR": "MATH 3260 , the former Engineering 3411", 
+            "courseNumber": "2260"
+        }, 
+        "SCI-1427": {
+            "PR": "MATH 3300 or both MATH 3000 and 3303", 
+            "courseDescription": "is an introduction to point-set topology, centering around the notions of the topological space and the continuous function. Topological properties such as Hausdorff, compactness, connectedness, normality, regularity and path-connectedness are examined, as are Urysohn&rsquo;s metrization theorem and the Tychonoff theorem.", 
+            "concurrent": [], 
+            "courseTitle": "General Topology", 
+            "prerequisites": [
+                "SCI-3065", 
+                "SCI-1362", 
+                "SCI-3066"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4300"
+        }, 
+        "SCI-1428": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Algebraic Topology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4301"
+        }, 
+        "SCI-1359": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to the History of Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2075"
+        }, 
+        "SCI-1358": {
+            "PR": "MATH 1000 and 2050", 
+            "courseDescription": "includes the topics: real and complex vector spaces, basis, dimension, change of basis, eigenvectors, inner products, and diagonalization of Hermitian matrices.", 
+            "concurrent": [], 
+            "courseTitle": "Linear Algebra II", 
+            "prerequisites": [
+                "SCI-1337", 
+                "SCI-1356"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2051"
+        }, 
+        "SCI-1356": {
+            "PR": "A combination of placement test and high school Mathematics scores acceptable to the Department or 3 credit hours in first year Mathematics courses", 
+            "courseDescription": "includes the topics: Euclidean n-space, vector operations in 2- and 3-space, complex numbers, linear transformations on n-space, matrices, determinants, and systems of linear equations.", 
+            "concurrent": [], 
+            "courseTitle": "Linear Algebra I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former Engineering 2402", 
+            "courseNumber": "2050"
+        }, 
+        "SCI-1354": {
+            "PR": "MATH 1001", 
+            "courseDescription": "is a study of the differential calculus of functions of two variables, an introduction to convergence of infinite sequences and series.", 
+            "concurrent": [], 
+            "courseTitle": "Calculus III", 
+            "prerequisites": [
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Engineering 1411, the former Engineering 1412, the former Engineering 2412, or the former Engineering 2413", 
+            "courseNumber": "2000"
+        }, 
+        "SCI-1352": {
+            "PR": "a combination of placement test and high school Mathematics scores acceptable to the Department or MATH 104F", 
+            "courseDescription": "provides students with the essential prerequisite elements for the study of an introductory course in calculus. Topics include algebra, functions and their graphs, exponential and logarithmic functions, trigonometry, polynomials, and rational functions.", 
+            "LC": "4", 
+            "concurrent": [
+                "SCI-1337", 
+                "SCI-1339"
+            ], 
+            "courseTitle": "Algebra and Trigonometry", 
+            "prerequisites": [
+                "SCI-2572"
+            ], 
+            "corequisites": [], 
+            "CR": "if previously completed or currently registered for MATH 1000 , 1001 , the former 1080, or the former 1081", 
+            "UL": "at most 9 credit hours in Mathematics will be given for courses completed from the following list subject to normal credit restrictions: Mathematics 1000 , 1031 , 1050 , 1051 , the former 1080, the former 1081, 1090, the former 1150 and 1151", 
+            "courseNumber": "1090"
+        }, 
+        "SCI-3567": {
+            "PR": "Mathematics 2000 , STAT 2560", 
+            "courseDescription": "is an introduction to modern computational statistics, using a programming language which implements S. Emphasis will be placed on the development of programs for numerical and graphical exploratory data analysis and for implementing specialized statistical procedures.", 
+            "concurrent": [], 
+            "courseTitle": "Computational Statistics", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1454"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3585"
+        }, 
+        "SCI-1362": {
+            "PR": "MATH 2000", 
+            "courseDescription": "covers proof techniques, structure of the real numbers, sequences, limits, continuity, uniform continuity, differentiation.", 
+            "concurrent": [], 
+            "courseTitle": "Real Analysis I", 
+            "LH": "1", 
+            "prerequisites": [
+                "SCI-1354"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MATH 2001", 
+            "courseNumber": "3000"
+        }, 
+        "SCI-1360": {
+            "PR": "MATH 1001", 
+            "courseDescription": "covers the topics: simple and compound interest and discount, forces of interest and discount, equations of value, annuities and perpetuities, amortization schedules and sinking funds, bonds and other securities, contingent payments.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematics of Finance", 
+            "prerequisites": [
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2090"
+        }, 
+        "SCI-1361": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Actuarial Mathematics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2091"
+        }, 
+        "SCI-1472": {
+            "PR": "one of STAT 3520 or 3521 or STAT 3411", 
+            "courseDescription": "covers inferences concerning location based on one sample, paired samples or two samples, inferences concerning scale parameters, goodness-of-fit tests, association analysis, tests for randomness.", 
+            "concurrent": [], 
+            "courseTitle": "Non-parametric Statistics", 
+            "prerequisites": [
+                "SCI-1458", 
+                "SCI-1460", 
+                "SCI-1457"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4550"
+        }, 
+        "SCI-1473": {
+            "PR": "Mathematics 2051 , STAT 3410 and one of STAT 3411 , 3520 , or 3521", 
+            "courseDescription": "examines the multivariate normal distribution and its marginal and conditional distributions, distributions of non-singular and singular linear combinations, outline of the Wishart distribution and its application, in particular, to Hotelling&rsquo;s T-squared statistic for the mean vector, connection between likelihood ratio and Hotelling&rsquo;s T- squared statistics, a selection of techniques chosen from among MANOVA, multivariate regression, principal components, factor analysis, discrimination and classification, clustering.", 
+            "concurrent": [], 
+            "courseTitle": "Continuous Multivariate Analysis", 
+            "prerequisites": [
+                "SCI-1358", 
+                "SCI-1456", 
+                "SCI-1457", 
+                "SCI-1458", 
+                "SCI-1460"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4560"
+        }, 
+        "SCI-1364": {
+            "PR": "MATH 3000", 
+            "courseDescription": "examines Infinite series of constants, sequences and series of functions, uniform convergence and its consequences, power series, Taylor series, Weierstrass Approximation Theorem.", 
+            "concurrent": [], 
+            "courseTitle": "Real Analysis II", 
+            "LH": "1", 
+            "prerequisites": [
+                "SCI-1362"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MATH 3201", 
+            "courseNumber": "3001"
+        }, 
+        "SCI-1471": {
+            "PR": "STAT 3411 and 3540", 
+            "courseDescription": "examines the analysis of time series in the time domain and is an introduction to frequency domain analysis. Topics covered include integrated ARMA processes, seasonal time series models, intervention analysis and outlier detection, transfer function models, time series regression and GARCH models, vector time series models, state space models and the Kalman Filter. Spectral decomposition of a time series is introduced. Emphasis is on applications and examples with a statistical software package.", 
+            "concurrent": [], 
+            "courseTitle": "Time Series", 
+            "prerequisites": [
+                "SCI-1457", 
+                "SCI-1462"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4540"
+        }, 
+        "SCI-1478": {
+            "PR": "one of STAT 3520 , 3521 or 3540", 
+            "courseDescription": "examines the statistical analysis of real life univariate data using computational and statistical methods including descriptive statistics, chi-square tests, non-parametric tests, analysis of variance, linear, logistic and log-linear regressions. Other statistical techniques such as integrated autoregressive moving average modelling and forecasting or quality control methods may be introduced depending on the nature of the data.", 
+            "concurrent": [], 
+            "courseTitle": "Statistical Analysis of Data I", 
+            "LH": "one 90 minute lab per week", 
+            "prerequisites": [
+                "SCI-1458", 
+                "SCI-1460", 
+                "SCI-1462"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4590"
+        }, 
+        "SCI-3070": {
+            "PR": "MATH 2051", 
+            "courseDescription": "includes course topics: projective space, the principle of duality, mappings in projective space, conics and quadrics.", 
+            "concurrent": [], 
+            "courseTitle": "Projective Geometry", 
+            "prerequisites": [
+                "SCI-1358"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3331"
+        }, 
+        "SCI-3071": {
+            "PR": "MATH 2320", 
+            "courseDescription": "includes topics: distributions, the binomial and multinomial theorems, Stirling numbers, recurrence relations, generating functions and the inclusion-exclusion principle. Emphasis will be on applications.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Combinatorics", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3340"
+        }, 
+        "SCI-3072": {
+            "PR": "MATH 2320", 
+            "courseDescription": "examines perfect numbers and primes, divisibility, Euclidean algorithm, greatest common divisors, primes and the unique factorization theorem, congruences, cryptography (secrecy systems), Euler-Fermat theorems, power residues, primitive roots, arithmetic functions, Diophantine equations, topics above in the setting of the Gaussian integers.", 
+            "concurrent": [], 
+            "courseTitle": "Introductory Number Theory", 
+            "prerequisites": [
+                "SCI-3062"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3370"
+        }, 
+        "SCI-3078": {
+            "PR": "Mathematics 1090 or a combination of placement test and high school Mathematics scores acceptable to the Department.", 
+            "courseDescription": "examines the basic statistical issues encountered in everyday life, such as data collection (both primary and secondary), ethical issues, planning and conducting statistically-designed experiments, understanding the measurement process, data summarization, measures of central tendency and dispersion, basic concepts of probability, understanding sampling distributions, the central limit theorem based on simulations (without proof), linear regression, concepts of confidence intervals and testing of hypotheses. Statistical software will be used to demonstrate each technique.", 
+            "concurrent": [
+                "SCI-3079", 
+                "SCI-1452"
+            ], 
+            "courseTitle": "Statistical Thinking and Concepts", 
+            "LH": "one 90 minute lab per week", 
+            "prerequisites": [
+                "SCI-1352"
+            ], 
+            "corequisites": [], 
+            "CR": "cannot receive credit for STAT 1510 if completed with, or subsequent to, STAT 2500 , 2550 or the former 2510", 
+            "courseNumber": "1510"
+        }, 
+        "SCI-3079": {
+            "PR": "Mathematics 1000 or 6 credit hours in first year courses in Mathematics or registration in at least semester three of a Bachelor of Nursing program or permission of the Head of Department", 
+            "courseDescription": "covers descriptive statistics (including histograms, stem-and-leaf plots and box plots), elementary probability, random variables, the binomial distribution, the normal distribution, sampling distribution, estimation and hypothesis testing including both one and two sample tests, paired comparisons, correlation and regression, related applications.", 
+            "concurrent": [
+                "SCI-1452", 
+                "SCI-1752", 
+                "SWGC-1130"
+            ], 
+            "courseTitle": "Statistics for Business and Arts Students", 
+            "LH": "one 90 minute lab per week. Statistical computer package will be used in the laboratory, but no prior computing experience is assumed", 
+            "prerequisites": [
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "STAT 2550 , the former 2510, Psychology 2910 , 2925 and the former 2900", 
+            "courseNumber": "2500"
+        }, 
+        "SCI-1976": {
+            "PR": "MATH 3202 and one of Physics 3220 or MATH 4230 or permission of the Head of Department.", 
+            "courseDescription": "(same as Physics", 
+            "CO": "MATH 4230", 
+            "concurrent": [
+                "SCI-1977"
+            ], 
+            "courseTitle": "Introduction to General Relativity", 
+            "prerequisites": [
+                "SCI-1381", 
+                "SCI-1590", 
+                "SCI-1401"
+            ], 
+            "corequisites": [
+                "SCI-1401"
+            ], 
+            "CR": "Physics 4220", 
+            "courseNumber": "4130"
+        }
+    }
+}

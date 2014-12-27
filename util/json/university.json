@@ -1,0 +1,21 @@
+{
+    "UNIV": {
+        "ARTS-7318": {
+            "courseDescription": "is an active-learning, collaborative, and problem-based course. Through case studies that examine the applications of research-based skills and knowledge in our larger society, students will learn from activities that parallel those of university specialists. Web technologies and classroom and library resources are used to support a range of learner preferences and learning styles. This course qualifies as a research/writing course.", 
+            "concurrent": [], 
+            "courseTitle": "Problem Solving Strategies", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "the former UNIV 2020", 
+            "courseNumber": "1020"
+        }, 
+        "ARTS-7317": {
+            "courseDescription": "introduces students to the different modes of enquiry that one finds in the University, the interrelatedness of knowledge and the role of the University in society. It also provides students with tools and techniques of study and research that can lead them to academic success and fulfilling careers.", 
+            "concurrent": [], 
+            "courseTitle": "The University Experience", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1010"
+        }
+    }
+}

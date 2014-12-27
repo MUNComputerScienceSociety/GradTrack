@@ -1,0 +1,825 @@
+{
+    "EASC": {
+        "SCI-1159": {
+            "PR": "Earth Sciences 2905 and 6 credit hours in English", 
+            "courseDescription": "is an introduction to the fundamentals of preparation of written and oral geoscience reports, emphasizing organization, correct use of terminology, concise description, preparation of abstracts and introductions, integration of numerical data and publication-quality illustrations, and oral presentation skills. Topics for reports will be selected from the subject matter of other 2000 level Earth Sciences courses.", 
+            "LC": "2", 
+            "concurrent": [], 
+            "courseTitle": "Geoscience Communication", 
+            "prerequisites": [
+                "SCI-1170"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2311", 
+            "OR": "tutorials three hours per week"
+        }, 
+        "SCI-2578": {
+            "PR": "EASC 2702 , 3811 , 3905", 
+            "courseDescription": "is a ten day field and lecture based course normally offered in the first two weeks of the Spring semester that aims to teach students to use sedimentological and palaeontological data for palaeoenvironmental analysis. The course will demonstrate the use of sedimentary facies models and facies architectural studies in reservoir geology, particularly when coupled with the principles of sequence stratigraphy. Students will be taught to create sedimentary logs and facies architectural panels.", 
+            "CO": "EASC 3811 , 3905", 
+            "concurrent": [], 
+            "courseTitle": "Field Course in Sedimentology, Reservoir Architecture and Sequence Stratigraphy", 
+            "prerequisites": [
+                "SCI-1168", 
+                "SCI-1196", 
+                "SCI-1198"
+            ], 
+            "corequisites": [
+                "SCI-1196", 
+                "SCI-1198"
+            ], 
+            "CR": "the former EASC 4700 or the former Geology 4700", 
+            "courseNumber": "3705", 
+            "OR": "field based course"
+        }, 
+        "SCI-1210": {
+            "PR": "EASC 1001 or 1002 and completion of any 15 credit hours in core courses at the 3000 and/or 4000 levels (see General Note 5) in Biology, Biochemistry, Chemistry, Earth Sciences, Physics, or Geography.", 
+            "courseDescription": "examines the geology and geophysics of ocean basins; discussion of methods of oceanic exploration, the history and development of ocean basins, interrelationships between ocean water, marine organisms, sedimentary and igneous processes.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Marine Geology", 
+            "prerequisites": [
+                "SCI-1149", 
+                "SCI-1150"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4302"
+        }, 
+        "SCI-1150": {
+            "PR": "EASC 1000", 
+            "courseDescription": "provides an introduction to a broad range of concepts concerning the development of the geological record and the Earth; practical methods for collection of field based data; topics in map interpretation and geometric analysis, stratigraphy, paleontology, structure and petrology. The course is presented with an emphasis on the development of practical skills needed to pursue a career in Earth Sciences.", 
+            "concurrent": [], 
+            "courseTitle": "Concepts and Methods in Earth Sciences", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1148"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "1002"
+        }, 
+        "SCI-1153": {
+            "PR": "EASC 1000 and 1002 , Chemistry 1011 (or 1051 or equivalent), Physics 1051 (or 1021 or 1054), and Mathematics 1000", 
+            "courseDescription": "provides an introduction to crystallography and the structure of minerals; introduction to crystal optics; study of the rock forming minerals and minerals of economic significance. Laboratory work comprises study of the structures and symmetries of minerals, chemistry of rock forming minerals, introduction to transmitted light microscopy of rocks, hand specimen recognition of common rocks and minerals.", 
+            "CO": "EASC 2502", 
+            "concurrent": [], 
+            "courseTitle": "Mineralogy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1148", 
+                "SCI-1150", 
+                "SCI-2568", 
+                "SCI-2569", 
+                "SCI-1815", 
+                "SCI-1577", 
+                "SCI-1337"
+            ], 
+            "corequisites": [
+                "SCI-1167"
+            ], 
+            "CR": "the former EASC 203A/B", 
+            "courseNumber": "2030"
+        }, 
+        "SCI-1224": {
+            "PR": "EASC 2401 , 3055 , 3420 , and 3905 ; and permission of the Head of the Department", 
+            "courseDescription": "is a two-week field school designed to allow application of techniques introduced in the third year, and to provide an introduction to the Appalachian geology of western and central Newfoundland. Reports must be submitted for grading during the fall semester.", 
+            "concurrent": [], 
+            "courseTitle": "Field Course in Geological Mapping and Regional Tectonics", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1186", 
+                "SCI-2251", 
+                "SCI-1198"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4905", 
+            "OR": "field based course"
+        }, 
+        "SCI-1155": {
+            "PR": "EASC 2030 , 2502 , Mathematics 1001", 
+            "courseDescription": "examines the optical and chemical properties of rock-forming minerals, the petrography and classification of igneous and metamorphic rocks and applications of relevant phase equilibria to the study of minerals. Laboratory work comprises optical mineralogy and petrography of igneous and metamorphic rocks.", 
+            "CO": "Mathematics 1001", 
+            "concurrent": [], 
+            "courseTitle": "Mineralogy and Petrography", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1153", 
+                "SCI-1167", 
+                "SCI-1339"
+            ], 
+            "corequisites": [
+                "SCI-1339"
+            ], 
+            "CR": "the former EASC 203A/B", 
+            "courseNumber": "2031"
+        }, 
+        "SCI-3242": {
+            "PR": "EASC 2502 , EASC 3600 , Mathematics 1001 , and one of Mathematics 2000 , Statistics 2550 , or the former Statistics 2510", 
+            "courseDescription": "is a field-based course normally offered during a special session immediately before the Fall semester followed by laboratory analytical work during the Fall semester. The aim of this course is to investigate anthropogenic impacts on the environment using geochemical, hydrological, and microbial methods. Emphasis is placed on site investigation, sample collection and preparation techniques, instrumental analysis, and data analyses.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Geoscience Field School", 
+            "prerequisites": [
+                "SCI-1167", 
+                "SCI-1192", 
+                "SCI-1339", 
+                "SCI-1354", 
+                "SCI-1452"
+            ], 
+            "AR": "attendance required", 
+            "corequisites": [], 
+            "courseNumber": "4605", 
+            "OR": "field-based course"
+        }, 
+        "SCI-1157": {
+            "courseDescription": "describes the basic astronomy of the Solar System, tracing the search to understand motion of the Sun, Moon and planets in the sky; modern observations of planets, moons, comets, asteroids and meteorites and what they tell us about the origin and evolution of the Solar System.", 
+            "concurrent": [], 
+            "courseTitle": "The Solar System", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Earth Sciences", 
+            "courseNumber": "2150"
+        }, 
+        "SCI-1216": {
+            "PR": "Physics 1051 (or 1021 ); Mathematics 2000 or Statistics 2550 or the former Statistics 2510; EASC 2502 and a minimum of 6 credit hours in Earth Sciences at the 3000 level", 
+            "courseDescription": "examines geology and its relationship to groundwater occurrence and exploitation: basic theory, groundwater flow systems, surface-groundwater interactions and changes in water quality, field and laboratory techniques, hydrogeological aspects of waste disposal and resource development.", 
+            "concurrent": [], 
+            "courseTitle": "Hydrogeology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1815", 
+                "SCI-1577", 
+                "SCI-1354", 
+                "SCI-1452", 
+                "SCI-1167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4610"
+        }, 
+        "SCI-2601": {
+            "PR": "EASC 3420", 
+            "courseDescription": "is a lecture and seminar course covering secular change and tectonic evolution in Earth history from the Archean to Mesozoic, featuring examples from the North American geological record. The course will draw on and link concepts from a variety of Earth Science disciplines and provide an overview of the geological evolution of North America in a tectonic context.", 
+            "concurrent": [], 
+            "courseTitle": "Tectonics and Crustal Evolution", 
+            "prerequisites": [
+                "SCI-2251"
+            ], 
+            "corequisites": [], 
+            "CR": "the former EASC 4901", 
+            "courseNumber": "4420", 
+            "OR": "seminar"
+        }, 
+        "SCI-1214": {
+            "PR": "EASC 3210", 
+            "courseDescription": "is an examination of the application of geochemistry to mineral exploration, covering: the lithogeochemical characteristics of ore deposits, their host rocks, and element dispersion from them; the principles of sampling and analysis in exploration geochemistry; approaches to the statistical analysis, graphical presentation, and interpretation of survey results; and the design of effective geochemical surveys. Particular emphasis will be placed on case studies relevant to exploration in Newfoundland and Labrador. Laboratory/seminar sessions involve working with exemplary data sets, using computer-based software for statistical analysis and software for searching large databases and viewing the spatial relationships of different types of map data relevant to the mineral exploration industry.", 
+            "concurrent": [], 
+            "courseTitle": "Mineral Exploration Geochemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1191"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4503", 
+            "OR": "seminar"
+        }, 
+        "SCI-1170": {
+            "PR": "EASC 1002 and an application to the Head of the Department", 
+            "courseDescription": "is based on approximately six days of geological mapping in Precambrian rocks near St. John's, and two days of in-class work preparing a digital map and written report. Emphasis is placed on the recognition and description of sedimentary and igneous rocks in the field, and techniques of geological mapping and the taking of field notes. This course will be given during a special session immediately preceding the fall semester.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Geological Mapping", 
+            "prerequisites": [
+                "SCI-1150"
+            ], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "CR": "the former EASC 2310 or the former EASC 2300", 
+            "courseNumber": "2905", 
+            "OR": "field based course"
+        }, 
+        "SCI-1177": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Earth's Material Resources: Past, Present and Future", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2915"
+        }, 
+        "SCI-1198": {
+            "PR": "EASC 2401 and 2905 and an application to the Head of the Department", 
+            "courseDescription": "is based on approximately 5 days of geological mapping in Precambrian rocks near St. John's. Emphasis is placed on application of techniques of structural analysis. Evenings will be dedicated to data analysis and preparation of structural maps and sections. Students are advised to complete this course immediately following EASC", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Field Methods in Structural Geology and Stratigraphy", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1170"
+            ], 
+            "AR": "attendance for all of the field school days is required. Failure to attend may result in a failing grade or withdrawal from the course.", 
+            "corequisites": [], 
+            "courseNumber": "3905", 
+            "OR": "field based course"
+        }, 
+        "SCI-1175": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "The Earth's Energy Resources: Past, Present and Future", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2914"
+        }, 
+        "SCI-1211": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Earth Science Concepts, Materials and Techniques for Archaeologists", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4310"
+        }, 
+        "SCI-1195": {
+            "PR": "EASC 2031 , 2702 and 2905", 
+            "courseDescription": "provides a conceptual and practical overview of the transformation of sediments into sedimentary rocks through compaction, cementation and mineral reactions, and the resultant modifications of rock composition, rock fabrics, and associated porous media characteristics (e.g. porosity). Both descriptive and analytical methods are integrated in laboratories that include carbonate and sandstone petrology (hand samples and thin sections), geological analysis of selected wireline logs, and the analysis of fluid reservoir properties.", 
+            "concurrent": [], 
+            "courseTitle": "Lithification, Diagenesis and Sedimentary Rock Properties", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1168", 
+                "SCI-1170"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3702"
+        }, 
+        "SCI-1179": {
+            "courseDescription": "describes the surface of the Earth being in a constant state of change, thereby posing risks and challenges for society. An understanding of geological processes in the past and present provides context for evaluating risks related to earthquakes, volcanic activity and mass movements, challenges related to water resources, land-use planning and waste disposal, and the background to interpret sources and consequences of climate change. The course will provide a broad perspective on contemporary issues facing society. This course is designed for students taking Earth Sciences as an elective subject. This course complements traditional disciplines such as history, economics, and political science and should be of particular interest to teachers.", 
+            "concurrent": [], 
+            "courseTitle": "Natural Hazards on a Dynamic Earth", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Earth Sciences.", 
+            "courseNumber": "2916"
+        }, 
+        "SCI-1196": {
+            "PR": "either Biology 2120 (or Biology 1001 and 1002 ) and EASC 1002 ; or Biology 2122 and 2210", 
+            "courseDescription": "outlines the major changes in life forms from Archean times through the Phanerozoic to the present day, including details of invertebrate and vertebrate faunas and major floral groups; mechanisms and effects of mega- and micro-evolution in the fossil record; biology and classification of organisms and summaries of their geological significance in biostratigraphy, paleoecology and rock-building; relationships between major cycles of evolution and extinction to global processes.", 
+            "concurrent": [
+                "SCI-0830"
+            ], 
+            "courseTitle": "Paleontology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-0781", 
+                "SCI-0772", 
+                "SCI-2567", 
+                "SCI-1150", 
+                "SCI-0787", 
+                "SCI-0789"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 3811 or either the former EASC 3801 or the former Biology 3800", 
+            "courseNumber": "3811"
+        }, 
+        "SCI-1191": {
+            "PR": "either EASC 2031 , 2502 and 2905 ; or EASC 2031 and Chemistry 3211 ; or Engineering 3610 and the former Engineering 3205", 
+            "courseDescription": "is an introduction to the study of mineral deposits and definition of the basic physio-chemical parameters of ore deposit formation. The course involves a systematic review of genetic models for the principal types of metallic mineral deposits, and links these models to a common theme of the relationship between lithosphere-hydrosphere-biosphere interactions and metallogeny. Laboratory exercises involve examination of representative suites of samples from different types of metallic mineral deposits and provide an introduction to the use of reflected light microscopy.", 
+            "concurrent": [], 
+            "courseTitle": "Economic Mineral Deposits", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1167", 
+                "SCI-1170", 
+                "SCI-1155", 
+                "SCI-0928", 
+                "ENGI-1256"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3210"
+        }, 
+        "SCI-3047": {
+            "courseDescription": "is an overview of Earth's dynamic past of episodes of supercontinent collision and breakup, massive flooding, global warming and freezing, magnetic field reversals and continents travelling over large distances. The evolution of life is tied to this history and has had equally dramatic turns of rich growth and catastrophic extinction. Discussion will be based on Canadian geology and includes an introduction to techniques used to decipher the rock record.", 
+            "concurrent": [], 
+            "courseTitle": "Earth's Story", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Earth Sciences.", 
+            "courseNumber": "2918"
+        }, 
+        "SCI-1193": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Engineering Geology", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3611"
+        }, 
+        "SCI-1192": {
+            "PR": "either EASC 2502 ; or EASC 1000 , Chemistry 2210 and Chemistry 2300", 
+            "courseDescription": "examines the application of basic concepts and fundamental principles of geochemistry in evaluating natural and human-induced change through time on the interaction of the Earth's lithosphere, hydrosphere, atmosphere and biosphere; includes the effects of contaminants on global change. Laboratory time will be used for short field- based studies and for exercises examining the effects of contaminants on global change.", 
+            "concurrent": [], 
+            "courseTitle": "Environmental Geology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1167", 
+                "SCI-1148", 
+                "SCI-0919", 
+                "SWGC-3096"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3600"
+        }, 
+        "SCI-1219": {
+            "PR": "EASC 3811 , and Statistics 2550 or the former Statistics 2510 or Mathematics 2000", 
+            "courseDescription": "(same as Biology", 
+            "concurrent": [
+                "SCI-0865"
+            ], 
+            "courseTitle": "Advanced Paleontology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1196", 
+                "SCI-1452", 
+                "SCI-1354"
+            ], 
+            "corequisites": [], 
+            "CR": "Biology 4800", 
+            "courseNumber": "4800"
+        }, 
+        "SCI-3702": {
+            "PR": "EASC 1000", 
+            "courseDescription": "(same as Ocean Sciences", 
+            "concurrent": [
+                "SCI-3703"
+            ], 
+            "courseTitle": "Introduction to Marine Geology", 
+            "prerequisites": [
+                "SCI-1148"
+            ], 
+            "corequisites": [], 
+            "CR": "Ocean Sciences 2200", 
+            "courseNumber": "2919"
+        }, 
+        "SCI-2251": {
+            "PR": "EASC 2031 , 2401 , 2502 , 2702 , Mathematics 1000 and 1001 , Physics 1021 or 1051", 
+            "courseDescription": "examines how horizontal and vertical motions of the Earth&rsquo;s surface are influenced by heat and mass transfer within its interior. Surface motions are described qualitatively and quantitatively within the framework of plate tectonics, and used to identify major controls on the igneous, metamorphic and sedimentary rock records. Laboratory exercises emphasize geologic and geophysical applications of the material developed in lectures.", 
+            "concurrent": [], 
+            "courseTitle": "Global Tectonic Processes", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1162", 
+                "SCI-1167", 
+                "SCI-1168", 
+                "SCI-1337", 
+                "SCI-1339", 
+                "SCI-1577", 
+                "SCI-1815"
+            ], 
+            "corequisites": [], 
+            "CR": "the former EASC 2070, 2161, 2400 and 4901", 
+            "courseNumber": "3420"
+        }, 
+        "SCI-1190": {
+            "PR": "Mathematics 2000 , Physics 2055 and 2820", 
+            "courseDescription": "covers subjects required for quantitative analysis of geophysical phenomena. Vector calculus with emphasis on integral theorems is covered in the context of Maxwell's equations; Derivations and solutions of ordinary and partial differential equations with emphasis on hyperbolic, parabolic and elliptic equations in the context of the wave, heat, and potential-field equations, respectively; tensor algebra and analysis in the context of theory of elasticity and electromagnetism; Fourier analysis as a tool for solution of differential equations and signal analysis. The course may also include such topics as the calculus of variations, curvilinear coordinates on differentiable manifolds, differentiation in the sense of distributions.", 
+            "concurrent": [], 
+            "courseTitle": "Mathematical Methods for Geophysics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1354", 
+                "SCI-1583", 
+                "SCI-1587"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3179"
+        }, 
+        "SCI-1148": {
+            "courseDescription": "is a survey of the structure, function and interrelations of Earth's lithosphere, hydrosphere, atmosphere and biosphere. Topics include an exploration of the physical and chemical properties of planetary materials, forces driving and sustaining Earth systems, and biological modifiers (including humankind) on the Earth today.", 
+            "concurrent": [], 
+            "courseTitle": "Earth Systems", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1000"
+        }, 
+        "SCI-3052": {
+            "PR": "EASC 2031 , 2702 , 2905 , and 3420", 
+            "courseDescription": "is a classroom- and laboratory-based course that provides students with a basic knowledge of the geology of the Moon, Mars, asteroids and the moons of the satellites of the outer solar system; the petrology and geochemistry of meteorites and their importance to understanding the origin of the planets; impact cratering processes and rock products including those on Earth; and instrumentation for planetary exploration. The course combines lectures and laboratory exercises that examine data sets from planetary missions and specimens of extraterrestrial materials. Students learn how geological processes that have shaped Earth also have operated on other planets, moons and asteroids in our solar system.", 
+            "concurrent": [], 
+            "courseTitle": "Planetary Geology", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1168", 
+                "SCI-1170", 
+                "SCI-2251"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4912"
+        }, 
+        "SCI-2253": {
+            "PR": "EASC 2031 , 2702 , and 3811", 
+            "courseDescription": "examines carbonate environments and their facies models with examples from modern and ancient settings. Diagenetic environments and diagenetic controls on rock properties, particularly porosity, are examined, as well as their application in the reconstruction of the diagenetic history of a sedimentary basin and in the characterization of hydrocarbon reservoirs. The application of chemostratigraphy to correlation is discussed. The laboratory exercises apply hand specimen, thin section and geochemical methods to investigate carbonates from different depositional settings and a wide spectrum of diagenetic environments covered in lectures", 
+            "CO": "EASC 3811", 
+            "concurrent": [], 
+            "courseTitle": "Carbonate Depositional Environments and Diagenesis", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1168", 
+                "SCI-1196"
+            ], 
+            "corequisites": [
+                "SCI-1196"
+            ], 
+            "courseNumber": "4720"
+        }, 
+        "SCI-1149": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Evolution of Earth Systems", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "1001"
+        }, 
+        "SCI-3683": {
+            "PR": "6 credit hours in Earth Sciences or Physical Geography courses at the 3000-level; or permission of the instructor", 
+            "courseDescription": "(same as Archaeology", 
+            "concurrent": [
+                "ARTS-5625", 
+                "ARTS-6189"
+            ], 
+            "courseTitle": "Environmental Change and Quaternary Geography", 
+            "LH": "3", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "CR": "Archaeology 4150 , Geography 4150", 
+            "courseNumber": "4703"
+        }, 
+        "SCI-3682": {
+            "PR": "EASC 2905 or Geography 2102 ; Mathematics 1000", 
+            "courseDescription": "(same as Geography", 
+            "concurrent": [
+                "ARTS-6163"
+            ], 
+            "courseTitle": "Geomorphology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1170", 
+                "ARTS-6150", 
+                "SCI-1337"
+            ], 
+            "corequisites": [], 
+            "CR": "Geography 3150", 
+            "courseNumber": "3700"
+        }, 
+        "SCI-1209": {
+            "PR": "EASC 3054 or 3055 ; and 3210", 
+            "courseDescription": "provides a detailed look at the methodologies and techniques used in the study of mineral deposits and their applications in case histories. Laboratory exercises involve solving problem sets using the various types of data from selected case studies.", 
+            "concurrent": [], 
+            "courseTitle": "Economic Geology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1184", 
+                "SCI-1186", 
+                "SCI-1191"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4211"
+        }, 
+        "SCI-1208": {
+            "PR": "EASC 3170 , 3172 , and 3179", 
+            "courseDescription": "is an introduction to the theory and basic computational techniques of digital signal processing in geophysics. Topics covered include: sampling, Fourier transformation, design and application of digital filters, deconvolution, spectral analysis, two dimensional signal processing, with emphasis on geophysical applications.", 
+            "concurrent": [], 
+            "courseTitle": "Digital Signal Processing", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1188", 
+                "SCI-1189", 
+                "SCI-1190"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4179"
+        }, 
+        "SCI-1203": {
+            "PR": "EASC 3054 and 3420", 
+            "courseDescription": "investigates the origin of topical and important groups of igneous rocks based on experimental petrology, phase equilibria and application of geochemical tools. It further investigates the classification of igneous rocks, including the study of volcaniclastic rocks and aspects of physical volcanology. The laboratory component of the course emphasizes practical aspects of igneous petrology including geochemical characterization and use of hand-sample and field criteria.", 
+            "concurrent": [], 
+            "courseTitle": "Petrogenesis of Igneous Rocks", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1184", 
+                "SCI-2251"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4053"
+        }, 
+        "SCI-1205": {
+            "PR": "EASC 3170 , 3172 and Mathematics 2000", 
+            "courseDescription": "is a field based course with an emphasis on environmental and mineral exploration applications. It consists of a data collection module normally offered during a special session immediately before the Fall semester, followed by a processing and interpretation module during the first part of the Fall semester. Field techniques used may include ground probing radar, refraction seismology, magnetic surveying, gravimetry, electrical and electro-magnetic methods. For computer based processing, students make use of modern mapping and geophysical software.", 
+            "concurrent": [], 
+            "courseTitle": "Field Course in Applied Geophysics", 
+            "prerequisites": [
+                "SCI-1188", 
+                "SCI-1189", 
+                "SCI-1354"
+            ], 
+            "AR": "attendance required", 
+            "corequisites": [], 
+            "courseNumber": "4105", 
+            "OR": "field-based course"
+        }, 
+        "SCI-1204": {
+            "PR": "EASC 2401 , 3055 and 3420", 
+            "courseDescription": "examines relationships between metamorphism and tectonics, representation and interpretation of metamorphic mineral assemblages using compositional phase diagrams and petrogenetic grids; equilibrium thermodynamics and thermobarometry; determination of P-T-t paths. Laboratories include use of the electron microprobe to collect data for use in calculations of the conditions of formation of metamorphic assemblages, and various types of software applicable to metamorphic petrology.", 
+            "concurrent": [], 
+            "courseTitle": "Metamorphic Petrology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1186", 
+                "SCI-2251"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4054"
+        }, 
+        "SCI-1207": {
+            "PR": "EASC 3170 , 3172 , 4179 , and Physics 2820", 
+            "courseDescription": "examines advanced techniques in electrical and electromagnetic exploration methods including advanced IP, airborne EM surveys, EM and IP modelling, and inversion techniques; advanced methods in gravity and magnetic field exploration techniques including 2 &frac12;-D and 3-D modelling and inversion, map processing techniques, and excess mass determination.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Electrical, Electromagnetic and Potential Fields Methods", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1188", 
+                "SCI-1189", 
+                "SCI-1208", 
+                "SCI-1587"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4173"
+        }, 
+        "SCI-1206": {
+            "PR": "EASC 3170 and 4179", 
+            "courseDescription": "examines techniques involved in the acquisition, processing and interpretation of multichannel seismic reflection data. Introduction to elastic properties of rocks. Introduction to advanced processing and interpretation techniques as applied to qualitative and quantitative evaluation of hydrocarbon reservoir characteristics. This course has a laboratory component designed to provide hands-on experience with data processing and interpretation.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Seismology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1188", 
+                "SCI-1208"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4171"
+        }, 
+        "SCI-1223": {
+            "PR": "EASC 1001 or 1002 , and Biology 2120 (or Biology 1001 and 1002 ); and completion of any 15 credit hours in core courses at the 3000 and/or 4000 levels (see General Note 5) in Biology, Biochemistry, Chemistry, Earth Sciences, or Physics; or permission of the instructor.", 
+            "courseDescription": "is a lecture and seminar course that studies the interaction of the atmosphere, biosphere and lithosphere; topics covered include the evolution of the biosphere, fluid circulation, global geochemical budget, global environmental changes, and chemical evolution of the hydrosphere.", 
+            "concurrent": [], 
+            "courseTitle": "Global Change", 
+            "prerequisites": [
+                "SCI-1149", 
+                "SCI-1150", 
+                "SCI-0781", 
+                "SCI-0772", 
+                "SCI-2567"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4903", 
+            "OR": "seminar"
+        }, 
+        "SCI-1222": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Early Evolution of the Earth", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4902"
+        }, 
+        "SCI-1188": {
+            "PR": "Physics 1051 (or 1021 or the former 1054); Mathematics 1001 ; Mathematics 2000 or Statistics 2550 or the former Statistics 2510; EASC 2905 or permission of the Head of the Department for students following a Minor in Earth Sciences or a Major in Environmental Physics", 
+            "courseDescription": "examines fundamentals of seismic energy transmission in the Earth; basic methods in seismic exploration - data acquisition, processing and interpretation for refraction and reflection surveys; fundamentals of gravity and magnetic data acquisition, processing and interpretation; introduction to gravity and magnetic modelling.", 
+            "concurrent": [], 
+            "courseTitle": "Seismic and Potential Fields Methods in Geophysics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1815", 
+                "SCI-1577", 
+                "SCI-1339", 
+                "SCI-1354", 
+                "SCI-1452", 
+                "SCI-1170"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3170"
+        }, 
+        "SCI-1189": {
+            "PR": "Physics 1051 (or 1021 or the former 1054); Mathematics 1001 ; Mathematics 2000 or Statistics 2550 or the former Statistics 2510; EASC 2905 or permission of the Head of the Department for students following a Minor in Earth Sciences or a Major in Environmental Physics", 
+            "courseDescription": "is an introduction to electrical and electromagnetic methods in geophysics applied in mineral exploration, petroleum well logging and environmental studies, and examples of application of various techniques; use of data processing and modelling techniques in interpretation; introduction to radiometric methods used in mineral and petroleum exploration. The laboratory component involves outdoor surveys using geophysical equipment, and computer-based presentation and analysis of collected data using modern geophysical software.", 
+            "CO": "EASC 2905 or permission of the Head of the Department", 
+            "concurrent": [], 
+            "courseTitle": "Electric and Electromagnetic Methods in Geophysics", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1815", 
+                "SCI-1577", 
+                "SCI-1339", 
+                "SCI-1354", 
+                "SCI-1452", 
+                "SCI-1170"
+            ], 
+            "AR": "attendance is required in the laboratory component of this course. Failure to attend may result in a failing grade or deregistration from the course.", 
+            "corequisites": [
+                "SCI-1170"
+            ], 
+            "courseNumber": "3172"
+        }, 
+        "SCI-1227": {
+            "PR": "admission to the Honours program", 
+            "courseDescription": "is an independent study of an approved problem in the Earth Sciences. The subject of study will be decided in consultation with Faculty Advisors and must be approved in advance by the Head of Department. The first semester will normally involve directed reading, supervised field and/or laboratory work, and preparation of a dissertation outline and draft of a first chapter of the thesis. The second semester will be devoted to data synthesis and interpretation, to a seminar presenting the thesis results, and to preparation of a formal written report accompanied by appropriate illustrations, to be submitted for grading one week before the end of classes.", 
+            "CH": "6", 
+            "concurrent": [], 
+            "courseTitle": "Dissertation", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "The dissertation cannot be based on the same study used to obtain credit for EASC 4950 . May be used as Science credits by students not int the Honours program with permission of the Head of the Department.", 
+            "courseNumber": "499A and 499B"
+        }, 
+        "SCI-1226": {
+            "PR": "completion of 9 credit hours in Earth Sciences at 3000 level, and permission of the Head of Department", 
+            "courseDescription": "requires the preparation of a publication-quality technical report, about 50 pages in length, based on a study undertaken during geoscience employment. The topic and scope of the study must be approved by the Head of Department prior to its commencement. Students will present a seminar or seminars on results of the project, and will be closely advised on proper organization and writing of scientific reports. Some directed reading will be required.", 
+            "concurrent": [], 
+            "courseTitle": "Technical Report on Geoscience Employment", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "can only be used as an \"additional course\" under point 3. of the regulations for General degrees, and under point 4. of the regulations for Honours degrees. The same study cannot be used as the basis of a dissertation completed for course EASC 499A /B.", 
+            "courseNumber": "4950"
+        }, 
+        "SCI-1225": {
+            "PR": "permission of the Head of Department", 
+            "courseDescription": "are lecture and seminar courses given for undergraduates in their fourth or fifth year who wish to gain more specialized knowledge in a particular field of Earth Sciences than is possible through the standard course offerings. The Department will consider suggestions by students for Special Topics courses, but it must be borne in mind that such a course should normally be approved at least three months before the start of the semester in which it is to be taken.", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Earth Sciences", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4910-4920 (Excluding 4912)"
+        }, 
+        "SCI-1167": {
+            "PR": "EASC 1000 and 1002 , Chemistry 1011 (or 1051 or equivalent)", 
+            "courseDescription": "provides an overview of both low- and high-temperature geochemistry. Topics include: origin and classification of the elements; chemical differentiation of the solar system and solid Earth; aqueous geochemistry and the stability of minerals; radiogenic and stable isotopes. Geochemical concepts are illustrated using data and processes drawn from Earth systems. The laboratory component emphasizes the development of numerical skills needed in geochemistry.", 
+            "CO": "Mathematics 1001", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Geochemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1148", 
+                "SCI-1150", 
+                "SCI-2568", 
+                "SCI-2569"
+            ], 
+            "corequisites": [
+                "SCI-1339"
+            ], 
+            "courseNumber": "2502"
+        }, 
+        "SCI-1168": {
+            "PR": "EASC 1002", 
+            "courseDescription": "is a study of the origin and composition of sediments with a focus on depositional processes and resulting sedimentary structures. Study of environments of deposition and the stratigraphic framework of sedimentary successions. Laboratories involve local field trips, petrographic analysis, and the study of hand samples of sedimentary rocks.", 
+            "concurrent": [], 
+            "courseTitle": "Sedimentology and Stratigraphy", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1150"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Geology 3070 or the former EASC 3070 or the former EASC 3701", 
+            "courseNumber": "2702"
+        }, 
+        "SCI-1183": {
+            "PR": "EASC 2031 or permission of the instructor", 
+            "courseDescription": "provides a review of elementary crystallography, introduction to space groups and crystal structures, bonding, properties of metals, semiconductors and insulators, crystallographic aspects of order-disorder, solid solution and mixing. Crystal growth, chemical zoning and diffusion. Phase changes in the solid state (exsolution, polymorphism and polytypism). Students will be introduced to the techniques used to study solids (X-ray diffraction, scanning and transmission electron microscopy, electron-microprobe analysis, luminescence, and computer simulation). Laboratory work will emphasize practical skills using these techniques. Examples will be chosen from among minerals, ceramics, semiconductors, metals and glass, making the course suitable for Earth Scientists, Engineers, Chemists and Physicists.", 
+            "concurrent": [], 
+            "courseTitle": "Mineralogy and Materials Science", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3030"
+        }, 
+        "SCI-1186": {
+            "PR": "EASC 2031 and 2502 , Mathematics 1001", 
+            "courseDescription": "is an integrated course dealing with the geochemistry, origin and classification of metamorphic rocks. Topics include thermodynamic background and kinetics (transfer of mass and energy in geochemical systems of the Earth's interior, thermodynamic laws, phase equilibria, solid-solid reactions, reaction rates); metamorphic facies, field gradients, isograds and reactions; mineral assemblages and textures of common metamorphic rocks. Laboratories include thermodynamic and phase diagram problems, hand specimen and thin section studies.", 
+            "concurrent": [], 
+            "courseTitle": "Thermodynamics and Metamorphic Petrology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1167", 
+                "SCI-1339"
+            ], 
+            "corequisites": [], 
+            "CR": "the former EASC 3053 in combination with the former 2503", 
+            "courseNumber": "3055"
+        }, 
+        "SCI-1184": {
+            "PR": "EASC 2031 and 2502", 
+            "courseDescription": "is an integrated course dealing with the geochemistry, origin and classification of igneous rocks. Topics include trace element geochemistry; physical properties of magmas, physical and chemical processes in magma chambers (fractional crystallization, differentiation, assimilation and partial melting), phase equilibria and application to magmas, petrology of the mantle, and igneous rocks of specific tectonic settings (oceanic lithosphere, continental margins, continental lithosphere). Laboratories include geochemical calculations and examination of rock samples and thin sections.", 
+            "concurrent": [], 
+            "courseTitle": "High-Temperature Geochemistry and Igneous Petrology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1167"
+            ], 
+            "corequisites": [], 
+            "CR": "the former EASC 3053 in combination with the former 2503", 
+            "courseNumber": "3054"
+        }, 
+        "SCI-2261": {
+            "courseDescription": "introduces students to precious and semi-precious stones both from the perspective of their nature and origin and from the perspectives of geography and the socio-political issues of mining, recovery, trade and cartels. The properties that confer value upon gems (colour, clarity, cut and carat), the techniques used to enhance, fake and imitate gems and the techniques used to detect fraudulent &ldquo;gems&rdquo; will be covered. The course will include discussion of the diamond industry in Canada and consideration of some famous gems. This course is designed for students taking Earth Sciences as an elective subject. This course complements traditional disciplines such as history, economics, and political science and should be of particular interest to teachers.", 
+            "concurrent": [], 
+            "courseTitle": "Gems: The Science and Politics", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "not acceptable as one of the required courses for the Minor, Major or Honours programs in Earth Sciences.", 
+            "courseNumber": "2917"
+        }, 
+        "SCI-1811": {
+            "PR": "EASC 2401 , 2702 , 3170 and 3420", 
+            "courseDescription": "provides a review of sedimentary basin types and associated petroleum systems including concepts applicable to petroleum generation, migration and accumulation. Regional-scale stratigraphic and structural concepts/models are presented as a framework for hydrocarbon fluid flow and entrapment. Laboratories include description and analysis of data typical of basin- and regional-scale exploration and appraisal of hydrocarbon resources using a variety of integrated, interdisciplinary techniques (geological, geophysical and geochemical).", 
+            "concurrent": [], 
+            "courseTitle": "Sedimentary Basins and Hydrocarbon Exploration", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1168", 
+                "SCI-1188", 
+                "SCI-2251"
+            ], 
+            "corequisites": [], 
+            "CR": "EASC 4601", 
+            "courseNumber": "4602"
+        }, 
+        "SCI-1813": {
+            "PR": "EASC 2401 , 2702 , 3170 and 3702", 
+            "courseDescription": "provides a review of the sedimentary, stratigraphic and structural setting of hydrocarbon reservoirs and the geological controls on reservoir quality. Reservoir types and methods of study are presented to evaluate their key properties for the development and production of hydrocarbons. Laboratories include detailed subsurface correlation and mapping, log analysis, interpretation of reservoir data (e.g. capillary pressure, porosity, permeability and production data).", 
+            "concurrent": [
+                "SCI-1215"
+            ], 
+            "courseTitle": "Reservoir Characterization", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1168", 
+                "SCI-1188", 
+                "SCI-1195"
+            ], 
+            "corequisites": [], 
+            "CR": "EASC 4601", 
+            "courseNumber": "4603"
+        }, 
+        "SCI-1162": {
+            "PR": "EASC 2905 or (for students following a Minor in Earth Sciences) permission of the Head of the Department", 
+            "courseDescription": "provides an introduction to basic concepts; the physics of rock deformation, the classification and descriptive geometry of major and minor structures and their relationship to stress and strain. Laboratory work will concentrate on analysis of structural orientation data, and the analysis of structures in geological maps and cross-sections. Earth Sciences majors are advised to complete field course, EASC", 
+            "concurrent": [], 
+            "courseTitle": "Structural Geology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1170"
+            ], 
+            "corequisites": [], 
+            "CR": "the former Geology 3120 or the former EASC 3120 or the former EASC 3400", 
+            "courseNumber": "2401"
+        }, 
+        "SCI-1215": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Petroleum Origin and Occurrence", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "4601"
+        }, 
+        "SCI-1212": {
+            "PR": "EASC 2401 and 3905 and a minimum of 6 credit hours in Earth Sciences at the 3000 level", 
+            "courseDescription": "examines modern techniques of structural analysis applied to fold and fault systems including progressive deformation and strain analysis, fold mechanisms, fold morphology and classification, fold sections and profiles, superposed folding, fault geometry and morphology, brittle and ductile shear zones, and construction of balanced cross-sections.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Techniques in Structural Geology", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1162", 
+                "SCI-1198"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4400"
+        }, 
+        "SCI-1213": {
+            "PR": "EASC 2031 and 2502 and a minimum of 6 credit hours in Earth Sciences at the 3000 level", 
+            "courseDescription": "focuses primarily on the application of trace, radiogenic and stable isotope geochemistry to constrain the origin, mass balance and chemical fluxes within the Earth's lithosphere and asthenosphere. The course permits students to complete assignments in aspects of geochemistry that reflect their career interests.", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Geochemistry", 
+            "LH": "3", 
+            "prerequisites": [
+                "SCI-1155", 
+                "SCI-1167"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4502"
+        }
+    }
+}

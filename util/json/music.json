@@ -1,0 +1,709 @@
+{
+    "MUSIC": {
+        "MUSIC-0248": {
+            "PR": "MUS 2700 ; open only to students whose Principal Applied Study is Voice and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Lyric Diction II", 
+            "prerequisites": [
+                "MUSIC-0247"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "2701"
+        }, 
+        "MUSIC-0249": {
+            "PR": "MUS 240A/B , successful completion of MUS 1006 , 1108 , 1118 , and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "4", 
+            "CO": "one of MUS 2611-2620 in accordance with Ensemble II under the Core Program", 
+            "concurrent": [
+                "MUSIC-0254"
+            ], 
+            "courseTitle": "Principal Applied Study III", 
+            "prerequisites": [
+                "MUSIC-0237", 
+                "MUSIC-1012", 
+                "MUSIC-0320", 
+                "MUSIC-0325"
+            ], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [], 
+            "CR": "MUS 345A /B", 
+            "courseNumber": "340A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0527": {
+            "PR": "an audition and admission to the Bachelor of Music Degree program. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "is an introduction to principles and practices in chamber music performance with an overview of repertoire research methods.", 
+            "CH": "1", 
+            "CO": "first registration in MUS 3511 or 3512", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Music Seminar", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [
+                "MUSIC-0258", 
+                "MUSIC-0259"
+            ], 
+            "CR": "the former MUS 3510", 
+            "courseNumber": "3500"
+        }, 
+        "MUSIC-0474": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires six hours rehearsal per week.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Opera Workshop", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 16 credit hours; available for credit only to students who successfully audition for participation in the ensemble; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2617"
+        }, 
+        "MUSIC-0477": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires 15 hours of rehearsal per semester.", 
+            "CH": "1 credit hour per two semesters", 
+            "concurrent": [], 
+            "courseTitle": "Jazz Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 4 credit hours; available for credit only to students who successfully audition for participation in the ensemble; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "265A/B"
+        }, 
+        "MUSIC-0476": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires 15 hours of rehearsal per semester.", 
+            "CH": "1 credit hour per two semesters", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Orchestra", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 4 credit hours; available for credit only to students who successfully audition for participation in the ensemble; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "263A/B"
+        }, 
+        "MUSIC-0242": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Choir", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2612"
+        }, 
+        "MUSIC-0243": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Orchestra", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2613"
+        }, 
+        "MUSIC-0266": {
+            "PR": "MUS 240B or permission of the instructor, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is an applied course for singers and instrumentalists, which aims to integrate the theory and practice of jazz. Jazz styles and improvisation will be explored through listening (recordings and live performance), imitation, and improvisation of selected jazz standards.", 
+            "concurrent": [], 
+            "courseTitle": "Jazz Styles and Improvisation", 
+            "prerequisites": [
+                "MUSIC-0237"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3711"
+        }, 
+        "MUSIC-0241": {
+            "PR": "approval of the instructor", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Festival Choir", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 10 credit hours; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2611"
+        }, 
+        "MUSIC-0246": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Opera Workshop", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours; available for credit only to students who successfully audition for participation in the ensemble; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2616"
+        }, 
+        "MUSIC-0247": {
+            "PR": "open only to students whose Principal Applied Study is Voice and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a study of English, German, French and Italian lyric diction. The International Phonetic Alphabet will be introduced and applied to singing in these four languages.", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Lyric Diction I", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2700"
+        }, 
+        "MUSIC-0244": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Concert Band", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "2614"
+        }, 
+        "MUSIC-0245": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Jazz Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours; available for credit only to students who successfully audition for participation in the ensemble; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2615"
+        }, 
+        "MUSIC-0270": {
+            "PR": "admission to the Bachelor of Music Degree program. Open only to students whose Principal Applied Study is a string instrument; others by permission of the Dean.", 
+            "courseDescription": "has topics selected from: issues of string performance practice, history of string instruments, string literature and pedagogy, performance anxiety, comparative performances of string repertoire, and other issues of special relevance to string players.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "String Seminar", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 2 credit hours", 
+            "courseNumber": "3742"
+        }, 
+        "MUSIC-0268": {
+            "PR": "admission to the Bachelor of Music Degree program. Open only to students whose Principal Applied Study is a brass instrument; others by permission of the Dean.", 
+            "courseDescription": "has topics selected from: issues of brass performance practice, history of brass instruments, brass literature and pedagogy, performance anxiety, comparative performances of brass repertoire, and other issues of special relevance to brass players.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Brass Seminar", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 2 credit hours", 
+            "courseNumber": "3722"
+        }, 
+        "MUSIC-0526": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Wind Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credits in 2619 or a combination of 2614 and 2619; not applicable as an elective under the Bachelor of Arts program; students in the Faculty of Education should consult the Office of Student Services in the Faculty of Education regarding applicability of this course to their education degree program.", 
+            "courseNumber": "2619"
+        }, 
+        "MUSIC-0264": {
+            "courseDescription": "- inactive course.", 
+            "concurrent": [], 
+            "courseTitle": "Music Theatre Workshop", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "courseNumber": "3605"
+        }, 
+        "MUSIC-0237": {
+            "PR": "MUS 140A/B and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "4", 
+            "CO": "one of MUS 2611-2620 in accordance with Ensemble II under the Core Program", 
+            "concurrent": [], 
+            "courseTitle": "Principal Applied Study II", 
+            "prerequisites": [
+                "MUSIC-0235"
+            ], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [], 
+            "courseNumber": "240A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0235": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "requires one hour per week of individual instruction (vocal or instrumental).", 
+            "CH": "4", 
+            "CO": "in each semester for students whose applied study is voice, piano, organ or guitar: one of MUS 2611, 2612 and in each semester for all other applied studies: one of MUS 2611 or 2612 , and one of MUS 2613 , 2614, 2615 , 2619 , 2620", 
+            "concurrent": [], 
+            "courseTitle": "Principal Applied Study I", 
+            "prerequisites": [], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [
+                "MUSIC-0241", 
+                "MUSIC-0242", 
+                "MUSIC-0243", 
+                "MUSIC-0245", 
+                "MUSIC-0526", 
+                "MUSIC-0604"
+            ], 
+            "courseNumber": "140A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0259": {
+            "PR": "permission of the instructor and admission to the Bachelor of Music Degree program; repertoire to be performed must be approved prior to registration", 
+            "courseDescription": "requires the ensemble to prepare and perform a recital of 18-22 minutes of music. Each ensemble receives nine hours of coaching in preparation for the performance.", 
+            "CH": "2 per semester", 
+            "CO": "MUS 3500 for first registration in MUS 3511 or 3512", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Music", 
+            "prerequisites": [], 
+            "AR": "attendance is required at all coachings and masterclasses", 
+            "corequisites": [
+                "MUSIC-0527", 
+                "MUSIC-0258"
+            ], 
+            "UL": "may only obtain a maximum of 12 credit hours", 
+            "courseNumber": "3512"
+        }, 
+        "MUSIC-0258": {
+            "PR": "permission of the instructor and admission to the Bachelor of Music Degree program; repertoire to be performed must be approved prior to registration", 
+            "courseDescription": "requires the ensemble to prepare and perform a recital of 10-15 minutes of music. Each ensemble receives six hours of coaching in preparation for the performance.", 
+            "CH": "1 per semester", 
+            "CO": "MUS 3500 for first registration in MUS 3511 or 3512", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Music", 
+            "prerequisites": [], 
+            "AR": "attendance is required at all coachings and masterclasses", 
+            "corequisites": [
+                "MUSIC-0527", 
+                "MUSIC-0259"
+            ], 
+            "UL": "may only obtain a maximum of 8 credit hours", 
+            "courseNumber": "3511"
+        }, 
+        "MUSIC-0485": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a coached activity exploring improvisation and/or contemporary repertoire for mixed ensembles. This ensemble requires 2 hours of rehearsal per week.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Contemporary Music/Improvisation Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 6 credit hours", 
+            "courseNumber": "3518"
+        }, 
+        "MUSIC-0267": {
+            "PR": "MUS 240A/B and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is an introduction to the art and practice of Improvisation through guided ensemble exploration and performance, score study and the application of contemporary performance practice.", 
+            "concurrent": [], 
+            "courseTitle": "Improvisation", 
+            "prerequisites": [
+                "MUSIC-0237"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "3712"
+        }, 
+        "MUSIC-0604": {
+            "PR": "an audition. Contact the instructor or the School of Music office before the beginning of the semester regarding the audition.", 
+            "courseDescription": "requires three hours rehearsal per week.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Instrumental Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours", 
+            "courseNumber": "2620"
+        }, 
+        "MUSIC-0260": {
+            "PR": "permission of the instructor and admission to the Bachelor of Music Degree program; repertoire to be performed must be approved prior to registration", 
+            "courseDescription": "requires the ensemble to prepare and perform a recital of 25-30 minutes of music. Each ensemble receives twelve hours of coaching in preparation for the performance.", 
+            "CH": "3 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Chamber Music", 
+            "prerequisites": [], 
+            "AR": "attendance is required at all coachings and masterclasses", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 18 credit hours", 
+            "courseNumber": "3513"
+        }, 
+        "MUSIC-0279": {
+            "PR": "MUS 340A/B , successful completion of MUS 2006 , 2108 , and 2118 , and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "4", 
+            "CO": "one of MUS 2611-2620 in accordance with Ensemble I I listed under the Core Program", 
+            "concurrent": [
+                "MUSIC-0284"
+            ], 
+            "courseTitle": "Principal Applied Study IV", 
+            "prerequisites": [
+                "MUSIC-0249", 
+                "MUSIC-1014", 
+                "MUSIC-0334", 
+                "MUSIC-0337"
+            ], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [], 
+            "CR": "MUS 445A /B", 
+            "courseNumber": "440A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0410": {
+            "PR": "MUS 140B or permission of the instructor, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is designed to provide students with a basic knowledge of resources and pedagogical approaches used in piano studio teaching at various levels. May include guest masterclasses and lectures.", 
+            "CO": "MUS 140B or permission of the instructor", 
+            "concurrent": [], 
+            "courseTitle": "Piano Pedagogy", 
+            "prerequisites": [
+                "MUSIC-0235"
+            ], 
+            "corequisites": [
+                "MUSIC-0235"
+            ], 
+            "CR": "the former MUS 3772", 
+            "courseNumber": "3774"
+        }, 
+        "MUSIC-0484": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a coached activity exploring one or more world music repertoires. This ensemble requires 2 hours of rehearsal per week.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "World Music Ensemble", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 6 credit hours", 
+            "courseNumber": "3517"
+        }, 
+        "MUSIC-0254": {
+            "PR": "MUS 240A/B , successful completion of MUS 1006 , 1108 , and 1118 , and admission to the Bachelor of Music Degree program; open only to Performance Majors", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "6", 
+            "CO": "one of MUS 2611-2620 in accordance with Ensemble II under the Core Program", 
+            "concurrent": [
+                "MUSIC-0249"
+            ], 
+            "courseTitle": "Principal Applied Study III - Performance", 
+            "prerequisites": [
+                "MUSIC-0237", 
+                "MUSIC-1012", 
+                "MUSIC-0320", 
+                "MUSIC-0325"
+            ], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [], 
+            "CR": "MUS 340A/B", 
+            "courseNumber": "345A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0261": {
+            "PR": "permission of the Dean and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a conducted ensemble requiring two hours per week of rehearsal.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Small Ensemble", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 6 credit hours", 
+            "courseNumber": "3514"
+        }, 
+        "MUSIC-1003": {
+            "PR": "Music 140B in voice, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "provides a thorough study of the anatomy. physiology and acoustics of the vocal tract and singing voice as well as a practical application of these topics.", 
+            "concurrent": [], 
+            "courseTitle": "Vocal Pedagogy", 
+            "prerequisites": [
+                "MUSIC-0235"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 3761, 3762, 3763", 
+            "courseNumber": "3764"
+        }, 
+        "MUSIC-1002": {
+            "PR": "MUS 140B and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is an exploration of careers in music. Topics may include preparation of CVs, resumes, cover letters, business plans, grant applications, web sites, press kits and other promotional materials, tax, legal and business issues in the arts; and the study of successful arts enterprises.", 
+            "concurrent": [], 
+            "courseTitle": "Career Skills for Musicians", 
+            "prerequisites": [
+                "MUSIC-0235"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 3703", 
+            "courseNumber": "3704"
+        }, 
+        "MUSIC-1001": {
+            "PR": "MUS 3411 , permission of the instructor for students whose Principal Applied Study is not a keyboard instrument, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Functional Keyboard IV", 
+            "prerequisites": [
+                "MUSIC-1000"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 2138", 
+            "courseNumber": "3412"
+        }, 
+        "MUSIC-1000": {
+            "PR": "MUS 2412 , permission of the instructor for students whose Principal Applied Study is not a keyboard instrument, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "0", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Functional Keyboard III", 
+            "prerequisites": [
+                "MUSIC-0997"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 2137", 
+            "courseNumber": "3411"
+        }, 
+        "MUSIC-0269": {
+            "PR": "admission to the Bachelor of Music Degree program. Open only to students whose Principal Applied Study is a woodwind instrument; others by permission of the Dean.", 
+            "courseDescription": "has topics selected from: issues of woodwind performance practice, history of woodwind instruments, woodwind literature and pedagogy, performance anxiety, comparative performances of woodwind repertoire, and other issues of special relevance to woodwind players.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Woodwind Seminar", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 2 credit hours", 
+            "courseNumber": "3732"
+        }, 
+        "MUSIC-0262": {
+            "PR": "admission to the Bachelor of Music Degree program; open only to students whose Principal Applied Study is a keyboard instrument; others by permission of the Dean; repertoire to be performed must be approved prior to registration", 
+            "courseDescription": "requires the students to meet for one hour per week in a masterclass. Coaching will be given to prepare for performance of a 15- to 20-minute program with a singer or instrumentalist.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Accompaniment", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 4 credit hours", 
+            "courseNumber": "3515"
+        }, 
+        "MUSIC-1005": {
+            "PR": "MUS 3704 or the former MUS 3703, permission of the Dean, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "allows students to explore the role of the artist in the community by planning and carrying out a community music-making project. Students will be required to propose a viable collaborative project prior to registering.", 
+            "CH": "2", 
+            "concurrent": [], 
+            "courseTitle": "Music in the Community", 
+            "prerequisites": [
+                "MUSIC-1002"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4702"
+        }, 
+        "MUSIC-1004": {
+            "PR": "MUS 3704 or the former MUS 3703, permission of the Dean, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "allows students to explore the role of the artist in the community by planning and carrying out a community music-making project. Students will be required to propose a viable collaborative project prior to registering.", 
+            "CH": "1", 
+            "concurrent": [], 
+            "courseTitle": "Music in the Community", 
+            "prerequisites": [
+                "MUSIC-1002"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4701"
+        }, 
+        "MUSIC-0263": {
+            "PR": "admission to the Bachelor of Music Degree program; open only to students whose Principal Applied Study is a keyboard instrument; others by permission of the Dean; repertoire to be performed must be approved prior to registration", 
+            "courseDescription": "requires students to meet for one hour per week in a masterclass. Coaching will be given to prepare for performance of a half-hour program with a singer or instrumentalist.", 
+            "CH": "2 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Accompaniment", 
+            "prerequisites": [], 
+            "AR": "attendance is required", 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 8 credit hours", 
+            "courseNumber": "3516"
+        }, 
+        "MUSIC-0408": {
+            "PR": "MUS 140B or permission of the instructor, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is designed to provide students with a basic knowledge of resources and pedagogical approaches used in studio teaching at various levels. May include guest masterclasses and lectures.", 
+            "CO": "MUS 140B or permission of the instructor", 
+            "concurrent": [], 
+            "courseTitle": "Studio Pedagogy", 
+            "prerequisites": [
+                "MUSIC-0235"
+            ], 
+            "corequisites": [
+                "MUSIC-0235"
+            ], 
+            "CR": "the former MUS 3773", 
+            "courseNumber": "3751"
+        }, 
+        "MUSIC-0288": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "will have topics to be studied announced by the School of Music.", 
+            "CH": "2 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Applied Music", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 4 credit hours", 
+            "courseNumber": "4504"
+        }, 
+        "MUSIC-0289": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "will have topics to be studied announced by the School of Music.", 
+            "CH": "3 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Applied Music", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 6 credit hours", 
+            "courseNumber": "4505"
+        }, 
+        "MUSIC-0287": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "will have topics to be studied announced by the School of Music.", 
+            "CH": "1 per semester", 
+            "concurrent": [], 
+            "courseTitle": "Special Topics in Applied Music", 
+            "prerequisites": [], 
+            "corequisites": [], 
+            "UL": "may only obtain a maximum of 3 credit hours", 
+            "courseNumber": "4503"
+        }, 
+        "MUSIC-0284": {
+            "PR": "MUS 345A/B , successful completion of MUS 2006 , 2108 , and 2118 and admission to the Bachelor of Music Degree program; open only to Performance Majors", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "6", 
+            "CO": "one of MUS 2611-2620 in accordance with Ensemble II listed under the Core Program", 
+            "concurrent": [
+                "MUSIC-0279"
+            ], 
+            "courseTitle": "Principal Applied Study IV - Performance", 
+            "prerequisites": [
+                "MUSIC-0254", 
+                "MUSIC-1014", 
+                "MUSIC-0334", 
+                "MUSIC-0337"
+            ], 
+            "AR": "attendance is required at School of Music recitals", 
+            "corequisites": [], 
+            "CR": "MUS 440A/B", 
+            "courseNumber": "445A/B", 
+            "OR": "one hour per week of individual instruction"
+        }, 
+        "MUSIC-0998": {
+            "PR": "MUS 2402 and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is continuation of MUS", 
+            "CH": "0", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Functional Keyboard III", 
+            "prerequisites": [
+                "MUSIC-0995"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 2127", 
+            "UL": "may not be taken for credit by students whose Principal Applied Study is a keyboard instrument", 
+            "courseNumber": "3401"
+        }, 
+        "MUSIC-0999": {
+            "PR": "MUS 3401 and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Functional Keyboard IV", 
+            "prerequisites": [
+                "MUSIC-0998"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 2128", 
+            "UL": "may not be taken for credit by students whose Principal Applied Study is a keyboard instrument", 
+            "courseNumber": "3402"
+        }, 
+        "MUSIC-0996": {
+            "PR": "MUS 1108 , permission of the instructor for students whose Principal Applied Study is not a keyboard instrument, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is an introduction to practical keyboard skills for students whose Principal Applied Study is piano or organ. Functional accompaniment, transposition and score reading are emphasized.", 
+            "CH": "0", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Functional Keyboard I", 
+            "prerequisites": [
+                "MUSIC-0320"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 1137", 
+            "courseNumber": "2411"
+        }, 
+        "MUSIC-0997": {
+            "PR": "MUS 2411 , permission of the instructor for students whose Principal Applied Study is not a keyboard instrument, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Advanced Functional Keyboard II", 
+            "prerequisites": [
+                "MUSIC-0996"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 1138", 
+            "courseNumber": "2412"
+        }, 
+        "MUSIC-0994": {
+            "PR": "MUS 1108 , successful completion of the Piano Proficiency Test, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is an introduction to practical keyboard skills for students whose Principal Applied Study is not piano or organ. Functional accompaniment, transposition and score reading are emphasized.", 
+            "CH": "0", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Functional Keyboard I", 
+            "prerequisites": [
+                "MUSIC-0320"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 1127", 
+            "UL": "may not be taken for credit by students whose Principal Applied Study is a keyboard instrument.", 
+            "courseNumber": "2401"
+        }, 
+        "MUSIC-0995": {
+            "PR": "MUS 2401 and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "is a continuation of MUS", 
+            "CH": "1", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Functional Keyboard II", 
+            "prerequisites": [
+                "MUSIC-0994"
+            ], 
+            "corequisites": [], 
+            "CR": "the former MUS 1128", 
+            "UL": "may not be taken for credit by students whose Principal Applied Study is a keyboard instrument.", 
+            "courseNumber": "2402"
+        }, 
+        "MUSIC-0993": {
+            "PR": "admission to the Bachelor of Music Degree program", 
+            "courseDescription": "provides a practical introduction to useful computer tools for musicians, such as music notation software, basic digital audio editing, and new media.", 
+            "CH": "1", 
+            "CO": "MUS 140A/B", 
+            "LC": "1", 
+            "concurrent": [], 
+            "courseTitle": "Introduction to Music Technology", 
+            "prerequisites": [], 
+            "corequisites": [
+                "MUSIC-0235"
+            ], 
+            "courseNumber": "1700"
+        }, 
+        "MUSIC-1006": {
+            "PR": "MUS 3704 or the former MUS 3703, permission of the Dean, and admission to the Bachelor of Music Degree program", 
+            "courseDescription": "allows students to explore the role of the artist in the community by planning and carrying out a community music- making project. Students will be required to propose a viable collaborative project prior to registering.", 
+            "concurrent": [], 
+            "courseTitle": "Music in the Community", 
+            "prerequisites": [
+                "MUSIC-1002"
+            ], 
+            "corequisites": [], 
+            "courseNumber": "4703"
+        }
+    }
+}
