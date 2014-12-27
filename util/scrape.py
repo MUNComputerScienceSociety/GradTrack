@@ -13,8 +13,14 @@ report = {}
 for course in courses:
   courseid = course.previousSibling.previousSibling['name'].strip()
   number = course.find('p', attrs={'class': 'courseNumber'}).contents[0].strip()
-  title = course.find('p', attrs={'class': 'courseTitle'}).contents[0].strip()
-  desc = course.find('div', attrs={'class': 'courseDesc'}).find('p').contents[0].strip()
+  try:
+    title = course.find('p', attrs={'class': 'courseTitle'}).contents[0].strip()
+  except:
+    title = 'No title available.'
+  try:
+    desc = course.find('div', attrs={'class': 'courseDesc'}).find('p').contents[0].strip()
+  except:
+    desc = 'No description available.'
   attrs = course.findAll('p', attrs={'class': 'courseAttrs'})
   report[courseid] = {
     'courseNumber': number,
