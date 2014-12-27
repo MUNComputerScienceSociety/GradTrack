@@ -21,8 +21,7 @@ def get_course_info(course_id):
   try:
     source = get(url).read()
   except:
-    print 'Could not get ' + url
-    sys.exit()
+    return None
   soup = make_soup(source)
   courseNumber = soup.find('p', attrs={'class': 'courseNumber'}).contents[0].strip()
   try:
@@ -52,7 +51,11 @@ def main():
     print 'Run as `python {0} <course-id>`'.format(sys.argv[0])
     sys.exit(1)
   course_id = sys.argv[1]
-  print to_json(get_course_info(course_id), indent=4)
+  course_info = get_course_info(course_id)
+  if course_info is None:
+    print 'Could not get information for course with ID ' + course_id
+  else:
+    print to_json(course_info, indent=4)
 
 
 if __name__ == '__main__':
