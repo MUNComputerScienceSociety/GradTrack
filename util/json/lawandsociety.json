@@ -1,5 +1,7 @@
 {
-    "LWSO": {
+    "name": "Law and Society",
+    "identifier": "LWSO",
+    "courses": {
         "ARTS-6429": {
             "PR": "LWSO 1000 and at least 15 credit hours in courses applicable to the Law and Society major or minor", 
             "courseDescription": "is an appreciation and understanding of those rules and activities termed legal which can be gained from a variety of disciplinary perspectives. The purpose of this seminar is to introduce students to the different ways in which law may be approached within the social sciences and humanities. The topic or topics to be discussed in a given semester will depend on the availability and participation of faculty from participating departments. Through seminar readings, discussions and research, students will gain a wider understanding of the role of law in society and of the diverse academic approaches for understanding it.", 

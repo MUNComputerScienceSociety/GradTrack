@@ -1,5 +1,7 @@
 {
-    "MATH": {
+    "name": "Mathematics and Statistics",
+    "identifier": "MATH",
+    "courses": {
         "SCI-1375": {
             "PR": "MATH 2260 (or 3260 )", 
             "courseDescription": "examines flows, stability, phase plane analysis, limit cycles, bifurcations, chaos, attractors, maps, fractals. Applications throughout.", 

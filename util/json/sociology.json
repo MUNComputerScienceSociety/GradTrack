@@ -1,5 +1,7 @@
 {
-    "SOCI": {
+    "name": "Sociology",
+    "identifier": "SOCI",
+    "courses": {
         "ARTS-6865": {
             "PR": "SOCI 3040 and 3150", 
             "courseDescription": "(same as Anthropology", 

@@ -1,5 +1,7 @@
 {
-    "GNDR": {
+    "name": "Gender Studies",
+    "identifier": "GNDR",
+    "courses": {
         "ARTS-6949": {
             "PR": "GNDR 3005 or the former WSTD 3005 or GNDR 3025", 
             "courseDescription": "(same as the former WSTD 4000) is an interdisciplinary seminar in Gender Studies that identifies emerging debates in contemporary feminism and analyses complex and contentious issues and how they intersect and disrupt social constructions of gender.", 

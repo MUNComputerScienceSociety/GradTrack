@@ -1,5 +1,7 @@
 {
-    "ARCH": {
+    "name": "Archaeology",
+    "identifier": "ARCH",
+    "courses": {
         "ARTS-5613": {
             "PR": "ARCH 1030", 
             "courseDescription": "focuses on the history and archaeology of North American colonization and covers the period of European exploration and settlement from approximately 1500 to 1700. A diverse range of topics will be discussed including: contracts and interaction with native peoples; early colonies and seasonal outposts; established settlements; war, trade and economics; the material record; the built landscape; daily life in colonial society and maritime archaeology.", 

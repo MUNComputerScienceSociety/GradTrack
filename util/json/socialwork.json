@@ -1,5 +1,7 @@
 {
-    "SCWK": {
+    "name": "Social Work",
+    "identifier": "SCWK",
+    "courses": {
         "SCWK-0309": {
             "courseDescription": "- inactive course", 
             "concurrent": [], 

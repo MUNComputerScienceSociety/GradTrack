@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Five",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1580": {
             "PR": "ENGI 4602", 
             "courseDescription": "covers diffusive as well as convective mass transfer, mass transfer correlations, and the application to absorption and dehumidification.", 

@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Seven",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1329": {
             "PR": "ENGI 3901 , ENGI 6933", 
             "courseDescription": "examines shafting system design; shafting system vibration analysis, study of exciting forces and moments, and balancing of reciprocating and rotating machinery; heat transfer and marine heat exchangers; incompressible fluid flow and piping system design and selection of appropriate pumping devices.", 

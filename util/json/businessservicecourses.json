@@ -1,5 +1,7 @@
 {
-    "BUSI": {
+    "name": "Business Service Courses",
+    "identifier": "BUSI",
+    "courses": {
         "BUSI-1226": {
             "courseDescription": "provides full introductory coverage of both financial and managerial accounting. The course focuses on the most widely used accounting theory and practice.", 
             "concurrent": [

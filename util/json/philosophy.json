@@ -1,5 +1,7 @@
 {
-    "PHIL": {
+    "name": "Philosophy",
+    "identifier": "PHIL",
+    "courses": {
         "ARTS-6606": {
             "courseDescription": "- inactive course.", 
             "concurrent": [], 

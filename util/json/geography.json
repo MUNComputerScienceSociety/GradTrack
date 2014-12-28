@@ -1,5 +1,7 @@
 {
-    "GEOG": {
+    "name": "Geography",
+    "identifier": "GEOG",
+    "courses": {
         "ARTS-6192": {
             "courseDescription": "- inactive course.", 
             "concurrent": [], 

@@ -1,5 +1,7 @@
 {
-    "PHAR": {
+    "name": "Pharmacy",
+    "identifier": "PHAR",
+    "courses": {
         "PHAR-0285": {
             "PR": "PHAR 4650", 
             "courseDescription": "continues the development of the skills necessary for pharmacy practice in order to meet the educational outcomes for the third year of the pharmacy program. Students will continue to develop abilities in communication, professionalism, critical thinking, problem-solving, teamwork and self-directed learning. Students will participate in sessions that focus on ethical issues in pharmacy practice and communication with health care providers. Students will build on their patient assessment and pharmacist care skills to meet patients' drug-related needs in more complex patient scenarios and will use critical appraisal skills to respond to clinical questions. Scenarios will relate to the courses of study in the third year and draw on material studied in earlier years of the program. Students will participate in interprofessional education (IPE) modules with students from other health related programs when such modules are available.", 

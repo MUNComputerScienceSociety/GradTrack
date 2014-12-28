@@ -1,5 +1,7 @@
 {
-    "COMP": {
+    "name": "Computer Science",
+    "identifier": "COMP",
+    "courses": {
         "SCI-1083": {
             "PR": "COMP 3719", 
             "courseDescription": "is an in-depth study of various types of formal machines and their associated languages. Effective computability and other formalisms, such as lambda calculus will be studied as well.", 

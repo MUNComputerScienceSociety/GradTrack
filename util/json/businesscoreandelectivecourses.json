@@ -1,5 +1,7 @@
 {
-    "BUSI": {
+    "name": "Business Core and Elective Courses",
+    "identifier": "BUSI",
+    "courses": {
         "BUSI-0346": {
             "PR": "BUSI 1101 , BUSI 1600 , and BUSI 2210", 
             "courseDescription": "(formerly BUSI 5030 and BUSI 7030) covers the business creation process from the idea conception stage to the launch stage. Students learn how to search for, screen and evaluate opportunities, and to plan and assemble the required resources, including the preparation of an actual business plan. Alternatives to new venture creation, such as purchasing an existing business and purchasing a franchise, are also explored. Extensive group work is required.", 

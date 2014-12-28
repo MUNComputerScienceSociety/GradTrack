@@ -1,5 +1,7 @@
 {
-    "MUSIC": {
+    "name": "Music",
+    "identifier": "MUSIC",
+    "courses": {
         "MUSIC-0248": {
             "PR": "MUS 2700 ; open only to students whose Principal Applied Study is Voice and admission to the Bachelor of Music Degree program", 
             "courseDescription": "is a continuation of MUS", 

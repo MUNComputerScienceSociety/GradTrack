@@ -1,5 +1,7 @@
 {
-    "CHEM": {
+    "name": "Chemistry",
+    "identifier": "CHEM",
+    "courses": {
         "SCI-2745": {
             "PR": "CHEM 2302 (or the former CHEM 3301) and Mathematics 2260 or ( 3260 ). Due to the requirement of Mathematics 2260 , students wishing to take this course should plan ahead.", 
             "courseDescription": "examines exact solutions to the Schrodinger equation, introduction to approximate methods, modern methods (wavefunction and density functional theories), spectroscopy, and applications of computational chemistry.", 

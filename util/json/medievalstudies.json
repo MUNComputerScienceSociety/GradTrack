@@ -1,5 +1,7 @@
 {
-    "MST": {
+    "name": "Medieval Studies",
+    "identifier": "MST",
+    "courses": {
         "ARTS-6525": {
             "PR": "MST 3000 or 3001 or permission of the instructor", 
             "courseDescription": "are seminars on such general, interdisciplinary or comparative subjects as, e.g., Popular Culture in the Middle Ages, The Medieval Stage, The Medieval Court, The Religious Orders, Women in Medieval Society, Medieval Universities, Scholasticism, Dante's Divine Comedy, Medieval Historiography, Arthurian Romance, Jewish Medieval Communities, Muslim Art and Architecture and The Byzantine World.", 

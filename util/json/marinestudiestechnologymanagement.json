@@ -1,5 +1,7 @@
 {
-    "MSTM": {
+    "name": "Marine Studies and Technology Management",
+    "identifier": "MSTM",
+    "courses": {
         "MARINE-0325": {
             "courseDescription": "surveys technological entrepreneurship via examples of both successful and failed businesses in technological fields. By examining cases of entrepreneurship, this course will examine challenges and opportunities facing technological entrepreneurs.", 
             "concurrent": [], 

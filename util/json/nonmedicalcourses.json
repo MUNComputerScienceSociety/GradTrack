@@ -1,5 +1,7 @@
 {
-    "MED": {
+    "name": "Medicine Courses for Non-Medical Students",
+    "identifier": "MED",
+    "courses": {
         "MED-0404": {
             "PR": "Medicine 310A/B or Biochemistry 311A/B , or Pharmacy 2002 / 2003 or the former Pharmacy 3201/3202.", 
             "courseDescription": "deals with the general principles of pharmacology (dose-response relationship, drug-receptor interaction, absorption, distribution, metabolism, excretion of drugs), and drugs that affect neuromuscular and autonomic neurotransmission, the cardiovascular, gastrointestinal, and central nervous systems, and autacoids/prostanoids.", 

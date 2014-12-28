@@ -1,5 +1,7 @@
 {
-    "PLST": {
+    "name": "Police Studies",
+    "identifier": "PLST",
+    "courses": {
         "ARTS-6623": {
             "courseDescription": "will introduce students to different theories and models of policing. It will examine the organization of policing, its mandate and operation. It will provide an overview of the history and development of policing in Canada; examples from Newfoundland and Labrador will be used where appropriate. It will discuss the various roles and responsibilities of the police in society. It will explore the issue by police decision making, the exercise of police powers, and the use of discretion by police officers. Several other issues relating to policing will be discussed including police recruitment and training, the professional role of the police, stress on the job and policing in a diverse society.", 
             "concurrent": [], 

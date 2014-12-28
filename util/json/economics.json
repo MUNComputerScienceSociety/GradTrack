@@ -1,5 +1,7 @@
 {
-    "ECON": {
+    "name": "Economics",
+    "identifier": "ECON",
+    "courses": {
         "ARTS-5786": {
             "PR": "ECON 2550 , 3000 , 3010", 
             "courseDescription": "is an advanced course in open economy macroeconomics covering balance of payments adjustment under fixed and flexible exchange rates; exchange rate movements and capital movements; the international monetary system; interdependence in the world economy.", 

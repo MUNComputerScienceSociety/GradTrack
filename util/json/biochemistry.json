@@ -1,5 +1,7 @@
 {
-    "BIOC": {
+    "name": "Biochemistry",
+    "identifier": "BIOC",
+    "courses": {
         "SCI-2747": {
             "PR": "BIOC 2100 or Biology 2250 ; BIOC 3106 ; and one of BIOC 3203 or the former BIOC 3200", 
             "courseDescription": "is designed to familiarize students with emerging discoveries in the area of diet-gene interaction and to further their understanding of the relationships between the genome and diet as well as the potential to design personalized diets for better health. Students will develop an appreciation for the role of nutrients in the prevention and/or development of disease.", 

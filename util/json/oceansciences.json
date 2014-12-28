@@ -1,5 +1,7 @@
 {
-    "OCSC": {
+    "name": "Ocean Studies",
+    "identifier": "OCSC",
+    "courses": {
         "SCI-3670": {
             "PR": "Biology 2060 , 2250", 
             "courseDescription": "is an introduction to biotechnology and genetics as they are applied to aquaculture and fisheries. Topics covered include genetic variation; genetic structure of fish and shellfish populations; the genetic basis of aquaculture traits; finfish and shellfish genomic research; marker-assisted selection in aquaculture; manipulation of ploidy; genetic engineering in aquaculture; and techniques used to study the responses of aquatic animals to external stressors such as hypoxia, temperature stress, acidification, and pathogens.", 

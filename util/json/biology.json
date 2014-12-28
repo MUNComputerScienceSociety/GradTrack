@@ -1,5 +1,7 @@
 {
-    "BIOL": {
+    "name": "Biology",
+    "identifier": "BIOL",
+    "courses": {
         "SCI-0777": {
             "courseDescription": "examines the origins and consequences of the environmental crisis of the 20th century. Topics include the population explosion, energy, material cycles, air and water and land pollution, global food supplies, the fisheries, wildlands, renewable and non-renewable resources, environmental ethics.", 
             "concurrent": [], 

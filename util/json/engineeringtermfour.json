@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Four",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1282": {
             "PR": "ENGI 3934", 
             "courseDescription": "includes an overview of mechanisms within machines; graphical and analytical methods for position, velocity, and acceleration analysis of moving mechanisms; kinematics and kinetics of planar mechanisms; static and dynamic loads on mechanisms and an introduction to mechanism synthesis. There is an analysis project.", 

@@ -1,5 +1,7 @@
 {
-    "CLAS": {
+    "name": "Classics",
+    "identifier": "CLAS",
+    "courses": {
         "ARTS-5705": {
             "courseDescription": "- inactive course.", 
             "concurrent": [], 

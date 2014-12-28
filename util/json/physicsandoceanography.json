@@ -1,5 +1,7 @@
 {
-    "PHYS": {
+    "name": "Physics and Physical Oceanography",
+    "identifier": "PHYS",
+    "courses": {
         "SCI-2746": {
             "PR": "PHYS 3400 and 3750", 
             "courseDescription": "covers ensembles. Classical and quantum statistical mechanics. Statistical mechanics of phase transitions. Advanced topics in statistical mechanics.", 

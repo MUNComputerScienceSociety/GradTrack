@@ -1,5 +1,7 @@
 {
-    "BUSI": {
+    "name": "Business Case Analysis",
+    "identifier": "BUSI",
+    "courses": {
         "BUSI-0421": {
             "PR": "approval of the Dean or delegate", 
             "courseDescription": "is a non-credit course in which each student will undertake an analysis of an assigned case. A written report is mandatory. Evidence of the student's understanding of various business methods and the ability to gather material relating to the report, analyse it effectively, and present it in a clear, logical and concise form, will be required in the report.", 

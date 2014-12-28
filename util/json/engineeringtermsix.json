@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Six",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1309": {
             "PR": "ENGI 5706", 
             "courseDescription": "examines design methods for reinforced concrete two-way slabs, two-way slabs supported on walls and stiff beams, design of two-way slab systems, direct design method and equivalent frame method, design of concrete retaining walls and basement walls, engineered masonry, allowable masonry stresses, mortar stress, analysis and design of flexural members, axial load and bending in unreinforced and reinforced walls, columns and masonry shear walls.", 

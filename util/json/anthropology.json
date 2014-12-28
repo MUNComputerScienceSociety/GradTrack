@@ -1,5 +1,7 @@
 {
-    "ANTH": {
+    "name": "Anthropology",
+    "identifier": "ANTH",
+    "courses": {
         "ARTS-5526": {
             "courseDescription": "is a survey course dealing with various indigenous peoples of North America.", 
             "concurrent": [], 

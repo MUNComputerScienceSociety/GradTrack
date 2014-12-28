@@ -1,5 +1,7 @@
 {
-    "FREN": {
+    "name": "French",
+    "identifier": "FREN",
+    "courses": {
         "ARTS-6989": {
             "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
             "courseDescription": "are advanced courses on specialized topics in French language. Subjects to be treated will be announced each year by the Department.", 

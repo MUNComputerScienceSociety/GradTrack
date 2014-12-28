@@ -1,5 +1,7 @@
 {
-    "PSYC": {
+    "name": "Psychology",
+    "identifier": "PSYC",
+    "courses": {
         "SCI-1846": {
             "PR": "PSYC 2520 , 2570 , 2911 and PSYC 3750 or BIOL 3750 , and admission to a Major in Psychology or Behavioural Neuroscience", 
             "courseDescription": "allows students to gain research experience in selected areas of animal behaviour.", 

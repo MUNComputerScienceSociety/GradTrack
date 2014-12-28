@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Eight",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1592": {
             "PR": "ENGI 7623", 
             "courseDescription": "will provide a comprehensive picture of the availability and design of both traditional and current process equipment. Economic and optimization issues relevant to investment, product-cost estimation, and profitability analysis will also be addressed. The course will provide students with tools to evaluate the economics of process industries reflecting current economic criteria, and provide helpful guidelines to approaching, defining, and solving optimization problems.", 

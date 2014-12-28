@@ -1,5 +1,7 @@
 {
-    "POSC": {
+    "name": "Political Science",
+    "identifier": "POSC",
+    "courses": {
         "ARTS-6660": {
             "courseDescription": "is a study of political parties in liberal democracies. Attention is given to the origin and development of parties, how they organize, multiparty competition and what difference parties make. Political parties in Europe, the United States, and Canada are considered in a comparative context.", 
             "concurrent": [], 

@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Term Three",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1259": {
             "PR": "Mathematics 1001 , Mathematics 2050 , ENGI 1040", 
             "courseDescription": "begins with a review of elementary circuits, then considers wye-delta transformation, bridge circuits; transient analysis of first- and second -order circuits; sinusoidal steady state analysis, phasor diagrams, maximum power transfer, frequency selective circuits (filters); and Laplace transforms in circuit analysis (transients, steady state, transfer function).", 

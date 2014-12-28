@@ -1,5 +1,7 @@
 {
-    "EASC": {
+    "name": "Earth Sciences",
+    "identifier": "EASC",
+    "courses": {
         "SCI-1159": {
             "PR": "Earth Sciences 2905 and 6 credit hours in English", 
             "courseDescription": "is an introduction to the fundamentals of preparation of written and oral geoscience reports, emphasizing organization, correct use of terminology, concise description, preparation of abstracts and introductions, integration of numerical data and publication-quality illustrations, and oral presentation skills. Topics for reports will be selected from the subject matter of other 2000 level Earth Sciences courses.", 

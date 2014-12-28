@@ -1,5 +1,7 @@
 {
-    "CMST": {
+    "name": "Communication Studies",
+    "identifier": "CMST",
+    "courses": {
         "ARTS-7463": {
             "courseDescription": "will have topics to be studied announced by the Program Co-ordinator.", 
             "concurrent": [], 

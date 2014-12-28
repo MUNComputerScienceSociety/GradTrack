@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering One",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1250": {
             "PR": "Level III Physics or Physics 1051 (which may be taken concurrently) and Mathematics 1000 (which may be taken concurrently).", 
             "courseDescription": "is offered in two serial modules, including laboratory and workshop practice, and a team project to expose students to the concept of system integration involving electrical and mechanical systems. The electrical module provides an introduction to dc circuits, with an analysis of dc circuits used in control, measurement and instrumentation systems. The mechanism module provides an introduction to machine components such as belts, pulleys, gears, and simple linkages. The laboratory and workshop component introduces students to hands-on practice in basic laboratory instruments, tools and safety procedures. A team project involves the construction, assembly and testing of a simple mechanism.", 

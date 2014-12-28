@@ -1,5 +1,7 @@
 {
-    "MED": {
+    "name": "Medical Studies",
+    "identifier": "MED",
+    "courses": {
         "MED-0766": {
             "courseDescription": "No description available.", 
             "CH": "10", 

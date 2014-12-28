@@ -1,5 +1,7 @@
 {
-    "GERM": {
+    "name": "German",
+    "identifier": "GERM",
+    "courses": {
         "ARTS-6211": {
             "courseDescription": "is intended to give beginners a basic knowledge of the spoken and written language and culture of the German-speaking countries.", 
             "concurrent": [], 

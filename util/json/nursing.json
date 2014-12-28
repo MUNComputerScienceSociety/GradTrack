@@ -1,5 +1,7 @@
 {
-    "NURS": {
+    "name": "Nursing",
+    "identifier": "NURS",
+    "courses": {
         "NURS-0419": {
             "PR": "Statistics 1510 or 2500 or equivalent, or Education 2900 , and acceptance into the Bachelor of Nursing (Post-RN) Program or admission to the Bachelor of Technology Program", 
             "courseDescription": "introduces students to the key terminology, elements, and processes of research. The focus will be on understanding the components of the research process, interpreting and critically analysing nursing and health-related research studies, and understanding the importance of utilizing research for evidence based practice. Students will have the opportunity to explore methodologies in both quantitative and qualitative research.", 

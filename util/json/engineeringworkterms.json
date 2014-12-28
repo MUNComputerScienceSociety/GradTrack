@@ -1,5 +1,7 @@
 {
-    "ENGI": {
+    "name": "Engineering Work Terms",
+    "identifier": "ENGI",
+    "courses": {
         "ENGI-1242": {
             "PR": "ENGI 002W", 
             "courseDescription": "requires greater participation in the student&rsquo;s selected engineering discipline. A student becomes more experienced and proficient with the appropriate design procedures than in the preceding work terms. A student is expected to acquire improved speed and accuracy in their work and accept greater responsibility and be able to function with less direct supervision. Self-confidence and initiative as well as improved analytical skills are expected to develop at this stage in the student&rsquo;s engineering education. The communications component for Work Term 3 consists of a formal technical report on a topic chosen from the student&rsquo;s work environment.", 
