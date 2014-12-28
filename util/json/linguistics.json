@@ -1,5 +1,7 @@
 {
-    "LING": {
+    "name": "Linguistics",
+    "identifier": "LING",
+    "courses": {
         "ARTS-6457": {
             "courseDescription": "(same as Philosophy", 
             "concurrent": [

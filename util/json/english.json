@@ -1,5 +1,7 @@
 {
-    "ENGL": {
+    "name": "English",
+    "identifier": "ENGL",
+    "courses": {
         "ARTS-8134": {
             "courseDescription": "- inactive course.", 
             "concurrent": [], 
