@@ -1,5 +1,7 @@
 {
-    "FOLK": {
+    "name": "Folklore",
+    "identifier": "FOLK",
+    "courses": {
         "ARTS-6059": {
             "courseDescription": "is an introduction to the ways in which women shape and/or are shaped by traditional culture. Readings and lectures will explore roles and contributions of women as folklore collectors, examine representations of women in folklore forms, and analyse women's creation of their own traditions.", 
             "concurrent": [], 
