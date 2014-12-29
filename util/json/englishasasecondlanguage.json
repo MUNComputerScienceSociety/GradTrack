@@ -1,6 +1,4 @@
 {
-    "name": "English as a Second Language",
-    "identifier": "ENSL",
     "courses": {
         "ARTS-6001": {
             "courseDescription": "covers reading through a variety of types of texts, vocabulary development, writing development, and academic listening and note-taking skills. Students will be placed into appropriate sections following a placement test.", 
@@ -18,5 +16,7 @@
             "corequisites": [], 
             "courseNumber": "012F"
         }
-    }
+    }, 
+    "identifier": "ENSL", 
+    "name": "English as a Second Language"
 }

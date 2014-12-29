@@ -1,6 +1,4 @@
 {
-    "name": "Archaeology",
-    "identifier": "ARCH",
     "courses": {
         "ARTS-5613": {
             "PR": "ARCH 1030", 
@@ -714,5 +712,7 @@
             "CR": "the former Anthropology 3590", 
             "courseNumber": "3590"
         }
-    }
+    }, 
+    "identifier": "ARCH", 
+    "name": "Archaeology"
 }

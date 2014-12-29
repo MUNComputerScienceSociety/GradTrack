@@ -1,6 +1,4 @@
 {
-    "name": "Political Science",
-    "identifier": "POSC",
     "courses": {
         "ARTS-6660": {
             "courseDescription": "is a study of political parties in liberal democracies. Attention is given to the origin and development of parties, how they organize, multiparty competition and what difference parties make. Political parties in Europe, the United States, and Canada are considered in a comparative context.", 
@@ -718,5 +716,7 @@
             "courseNumber": "260W", 
             "OR": "Professional development seminars, delivered by Co-operative Education Services Centre (CESC), are presented in the previous semester to introduce and prepare the student for participation in the subsequent work terms. Topics may include, among others; r&eacute;sum&eacute; preparation; interview training; work term evaluation; preparation of reflective essays; career planning employment seeking skills; self-employment; ethics and professional concepts; behavioural requirements in the workplace; assertiveness in the workplace; and industrial safety."
         }
-    }
+    }, 
+    "identifier": "POSC", 
+    "name": "Political Science"
 }

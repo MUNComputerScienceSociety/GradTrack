@@ -1,6 +1,4 @@
 {
-    "name": "Computer Science",
-    "identifier": "COMP",
     "courses": {
         "SCI-1083": {
             "PR": "COMP 3719", 
@@ -808,5 +806,7 @@
             "corequisites": [], 
             "courseNumber": "4750"
         }
-    }
+    }, 
+    "identifier": "COMP", 
+    "name": "Computer Science"
 }

@@ -1,6 +1,4 @@
 {
-    "name": "Gender Studies",
-    "identifier": "GNDR",
     "courses": {
         "ARTS-6949": {
             "PR": "GNDR 3005 or the former WSTD 3005 or GNDR 3025", 
@@ -126,5 +124,7 @@
             "corequisites": [], 
             "courseNumber": "3025"
         }
-    }
+    }, 
+    "identifier": "GNDR", 
+    "name": "Gender Studies"
 }

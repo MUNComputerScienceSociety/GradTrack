@@ -1,6 +1,4 @@
 {
-    "name": "Ocean Studies",
-    "identifier": "OCSC",
     "courses": {
         "SCI-3670": {
             "PR": "Biology 2060 , 2250", 
@@ -117,5 +115,7 @@
             "CR": "Biology 4601", 
             "courseNumber": "4601"
         }
-    }
+    }, 
+    "identifier": "OCSC", 
+    "name": "Ocean Sciences"
 }

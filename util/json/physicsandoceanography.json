@@ -1,6 +1,4 @@
 {
-    "name": "Physics and Physical Oceanography",
-    "identifier": "PHYS",
     "courses": {
         "SCI-2746": {
             "PR": "PHYS 3400 and 3750", 
@@ -652,5 +650,7 @@
             "CR": "Mathematics 4130", 
             "courseNumber": "4220"
         }
-    }
+    }, 
+    "identifier": "PHYS", 
+    "name": "Physics and Physical Oceanography"
 }

@@ -1,6 +1,4 @@
 {
-    "name": "History",
-    "identifier": "HIST",
     "courses": {
         "ARTS-7613": {
             "courseDescription": "investigates the &lsquo;unsinkable ship&rsquo;, its passengers, crew and owners, and the dilemmas its loss has created for over a century. Students will examine how present-day understandings of the past are expressed in the multiple ways and diverse forms of treating the Titanic.", 
@@ -1155,5 +1153,7 @@
             "corequisites": [], 
             "courseNumber": "3360"
         }
-    }
+    }, 
+    "identifier": "HIST", 
+    "name": "History"
 }

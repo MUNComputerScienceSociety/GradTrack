@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Work Terms",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1242": {
             "PR": "ENGI 002W", 
@@ -92,5 +90,7 @@
             "corequisites": [], 
             "courseNumber": "001W"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Work Terms"
 }

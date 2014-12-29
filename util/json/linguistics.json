@@ -1,6 +1,4 @@
 {
-    "name": "Linguistics",
-    "identifier": "LING",
     "courses": {
         "ARTS-6457": {
             "courseDescription": "(same as Philosophy", 
@@ -814,5 +812,7 @@
             "corequisites": [], 
             "courseNumber": "4999"
         }
-    }
+    }, 
+    "identifier": "LING", 
+    "name": "Linguistics"
 }

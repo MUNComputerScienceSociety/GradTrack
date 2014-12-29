@@ -1,6 +1,4 @@
 {
-    "name": "Human Kinetics and Recreation",
-    "identifier": "HKR",
     "courses": {
         "HKR-0423": {
             "courseDescription": "- inactive course.", 
@@ -886,5 +884,7 @@
             "corequisites": [], 
             "courseNumber": "3505"
         }
-    }
+    }, 
+    "identifier": "HKR", 
+    "name": "Human Kinetics and Recreation"
 }

@@ -1,6 +1,4 @@
 {
-    "name": "Earth Sciences",
-    "identifier": "EASC",
     "courses": {
         "SCI-1159": {
             "PR": "Earth Sciences 2905 and 6 credit hours in English", 
@@ -823,5 +821,7 @@
             "corequisites": [], 
             "courseNumber": "4502"
         }
-    }
+    }, 
+    "identifier": "EASC", 
+    "name": "Earth Sciences"
 }

@@ -1,6 +1,4 @@
 {
-    "name": "Nursing",
-    "identifier": "NURS",
     "courses": {
         "NURS-0419": {
             "PR": "Statistics 1510 or 2500 or equivalent, or Education 2900 , and acceptance into the Bachelor of Nursing (Post-RN) Program or admission to the Bachelor of Technology Program", 
@@ -920,5 +918,7 @@
             "courseNumber": "3513", 
             "OR": "64 clinical hours during the semester"
         }
-    }
+    }, 
+    "identifier": "NURS", 
+    "name": "Nursing"
 }

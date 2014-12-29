@@ -1,6 +1,4 @@
 {
-    "name": "Medieval Studies",
-    "identifier": "MST",
     "courses": {
         "ARTS-6525": {
             "PR": "MST 3000 or 3001 or permission of the instructor", 
@@ -144,5 +142,7 @@
             "corequisites": [], 
             "courseNumber": "2000"
         }
-    }
+    }, 
+    "identifier": "MST", 
+    "name": "Medieval Studies"
 }

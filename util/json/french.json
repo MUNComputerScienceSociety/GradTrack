@@ -1,6 +1,4 @@
 {
-    "name": "French",
-    "identifier": "FREN",
     "courses": {
         "ARTS-6989": {
             "PR": "FREN 3100 and 3101 or FREN 3102 and 3103", 
@@ -950,5 +948,7 @@
             "corequisites": [], 
             "courseNumber": "4000"
         }
-    }
+    }, 
+    "identifier": "FREN", 
+    "name": "French"
 }

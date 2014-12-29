@@ -1,6 +1,4 @@
 {
-    "name": "Geography",
-    "identifier": "GEOG",
     "courses": {
         "ARTS-6192": {
             "courseDescription": "- inactive course.", 
@@ -724,5 +722,7 @@
             "corequisites": [], 
             "courseNumber": "4410"
         }
-    }
+    }, 
+    "identifier": "GEOG", 
+    "name": "Geography"
 }

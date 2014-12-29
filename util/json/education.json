@@ -1,6 +1,4 @@
 {
-    "name": "Education",
-    "identifier": "ED",
     "courses": {
         "EDUC-0668": {
             "PR": "ED 2710 , ED 2720 , ED 2730 , ED 2801 , ED 3280 , and ED 3801 , or equivalent teaching experience and permission of the course instructor", 
@@ -1433,5 +1431,7 @@
             "CR": "ED 4425", 
             "courseNumber": "4427"
         }
-    }
+    }, 
+    "identifier": "ED", 
+    "name": "Education"
 }

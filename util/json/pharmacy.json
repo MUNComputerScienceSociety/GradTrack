@@ -1,6 +1,4 @@
 {
-    "name": "Pharmacy",
-    "identifier": "PHAR",
     "courses": {
         "PHAR-0285": {
             "PR": "PHAR 4650", 
@@ -594,5 +592,7 @@
             "courseNumber": "4008", 
             "OR": "tutorials 1 hour per week"
         }
-    }
+    }, 
+    "identifier": "PHAR", 
+    "name": "Pharmasy"
 }

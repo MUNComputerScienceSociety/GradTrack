@@ -1,6 +1,4 @@
 {
-    "name": "Law and Society",
-    "identifier": "LWSO",
     "courses": {
         "ARTS-6429": {
             "PR": "LWSO 1000 and at least 15 credit hours in courses applicable to the Law and Society major or minor", 
@@ -154,5 +152,7 @@
             "corequisites": [], 
             "courseNumber": "3012"
         }
-    }
+    }, 
+    "identifier": "LWSO", 
+    "name": "Law and Society"
 }

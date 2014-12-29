@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Four",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1282": {
             "PR": "ENGI 3934", 
@@ -276,5 +274,7 @@
             "CR": "the former ENGI 4913, the former ENGI 5961", 
             "courseNumber": "4961"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Four"
 }

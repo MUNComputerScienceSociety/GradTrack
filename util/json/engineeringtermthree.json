@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Three",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1259": {
             "PR": "Mathematics 1001 , Mathematics 2050 , ENGI 1040", 
@@ -205,5 +203,7 @@
             ], 
             "courseNumber": "3600"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Three"
 }

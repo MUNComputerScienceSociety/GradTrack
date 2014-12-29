@@ -1,6 +1,4 @@
 {
-    "name": "Mathematics and Statistics",
-    "identifier": "MATH",
     "courses": {
         "SCI-1375": {
             "PR": "MATH 2260 (or 3260 )", 
@@ -1086,5 +1084,7 @@
             "CR": "Physics 4220", 
             "courseNumber": "4130"
         }
-    }
+    }, 
+    "identifier": "MATH", 
+    "name": "Mathematics and Statistics"
 }

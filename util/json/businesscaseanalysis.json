@@ -1,6 +1,4 @@
 {
-    "name": "Business Case Analysis",
-    "identifier": "BUSI",
     "courses": {
         "BUSI-0421": {
             "PR": "approval of the Dean or delegate", 
@@ -12,5 +10,7 @@
             "corequisites": [], 
             "courseNumber": "450W"
         }
-    }
+    }, 
+    "identifier": "BUSI", 
+    "name": "Business Case Analysis"
 }

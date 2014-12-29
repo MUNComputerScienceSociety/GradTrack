@@ -1,6 +1,4 @@
 {
-    "name": "Religious Studies",
-    "identifier": "RELS",
     "courses": {
         "ARTS-6729": {
             "courseDescription": "explores the historical development of the principal doctrines of Christianity from the period of the Early Church to the Middle Ages. Topics will include the doctrine of the Trinity, the doctrine of the Person of Christ, the nature of the Church, the doctrine of the sacraments, and early and medieval speculation on the nature of Heaven and Hell.", 
@@ -770,5 +768,7 @@
             "corequisites": [], 
             "courseNumber": "2810"
         }
-    }
+    }, 
+    "identifier": "RELS", 
+    "name": "Religious Studies"
 }

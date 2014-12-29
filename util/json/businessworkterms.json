@@ -1,6 +1,4 @@
 {
-    "name": "Business Work Terms",
-    "identifier": "BUSI",
     "courses": {
         "BUSI-0414": {
             "courseDescription": "follows the successful completion of Academic Term 5. Students should have sufficient academic grounding and work experience to contribute in a positive manner to the management and problem-solving processes needed and practiced in the workplace. Students should become better acquainted with their discipline of study, should observe and appreciate the attitudes, responsibilities, and ethics normally expected of business managers and should exercise greater independence and responsibility in their assigned work.", 
@@ -26,5 +24,7 @@
             "corequisites": [], 
             "courseNumber": "399W"
         }
-    }
+    }, 
+    "identifier": "BUSI", 
+    "name": "Business Work Terms"
 }

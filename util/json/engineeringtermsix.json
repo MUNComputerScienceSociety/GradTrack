@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Six",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1309": {
             "PR": "ENGI 5706", 
@@ -357,5 +355,7 @@
             "corequisites": [], 
             "courseNumber": "6101"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Six"
 }

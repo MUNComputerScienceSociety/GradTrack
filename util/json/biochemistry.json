@@ -1,6 +1,4 @@
 {
-    "name": "Biochemistry",
-    "identifier": "BIOC",
     "courses": {
         "SCI-2747": {
             "PR": "BIOC 2100 or Biology 2250 ; BIOC 3106 ; and one of BIOC 3203 or the former BIOC 3200", 
@@ -471,5 +469,7 @@
             "corequisites": [], 
             "courseNumber": "3202"
         }
-    }
+    }, 
+    "identifier": "BIOC", 
+    "name": "Biochemistry"
 }

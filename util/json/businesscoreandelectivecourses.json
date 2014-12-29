@@ -1,6 +1,4 @@
 {
-    "name": "Business Core and Elective Courses",
-    "identifier": "BUSI",
     "courses": {
         "BUSI-0346": {
             "PR": "BUSI 1101 , BUSI 1600 , and BUSI 2210", 
@@ -1130,5 +1128,7 @@
             "corequisites": [], 
             "courseNumber": "6230"
         }
-    }
+    }, 
+    "identifier": "BUSI", 
+    "name": "Business Core and Elective Courses"
 }

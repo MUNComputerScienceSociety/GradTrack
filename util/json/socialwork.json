@@ -1,6 +1,4 @@
 {
-    "name": "Social Work",
-    "identifier": "SCWK",
     "courses": {
         "SCWK-0309": {
             "courseDescription": "- inactive course", 
@@ -429,5 +427,7 @@
             "CR": "the former SCWK 4610, 5610 and 5613", 
             "courseNumber": "4620"
         }
-    }
+    }, 
+    "identifier": "SCWK", 
+    "name": "Social Work"
 }

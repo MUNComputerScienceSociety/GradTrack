@@ -1,6 +1,4 @@
 {
-    "name": "Chemistry",
-    "identifier": "CHEM",
     "courses": {
         "SCI-2745": {
             "PR": "CHEM 2302 (or the former CHEM 3301) and Mathematics 2260 or ( 3260 ). Due to the requirement of Mathematics 2260 , students wishing to take this course should plan ahead.", 
@@ -547,5 +545,7 @@
             "UL": "may not be used for credit by Chemistry or Biochemistry Majors and is not a prerequisite for any other Chemistry course.", 
             "courseNumber": "2440"
         }
-    }
+    }, 
+    "identifier": "CHEM", 
+    "name": "Chemistry"
 }

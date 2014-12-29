@@ -1,6 +1,4 @@
 {
-    "name": "Science",
-    "identifier": "SCI",
     "courses": {
         "SCI-2570": {
             "courseDescription": "(formerly Science 115B) is an introduction to some concepts in the Physical and Life Sciences. This course is primarily intended for the non-science major (Bachelor of Arts; Bachelor of Education (Primary/Elementary)).", 
@@ -56,5 +54,7 @@
             "UL": "may be repeated for credit once", 
             "courseNumber": "5998"
         }
-    }
+    }, 
+    "identifier": "SCI", 
+    "name": "Science"
 }

@@ -1,6 +1,4 @@
 {
-    "name": "Medicine Courses for Non-Medical Students",
-    "identifier": "MED",
     "courses": {
         "MED-0404": {
             "PR": "Medicine 310A/B or Biochemistry 311A/B , or Pharmacy 2002 / 2003 or the former Pharmacy 3201/3202.", 
@@ -42,5 +40,7 @@
             "CR": "Biochemistry 311A/B and Medicine 310A/B", 
             "courseNumber": "310A"
         }
-    }
+    }, 
+    "identifier": "MED", 
+    "name": "Medicine Courses for Non-Medical Students"
 }

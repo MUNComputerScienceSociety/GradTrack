@@ -1,6 +1,4 @@
 {
-    "name": "Engineering One",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1250": {
             "PR": "Level III Physics or Physics 1051 (which may be taken concurrently) and Mathematics 1000 (which may be taken concurrently).", 
@@ -56,5 +54,7 @@
             "courseNumber": "1010", 
             "OR": "tutorial 1 hour per week"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering One"
 }

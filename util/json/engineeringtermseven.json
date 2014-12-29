@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Seven",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1329": {
             "PR": "ENGI 3901 , ENGI 6933", 
@@ -515,5 +513,7 @@
             "corequisites": [], 
             "courseNumber": "7814"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Seven"
 }

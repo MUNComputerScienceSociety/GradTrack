@@ -1,6 +1,4 @@
 {
-    "name": "English",
-    "identifier": "ENGL",
     "courses": {
         "ARTS-8134": {
             "courseDescription": "- inactive course.", 
@@ -1438,5 +1436,7 @@
             "corequisites": [], 
             "courseNumber": "4080"
         }
-    }
+    }, 
+    "identifier": "ENGL", 
+    "name": "English"
 }

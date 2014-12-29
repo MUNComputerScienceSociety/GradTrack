@@ -1,6 +1,4 @@
 {
-    "name": "Arts",
-    "identifier": "ARTS",
     "courses": {
         "ARTS-7312": {
             "PR": "restricted to students with fewer than eighteen credit hours", 
@@ -21,5 +19,7 @@
             "CR": "the former ARTS 1200", 
             "courseNumber": "1250"
         }
-    }
+    }, 
+    "identifier": "ARTS", 
+    "name": "Arts"
 }

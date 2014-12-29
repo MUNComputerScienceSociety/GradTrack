@@ -1,6 +1,4 @@
 {
-    "name": "Economics",
-    "identifier": "ECON",
     "courses": {
         "ARTS-5786": {
             "PR": "ECON 2550 , 3000 , 3010", 
@@ -536,5 +534,7 @@
             "corequisites": [], 
             "courseNumber": "399W"
         }
-    }
+    }, 
+    "identifier": "ECON", 
+    "name": "Economics"
 }

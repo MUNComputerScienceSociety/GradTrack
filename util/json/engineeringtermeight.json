@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Eight",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1592": {
             "PR": "ENGI 7623", 
@@ -551,5 +549,7 @@
             "CR": "the former ENGI 8936", 
             "courseNumber": "8926"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Eight"
 }

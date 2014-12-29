@@ -1,6 +1,4 @@
 {
-    "name": "Engineering Term Five",
-    "identifier": "ENGI",
     "courses": {
         "ENGI-1580": {
             "PR": "ENGI 4602", 
@@ -284,5 +282,7 @@
             "courseNumber": "5911", 
             "OR": "tutorial 1 hour per week"
         }
-    }
+    }, 
+    "identifier": "ENGI", 
+    "name": "Engineering Term Five"
 }

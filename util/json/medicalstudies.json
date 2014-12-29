@@ -1,6 +1,4 @@
 {
-    "name": "Medical Studies",
-    "identifier": "MED",
     "courses": {
         "MED-0766": {
             "courseDescription": "No description available.", 
@@ -267,5 +265,7 @@
             "corequisites": [], 
             "courseNumber": "8750"
         }
-    }
+    }, 
+    "identifier": "MED", 
+    "name": "Medical Studies"
 }
