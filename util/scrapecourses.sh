@@ -4,7 +4,7 @@ python scrape.py ANTH "Anthropology" http://www.mun.ca/regoff/calendar/sectionNo
 python scrape.py ARCH "Archaeology" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5543 > json/archaeology.json
 python scrape.py ARTS "Arts" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5641 > json/arts.json
 python scrape.py CLAS "Classics" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5649 > json/classics.json
-python scrape.py CMST "Communication Studies"http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5731 > json/communicationstudies.json
+python scrape.py CMST "Communication Studies" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5731 > json/communicationstudies.json
 python scrape.py ECON "Economics" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5756 > json/economics.json
 python scrape.py ENGL "English" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5821 > json/english.json
 python scrape.py ENSL "English as a Second Language" http://www.mun.ca/regoff/calendar/sectionNo\=ARTS-5998 > json/englishasasecondlanguage.json
