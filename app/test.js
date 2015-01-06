@@ -1,15 +1,17 @@
+var Mocha = require('mocha');
 var fs = require('fs');
+var path = require('path');
 var config = require('./config');
 
-fs.readdir(config.testsDir, function (err, files) {
-  if (err) {
-    console.log('Could not open tests directory.');
-  } else {
-    for (var i = 0, len = files.length; i < len; i++) {
-      if (files[i].substring(files[i].length - 3, files[i].length) === '.js') {
-        console.log('Running test function from ' + files[i]);
-        require(config.testsDir + '/' + files[i].substring(0, files[i].length - 3))();
-      }
-    }
-  }
+var mocha = new Mocha();
+fs.readdirSync(config.testsDir).filter(function (filename) {
+  return filename.substr(-3) === '.js';
+}).forEach(function (filename) {
+  mocha.addFile(path.join(config.testsDir, filename));
+});
+
+mocha.run(function (failures) {
+  process.on('exit', function () {
+    process.exit(failures);
+  });
 });
