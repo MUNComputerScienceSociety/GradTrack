@@ -17,17 +17,6 @@ function failure(err) {
   return {error: err, data: null};
 };
 
-function courseFromRow(row) {
-  return {  
-    id: row[0],
-    departmentID: row[1],
-    identifier: row[2],
-    title: row[3],
-    number: row[4],
-    description: row[5]
-  };
-}
-
 module.exports = function (db) {
   var getAllDepartments = function (req, res) {
     db.all(select.allDepartments, function (err, rows) {
