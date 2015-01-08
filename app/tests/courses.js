@@ -1,33 +1,50 @@
 var should = require('should');
 var request = require('superagent');
 
-describe('/departments', function () {
-  it('should fetch a list of all departments.', function () {
-    request.agent()
-      .get('/courses/departments')
+
+var baseURL = 'http://localhost:3000/';
+
+describe('courses/departments', function () {
+  var agent = request.agent();
+
+  it('should fetch a list of all departments.', function (done) {
+    agent
+      .get(baseURL + 'courses/departments')
       .set('Accept', 'application/json')
       .end(function (err, res) {
         should.not.exist(err);
-        should(res).have.property('length');
-        should(res.length).be.greaterThan(0);
-        should(res[0].length).be.equal(3);
+        res = JSON.parse(res.text);
+        should.not.exist(res.error);
+        res = res.data;
+        res.should.have.property('length');
+        res.length.should.be.greaterThan(0);
+        res[0].should.have.property('id');
+        res[0].should.have.property('name');
+        res[0].should.have.property('identifier');
+        done();
       });
   });
 });
 
-describe('/:id', function () {
-  it('should fetch a single course by its id', function () {
-    request.agent()
-      .get('/courses/0')
+describe('courses/:id', function () {
+  var agent = request.agent();
+
+  it('should fetch a single course by its id', function (done) {
+    agent
+      .get(baseURL + 'courses/1')
       .set('Accept', 'application/json')
       .end(function (err, res) {
         should.not.exist(err);
-        should(res).have.property('id');
-        should(res).have.property('departmentID');
-        should(res).have.property('identifier');
-        should(res).have.property('title');
-        should(res).have.property('number');
-        should(res).have.property('description');
+        res = JSON.parse(res.text);
+        should.not.exist(res.error);
+        res = res.data;
+        res.should.have.property('id');
+        res.should.have.property('department_id');
+        res.should.have.property('identifier');
+        res.should.have.property('title');
+        res.should.have.property('number');
+        res.should.have.property('description');
+        done();
       });
   });
 });
