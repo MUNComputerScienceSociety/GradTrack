@@ -3,7 +3,7 @@ var router = express.Router();
 
 var select = {
   allDepartments: 'select * from departments',
-  courseByID: 'select * from courses where id=? limit 1'
+  courseByID: 'select * from courses where id=?'
 };
 
 var insert = {
@@ -13,8 +13,8 @@ function success(data) {
   return {error: null, data: data};
 }
 
-function failure(error) {
-  return {error: error, data: null};
+function failure(err) {
+  return {error: err, data: null};
 };
 
 function courseFromRow(row) {
@@ -45,13 +45,21 @@ module.exports = function (db) {
 
   // Get a single course by its id.
   router.get('/:id', function (req, res) {
-    db.get(select.courseByID, function (err, row) {
-      if (err) {
-        res.send(failure(err));
-      } else {
-        res.send(success(courseFromRow(row)));
-      }
-    });
+    var id = parseInt(req.params.id);
+    if (isNaN(id)) {
+      res.send(failure(new Error('Invalid ID type supplied.')));
+    } else {
+      var statement = db.prepare(select.courseByID);
+      statement.get(id, function (err, row) {
+        if (err) {
+          res.send(failure(err));
+        } else if (typeof row === 'undefined' || !row) {
+          res.send(failure(new Error('No course with identifier ' + id + ' was found.')));
+        } else {
+          res.send(success(row));
+        }
+      });
+    }
   });
 
   return router;
