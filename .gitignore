@@ -29,3 +29,6 @@ node_modules
 
 # Bin file in express app
 app/bin
+
+# Vim swp files
+.swp
