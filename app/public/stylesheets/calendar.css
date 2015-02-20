@@ -1,0 +1,35 @@
+div.course-panel {
+  width: 200px;
+  height: 150px;
+  padding: 15px;
+}
+div.red {
+  background-color: #F44336;
+  color: white;
+}
+div.pink {
+  background-color: #E91E63;
+  color: white;
+}
+div.purple {
+  background-color: #9C27B0;
+  color: white;
+}
+div.blue {
+  background-color: #2196F3;
+  color: white;
+}
+div.teal {
+  background-color: #009688;
+  color: white;
+}
+div.green {
+  background-color: #4CAF50;
+  color: white;
+}
+div.yellow {
+  background-color: #FFEB3B;
+}
+div.orange {
+  background-color: #FF5722;
+}
